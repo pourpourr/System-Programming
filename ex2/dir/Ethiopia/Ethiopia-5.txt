@@ -1,0 +1,58 @@
+
+1057 Gbiw Rkpnibih Ethiopia 96 MEASLES NO 
+9724 Duhbpyrbd Qczhpbj Ethiopia 27 CHICKENPOX YES 14-12-2007
+5363 Juwzqbtan Foy Ethiopia 94 FLU NO 
+2730 Lnyrz Hdmwttsviz Ethiopia 108 HEPATITIS-B YES 20-8-2004
+4757 Cyustymj Uundekxzh Ethiopia 24 TETANUS YES 21-9-2010
+9376 Qfbfkvlfhte Eihotoucoxcs Ethiopia 112 TETANUS NO 
+5690 Yvz Xhj Ethiopia 69 POLIO NO 
+1057 Gbiw Rkpnibih Ethiopia 96 HEPATITIS-B NO 
+5845 Vwb Fvkkohtusueq Ethiopia 69 COVID-19 YES 25-9-2008
+4347 Lkd Cemwsvxga Ethiopia 103 HIB NO 
+2730 Lnyrz Hdmwttsviz Ethiopia 108 HEPATITIS-A NO 
+9724 Duhbpyrbd Qczhpbj Ethiopia 27 FLU NO 
+8088 Waybbczxlqi Hdzoabte Ethiopia 102 COVID-19 NO 
+908 Clyqokq Efme Ethiopia 66 HEPATITIS-B YES 3-12-2017
+4347 Lkd Cemwsvxga Ethiopia 103 RUBELLA YES 17-12-2016
+9376 Qfbfkvlfhte Eihotoucoxcs Ethiopia 112 RUBELLA NO 
+3505 Szrly Zfznzjzxfg Ethiopia 29 MEASLES NO 
+8622 Qphhtrlf Swhi Ethiopia 27 HEPATITIS-B YES 4-9-2005
+5363 Juwzqbtan Foy Ethiopia 94 HEPATITIS-A NO 
+5690 Yvz Xhj Ethiopia 69 RUBELLA YES 5-11-2015
+8545 Ptqcznn Kur Ethiopia 87 FLU YES 17-4-2020
+6001 Oijslznrhbnf Ntojy Ethiopia 92 COVID-19 YES 15-3-2013
+5690 Yvz Xhj Ethiopia 69 HEPATITIS-A YES 22-2-2015
+6256 Yutravw Scfp Ethiopia 10 HEPATITIS-B NO 
+4757 Cyustymj Uundekxzh Ethiopia 24 RUBELLA NO 
+4757 Cyustymj Uundekxzh Ethiopia 24 HIB YES 11-12-2007
+5690 Yvz Xhj Ethiopia 69 MEASLES YES 4-8-2004
+9376 Qfbfkvlfhte Eihotoucoxcs Ethiopia 112 HEPATITIS-A YES 28-12-2013
+2730 Lnyrz Hdmwttsviz Ethiopia 108 COVID-19 NO 
+4757 Cyustymj Uundekxzh Ethiopia 24 TETANUS NO 
+5845 Vwb Fvkkohtusueq Ethiopia 69 HEPATITIS-A YES 30-12-2014
+9376 Qfbfkvlfhte Eihotoucoxcs Ethiopia 112 COVID-19 YES 27-6-2019
+8622 Qphhtrlf Swhi Ethiopia 27 MEASLES NO 
+8545 Ptqcznn Kur Ethiopia 87 HEPATITIS-A NO 
+8088 Waybbczxlqi Hdzoabte Ethiopia 102 CHICKENPOX NO 
+5845 Vwb Fvkkohtusueq Ethiopia 69 CHICKENPOX YES 1-4-2008
+8703 Nlh Yfbvxhov Ethiopia 57 COVID-19 YES 15-1-2013
+4757 Cyustymj Uundekxzh Ethiopia 24 CHICKENPOX YES 15-10-2002
+5363 Juwzqbtan Foy Ethiopia 94 COVID-19 YES 20-12-2015
+6838 Qrp Djfwigynhaol Ethiopia 79 HEPATITIS-B YES 30-2-2003
+5845 Vwb Fvkkohtusueq Ethiopia 69 COVID-19 YES 1-7-2004
+2224 Tgpibtsau Hbxvhfxn Ethiopia 100 POLIO YES 21-6-2019
+3557 Oqvmzcqemiaq Iqarvnrzkvdm Ethiopia 8 FLU NO 
+4757 Cyustymj Uundekxzh Ethiopia 24 TETANUS NO 
+8622 Qphhtrlf Swhi Ethiopia 27 RUBELLA YES 24-10-2014
+4347 Lkd Cemwsvxga Ethiopia 103 TETANUS NO 
+6832 Itwkuz Ztks Ethiopia 50 HIB NO 
+8088 Waybbczxlqi Hdzoabte Ethiopia 102 HEPATITIS-B YES 5-7-2005
+4757 Cyustymj Uundekxzh Ethiopia 24 HEPATITIS-A NO 
+2644 Uhcbiuebpb Hgtufwqhinqa Ethiopia 39 RUBELLA YES 18-2-2020
+5845 Vwb Fvkkohtusueq Ethiopia 69 HEPATITIS-A YES 6-5-2005
+3505 Szrly Zfznzjzxfg Ethiopia 29 MEASLES YES 8-4-2008
+6256 Yutravw Scfp Ethiopia 10 POLIO NO 
+9092 Abk Atl Ethiopia 59 COVID-19 YES 20-11-2006
+9376 Qfbfkvlfhte Eihotoucoxcs Ethiopia 112 TETANUS NO 
+3505 Szrly Zfznzjzxfg Ethiopia 29 CHICKENPOX NO 
+5845 Vwb Fvkkohtusueq Ethiopia 69 RUBELLA NO 

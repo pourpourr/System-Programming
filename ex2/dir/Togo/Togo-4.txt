@@ -1,0 +1,66 @@
+
+9260 Fmyxzbkmc Lixlgv Togo 57 CHICKENPOX YES 16-3-2011
+4306 Obhgppvrfnq Wlutggqzytk Togo 96 MEASLES NO 
+420 Sfqqsreya Nvbiuze Togo 3 FLU NO 
+5384 Oljdco Hfolfeqge Togo 16 HEPATITIS-B YES 12-2-2008
+5384 Oljdco Hfolfeqge Togo 16 MEASLES YES 2-9-2008
+2555 Wpkdlbp Pvvyxuk Togo 94 COVID-19 YES 3-5-2011
+5384 Oljdco Hfolfeqge Togo 16 FLU YES 24-2-2016
+4598 Fhpvizkkscx Uueiksezfmlw Togo 117 HEPATITIS-B YES 7-5-2017
+3183 Ccponqncwq Xhbnyktecz Togo 15 HEPATITIS-B YES 15-1-2018
+6898 Hjqr Ukei Togo 13 POLIO YES 30-7-2012
+1265 Hwdbi Qnzdtarn Togo 4 COVID-19 NO 
+2555 Wpkdlbp Pvvyxuk Togo 94 CHICKENPOX NO 
+3519 Yvfxpqtnxcv Zzyjg Togo 85 HIB YES 17-8-2009
+4123 Jahhpjibbeja Rejz Togo 71 FLU YES 30-12-2000
+4598 Fhpvizkkscx Uueiksezfmlw Togo 117 MEASLES NO 
+9041 Dywrw Lbdldfqhyhg Togo 37 FLU NO 
+9041 Dywrw Lbdldfqhyhg Togo 37 CHICKENPOX NO 
+3301 Jgpz Jztgmsxel Togo 42 CHICKENPOX NO 
+3161 Jvvrqwifyvqg Qflbxjzjs Togo 15 HEPATITIS-B YES 4-11-2000
+3183 Ccponqncwq Xhbnyktecz Togo 15 RUBELLA NO 
+9041 Dywrw Lbdldfqhyhg Togo 37 FLU YES 24-8-2012
+2306 Cfwc Vktmswptv Togo 74 TETANUS YES 8-2-2007
+9144 Ykyynxml Wwqvlqu Togo 48 FLU NO 
+4306 Obhgppvrfnq Wlutggqzytk Togo 96 TETANUS NO 
+3676 Ocn Flgbcqi Togo 4 CHICKENPOX NO 
+2306 Cfwc Vktmswptv Togo 74 COVID-19 NO 
+9260 Fmyxzbkmc Lixlgv Togo 57 POLIO YES 30-12-2000
+5384 Oljdco Hfolfeqge Togo 16 MEASLES NO 
+3161 Jvvrqwifyvqg Qflbxjzjs Togo 15 HIB NO 
+2227 Lifqc Ooivtzotvwr Togo 64 FLU YES 4-11-2004
+6213 Oqilrmomrqv Xuubawduh Togo 99 COVID-19 YES 3-7-2020
+2578 Bjkdwhgq Vnopzd Togo 114 HIB NO 
+2444 Pnxvxkqfnp Mofyu Togo 110 COVID-19 NO 
+4123 Jahhpjibbeja Rejz Togo 71 HIB YES 26-4-2004
+4306 Obhgppvrfnq Wlutggqzytk Togo 96 MEASLES NO 
+3519 Yvfxpqtnxcv Zzyjg Togo 85 HEPATITIS-A NO 
+3676 Ocn Flgbcqi Togo 4 COVID-19 YES 11-12-2004
+2555 Wpkdlbp Pvvyxuk Togo 94 HIB YES 10-7-2008
+1984 Vwbne Sbugvq Togo 102 COVID-19 YES 5-3-2012
+8132 Adhjzgkv Iwbhxh Togo 114 TETANUS NO 
+6213 Oqilrmomrqv Xuubawduh Togo 99 HIB NO 
+3183 Ccponqncwq Xhbnyktecz Togo 15 MEASLES YES 15-11-2000
+3183 Ccponqncwq Xhbnyktecz Togo 15 CHICKENPOX NO 
+7449 Reiltpd Bpkm Togo 59 RUBELLA NO 
+6898 Hjqr Ukei Togo 13 FLU NO 
+2306 Cfwc Vktmswptv Togo 74 HEPATITIS-A NO 
+3985 Fip Bleswozrof Togo 6 FLU YES 21-11-2007
+3519 Yvfxpqtnxcv Zzyjg Togo 85 CHICKENPOX YES 8-4-2019
+1265 Hwdbi Qnzdtarn Togo 4 TETANUS NO 
+2555 Wpkdlbp Pvvyxuk Togo 94 RUBELLA NO 
+3985 Fip Bleswozrof Togo 6 HIB NO 
+3985 Fip Bleswozrof Togo 6 COVID-19 NO 
+3676 Ocn Flgbcqi Togo 4 FLU NO 
+420 Sfqqsreya Nvbiuze Togo 3 HEPATITIS-B YES 25-1-2018
+4878 Kzenmf Dmxgbctvjoa Togo 18 HEPATITIS-A NO 
+6898 Hjqr Ukei Togo 13 COVID-19 YES 2-5-2009
+4306 Obhgppvrfnq Wlutggqzytk Togo 96 FLU NO 
+3301 Jgpz Jztgmsxel Togo 42 HEPATITIS-B YES 22-1-2008
+2247 Vbydinvoe Nrtyl Togo 94 COVID-19 NO 
+3161 Jvvrqwifyvqg Qflbxjzjs Togo 15 HEPATITIS-B NO 
+4306 Obhgppvrfnq Wlutggqzytk Togo 96 HEPATITIS-B NO 
+3519 Yvfxpqtnxcv Zzyjg Togo 85 RUBELLA YES 7-11-2020
+9041 Dywrw Lbdldfqhyhg Togo 37 RUBELLA NO 
+9260 Fmyxzbkmc Lixlgv Togo 57 FLU NO 
+349 Bhs Qrwdmct Togo 53 FLU NO 

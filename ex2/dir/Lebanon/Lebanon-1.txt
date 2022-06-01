@@ -1,0 +1,52 @@
+
+7211 Nmmfdzdspq Tmwvtrmfhvw Lebanon 35 HEPATITIS-A NO 
+5143 Aosrbpk Oldqzuanu Lebanon 31 RUBELLA NO 
+7393 Ssgbydvvyzxy Vfu Lebanon 67 HEPATITIS-B NO 
+5143 Aosrbpk Oldqzuanu Lebanon 31 HEPATITIS-A YES 21-1-2014
+413 Qoy Rvuodisbdfij Lebanon 18 COVID-19 NO 
+8941 Rhfbqxxegrf Rjxxcedhrlma Lebanon 80 RUBELLA YES 18-12-2000
+8348 Hsjmjtlfe Fucnbf Lebanon 114 CHICKENPOX NO 
+4083 Qbbcx Qogey Lebanon 79 COVID-19 NO 
+8348 Hsjmjtlfe Fucnbf Lebanon 114 HIB YES 26-7-2014
+9727 Tfvnqdn Hbjlixhw Lebanon 96 COVID-19 NO 
+6010 Ksonul Ucoabhrw Lebanon 61 FLU YES 25-12-2017
+8 Teeavwl Ezrt Lebanon 100 POLIO YES 28-1-2013
+7211 Nmmfdzdspq Tmwvtrmfhvw Lebanon 35 FLU YES 9-3-2014
+9727 Tfvnqdn Hbjlixhw Lebanon 96 COVID-19 NO 
+2927 Kpijiqwgqyx Bqodk Lebanon 72 COVID-19 YES 14-9-2000
+5389 Qlinzsg Vixdeejl Lebanon 24 RUBELLA YES 12-7-2002
+8348 Hsjmjtlfe Fucnbf Lebanon 114 COVID-19 NO 
+2927 Kpijiqwgqyx Bqodk Lebanon 72 HEPATITIS-B YES 25-9-2003
+8 Teeavwl Ezrt Lebanon 100 RUBELLA YES 14-10-2008
+7722 Cofccdi Mepgmhqdo Lebanon 49 MEASLES YES 26-9-2017
+1451 Orxdjxfzryva Plijgr Lebanon 20 POLIO NO 
+6825 Ilmcvyasfua Fzjiw Lebanon 17 FLU YES 24-7-2008
+6825 Ilmcvyasfua Fzjiw Lebanon 17 HEPATITIS-B NO 
+7211 Nmmfdzdspq Tmwvtrmfhvw Lebanon 35 HIB YES 19-11-2002
+9805 Xuscpvuolh Uewbxnpj Lebanon 45 COVID-19 YES 9-4-2011
+6825 Ilmcvyasfua Fzjiw Lebanon 17 CHICKENPOX NO 
+6825 Ilmcvyasfua Fzjiw Lebanon 17 HIB YES 10-9-2019
+1951 Mod Shulfjebdm Lebanon 116 CHICKENPOX NO 
+9727 Tfvnqdn Hbjlixhw Lebanon 96 HEPATITIS-A YES 10-5-2020
+8 Teeavwl Ezrt Lebanon 100 RUBELLA NO 
+5028 Pvc Owxnsbhti Lebanon 89 HEPATITIS-A NO 
+9805 Xuscpvuolh Uewbxnpj Lebanon 45 HEPATITIS-B NO 
+7393 Ssgbydvvyzxy Vfu Lebanon 67 HIB YES 8-11-2009
+7722 Cofccdi Mepgmhqdo Lebanon 49 FLU YES 24-4-2007
+4083 Qbbcx Qogey Lebanon 79 HIB YES 19-1-2000
+5143 Aosrbpk Oldqzuanu Lebanon 31 FLU NO 
+8247 Hfobskhks Hwqtkoivwj Lebanon 95 HEPATITIS-B NO 
+4083 Qbbcx Qogey Lebanon 79 HIB NO 
+413 Qoy Rvuodisbdfij Lebanon 18 FLU NO 
+6010 Ksonul Ucoabhrw Lebanon 61 RUBELLA YES 29-8-2003
+7722 Cofccdi Mepgmhqdo Lebanon 49 HEPATITIS-B NO 
+1291 Pezo Bpqrkbknr Lebanon 47 CHICKENPOX NO 
+3456 Jhisll Tafzoyujenh Lebanon 80 CHICKENPOX YES 24-4-2012
+3456 Jhisll Tafzoyujenh Lebanon 80 COVID-19 YES 3-8-2006
+1291 Pezo Bpqrkbknr Lebanon 47 POLIO NO 
+1451 Orxdjxfzryva Plijgr Lebanon 20 COVID-19 NO 
+4083 Qbbcx Qogey Lebanon 79 POLIO YES 8-8-2009
+3456 Jhisll Tafzoyujenh Lebanon 80 COVID-19 YES 21-4-2000
+1451 Orxdjxfzryva Plijgr Lebanon 20 POLIO YES 7-9-2007
+9805 Xuscpvuolh Uewbxnpj Lebanon 45 CHICKENPOX YES 30-2-2013
+3456 Jhisll Tafzoyujenh Lebanon 80 TETANUS YES 30-12-2015

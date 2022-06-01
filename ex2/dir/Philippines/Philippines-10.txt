@@ -1,0 +1,61 @@
+
+2443 Bjsckjumqswk Ceha Philippines 31 HEPATITIS-B YES 12-2-2019
+2534 Uclr Rmjoqiem Philippines 103 COVID-19 YES 10-12-2000
+3692 Ijiybvcmo Zaukqrndc Philippines 16 COVID-19 NO 
+5761 Buzg Xatj Philippines 71 HIB YES 25-8-2011
+5761 Buzg Xatj Philippines 71 COVID-19 YES 13-11-2005
+2534 Uclr Rmjoqiem Philippines 103 HIB YES 10-2-2012
+8497 Ftg Wktwpaebfb Philippines 42 HEPATITIS-B NO 
+4115 Xvyoolh Zumb Philippines 86 MEASLES NO 
+3856 Lgpzsv Goaqilynxr Philippines 51 POLIO YES 20-6-2019
+5761 Buzg Xatj Philippines 71 HEPATITIS-A YES 11-10-2018
+893 Wxlnqw Npltka Philippines 98 POLIO NO 
+8024 Anyeb Xvdjad Philippines 78 MEASLES NO 
+6191 Hrormoly Hqoqapxt Philippines 8 HEPATITIS-A YES 13-7-2005
+5761 Buzg Xatj Philippines 71 CHICKENPOX YES 20-9-2004
+3692 Ijiybvcmo Zaukqrndc Philippines 16 HEPATITIS-A YES 21-5-2006
+4115 Xvyoolh Zumb Philippines 86 MEASLES NO 
+3856 Lgpzsv Goaqilynxr Philippines 51 HEPATITIS-B YES 21-11-2004
+5010 Fvfeiitn Nmffhpmgf Philippines 70 HIB NO 
+3856 Lgpzsv Goaqilynxr Philippines 51 MEASLES YES 26-3-2019
+5010 Fvfeiitn Nmffhpmgf Philippines 70 POLIO YES 12-2-2013
+3692 Ijiybvcmo Zaukqrndc Philippines 16 MEASLES YES 9-6-2018
+2023 Obso Bhqeofhis Philippines 105 FLU YES 12-6-2007
+981 Giityxwvu Jygpicbnw Philippines 91 HIB NO 
+2534 Uclr Rmjoqiem Philippines 103 HEPATITIS-A YES 20-10-2005
+5440 Ywgejmk Mgqtddfyr Philippines 72 RUBELLA NO 
+2197 Zfjusagdepjo Xzjwx Philippines 43 HEPATITIS-B YES 17-5-2005
+4295 Adxeej Ckcabmg Philippines 53 HEPATITIS-A NO 
+6513 Dgwurwpghrib Qenae Philippines 113 HIB NO 
+3692 Ijiybvcmo Zaukqrndc Philippines 16 COVID-19 NO 
+4115 Xvyoolh Zumb Philippines 86 COVID-19 YES 21-9-2007
+3692 Ijiybvcmo Zaukqrndc Philippines 16 CHICKENPOX YES 8-4-2005
+2197 Zfjusagdepjo Xzjwx Philippines 43 POLIO YES 7-10-2019
+2993 Iednn Xcevtxbscyr Philippines 76 HIB NO 
+7929 Car Ilsxyvmgnxva Philippines 55 RUBELLA NO 
+6810 Tqnwtq Aod Philippines 79 POLIO NO 
+5761 Buzg Xatj Philippines 71 CHICKENPOX NO 
+6810 Tqnwtq Aod Philippines 79 RUBELLA NO 
+5761 Buzg Xatj Philippines 71 TETANUS YES 20-2-2020
+3856 Lgpzsv Goaqilynxr Philippines 51 TETANUS YES 13-1-2008
+7929 Car Ilsxyvmgnxva Philippines 55 HEPATITIS-B YES 26-11-2018
+4295 Adxeej Ckcabmg Philippines 53 COVID-19 NO 
+893 Wxlnqw Npltka Philippines 98 FLU NO 
+5440 Ywgejmk Mgqtddfyr Philippines 72 FLU YES 26-3-2013
+893 Wxlnqw Npltka Philippines 98 MEASLES NO 
+2443 Bjsckjumqswk Ceha Philippines 31 TETANUS YES 23-2-2000
+4295 Adxeej Ckcabmg Philippines 53 CHICKENPOX NO 
+8497 Ftg Wktwpaebfb Philippines 42 HEPATITIS-B YES 18-10-2009
+3856 Lgpzsv Goaqilynxr Philippines 51 TETANUS NO 
+5761 Buzg Xatj Philippines 71 TETANUS YES 20-4-2013
+4115 Xvyoolh Zumb Philippines 86 POLIO NO 
+8497 Ftg Wktwpaebfb Philippines 42 CHICKENPOX YES 26-5-2019
+8503 Puzvcttz Mdryi Philippines 65 HIB YES 1-8-2001
+9094 Fkqoqfxaus Jbcbf Philippines 118 MEASLES YES 21-7-2007
+5440 Ywgejmk Mgqtddfyr Philippines 72 RUBELLA NO 
+2443 Bjsckjumqswk Ceha Philippines 31 HIB NO 
+3327 Yulsnhl Bcgjtbowf Philippines 17 MEASLES NO 
+8345 Myxamlajmca Gqwfjvsdzvdx Philippines 12 FLU NO 
+8497 Ftg Wktwpaebfb Philippines 42 CHICKENPOX YES 28-9-2000
+5440 Ywgejmk Mgqtddfyr Philippines 72 MEASLES YES 27-5-2003
+6810 Tqnwtq Aod Philippines 79 COVID-19 YES 5-12-2020

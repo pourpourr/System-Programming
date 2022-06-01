@@ -1,0 +1,47 @@
+
+7422 Ruwubohx Swmlsqnlde Somalia 50 HEPATITIS-A YES 3-2-2004
+9152 Azcd Lhpuw Somalia 35 FLU YES 10-5-2012
+8250 Fim Cousck Somalia 62 HEPATITIS-B NO 
+7711 Okxpc Vzpr Somalia 75 CHICKENPOX NO 
+3762 Cuvcxtxj Wlwyimsa Somalia 67 HEPATITIS-A YES 30-4-2002
+4572 Sba Kbz Somalia 58 HEPATITIS-B YES 23-12-2010
+6511 Zamesx Ylosmredy Somalia 87 RUBELLA YES 22-5-2018
+9152 Azcd Lhpuw Somalia 35 HEPATITIS-A YES 22-6-2007
+4342 Hxk Cdw Somalia 79 CHICKENPOX NO 
+6949 Zhhdcm Bperqodcj Somalia 77 POLIO NO 
+1195 Udenamjwftma Hrrrbb Somalia 106 CHICKENPOX YES 11-12-2003
+4342 Hxk Cdw Somalia 79 FLU NO 
+2144 Krgahdoryp Zqflqi Somalia 86 HEPATITIS-A NO 
+6763 Xchjyzla Vltqr Somalia 109 TETANUS NO 
+8870 Hkukfxmgs Aywtjntojre Somalia 98 HEPATITIS-A NO 
+6511 Zamesx Ylosmredy Somalia 87 MEASLES YES 25-2-2017
+2733 Ctvdyovtuv Fqofgdwwn Somalia 1 RUBELLA NO 
+8870 Hkukfxmgs Aywtjntojre Somalia 98 CHICKENPOX YES 27-7-2001
+8250 Fim Cousck Somalia 62 FLU NO 
+7422 Ruwubohx Swmlsqnlde Somalia 50 CHICKENPOX NO 
+582 Zkxkynkboz Mzzaofiyzsf Somalia 93 TETANUS YES 15-11-2001
+4519 Laofoeflkb Nijvovlazzp Somalia 27 TETANUS NO 
+2144 Krgahdoryp Zqflqi Somalia 86 TETANUS NO 
+6763 Xchjyzla Vltqr Somalia 109 COVID-19 YES 3-3-2005
+2293 Ryyazznf Snl Somalia 90 CHICKENPOX NO 
+7711 Okxpc Vzpr Somalia 75 HEPATITIS-A NO 
+2733 Ctvdyovtuv Fqofgdwwn Somalia 1 COVID-19 YES 30-3-2000
+6763 Xchjyzla Vltqr Somalia 109 CHICKENPOX NO 
+7422 Ruwubohx Swmlsqnlde Somalia 50 HIB NO 
+9152 Azcd Lhpuw Somalia 35 RUBELLA NO 
+6763 Xchjyzla Vltqr Somalia 109 RUBELLA NO 
+7422 Ruwubohx Swmlsqnlde Somalia 50 RUBELLA NO 
+754 Gbijnuaqgjd Yhgp Somalia 51 TETANUS NO 
+4342 Hxk Cdw Somalia 79 HIB YES 24-11-2020
+4519 Laofoeflkb Nijvovlazzp Somalia 27 MEASLES NO 
+4519 Laofoeflkb Nijvovlazzp Somalia 27 TETANUS NO 
+2848 Rthuij Ohvelya Somalia 63 HIB NO 
+2144 Krgahdoryp Zqflqi Somalia 86 FLU YES 18-2-2000
+6853 Ioetxu Heswoaztubl Somalia 59 HEPATITIS-B YES 20-3-2005
+1195 Udenamjwftma Hrrrbb Somalia 106 FLU YES 16-2-2019
+4667 Lci Waiirit Somalia 10 HEPATITIS-B NO 
+4342 Hxk Cdw Somalia 79 RUBELLA NO 
+2848 Rthuij Ohvelya Somalia 63 HEPATITIS-B NO 
+8250 Fim Cousck Somalia 62 POLIO NO 
+2144 Krgahdoryp Zqflqi Somalia 86 CHICKENPOX NO 
+8870 Hkukfxmgs Aywtjntojre Somalia 98 RUBELLA NO 

@@ -1,0 +1,49 @@
+
+7085 Dbh Ljogwnszazqj Kazakhstan 60 RUBELLA NO 
+9778 Hheckq Xdeycqdgso Kazakhstan 7 FLU YES 28-2-2004
+9871 Iyxauwc Ptqzpouzu Kazakhstan 52 MEASLES NO 
+608 Cbsy Pybh Kazakhstan 73 CHICKENPOX YES 27-11-2014
+7974 Jafmggqf Twjlm Kazakhstan 120 POLIO NO 
+8414 Kslmatahwvd Yjoploz Kazakhstan 47 HIB NO 
+8198 Qhepvx Yyxtoy Kazakhstan 76 HEPATITIS-A NO 
+9115 Ukctwqlnlur Jvugxuyal Kazakhstan 15 COVID-19 NO 
+2771 Bsrhtqsrd Fcuh Kazakhstan 97 CHICKENPOX YES 19-9-2008
+6671 Esysla Rottgbm Kazakhstan 75 RUBELLA NO 
+2769 Fcmyac Imjuyzmspk Kazakhstan 101 COVID-19 YES 24-12-2004
+9920 Ljeavx Skunxlvblabk Kazakhstan 69 TETANUS NO 
+219 Hnvmrse Ssyymplpsj Kazakhstan 110 HIB YES 30-11-2013
+2881 Nzo Feigf Kazakhstan 107 MEASLES YES 22-10-2007
+9920 Ljeavx Skunxlvblabk Kazakhstan 69 POLIO NO 
+8939 Ymdauwe Yjgf Kazakhstan 56 POLIO YES 26-5-2008
+9920 Ljeavx Skunxlvblabk Kazakhstan 69 CHICKENPOX YES 6-6-2010
+2967 Lkxs Wjv Kazakhstan 14 COVID-19 NO 
+7085 Dbh Ljogwnszazqj Kazakhstan 60 HIB YES 2-6-2004
+8939 Ymdauwe Yjgf Kazakhstan 56 CHICKENPOX NO 
+9920 Ljeavx Skunxlvblabk Kazakhstan 69 HEPATITIS-A YES 13-9-2008
+1087 Wsxwqbl Zds Kazakhstan 98 POLIO NO 
+9871 Iyxauwc Ptqzpouzu Kazakhstan 52 HEPATITIS-A YES 5-6-2017
+816 Pmclcxoxfl Wnslhczdmr Kazakhstan 30 FLU NO 
+219 Hnvmrse Ssyymplpsj Kazakhstan 110 HEPATITIS-B NO 
+7974 Jafmggqf Twjlm Kazakhstan 120 HIB NO 
+4590 Xblkpvyhtcgq Brfjxabnj Kazakhstan 58 HEPATITIS-B NO 
+219 Hnvmrse Ssyymplpsj Kazakhstan 110 POLIO NO 
+7974 Jafmggqf Twjlm Kazakhstan 120 POLIO YES 11-5-2003
+9871 Iyxauwc Ptqzpouzu Kazakhstan 52 HIB NO 
+4590 Xblkpvyhtcgq Brfjxabnj Kazakhstan 58 FLU NO 
+7754 Gqhp Jwhcxd Kazakhstan 28 POLIO YES 10-9-2018
+530 Fdjih Awxtz Kazakhstan 74 HIB YES 17-4-2000
+219 Hnvmrse Ssyymplpsj Kazakhstan 110 HEPATITIS-A NO 
+2967 Lkxs Wjv Kazakhstan 14 COVID-19 YES 24-6-2013
+219 Hnvmrse Ssyymplpsj Kazakhstan 110 TETANUS YES 12-10-2008
+4163 Tcznchouq Qbnhcbf Kazakhstan 101 TETANUS YES 3-10-2014
+2769 Fcmyac Imjuyzmspk Kazakhstan 101 HEPATITIS-A NO 
+9778 Hheckq Xdeycqdgso Kazakhstan 7 MEASLES YES 8-8-2020
+8411 Ovese Sqajduduurj Kazakhstan 105 MEASLES NO 
+7085 Dbh Ljogwnszazqj Kazakhstan 60 HEPATITIS-A YES 13-4-2001
+9871 Iyxauwc Ptqzpouzu Kazakhstan 52 POLIO NO 
+2771 Bsrhtqsrd Fcuh Kazakhstan 97 MEASLES YES 21-5-2004
+2771 Bsrhtqsrd Fcuh Kazakhstan 97 HEPATITIS-A NO 
+2881 Nzo Feigf Kazakhstan 107 MEASLES YES 12-1-2010
+9115 Ukctwqlnlur Jvugxuyal Kazakhstan 15 COVID-19 NO 
+8198 Qhepvx Yyxtoy Kazakhstan 76 RUBELLA NO 
+4590 Xblkpvyhtcgq Brfjxabnj Kazakhstan 58 POLIO NO 

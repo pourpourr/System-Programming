@@ -1,0 +1,35 @@
+
+6187 Nebzcmg Rutq United-Arab-Emirates 31 RUBELLA YES 27-12-2009
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 POLIO YES 26-5-2018
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 FLU NO 
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 FLU YES 1-11-2007
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 HIB YES 16-12-2011
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 RUBELLA NO 
+875 Tirvbm Bsgjn United-Arab-Emirates 67 HEPATITIS-B NO 
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 POLIO YES 26-4-2011
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 RUBELLA YES 24-9-2006
+1036 Oixgjort Iasnc United-Arab-Emirates 105 HIB YES 5-10-2019
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 POLIO YES 10-12-2010
+8868 Cir Cap United-Arab-Emirates 74 COVID-19 NO 
+5307 Fos Jzfcv United-Arab-Emirates 57 CHICKENPOX YES 15-12-2010
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 FLU NO 
+6187 Nebzcmg Rutq United-Arab-Emirates 31 HIB NO 
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 MEASLES NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 FLU YES 13-12-2011
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 COVID-19 NO 
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 TETANUS NO 
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 HEPATITIS-A YES 19-9-2006
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 TETANUS NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 FLU YES 14-2-2010
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 MEASLES NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 TETANUS NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 COVID-19 YES 30-9-2001
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 MEASLES NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 MEASLES YES 10-9-2001
+1036 Oixgjort Iasnc United-Arab-Emirates 105 MEASLES YES 12-11-2008
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 COVID-19 YES 24-3-2014
+1036 Oixgjort Iasnc United-Arab-Emirates 105 CHICKENPOX YES 21-7-2011
+1093 Zecr Qdcp United-Arab-Emirates 55 RUBELLA YES 27-4-2008
+875 Tirvbm Bsgjn United-Arab-Emirates 67 RUBELLA YES 13-4-2004
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 FLU YES 11-6-2011
+1093 Zecr Qdcp United-Arab-Emirates 55 POLIO NO 

@@ -1,0 +1,55 @@
+
+1521 Ekno Ypkss Sri-Lanka 109 POLIO NO 
+2115 Rbrnsy Hgjcjygobvot Sri-Lanka 31 CHICKENPOX YES 4-2-2016
+3492 Ebskfrr Soikrfhxd Sri-Lanka 58 RUBELLA YES 28-6-2019
+6720 Cwygxrda Pcip Sri-Lanka 5 HEPATITIS-B NO 
+9040 Rlcdpp Hwwdyljj Sri-Lanka 78 POLIO YES 6-8-2015
+9040 Rlcdpp Hwwdyljj Sri-Lanka 78 CHICKENPOX YES 21-8-2000
+1869 Mquhq Irb Sri-Lanka 114 HEPATITIS-B NO 
+8030 Psc Yfyoget Sri-Lanka 112 CHICKENPOX YES 17-2-2001
+3819 Xfildtyck Oymwepkiq Sri-Lanka 4 POLIO NO 
+9633 Jbgvbahvxewb Knh Sri-Lanka 35 COVID-19 NO 
+8030 Psc Yfyoget Sri-Lanka 112 POLIO NO 
+3492 Ebskfrr Soikrfhxd Sri-Lanka 58 HEPATITIS-B YES 16-2-2000
+1063 Agdd Imgvg Sri-Lanka 40 COVID-19 NO 
+9040 Rlcdpp Hwwdyljj Sri-Lanka 78 POLIO NO 
+1063 Agdd Imgvg Sri-Lanka 40 CHICKENPOX YES 6-2-2018
+3200 Bwxwlttui Sbezvihct Sri-Lanka 6 HIB YES 23-8-2000
+6720 Cwygxrda Pcip Sri-Lanka 5 HEPATITIS-A NO 
+3492 Ebskfrr Soikrfhxd Sri-Lanka 58 HIB YES 18-11-2011
+9955 Yopj Ovnqwoonmyqi Sri-Lanka 95 MEASLES NO 
+3198 Bikwqioiuof Pjfi Sri-Lanka 104 FLU YES 23-6-2018
+1091 Wopepngm Wyfabbaepw Sri-Lanka 47 HEPATITIS-A NO 
+8385 Zjdksfxsgysr Zcmkusvm Sri-Lanka 90 HEPATITIS-B YES 2-7-2008
+8793 Bcbbzbboo Yafdyhozg Sri-Lanka 89 TETANUS NO 
+8385 Zjdksfxsgysr Zcmkusvm Sri-Lanka 90 FLU YES 22-6-2003
+1869 Mquhq Irb Sri-Lanka 114 HIB YES 28-12-2012
+4846 Zzoso Jpbnudclrhi Sri-Lanka 33 HIB YES 13-11-2008
+1063 Agdd Imgvg Sri-Lanka 40 MEASLES NO 
+8525 Vvynkh Ixhjupwxiqur Sri-Lanka 5 MEASLES YES 27-8-2011
+8790 Adcragx Spgez Sri-Lanka 89 CHICKENPOX YES 27-9-2005
+8793 Bcbbzbboo Yafdyhozg Sri-Lanka 89 HEPATITIS-A NO 
+9661 Fsbfelci Agmdfj Sri-Lanka 28 MEASLES NO 
+6728 Hnmlojuhwu Rhjztkfx Sri-Lanka 7 MEASLES YES 22-5-2003
+6728 Hnmlojuhwu Rhjztkfx Sri-Lanka 7 HEPATITIS-B YES 26-9-2002
+2115 Rbrnsy Hgjcjygobvot Sri-Lanka 31 CHICKENPOX NO 
+4766 Bft Rtp Sri-Lanka 6 HEPATITIS-B NO 
+9783 Lfcvuhetykqs Eyvb Sri-Lanka 4 HEPATITIS-A NO 
+1521 Ekno Ypkss Sri-Lanka 109 COVID-19 NO 
+3198 Bikwqioiuof Pjfi Sri-Lanka 104 MEASLES YES 4-9-2002
+6728 Hnmlojuhwu Rhjztkfx Sri-Lanka 7 HEPATITIS-A NO 
+4766 Bft Rtp Sri-Lanka 6 POLIO NO 
+1578 Qjtbd Tuprpznd Sri-Lanka 84 FLU YES 26-4-2006
+6728 Hnmlojuhwu Rhjztkfx Sri-Lanka 7 RUBELLA YES 6-7-2017
+6728 Hnmlojuhwu Rhjztkfx Sri-Lanka 7 FLU YES 12-2-2002
+1869 Mquhq Irb Sri-Lanka 114 HEPATITIS-A NO 
+8030 Psc Yfyoget Sri-Lanka 112 HEPATITIS-A YES 15-10-2002
+1869 Mquhq Irb Sri-Lanka 114 POLIO YES 3-8-2005
+9955 Yopj Ovnqwoonmyqi Sri-Lanka 95 HEPATITIS-B YES 21-2-2020
+8790 Adcragx Spgez Sri-Lanka 89 CHICKENPOX NO 
+4846 Zzoso Jpbnudclrhi Sri-Lanka 33 HEPATITIS-A YES 23-7-2003
+8793 Bcbbzbboo Yafdyhozg Sri-Lanka 89 TETANUS NO 
+9661 Fsbfelci Agmdfj Sri-Lanka 28 FLU NO 
+9040 Rlcdpp Hwwdyljj Sri-Lanka 78 CHICKENPOX YES 11-3-2009
+8793 Bcbbzbboo Yafdyhozg Sri-Lanka 89 MEASLES YES 18-4-2012
+1091 Wopepngm Wyfabbaepw Sri-Lanka 47 HIB YES 21-10-2006

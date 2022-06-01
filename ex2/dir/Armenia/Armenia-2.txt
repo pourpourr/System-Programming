@@ -1,0 +1,40 @@
+
+278 Xcl Fpbpymcr Armenia 66 MEASLES YES 16-8-2000
+362 Pthois Pnoluvvsnoww Armenia 107 COVID-19 NO 
+278 Xcl Fpbpymcr Armenia 66 HIB YES 21-4-2000
+5229 Mibw Vhppdtrl Armenia 81 CHICKENPOX NO 
+2785 Zglqxttel Kjgz Armenia 56 RUBELLA YES 30-4-2014
+9668 Jsjpmiogps Knqrulotjdsm Armenia 15 TETANUS YES 11-5-2020
+9426 Wfbio Jpusxbpca Armenia 113 TETANUS NO 
+5229 Mibw Vhppdtrl Armenia 81 RUBELLA YES 28-6-2009
+1401 Meurk Jfottwjb Armenia 41 COVID-19 YES 3-10-2008
+3399 Pssqix Dvylb Armenia 66 HIB NO 
+2785 Zglqxttel Kjgz Armenia 56 POLIO NO 
+8634 Lqwzy Mmswwtfiojis Armenia 36 COVID-19 YES 9-10-2007
+4586 Skhcqbahxyn Ixebth Armenia 79 POLIO YES 11-5-2012
+2785 Zglqxttel Kjgz Armenia 56 TETANUS YES 17-8-2008
+4111 Hxqjlbjhwwqm Yrw Armenia 31 FLU NO 
+4435 Hdkbfunniqxi Vzelxcjuenn Armenia 19 CHICKENPOX YES 16-9-2019
+8634 Lqwzy Mmswwtfiojis Armenia 36 TETANUS YES 29-11-2010
+4435 Hdkbfunniqxi Vzelxcjuenn Armenia 19 FLU YES 16-9-2003
+3399 Pssqix Dvylb Armenia 66 RUBELLA NO 
+4111 Hxqjlbjhwwqm Yrw Armenia 31 POLIO NO 
+688 Ltmtagwop Ocbcrslhjw Armenia 99 HEPATITIS-A NO 
+2078 Lvxkkja Wuxqvvtyyyaj Armenia 25 MEASLES YES 27-2-2013
+1371 Paz Xiosnzrohui Armenia 78 RUBELLA YES 23-10-2014
+2223 Lgtbvte Wcfiqxxq Armenia 7 HEPATITIS-B NO 
+4111 Hxqjlbjhwwqm Yrw Armenia 31 HIB NO 
+2078 Lvxkkja Wuxqvvtyyyaj Armenia 25 HEPATITIS-B YES 10-12-2020
+8731 Udhn Auuadtzv Armenia 34 COVID-19 NO 
+2785 Zglqxttel Kjgz Armenia 56 RUBELLA YES 26-10-2003
+2785 Zglqxttel Kjgz Armenia 56 MEASLES NO 
+278 Xcl Fpbpymcr Armenia 66 CHICKENPOX YES 23-9-2015
+9426 Wfbio Jpusxbpca Armenia 113 HEPATITIS-B NO 
+1401 Meurk Jfottwjb Armenia 41 POLIO YES 2-3-2017
+3399 Pssqix Dvylb Armenia 66 HEPATITIS-A YES 14-5-2000
+362 Pthois Pnoluvvsnoww Armenia 107 COVID-19 NO 
+2785 Zglqxttel Kjgz Armenia 56 TETANUS NO 
+1401 Meurk Jfottwjb Armenia 41 MEASLES YES 30-11-2015
+5229 Mibw Vhppdtrl Armenia 81 HEPATITIS-B NO 
+4586 Skhcqbahxyn Ixebth Armenia 79 TETANUS YES 4-11-2014
+4586 Skhcqbahxyn Ixebth Armenia 79 RUBELLA NO 

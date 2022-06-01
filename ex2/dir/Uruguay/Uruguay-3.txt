@@ -1,0 +1,41 @@
+
+2114 Rga Zwti Uruguay 74 CHICKENPOX NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 MEASLES YES 2-10-2012
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 HEPATITIS-B YES 10-9-2020
+3491 Ravxxikmsmdt Msldv Uruguay 65 HEPATITIS-B NO 
+3653 Soimcuajtefn Yvvpwenc Uruguay 49 HEPATITIS-A YES 14-7-2007
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 MEASLES NO 
+7646 Pqtpyjup Yhprj Uruguay 118 POLIO NO 
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 HEPATITIS-B NO 
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 HEPATITIS-A NO 
+603 Fdonyj Kmrqfdwomqz Uruguay 26 RUBELLA NO 
+603 Fdonyj Kmrqfdwomqz Uruguay 26 POLIO YES 6-8-2002
+2114 Rga Zwti Uruguay 74 HEPATITIS-B YES 23-11-2006
+8752 Qffx Zvpzjrrgu Uruguay 27 HIB NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 POLIO YES 12-12-2008
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 FLU YES 3-3-2004
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 COVID-19 YES 6-7-2007
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 TETANUS YES 6-12-2005
+7646 Pqtpyjup Yhprj Uruguay 118 HEPATITIS-A YES 14-7-2003
+9411 Lsehukzqs Ppwvb Uruguay 49 MEASLES NO 
+4093 Uofy Gceey Uruguay 6 HIB YES 23-2-2000
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 HIB NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 COVID-19 NO 
+8752 Qffx Zvpzjrrgu Uruguay 27 MEASLES NO 
+9411 Lsehukzqs Ppwvb Uruguay 49 HEPATITIS-B YES 24-1-2002
+7646 Pqtpyjup Yhprj Uruguay 118 HIB YES 10-9-2020
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 POLIO YES 21-2-2004
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 HIB NO 
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 COVID-19 YES 12-2-2014
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 CHICKENPOX NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 MEASLES NO 
+603 Fdonyj Kmrqfdwomqz Uruguay 26 TETANUS YES 14-1-2006
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 TETANUS NO 
+4972 Enztjim Sksjkgf Uruguay 67 TETANUS NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 FLU YES 12-10-2020
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 HIB YES 15-4-2014
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 FLU NO 
+2114 Rga Zwti Uruguay 74 FLU YES 28-5-2017
+2114 Rga Zwti Uruguay 74 RUBELLA YES 29-9-2000
+3491 Ravxxikmsmdt Msldv Uruguay 65 RUBELLA NO 
+4093 Uofy Gceey Uruguay 6 HIB NO 

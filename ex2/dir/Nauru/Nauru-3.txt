@@ -1,0 +1,46 @@
+
+2717 Psa Gpqznjdvmnv Nauru 80 HEPATITIS-A NO 
+8861 Trjttldoacye Mlf Nauru 85 HEPATITIS-A NO 
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 TETANUS NO 
+5247 Summe Bwqufqsbq Nauru 20 POLIO NO 
+4374 Xyszj Xzugqynqa Nauru 96 CHICKENPOX NO 
+463 Cgg Rxnrqccqka Nauru 73 MEASLES YES 25-3-2019
+1189 Ienxhrbkqvr Vjy Nauru 95 TETANUS YES 10-3-2015
+5247 Summe Bwqufqsbq Nauru 20 POLIO NO 
+8476 Bakpxp Asynpdwcckia Nauru 48 RUBELLA YES 11-2-2014
+4374 Xyszj Xzugqynqa Nauru 96 TETANUS NO 
+8861 Trjttldoacye Mlf Nauru 85 FLU YES 1-1-2002
+4374 Xyszj Xzugqynqa Nauru 96 HEPATITIS-B NO 
+924 Unsl Vkqoauojip Nauru 23 HEPATITIS-B YES 26-11-2005
+2770 Xhfzhbktho Vkvjnwr Nauru 47 HIB NO 
+2770 Xhfzhbktho Vkvjnwr Nauru 47 FLU NO 
+6093 Ejwm Ztpqt Nauru 28 TETANUS NO 
+1813 Raqnlz Adae Nauru 26 COVID-19 NO 
+1249 Bdrirjstdszq Rvpeknczyw Nauru 88 POLIO NO 
+1813 Raqnlz Adae Nauru 26 HEPATITIS-B NO 
+2479 Ttaadttssm Abjutvbzbvd Nauru 61 COVID-19 NO 
+541 Rwu Pghitp Nauru 6 FLU YES 20-2-2005
+5856 Xerns Mlfjjksy Nauru 92 POLIO YES 23-10-2009
+924 Unsl Vkqoauojip Nauru 23 COVID-19 NO 
+2479 Ttaadttssm Abjutvbzbvd Nauru 61 POLIO YES 27-2-2020
+463 Cgg Rxnrqccqka Nauru 73 FLU NO 
+2717 Psa Gpqznjdvmnv Nauru 80 HEPATITIS-B YES 24-8-2008
+8861 Trjttldoacye Mlf Nauru 85 POLIO NO 
+7925 Skwxecwn Xvhqpprnd Nauru 77 HEPATITIS-A NO 
+4374 Xyszj Xzugqynqa Nauru 96 HIB YES 21-12-2018
+1192 Ecdjipd Kkmhq Nauru 49 HIB NO 
+9303 Cglyoaqc Dased Nauru 37 TETANUS NO 
+1813 Raqnlz Adae Nauru 26 RUBELLA YES 5-11-2012
+9303 Cglyoaqc Dased Nauru 37 COVID-19 NO 
+4188 Qiheu Rsfluqmknj Nauru 97 MEASLES YES 13-5-2020
+6420 Ppmppgvrjl Skw Nauru 34 CHICKENPOX YES 2-2-2012
+924 Unsl Vkqoauojip Nauru 23 TETANUS YES 19-11-2011
+5856 Xerns Mlfjjksy Nauru 92 CHICKENPOX NO 
+9303 Cglyoaqc Dased Nauru 37 HEPATITIS-A YES 12-4-2003
+1813 Raqnlz Adae Nauru 26 HEPATITIS-B NO 
+1813 Raqnlz Adae Nauru 26 FLU NO 
+1865 Mzfjwch Wmgzwvsix Nauru 22 FLU YES 26-8-2018
+5856 Xerns Mlfjjksy Nauru 92 HEPATITIS-B YES 26-1-2012
+541 Rwu Pghitp Nauru 6 RUBELLA YES 25-6-2015
+4188 Qiheu Rsfluqmknj Nauru 97 CHICKENPOX YES 10-1-2000
+1192 Ecdjipd Kkmhq Nauru 49 COVID-19 NO 

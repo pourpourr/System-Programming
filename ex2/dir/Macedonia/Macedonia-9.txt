@@ -1,0 +1,64 @@
+
+3029 Bcwzrnxsidb Xxdirntiwggc Macedonia 114 HEPATITIS-A NO 
+1845 Nna Udb Macedonia 28 FLU YES 4-2-2008
+7770 Daxdl Afbyxpcyqn Macedonia 46 FLU YES 28-9-2011
+1887 Ibwfxh Zmnzemgvus Macedonia 96 POLIO YES 14-12-2011
+3999 Dhng Ihgjjch Macedonia 37 POLIO NO 
+1845 Nna Udb Macedonia 28 MEASLES YES 15-11-2012
+1164 Hrlqmojldsnh Nnmstbajmwk Macedonia 64 POLIO NO 
+6317 Rksvpjtpbr Awagiev Macedonia 62 HIB YES 11-7-2010
+5646 Rfxenyxkvzfs Zqftrmdj Macedonia 114 POLIO YES 11-11-2013
+7661 Cldr Mpehualgbkx Macedonia 26 HEPATITIS-A YES 19-7-2018
+6275 Somdfkyvorz Ttywbwu Macedonia 59 TETANUS YES 5-8-2013
+7972 Zarttencuue Psrvfixcpwv Macedonia 23 HEPATITIS-B NO 
+1164 Hrlqmojldsnh Nnmstbajmwk Macedonia 64 CHICKENPOX NO 
+5319 Ukz Emiqmreofw Macedonia 28 FLU YES 29-5-2007
+799 Cebymef Xqr Macedonia 88 FLU YES 21-10-2018
+799 Cebymef Xqr Macedonia 88 RUBELLA NO 
+7972 Zarttencuue Psrvfixcpwv Macedonia 23 RUBELLA NO 
+5319 Ukz Emiqmreofw Macedonia 28 COVID-19 YES 24-7-2000
+5319 Ukz Emiqmreofw Macedonia 28 RUBELLA NO 
+258 Vini Zrdxr Macedonia 37 POLIO YES 20-4-2014
+560 Gcixapv Vsgccyi Macedonia 64 POLIO YES 5-6-2000
+7972 Zarttencuue Psrvfixcpwv Macedonia 23 HEPATITIS-B NO 
+438 Uozcjxcoco Qqqomoalm Macedonia 84 RUBELLA NO 
+3029 Bcwzrnxsidb Xxdirntiwggc Macedonia 114 HEPATITIS-A YES 1-1-2017
+258 Vini Zrdxr Macedonia 37 COVID-19 YES 1-1-2004
+7808 Vzu Aqagpc Macedonia 18 CHICKENPOX YES 2-4-2010
+7496 Plbhodl Drennzcwvxay Macedonia 53 MEASLES YES 29-4-2008
+438 Uozcjxcoco Qqqomoalm Macedonia 84 COVID-19 NO 
+586 Pisiwu Dgeeqpzwp Macedonia 2 MEASLES NO 
+258 Vini Zrdxr Macedonia 37 MEASLES YES 27-7-2007
+5319 Ukz Emiqmreofw Macedonia 28 HIB YES 27-2-2006
+3999 Dhng Ihgjjch Macedonia 37 TETANUS YES 11-6-2020
+4615 Lzxuzsktced Zojltyqxsl Macedonia 113 HEPATITIS-B YES 4-7-2003
+3999 Dhng Ihgjjch Macedonia 37 POLIO NO 
+560 Gcixapv Vsgccyi Macedonia 64 CHICKENPOX NO 
+1845 Nna Udb Macedonia 28 TETANUS NO 
+6317 Rksvpjtpbr Awagiev Macedonia 62 TETANUS YES 6-6-2009
+7496 Plbhodl Drennzcwvxay Macedonia 53 TETANUS NO 
+7808 Vzu Aqagpc Macedonia 18 HEPATITIS-A YES 30-10-2014
+3999 Dhng Ihgjjch Macedonia 37 FLU NO 
+1845 Nna Udb Macedonia 28 POLIO NO 
+7496 Plbhodl Drennzcwvxay Macedonia 53 TETANUS YES 4-12-2016
+3999 Dhng Ihgjjch Macedonia 37 COVID-19 YES 6-1-2016
+7808 Vzu Aqagpc Macedonia 18 TETANUS NO 
+4615 Lzxuzsktced Zojltyqxsl Macedonia 113 HIB NO 
+1319 Ihwhe Ddqjiay Macedonia 86 RUBELLA NO 
+586 Pisiwu Dgeeqpzwp Macedonia 2 CHICKENPOX YES 4-3-2016
+1887 Ibwfxh Zmnzemgvus Macedonia 96 MEASLES YES 8-11-2015
+7661 Cldr Mpehualgbkx Macedonia 26 COVID-19 YES 20-5-2012
+586 Pisiwu Dgeeqpzwp Macedonia 2 MEASLES YES 4-10-2007
+1319 Ihwhe Ddqjiay Macedonia 86 FLU YES 27-6-2000
+6275 Somdfkyvorz Ttywbwu Macedonia 59 FLU YES 11-3-2002
+6275 Somdfkyvorz Ttywbwu Macedonia 59 RUBELLA NO 
+3999 Dhng Ihgjjch Macedonia 37 HEPATITIS-B NO 
+3029 Bcwzrnxsidb Xxdirntiwggc Macedonia 114 HIB YES 24-11-2002
+1714 Dqykpre Wgb Macedonia 118 TETANUS NO 
+3999 Dhng Ihgjjch Macedonia 37 MEASLES NO 
+5319 Ukz Emiqmreofw Macedonia 28 HEPATITIS-B YES 15-5-2017
+5319 Ukz Emiqmreofw Macedonia 28 TETANUS NO 
+7496 Plbhodl Drennzcwvxay Macedonia 53 RUBELLA NO 
+6275 Somdfkyvorz Ttywbwu Macedonia 59 COVID-19 NO 
+7661 Cldr Mpehualgbkx Macedonia 26 MEASLES YES 20-7-2008
+7661 Cldr Mpehualgbkx Macedonia 26 POLIO NO 

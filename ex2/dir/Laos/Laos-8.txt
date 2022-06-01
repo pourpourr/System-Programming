@@ -1,0 +1,36 @@
+
+1156 Bkfn Fmlpoqibcec Laos 115 CHICKENPOX NO 
+4950 Plxcxjtfsz Iaspqjreqobc Laos 74 POLIO YES 7-1-2013
+9643 Amtzmfg Bubotzas Laos 81 HEPATITIS-A YES 8-5-2013
+9643 Amtzmfg Bubotzas Laos 81 POLIO YES 24-7-2008
+6126 Zlf Oztqeuygiwo Laos 61 HEPATITIS-A NO 
+1250 Ssm Ysal Laos 90 POLIO YES 1-11-2016
+1250 Ssm Ysal Laos 90 POLIO YES 30-4-2010
+5491 Wegvwmtfp Gcvp Laos 65 TETANUS YES 17-8-2004
+1250 Ssm Ysal Laos 90 POLIO YES 30-2-2000
+6126 Zlf Oztqeuygiwo Laos 61 FLU NO 
+8017 Zyeq Dzea Laos 50 TETANUS YES 19-11-2005
+6126 Zlf Oztqeuygiwo Laos 61 MEASLES NO 
+1764 Ymofzirt Delrusywn Laos 35 HIB YES 19-3-2002
+6126 Zlf Oztqeuygiwo Laos 61 TETANUS NO 
+874 Eketdqwt Dnlfegtlfp Laos 72 RUBELLA YES 16-8-2000
+4950 Plxcxjtfsz Iaspqjreqobc Laos 74 MEASLES YES 8-12-2009
+7281 Xlfjrxw Xdakaeaitad Laos 105 POLIO YES 18-3-2020
+5491 Wegvwmtfp Gcvp Laos 65 RUBELLA YES 16-2-2005
+4186 Arfwsxdeoen Yirukrbh Laos 44 COVID-19 NO 
+874 Eketdqwt Dnlfegtlfp Laos 72 RUBELLA NO 
+920 Toyxymvtvrn Lmtbupuoboq Laos 112 POLIO YES 15-2-2012
+920 Toyxymvtvrn Lmtbupuoboq Laos 112 HEPATITIS-B NO 
+4950 Plxcxjtfsz Iaspqjreqobc Laos 74 FLU NO 
+1764 Ymofzirt Delrusywn Laos 35 TETANUS NO 
+4950 Plxcxjtfsz Iaspqjreqobc Laos 74 COVID-19 YES 7-7-2007
+2521 Vrpxvpclim Qikplpjxyb Laos 119 CHICKENPOX NO 
+4950 Plxcxjtfsz Iaspqjreqobc Laos 74 MEASLES NO 
+3609 Ximilzmzejg Bctrqqmrgejk Laos 117 FLU NO 
+1764 Ymofzirt Delrusywn Laos 35 HEPATITIS-B NO 
+1008 Gnwncdyfxcc Dpvcaswq Laos 13 HEPATITIS-A NO 
+5491 Wegvwmtfp Gcvp Laos 65 HIB YES 10-11-2002
+2521 Vrpxvpclim Qikplpjxyb Laos 119 HEPATITIS-B YES 27-3-2003
+1156 Bkfn Fmlpoqibcec Laos 115 HEPATITIS-B YES 25-4-2000
+920 Toyxymvtvrn Lmtbupuoboq Laos 112 MEASLES NO 
+920 Toyxymvtvrn Lmtbupuoboq Laos 112 FLU NO 

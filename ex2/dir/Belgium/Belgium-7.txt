@@ -1,0 +1,44 @@
+
+5431 Wkrbrzwpnz Kedsmitxqrdi Belgium 112 HEPATITIS-B YES 3-10-2002
+3237 Tuugxco Uaddckyod Belgium 32 MEASLES NO 
+5635 Kqbaobhingve Kzuweztvrrkz Belgium 104 POLIO NO 
+3133 Uzlkc Vbvjtsq Belgium 7 RUBELLA NO 
+5431 Wkrbrzwpnz Kedsmitxqrdi Belgium 112 POLIO YES 12-11-2015
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 HEPATITIS-A YES 25-5-2006
+5635 Kqbaobhingve Kzuweztvrrkz Belgium 104 MEASLES NO 
+5857 Uolkrusjg Tgdddcwhahas Belgium 100 HEPATITIS-B NO 
+5635 Kqbaobhingve Kzuweztvrrkz Belgium 104 POLIO YES 24-12-2000
+7611 Nuoy Twdidxfhdnly Belgium 15 HEPATITIS-B YES 27-1-2006
+3543 Yok Lyhenl Belgium 55 COVID-19 YES 8-5-2003
+3441 Incwqwohyv Owfgbxp Belgium 92 MEASLES NO 
+6052 Xwua Geyenhi Belgium 73 MEASLES YES 8-12-2020
+1459 Wmdfvk Oepppqyql Belgium 58 HEPATITIS-A YES 6-9-2020
+4584 Vlj Oiz Belgium 26 CHICKENPOX YES 3-2-2005
+8987 Vxvtfow Cslzcow Belgium 25 CHICKENPOX YES 14-10-2004
+952 Zdv Eexablgib Belgium 105 FLU YES 19-4-2007
+3441 Incwqwohyv Owfgbxp Belgium 92 POLIO YES 16-7-2013
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 COVID-19 YES 23-8-2001
+4584 Vlj Oiz Belgium 26 FLU NO 
+4584 Vlj Oiz Belgium 26 POLIO YES 9-8-2013
+3237 Tuugxco Uaddckyod Belgium 32 TETANUS YES 6-3-2016
+952 Zdv Eexablgib Belgium 105 HIB NO 
+7418 Yxykyjicn Uwdczsqe Belgium 56 COVID-19 NO 
+1619 Pcexlktrw Hziqtyjc Belgium 86 RUBELLA YES 24-4-2014
+5857 Uolkrusjg Tgdddcwhahas Belgium 100 FLU YES 11-11-2004
+7611 Nuoy Twdidxfhdnly Belgium 15 TETANUS YES 21-4-2019
+5635 Kqbaobhingve Kzuweztvrrkz Belgium 104 HEPATITIS-B YES 26-8-2005
+3441 Incwqwohyv Owfgbxp Belgium 92 MEASLES YES 6-7-2017
+952 Zdv Eexablgib Belgium 105 CHICKENPOX YES 22-11-2006
+8987 Vxvtfow Cslzcow Belgium 25 COVID-19 NO 
+6052 Xwua Geyenhi Belgium 73 HEPATITIS-A YES 27-2-2012
+3133 Uzlkc Vbvjtsq Belgium 7 POLIO YES 29-3-2010
+4831 Xlpd Hloo Belgium 57 MEASLES NO 
+4725 Zajzwenl Qbbpfh Belgium 45 CHICKENPOX NO 
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 COVID-19 NO 
+952 Zdv Eexablgib Belgium 105 HEPATITIS-B YES 10-4-2002
+4725 Zajzwenl Qbbpfh Belgium 45 RUBELLA NO 
+1619 Pcexlktrw Hziqtyjc Belgium 86 POLIO NO 
+3237 Tuugxco Uaddckyod Belgium 32 MEASLES NO 
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 FLU YES 17-3-2017
+3237 Tuugxco Uaddckyod Belgium 32 TETANUS NO 
+7611 Nuoy Twdidxfhdnly Belgium 15 RUBELLA YES 4-7-2005

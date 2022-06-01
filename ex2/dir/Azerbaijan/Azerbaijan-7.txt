@@ -1,0 +1,31 @@
+
+3501 Hiuzcojy Ntjdvgkhemnt Azerbaijan 82 CHICKENPOX YES 6-8-2001
+8824 Yjf Vmefr Azerbaijan 75 MEASLES NO 
+8891 Heesrys Hmnq Azerbaijan 104 POLIO YES 12-8-2018
+3501 Hiuzcojy Ntjdvgkhemnt Azerbaijan 82 RUBELLA NO 
+4051 Hzjxdvr Achf Azerbaijan 86 TETANUS YES 11-6-2011
+3608 Pxx Qrcvpf Azerbaijan 93 HEPATITIS-A NO 
+6091 Fysabhwdeod Zcfatsdsvhi Azerbaijan 16 HEPATITIS-A YES 27-1-2015
+823 Gtsgzpjevqln Garpccdfdsni Azerbaijan 45 COVID-19 NO 
+1911 Zbzeouh Cfoamejxmk Azerbaijan 77 HIB NO 
+9594 Izjcqfbdg Lqzwwoxtmct Azerbaijan 100 RUBELLA YES 20-4-2019
+1911 Zbzeouh Cfoamejxmk Azerbaijan 77 HEPATITIS-B NO 
+8824 Yjf Vmefr Azerbaijan 75 HEPATITIS-B YES 1-1-2016
+2745 Kztoyhkaxfw Yplspkv Azerbaijan 87 COVID-19 YES 20-6-2013
+4430 Rnf Vju Azerbaijan 87 RUBELLA NO 
+4051 Hzjxdvr Achf Azerbaijan 86 HEPATITIS-B NO 
+2745 Kztoyhkaxfw Yplspkv Azerbaijan 87 RUBELLA NO 
+1911 Zbzeouh Cfoamejxmk Azerbaijan 77 RUBELLA YES 3-9-2015
+3442 Bzdlqr Nwqkuuibln Azerbaijan 83 HEPATITIS-B NO 
+8891 Heesrys Hmnq Azerbaijan 104 MEASLES NO 
+3501 Hiuzcojy Ntjdvgkhemnt Azerbaijan 82 TETANUS NO 
+3501 Hiuzcojy Ntjdvgkhemnt Azerbaijan 82 HEPATITIS-A YES 5-10-2006
+8643 Mjkkyfw Eyrdvq Azerbaijan 85 TETANUS YES 14-2-2000
+823 Gtsgzpjevqln Garpccdfdsni Azerbaijan 45 MEASLES YES 25-7-2013
+2745 Kztoyhkaxfw Yplspkv Azerbaijan 87 HIB YES 25-3-2002
+2745 Kztoyhkaxfw Yplspkv Azerbaijan 87 MEASLES NO 
+3501 Hiuzcojy Ntjdvgkhemnt Azerbaijan 82 RUBELLA NO 
+4677 Brjc Vusul Azerbaijan 17 RUBELLA YES 29-9-2007
+8824 Yjf Vmefr Azerbaijan 75 COVID-19 YES 1-1-2007
+8891 Heesrys Hmnq Azerbaijan 104 CHICKENPOX YES 27-6-2001
+3501 Hiuzcojy Ntjdvgkhemnt Azerbaijan 82 POLIO NO 

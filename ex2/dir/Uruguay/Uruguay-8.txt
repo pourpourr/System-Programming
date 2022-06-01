@@ -1,0 +1,41 @@
+
+7646 Pqtpyjup Yhprj Uruguay 118 HEPATITIS-A NO 
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 HEPATITIS-A YES 15-12-2005
+4972 Enztjim Sksjkgf Uruguay 67 RUBELLA YES 16-10-2007
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 RUBELLA YES 26-5-2014
+3491 Ravxxikmsmdt Msldv Uruguay 65 CHICKENPOX YES 4-6-2016
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 RUBELLA YES 17-8-2009
+7414 Ydyln Hmysmxbmabq Uruguay 112 HEPATITIS-B YES 22-4-2017
+7646 Pqtpyjup Yhprj Uruguay 118 POLIO YES 7-7-2009
+3491 Ravxxikmsmdt Msldv Uruguay 65 MEASLES YES 5-10-2010
+9411 Lsehukzqs Ppwvb Uruguay 49 MEASLES NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 RUBELLA YES 7-9-2004
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 FLU NO 
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 CHICKENPOX NO 
+5613 Aja Nozapmlrtvjf Uruguay 17 HIB NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 COVID-19 NO 
+7646 Pqtpyjup Yhprj Uruguay 118 MEASLES YES 17-3-2016
+2753 Fwydoys Llizqct Uruguay 41 HEPATITIS-B NO 
+2753 Fwydoys Llizqct Uruguay 41 HEPATITIS-B YES 30-5-2016
+7646 Pqtpyjup Yhprj Uruguay 118 RUBELLA YES 17-8-2004
+5613 Aja Nozapmlrtvjf Uruguay 17 MEASLES NO 
+3491 Ravxxikmsmdt Msldv Uruguay 65 FLU NO 
+2753 Fwydoys Llizqct Uruguay 41 HEPATITIS-B YES 21-7-2006
+3653 Soimcuajtefn Yvvpwenc Uruguay 49 CHICKENPOX NO 
+3491 Ravxxikmsmdt Msldv Uruguay 65 CHICKENPOX YES 26-9-2008
+2114 Rga Zwti Uruguay 74 HEPATITIS-A YES 8-1-2018
+2114 Rga Zwti Uruguay 74 COVID-19 YES 22-10-2014
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 HIB YES 30-6-2016
+9411 Lsehukzqs Ppwvb Uruguay 49 COVID-19 NO 
+9411 Lsehukzqs Ppwvb Uruguay 49 MEASLES NO 
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 FLU NO 
+3154 Tvlvtc Lnhq Uruguay 116 CHICKENPOX YES 21-10-2004
+3154 Tvlvtc Lnhq Uruguay 116 COVID-19 NO 
+2114 Rga Zwti Uruguay 74 RUBELLA NO 
+2114 Rga Zwti Uruguay 74 RUBELLA NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 CHICKENPOX NO 
+7646 Pqtpyjup Yhprj Uruguay 118 HEPATITIS-A YES 29-1-2005
+8752 Qffx Zvpzjrrgu Uruguay 27 MEASLES YES 28-10-2001
+2753 Fwydoys Llizqct Uruguay 41 RUBELLA NO 
+4972 Enztjim Sksjkgf Uruguay 67 HEPATITIS-B NO 
+5613 Aja Nozapmlrtvjf Uruguay 17 TETANUS YES 10-8-2014

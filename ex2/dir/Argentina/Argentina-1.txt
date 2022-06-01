@@ -1,0 +1,61 @@
+
+1824 Nbrplca Mwenndviuyh Argentina 63 RUBELLA YES 12-4-2005
+5240 Eindjxhxr Dyyqa Argentina 83 CHICKENPOX NO 
+2590 Evrvucvwx Mbkk Argentina 32 HEPATITIS-A YES 22-12-2005
+9715 Ejfb Ctzkkivnai Argentina 32 COVID-19 YES 30-11-2007
+2590 Evrvucvwx Mbkk Argentina 32 RUBELLA NO 
+9844 Kbo Kdr Argentina 88 HIB NO 
+9715 Ejfb Ctzkkivnai Argentina 32 POLIO YES 12-6-2019
+4569 Adhohkfdbmf Jszsmfh Argentina 23 HIB NO 
+6557 Jildoylsvcr Qidvxmpsst Argentina 104 RUBELLA NO 
+8496 Qjte Xwtkpz Argentina 107 TETANUS NO 
+6557 Jildoylsvcr Qidvxmpsst Argentina 104 FLU NO 
+745 Zli Suhoblkyzml Argentina 24 MEASLES YES 15-1-2005
+2500 Brxxkihzjo Ghyhphqpih Argentina 40 FLU NO 
+5561 Qlcbflp Zelukppgkbn Argentina 116 RUBELLA NO 
+6557 Jildoylsvcr Qidvxmpsst Argentina 104 TETANUS NO 
+5240 Eindjxhxr Dyyqa Argentina 83 TETANUS YES 10-4-2017
+6557 Jildoylsvcr Qidvxmpsst Argentina 104 FLU YES 13-8-2005
+3561 Xtgqujpwrf Fixhbeale Argentina 102 FLU YES 21-5-2015
+2884 Dengk Ius Argentina 47 HIB NO 
+745 Zli Suhoblkyzml Argentina 24 CHICKENPOX NO 
+4569 Adhohkfdbmf Jszsmfh Argentina 23 HEPATITIS-B YES 9-8-2007
+9844 Kbo Kdr Argentina 88 HEPATITIS-B NO 
+8457 Tdh Zmelovao Argentina 56 FLU NO 
+2500 Brxxkihzjo Ghyhphqpih Argentina 40 MEASLES NO 
+9946 Ynlboc Dlp Argentina 34 CHICKENPOX NO 
+4464 Ywxhxamomgu Otprmelociwi Argentina 19 COVID-19 YES 25-3-2005
+2500 Brxxkihzjo Ghyhphqpih Argentina 40 CHICKENPOX NO 
+241 Obvbsbkgtdn Fdptbkvrnnu Argentina 70 HIB YES 22-1-2015
+4641 Mrwkuskpbrfe Cnlcgqdmvv Argentina 71 POLIO YES 23-1-2000
+1824 Nbrplca Mwenndviuyh Argentina 63 RUBELLA NO 
+9844 Kbo Kdr Argentina 88 MEASLES YES 9-3-2009
+8457 Tdh Zmelovao Argentina 56 FLU NO 
+6506 Ljvkwvgn Qvvzwa Argentina 48 TETANUS NO 
+4130 Xbyqnqmzyy Oyszrpxgvl Argentina 100 POLIO NO 
+9946 Ynlboc Dlp Argentina 34 HEPATITIS-B YES 9-8-2014
+4464 Ywxhxamomgu Otprmelociwi Argentina 19 RUBELLA NO 
+8457 Tdh Zmelovao Argentina 56 POLIO NO 
+8152 Khfgrhjth Ayhoz Argentina 11 COVID-19 YES 21-8-2016
+3561 Xtgqujpwrf Fixhbeale Argentina 102 FLU NO 
+4641 Mrwkuskpbrfe Cnlcgqdmvv Argentina 71 MEASLES YES 2-3-2001
+8496 Qjte Xwtkpz Argentina 107 HEPATITIS-A YES 24-8-2015
+9715 Ejfb Ctzkkivnai Argentina 32 RUBELLA NO 
+5240 Eindjxhxr Dyyqa Argentina 83 TETANUS NO 
+4569 Adhohkfdbmf Jszsmfh Argentina 23 HEPATITIS-B YES 14-2-2002
+4464 Ywxhxamomgu Otprmelociwi Argentina 19 COVID-19 YES 23-3-2008
+6506 Ljvkwvgn Qvvzwa Argentina 48 HEPATITIS-B NO 
+5240 Eindjxhxr Dyyqa Argentina 83 POLIO NO 
+6557 Jildoylsvcr Qidvxmpsst Argentina 104 FLU NO 
+1824 Nbrplca Mwenndviuyh Argentina 63 CHICKENPOX YES 13-8-2008
+745 Zli Suhoblkyzml Argentina 24 HEPATITIS-A NO 
+6506 Ljvkwvgn Qvvzwa Argentina 48 MEASLES NO 
+553 Lmsbz Kafkoz Argentina 37 HEPATITIS-B YES 18-8-2011
+8496 Qjte Xwtkpz Argentina 107 RUBELLA NO 
+9715 Ejfb Ctzkkivnai Argentina 32 FLU NO 
+4569 Adhohkfdbmf Jszsmfh Argentina 23 POLIO YES 5-8-2017
+1824 Nbrplca Mwenndviuyh Argentina 63 RUBELLA NO 
+1784 Bicctfwsbah Vpqxjndcgmgm Argentina 74 TETANUS NO 
+8457 Tdh Zmelovao Argentina 56 COVID-19 YES 12-5-2014
+4286 Fcikemgrb Rnbl Argentina 40 FLU YES 4-3-2018
+1784 Bicctfwsbah Vpqxjndcgmgm Argentina 74 COVID-19 NO 

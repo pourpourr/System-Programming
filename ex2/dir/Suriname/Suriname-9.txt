@@ -1,0 +1,60 @@
+
+4073 Qzqyiut Ddvn Suriname 120 CHICKENPOX YES 22-3-2013
+2853 Pcfvaz Ckztl Suriname 116 CHICKENPOX NO 
+3703 Zyztlbnxlug Skwsumnw Suriname 108 TETANUS YES 29-7-2014
+269 Xdurzofgzg Sglzivx Suriname 64 MEASLES YES 18-7-2014
+3703 Zyztlbnxlug Skwsumnw Suriname 108 HEPATITIS-B NO 
+274 Breprk Zcjzssksu Suriname 77 HIB NO 
+9424 Zwjbhdgjzcz Sjtno Suriname 11 TETANUS YES 10-4-2018
+2304 Uzko Rzplywyuz Suriname 83 RUBELLA NO 
+9808 Puclday Shjciykyuu Suriname 23 COVID-19 NO 
+5473 Mhbtegotq Lxkj Suriname 35 HEPATITIS-B YES 30-7-2006
+2853 Pcfvaz Ckztl Suriname 116 RUBELLA NO 
+3703 Zyztlbnxlug Skwsumnw Suriname 108 CHICKENPOX YES 29-6-2012
+6704 Kukrjmpir Ijipsvnjecdp Suriname 74 HEPATITIS-A YES 19-4-2006
+2877 Vuhgbgkewp Xgjqxgwmeu Suriname 3 COVID-19 YES 22-12-2018
+2716 Ginweqzsboj Pftlvgy Suriname 84 RUBELLA YES 8-9-2006
+2877 Vuhgbgkewp Xgjqxgwmeu Suriname 3 HEPATITIS-B YES 4-3-2012
+6704 Kukrjmpir Ijipsvnjecdp Suriname 74 RUBELLA NO 
+4549 Lilvbfz Esmjbeisng Suriname 30 FLU YES 19-11-2016
+8282 Otxksb Sbabtsccv Suriname 9 CHICKENPOX NO 
+9808 Puclday Shjciykyuu Suriname 23 CHICKENPOX NO 
+6398 Uymomcxhgf Ealrvpouwb Suriname 12 HEPATITIS-A YES 5-1-2012
+269 Xdurzofgzg Sglzivx Suriname 64 TETANUS YES 14-1-2009
+4549 Lilvbfz Esmjbeisng Suriname 30 COVID-19 NO 
+5790 Yqselzwejg Qpzshvnrn Suriname 66 HEPATITIS-A YES 23-10-2007
+9101 Zfyawf Uqmnavp Suriname 23 MEASLES YES 24-11-2008
+3703 Zyztlbnxlug Skwsumnw Suriname 108 TETANUS YES 17-3-2005
+7410 Xhf Xyvsgo Suriname 82 FLU NO 
+4073 Qzqyiut Ddvn Suriname 120 HEPATITIS-A NO 
+8600 Qusnqvg Klfbrrb Suriname 54 TETANUS YES 21-4-2009
+274 Breprk Zcjzssksu Suriname 77 TETANUS NO 
+2304 Uzko Rzplywyuz Suriname 83 MEASLES YES 5-2-2005
+9808 Puclday Shjciykyuu Suriname 23 MEASLES NO 
+6398 Uymomcxhgf Ealrvpouwb Suriname 12 COVID-19 YES 3-2-2007
+5473 Mhbtegotq Lxkj Suriname 35 HEPATITIS-A NO 
+7410 Xhf Xyvsgo Suriname 82 RUBELLA NO 
+5790 Yqselzwejg Qpzshvnrn Suriname 66 TETANUS NO 
+5473 Mhbtegotq Lxkj Suriname 35 COVID-19 YES 3-10-2014
+2877 Vuhgbgkewp Xgjqxgwmeu Suriname 3 COVID-19 YES 8-10-2010
+8282 Otxksb Sbabtsccv Suriname 9 HEPATITIS-B YES 4-4-2017
+9938 Flwn Hscaea Suriname 33 HEPATITIS-A NO 
+2716 Ginweqzsboj Pftlvgy Suriname 84 CHICKENPOX NO 
+2716 Ginweqzsboj Pftlvgy Suriname 84 CHICKENPOX YES 29-2-2001
+8278 Xgqsldyorv Horxhjmpwjnn Suriname 101 COVID-19 YES 29-10-2007
+9808 Puclday Shjciykyuu Suriname 23 RUBELLA NO 
+269 Xdurzofgzg Sglzivx Suriname 64 HEPATITIS-B NO 
+4073 Qzqyiut Ddvn Suriname 120 CHICKENPOX YES 18-12-2011
+4073 Qzqyiut Ddvn Suriname 120 POLIO NO 
+7410 Xhf Xyvsgo Suriname 82 POLIO YES 2-1-2019
+4073 Qzqyiut Ddvn Suriname 120 TETANUS NO 
+2877 Vuhgbgkewp Xgjqxgwmeu Suriname 3 CHICKENPOX YES 23-7-2007
+4549 Lilvbfz Esmjbeisng Suriname 30 POLIO YES 11-6-2004
+9424 Zwjbhdgjzcz Sjtno Suriname 11 POLIO YES 29-2-2011
+7410 Xhf Xyvsgo Suriname 82 RUBELLA NO 
+2040 Qsfxogl Hbfdxiweljdn Suriname 22 HEPATITIS-B YES 28-7-2017
+5277 Ytdstcxvptl Jue Suriname 100 RUBELLA YES 26-12-2008
+3803 Mouqpuapf Uivf Suriname 102 COVID-19 YES 16-9-2003
+2716 Ginweqzsboj Pftlvgy Suriname 84 MEASLES NO 
+2149 Nnfqb Ncelbybzk Suriname 80 HEPATITIS-A NO 
+3803 Mouqpuapf Uivf Suriname 102 HEPATITIS-A NO 

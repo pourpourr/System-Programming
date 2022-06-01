@@ -1,0 +1,11 @@
+
+9030 Afylzifg Aegrmlieth Afghanistan 69 POLIO NO 
+222 Duxitamaf Rlagyvll Afghanistan 118 POLIO YES 30-6-2011
+9030 Afylzifg Aegrmlieth Afghanistan 69 POLIO3 YES 5-5-2007
+6476 Ufpavwnwwvx Ognqciflrab Afghanistan 61 MEASLES NO 
+2669 Tavsmuqhn Pvzfs Afghanistan 78 HIB YES 21-8-2001
+6522 Ewqpptpyaefm Pnzxnns Afghanistan 76 COVID-19 NO 
+4205 Xwuhidnnyd Rdmghfnxho Afghanistan 120 MEASLES YES 25-7-2010
+1175 Lvjctla Eilpe Afghanistan 98 HEPATITIS-B NO 
+6522 Ewqpptpyaefm Pnzxnns Afghanistan 76 HEPATITIS-A YES 14-3-2008
+2669 Tavsmuqhn Pvzfs Afghanistan 78 HEPATITIS-B YES 3-10-2000

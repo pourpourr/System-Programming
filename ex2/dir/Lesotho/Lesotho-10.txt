@@ -1,0 +1,37 @@
+
+1179 Mjbzymz Uceffag Lesotho 106 HIB NO 
+6131 Wvo Hhwagozolrc Lesotho 65 TETANUS YES 30-6-2010
+3976 Eeijsh Flhujfzoyys Lesotho 74 TETANUS YES 26-5-2006
+9111 Ayv Uuafrcirmoc Lesotho 110 FLU YES 24-1-2000
+7200 Lppgsitqwxnf Xwzik Lesotho 10 HEPATITIS-B YES 10-1-2020
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 HEPATITIS-B NO 
+7121 Aaryoydn Ihvqdr Lesotho 71 POLIO NO 
+9111 Ayv Uuafrcirmoc Lesotho 110 HEPATITIS-A NO 
+9117 Vzchwn Chhjaiutrjnq Lesotho 63 HEPATITIS-B YES 16-2-2012
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 HIB YES 8-4-2008
+6131 Wvo Hhwagozolrc Lesotho 65 TETANUS YES 29-9-2004
+4563 Mthdlkl Qimgsmfy Lesotho 27 FLU YES 25-12-2006
+7200 Lppgsitqwxnf Xwzik Lesotho 10 TETANUS YES 23-8-2019
+7200 Lppgsitqwxnf Xwzik Lesotho 10 CHICKENPOX YES 17-4-2016
+7914 Wqywanxc Zymqiqjynl Lesotho 12 TETANUS YES 4-2-2017
+6532 Ribtufomwgs Roxwcd Lesotho 119 RUBELLA YES 26-5-2002
+205 Dgroglf Tbstwjktkjin Lesotho 111 TETANUS NO 
+1054 Qkkzdawrn Fvxrzxxkcyv Lesotho 7 RUBELLA NO 
+9111 Ayv Uuafrcirmoc Lesotho 110 HEPATITIS-A YES 30-6-2007
+9432 Doofpowsldq Ldhyapjzx Lesotho 60 RUBELLA YES 1-2-2020
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 COVID-19 NO 
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 POLIO NO 
+5056 Kwrqfyfvtv Nrkiceri Lesotho 73 HIB NO 
+6532 Ribtufomwgs Roxwcd Lesotho 119 RUBELLA YES 30-11-2018
+9111 Ayv Uuafrcirmoc Lesotho 110 HIB YES 12-11-2011
+813 Nzwmfqyrlr Ckjcimtmvnm Lesotho 21 MEASLES YES 3-10-2007
+2055 Kvbxlnvjgduo Hrnoagwcbry Lesotho 57 RUBELLA NO 
+1054 Qkkzdawrn Fvxrzxxkcyv Lesotho 7 COVID-19 YES 19-6-2005
+357 Tpzuupklbtt Ogseky Lesotho 104 MEASLES NO 
+205 Dgroglf Tbstwjktkjin Lesotho 111 FLU YES 24-10-2009
+7121 Aaryoydn Ihvqdr Lesotho 71 FLU NO 
+205 Dgroglf Tbstwjktkjin Lesotho 111 HEPATITIS-B YES 15-10-2019
+7914 Wqywanxc Zymqiqjynl Lesotho 12 HEPATITIS-A NO 
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 COVID-19 YES 20-3-2002
+3976 Eeijsh Flhujfzoyys Lesotho 74 HEPATITIS-A NO 
+6532 Ribtufomwgs Roxwcd Lesotho 119 FLU NO 

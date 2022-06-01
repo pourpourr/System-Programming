@@ -1,0 +1,43 @@
+
+4520 Owgmkemvtm Ptwho Cape-Verde 4 MEASLES YES 23-11-2016
+5737 Gtcwxwle Fsxtsdmqa Cape-Verde 38 POLIO YES 11-6-2010
+4722 Ccng Karwoyambne Cape-Verde 34 FLU YES 1-2-2011
+4520 Owgmkemvtm Ptwho Cape-Verde 4 POLIO YES 6-3-2019
+5138 Hpzrbeju Nmjruvfmw Cape-Verde 102 HEPATITIS-A YES 27-1-2015
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 MEASLES NO 
+7263 Nvypsmatnm Fpa Cape-Verde 40 RUBELLA NO 
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 HIB NO 
+4838 Fdbezyjgok Tvogwlfdz Cape-Verde 31 CHICKENPOX YES 26-4-2012
+4520 Owgmkemvtm Ptwho Cape-Verde 4 MEASLES YES 7-8-2016
+4838 Fdbezyjgok Tvogwlfdz Cape-Verde 31 CHICKENPOX NO 
+6411 Edeiye Xwd Cape-Verde 59 MEASLES NO 
+9099 Bqqk Loap Cape-Verde 58 CHICKENPOX NO 
+2497 Lvjbpd Cso Cape-Verde 25 FLU YES 28-6-2003
+5349 Sldzydhmty Lbkmeazdai Cape-Verde 14 HIB NO 
+3107 Stktqgvgrl Xtvhu Cape-Verde 108 HIB NO 
+9815 Kih Qcivw Cape-Verde 6 TETANUS NO 
+1052 Rlfvxvs Iohmcee Cape-Verde 57 RUBELLA NO 
+4722 Ccng Karwoyambne Cape-Verde 34 CHICKENPOX YES 29-7-2013
+4520 Owgmkemvtm Ptwho Cape-Verde 4 HEPATITIS-B NO 
+5737 Gtcwxwle Fsxtsdmqa Cape-Verde 38 TETANUS YES 2-1-2011
+9099 Bqqk Loap Cape-Verde 58 RUBELLA NO 
+4520 Owgmkemvtm Ptwho Cape-Verde 4 HIB YES 12-2-2012
+6411 Edeiye Xwd Cape-Verde 59 HEPATITIS-B NO 
+504 Bdiz Kvdbgmzkzgct Cape-Verde 101 HEPATITIS-B NO 
+2775 Ety Yyfpaode Cape-Verde 31 FLU YES 28-4-2012
+1440 Wdnjsmwbtujo Apc Cape-Verde 21 TETANUS NO 
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 MEASLES YES 21-11-2011
+3107 Stktqgvgrl Xtvhu Cape-Verde 108 TETANUS YES 5-8-2017
+7263 Nvypsmatnm Fpa Cape-Verde 40 RUBELLA YES 9-3-2016
+4838 Fdbezyjgok Tvogwlfdz Cape-Verde 31 CHICKENPOX NO 
+5138 Hpzrbeju Nmjruvfmw Cape-Verde 102 CHICKENPOX NO 
+1611 Cnhutcxn Qylldafh Cape-Verde 59 COVID-19 YES 28-7-2007
+7263 Nvypsmatnm Fpa Cape-Verde 40 HEPATITIS-A YES 19-3-2000
+1611 Cnhutcxn Qylldafh Cape-Verde 59 COVID-19 YES 29-9-2006
+1440 Wdnjsmwbtujo Apc Cape-Verde 21 RUBELLA YES 9-11-2020
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 HEPATITIS-B YES 27-6-2016
+504 Bdiz Kvdbgmzkzgct Cape-Verde 101 HEPATITIS-A YES 20-2-2009
+1052 Rlfvxvs Iohmcee Cape-Verde 57 MEASLES YES 17-11-2002
+5138 Hpzrbeju Nmjruvfmw Cape-Verde 102 RUBELLA NO 
+1440 Wdnjsmwbtujo Apc Cape-Verde 21 RUBELLA YES 30-12-2018
+6411 Edeiye Xwd Cape-Verde 59 HEPATITIS-B NO 

@@ -1,0 +1,57 @@
+
+6892 Unoshj Mdzvaak Lithuania 86 RUBELLA NO 
+2801 Telyjq Qfjuzu Lithuania 47 POLIO YES 2-12-2004
+6158 Pvda Zokdaksvtian Lithuania 22 POLIO YES 11-3-2012
+6889 Hzsoxigulqhl Ivqqowldcitc Lithuania 22 TETANUS NO 
+6158 Pvda Zokdaksvtian Lithuania 22 CHICKENPOX YES 17-12-2010
+7911 Imubtdpetg Wbcwwcw Lithuania 37 HIB YES 27-12-2013
+3861 Irfqvpxfgk Apm Lithuania 46 HEPATITIS-B NO 
+2259 Tmorzumhb Grcrizm Lithuania 69 RUBELLA NO 
+673 Byqpbtk Amzvdbect Lithuania 83 CHICKENPOX NO 
+2801 Telyjq Qfjuzu Lithuania 47 FLU YES 16-10-2009
+4258 Yalx Ytjldqmpopi Lithuania 22 POLIO YES 13-10-2019
+1545 Rwxj Btf Lithuania 102 FLU NO 
+3861 Irfqvpxfgk Apm Lithuania 46 MEASLES NO 
+1312 Srp Dgk Lithuania 77 FLU YES 5-3-2016
+6889 Hzsoxigulqhl Ivqqowldcitc Lithuania 22 FLU YES 20-3-2020
+8484 Amfheoiq Hwqwzljrnx Lithuania 4 FLU NO 
+6158 Pvda Zokdaksvtian Lithuania 22 POLIO NO 
+4258 Yalx Ytjldqmpopi Lithuania 22 CHICKENPOX NO 
+8494 Werejxkf Gjezftvf Lithuania 15 HEPATITIS-A NO 
+2452 Ourxidenyfff Awhxcdkmu Lithuania 70 MEASLES NO 
+3861 Irfqvpxfgk Apm Lithuania 46 CHICKENPOX YES 3-1-2003
+6889 Hzsoxigulqhl Ivqqowldcitc Lithuania 22 HEPATITIS-A NO 
+2801 Telyjq Qfjuzu Lithuania 47 HIB NO 
+6889 Hzsoxigulqhl Ivqqowldcitc Lithuania 22 HIB YES 10-5-2008
+5121 Kjjzgsgbg Nmafckf Lithuania 114 HEPATITIS-A YES 16-1-2008
+2452 Ourxidenyfff Awhxcdkmu Lithuania 70 CHICKENPOX YES 16-9-2004
+2801 Telyjq Qfjuzu Lithuania 47 MEASLES NO 
+2252 Vlcmovw Upbeqhgwsy Lithuania 106 HEPATITIS-B YES 13-2-2004
+8421 Rzvjbgp Mjsfkwpjrs Lithuania 53 HEPATITIS-A YES 6-5-2011
+2259 Tmorzumhb Grcrizm Lithuania 69 FLU YES 20-9-2005
+6158 Pvda Zokdaksvtian Lithuania 22 TETANUS NO 
+2252 Vlcmovw Upbeqhgwsy Lithuania 106 POLIO YES 17-1-2006
+4445 Ozbvxkss Mvaqlcrcfbpd Lithuania 18 HEPATITIS-A YES 17-11-2015
+3861 Irfqvpxfgk Apm Lithuania 46 HEPATITIS-B NO 
+673 Byqpbtk Amzvdbect Lithuania 83 CHICKENPOX NO 
+1545 Rwxj Btf Lithuania 102 MEASLES NO 
+4258 Yalx Ytjldqmpopi Lithuania 22 TETANUS NO 
+4445 Ozbvxkss Mvaqlcrcfbpd Lithuania 18 HEPATITIS-A NO 
+3916 Oyugyplguhsi Zqm Lithuania 56 HIB YES 10-2-2004
+6887 Toxlcabthus Sjgvbnzlpzgx Lithuania 113 HEPATITIS-A YES 24-6-2019
+8484 Amfheoiq Hwqwzljrnx Lithuania 4 HEPATITIS-A NO 
+2252 Vlcmovw Upbeqhgwsy Lithuania 106 MEASLES NO 
+8494 Werejxkf Gjezftvf Lithuania 15 POLIO YES 2-8-2017
+2252 Vlcmovw Upbeqhgwsy Lithuania 106 HIB NO 
+6657 Mczfkxujyh Lpgmrj Lithuania 37 HEPATITIS-A YES 7-3-2001
+2252 Vlcmovw Upbeqhgwsy Lithuania 106 HEPATITIS-A NO 
+3861 Irfqvpxfgk Apm Lithuania 46 HEPATITIS-B YES 28-12-2003
+4258 Yalx Ytjldqmpopi Lithuania 22 POLIO NO 
+2259 Tmorzumhb Grcrizm Lithuania 69 COVID-19 NO 
+6657 Mczfkxujyh Lpgmrj Lithuania 37 HEPATITIS-A YES 2-6-2001
+6887 Toxlcabthus Sjgvbnzlpzgx Lithuania 113 CHICKENPOX NO 
+2452 Ourxidenyfff Awhxcdkmu Lithuania 70 FLU YES 4-5-2003
+6887 Toxlcabthus Sjgvbnzlpzgx Lithuania 113 HEPATITIS-A YES 11-2-2015
+9986 Osih Ywnxks Lithuania 79 FLU NO 
+2801 Telyjq Qfjuzu Lithuania 47 RUBELLA NO 
+8494 Werejxkf Gjezftvf Lithuania 15 HIB YES 10-3-2001

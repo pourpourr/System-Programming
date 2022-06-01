@@ -1,0 +1,69 @@
+
+2593 Fznp Pdhzeazanvf Angola 42 COVID-19 NO 
+6186 Vtr Zardihsnh Angola 56 RUBELLA NO 
+8819 Tzgnhqqywgga Ejqt Angola 37 HIB NO 
+1828 Ykyzidomc Ysnn Angola 4 HEPATITIS-B NO 
+4361 Syukujodxza Jorecqzja Angola 30 CHICKENPOX NO 
+8755 Btgj Mwgf Angola 28 HEPATITIS-B YES 4-9-2010
+6659 Ibne Kgqeksypv Angola 54 RUBELLA NO 
+6186 Vtr Zardihsnh Angola 56 RUBELLA YES 28-11-2015
+7638 Ksmfb Xyhcdc Angola 111 FLU NO 
+98 Hqesfmpwujv Rpfujo Angola 99 FLU YES 30-4-2018
+1828 Ykyzidomc Ysnn Angola 4 RUBELLA NO 
+2593 Fznp Pdhzeazanvf Angola 42 FLU YES 29-7-2013
+4361 Syukujodxza Jorecqzja Angola 30 TETANUS NO 
+507 Kojng Qdazohjp Angola 77 HEPATITIS-B NO 
+6397 Fwb Cxdbtkcg Angola 44 FLU YES 15-5-2020
+507 Kojng Qdazohjp Angola 77 HEPATITIS-A YES 16-6-2014
+6573 Txduust Thcc Angola 36 RUBELLA NO 
+6573 Txduust Thcc Angola 36 COVID-19 NO 
+6567 Gwgearxvqa Gfiqwfww Angola 115 POLIO NO 
+5041 Eqlpwxui Tiy Angola 21 POLIO NO 
+1332 Qoltvmu Mzdjzta Angola 1 HIB YES 30-2-2016
+2668 Gzzclupra Dzwkzo Angola 86 COVID-19 YES 30-8-2000
+4361 Syukujodxza Jorecqzja Angola 30 HEPATITIS-B NO 
+8398 Nwnd Yeptwhlwp Angola 52 CHICKENPOX YES 5-12-2003
+3157 Lzhdw Myluupryhu Angola 55 POLIO NO 
+3157 Lzhdw Myluupryhu Angola 55 CHICKENPOX NO 
+3580 Kisveml Cfhq Angola 75 POLIO NO 
+5041 Eqlpwxui Tiy Angola 21 HEPATITIS-A YES 30-1-2006
+3565 Etfw Qacru Angola 65 COVID-19 NO 
+9003 Nefdrgopywt Coddjpdem Angola 55 CHICKENPOX NO 
+4361 Syukujodxza Jorecqzja Angola 30 FLU NO 
+2632 Qxknewnmc Vumlvyehmf Angola 29 TETANUS NO 
+3390 Grjl Tvyny Angola 17 POLIO NO 
+7198 Beckrt Mdmpbzttf Angola 31 CHICKENPOX YES 14-4-2014
+6397 Fwb Cxdbtkcg Angola 44 HEPATITIS-A YES 12-11-2013
+6573 Txduust Thcc Angola 36 POLIO NO 
+3390 Grjl Tvyny Angola 17 HIB YES 19-5-2009
+2593 Fznp Pdhzeazanvf Angola 42 MEASLES NO 
+6659 Ibne Kgqeksypv Angola 54 HEPATITIS-A NO 
+6186 Vtr Zardihsnh Angola 56 TETANUS YES 3-6-2014
+2210 Xaqe Buam Angola 42 MEASLES NO 
+9354 Qkhn Iqee Angola 107 HEPATITIS-B NO 
+3580 Kisveml Cfhq Angola 75 FLU NO 
+5041 Eqlpwxui Tiy Angola 21 HEPATITIS-B NO 
+1828 Ykyzidomc Ysnn Angola 4 MEASLES YES 7-5-2020
+9003 Nefdrgopywt Coddjpdem Angola 55 MEASLES YES 8-8-2010
+3157 Lzhdw Myluupryhu Angola 55 FLU YES 21-2-2017
+3565 Etfw Qacru Angola 65 HEPATITIS-B NO 
+3565 Etfw Qacru Angola 65 HEPATITIS-B YES 16-8-2007
+9354 Qkhn Iqee Angola 107 COVID-19 YES 30-3-2009
+4361 Syukujodxza Jorecqzja Angola 30 HEPATITIS-B NO 
+3218 Axwnmkz Kyeqmc Angola 81 HIB NO 
+3580 Kisveml Cfhq Angola 75 HEPATITIS-A NO 
+6573 Txduust Thcc Angola 36 COVID-19 YES 23-8-2011
+6573 Txduust Thcc Angola 36 FLU YES 10-7-2011
+1332 Qoltvmu Mzdjzta Angola 1 POLIO YES 4-3-2020
+3580 Kisveml Cfhq Angola 75 RUBELLA YES 20-2-2004
+3565 Etfw Qacru Angola 65 CHICKENPOX NO 
+4361 Syukujodxza Jorecqzja Angola 30 HEPATITIS-A YES 23-11-2007
+3157 Lzhdw Myluupryhu Angola 55 MEASLES NO 
+6884 Ach Rsiolkkisk Angola 15 HIB NO 
+1828 Ykyzidomc Ysnn Angola 4 COVID-19 YES 18-6-2017
+1332 Qoltvmu Mzdjzta Angola 1 TETANUS YES 5-2-2015
+2593 Fznp Pdhzeazanvf Angola 42 RUBELLA NO 
+6567 Gwgearxvqa Gfiqwfww Angola 115 MEASLES YES 12-2-2019
+3390 Grjl Tvyny Angola 17 HIB NO 
+6884 Ach Rsiolkkisk Angola 15 HEPATITIS-A YES 15-1-2006
+6659 Ibne Kgqeksypv Angola 54 MEASLES NO 

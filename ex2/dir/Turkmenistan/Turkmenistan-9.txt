@@ -1,0 +1,47 @@
+
+5952 Dpscrlopdan Fwdcwxbqnljd Turkmenistan 108 POLIO YES 8-3-2020
+4482 Kkhpox Oor Turkmenistan 2 HIB NO 
+2473 Hsvqmc Sybux Turkmenistan 105 HEPATITIS-B NO 
+286 Lntsuhvozd Pnavyuviud Turkmenistan 76 HEPATITIS-A NO 
+474 Iesuk Eaxizqzgn Turkmenistan 52 COVID-19 NO 
+2316 Rqhegntsg Gclbqzmrwikt Turkmenistan 92 RUBELLA NO 
+4037 Djpiqltyjae Egnut Turkmenistan 25 MEASLES NO 
+1169 Kraltue Kngsxd Turkmenistan 68 RUBELLA NO 
+4482 Kkhpox Oor Turkmenistan 2 TETANUS NO 
+1252 Tnehy Gxc Turkmenistan 84 CHICKENPOX YES 6-9-2019
+4903 Ofvqfnbap Atgc Turkmenistan 69 CHICKENPOX NO 
+5952 Dpscrlopdan Fwdcwxbqnljd Turkmenistan 108 FLU NO 
+1252 Tnehy Gxc Turkmenistan 84 TETANUS NO 
+2316 Rqhegntsg Gclbqzmrwikt Turkmenistan 92 COVID-19 YES 4-10-2002
+2316 Rqhegntsg Gclbqzmrwikt Turkmenistan 92 RUBELLA NO 
+3455 Xxnybywcgfxi Nzopclex Turkmenistan 57 HIB NO 
+282 Jwtn Nmlcklrmc Turkmenistan 92 RUBELLA NO 
+474 Iesuk Eaxizqzgn Turkmenistan 52 HIB YES 17-1-2001
+5952 Dpscrlopdan Fwdcwxbqnljd Turkmenistan 108 RUBELLA NO 
+1346 Ckf Yldfhhixibup Turkmenistan 67 CHICKENPOX YES 2-11-2012
+2214 Fisitpdyqtd Lqauigu Turkmenistan 93 RUBELLA YES 25-3-2009
+6307 Vxqbiympxj Tecgygy Turkmenistan 86 FLU YES 27-1-2003
+3690 Gry Jcdvkd Turkmenistan 99 HEPATITIS-B NO 
+2447 Xchlgazsv Jqrsuphzq Turkmenistan 28 HEPATITIS-B YES 14-1-2015
+2531 Dyzgeptuz Lvgmdcfaxuhj Turkmenistan 105 TETANUS YES 6-2-2011
+9219 Ahcbacp Raikwuscyyq Turkmenistan 104 FLU YES 11-11-2006
+4903 Ofvqfnbap Atgc Turkmenistan 69 CHICKENPOX NO 
+9219 Ahcbacp Raikwuscyyq Turkmenistan 104 HEPATITIS-A YES 25-8-2014
+2531 Dyzgeptuz Lvgmdcfaxuhj Turkmenistan 105 COVID-19 YES 3-3-2007
+2531 Dyzgeptuz Lvgmdcfaxuhj Turkmenistan 105 MEASLES YES 17-2-2006
+8708 Juejwmaaybvl Ysfbd Turkmenistan 57 FLU YES 2-8-2006
+474 Iesuk Eaxizqzgn Turkmenistan 52 COVID-19 YES 30-2-2002
+5952 Dpscrlopdan Fwdcwxbqnljd Turkmenistan 108 HIB YES 4-1-2019
+4903 Ofvqfnbap Atgc Turkmenistan 69 TETANUS YES 22-11-2018
+3690 Gry Jcdvkd Turkmenistan 99 POLIO NO 
+282 Jwtn Nmlcklrmc Turkmenistan 92 TETANUS YES 22-10-2014
+4037 Djpiqltyjae Egnut Turkmenistan 25 COVID-19 YES 10-5-2020
+282 Jwtn Nmlcklrmc Turkmenistan 92 HEPATITIS-B NO 
+474 Iesuk Eaxizqzgn Turkmenistan 52 CHICKENPOX NO 
+4179 Wqjakmdsqgkz Tlavv Turkmenistan 41 HEPATITIS-A NO 
+2316 Rqhegntsg Gclbqzmrwikt Turkmenistan 92 POLIO YES 10-12-2012
+2214 Fisitpdyqtd Lqauigu Turkmenistan 93 HEPATITIS-A NO 
+1346 Ckf Yldfhhixibup Turkmenistan 67 RUBELLA YES 27-12-2008
+8708 Juejwmaaybvl Ysfbd Turkmenistan 57 RUBELLA YES 2-6-2014
+8959 Qnweeqpfts Wznpzn Turkmenistan 20 MEASLES NO 
+4037 Djpiqltyjae Egnut Turkmenistan 25 TETANUS NO 

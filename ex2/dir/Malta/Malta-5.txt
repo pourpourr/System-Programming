@@ -1,0 +1,81 @@
+
+7431 Ruruidqi Jbgzniaknc Malta 11 TETANUS NO 
+2928 Mtjn Aacvgzsiykhn Malta 48 RUBELLA NO 
+3948 Nnuzhqbjvu Jwj Malta 27 POLIO NO 
+7927 Gvdvlgcx Vumexr Malta 31 CHICKENPOX YES 21-8-2017
+2928 Mtjn Aacvgzsiykhn Malta 48 FLU YES 24-2-2019
+4045 Gabpffeuakj Foqwabndx Malta 13 COVID-19 NO 
+1600 Dpjtlzblifz Syqkimai Malta 27 MEASLES NO 
+7431 Ruruidqi Jbgzniaknc Malta 11 RUBELLA NO 
+7431 Ruruidqi Jbgzniaknc Malta 11 HIB NO 
+9428 Pwvfrzncizu Hiv Malta 88 FLU NO 
+1452 Mbbrdw Sdhpo Malta 35 COVID-19 YES 13-2-2012
+1059 Mfhiqv Ferrme Malta 47 HEPATITIS-B YES 10-11-2006
+2928 Mtjn Aacvgzsiykhn Malta 48 CHICKENPOX YES 26-9-2009
+6177 Dzenv Hyboihuuyap Malta 16 HEPATITIS-A NO 
+9682 Rxzvyworwbq Tbiu Malta 56 CHICKENPOX NO 
+6465 Nzuvlwg Nfmnh Malta 35 HIB YES 23-12-2005
+4045 Gabpffeuakj Foqwabndx Malta 13 MEASLES NO 
+6036 Ffekgiktutj Thisyb Malta 2 TETANUS NO 
+9784 Qbrmf Ktzr Malta 57 FLU NO 
+1016 Qqk Uuebkesdx Malta 77 HEPATITIS-B YES 10-5-2000
+5388 Kxlx Pgiifpzlhv Malta 118 HEPATITIS-B NO 
+9682 Rxzvyworwbq Tbiu Malta 56 HEPATITIS-A YES 13-9-2016
+3222 Fpuws Prrllmw Malta 120 HEPATITIS-A YES 4-4-2019
+7927 Gvdvlgcx Vumexr Malta 31 RUBELLA NO 
+9076 Ajjwgysj Lskeyh Malta 64 RUBELLA NO 
+7398 Gsteyp Kjh Malta 90 HEPATITIS-B NO 
+9116 Unqbqx Foqng Malta 89 RUBELLA NO 
+3850 Vre Wpeownn Malta 93 FLU NO 
+3733 Wovwpfufflw Izxn Malta 117 CHICKENPOX YES 18-7-2020
+3495 Zgzzhwn Ecefofwdrh Malta 113 HIB YES 5-8-2001
+7398 Gsteyp Kjh Malta 90 HIB YES 4-6-2012
+2057 Vgpbvwwvesd Qhrvgnqrqk Malta 48 HEPATITIS-A NO 
+2194 Drr Dvckqbll Malta 96 HEPATITIS-B YES 19-8-2014
+3850 Vre Wpeownn Malta 93 CHICKENPOX YES 2-5-2016
+3850 Vre Wpeownn Malta 93 HEPATITIS-A YES 14-9-2015
+3495 Zgzzhwn Ecefofwdrh Malta 113 FLU NO 
+7431 Ruruidqi Jbgzniaknc Malta 11 CHICKENPOX NO 
+9084 Oxyixacsxfb Nsfykceus Malta 49 CHICKENPOX YES 19-1-2006
+3850 Vre Wpeownn Malta 93 CHICKENPOX NO 
+9076 Ajjwgysj Lskeyh Malta 64 CHICKENPOX NO 
+2005 Muymsudon Ewmikwipdg Malta 92 HIB NO 
+2194 Drr Dvckqbll Malta 96 HEPATITIS-B YES 4-5-2011
+9784 Qbrmf Ktzr Malta 57 FLU NO 
+3495 Zgzzhwn Ecefofwdrh Malta 113 HIB YES 21-10-2011
+1452 Mbbrdw Sdhpo Malta 35 TETANUS NO 
+2194 Drr Dvckqbll Malta 96 FLU NO 
+6036 Ffekgiktutj Thisyb Malta 2 COVID-19 NO 
+667 Uncyli Rglg Malta 6 HEPATITIS-B NO 
+2057 Vgpbvwwvesd Qhrvgnqrqk Malta 48 HIB YES 13-12-2004
+5383 Wxqfwdv Ywdcfcmsmqlv Malta 59 FLU NO 
+1600 Dpjtlzblifz Syqkimai Malta 27 POLIO NO 
+1073 Jqob Yopvces Malta 62 HEPATITIS-A YES 29-7-2000
+5383 Wxqfwdv Ywdcfcmsmqlv Malta 59 HEPATITIS-A YES 3-10-2018
+9116 Unqbqx Foqng Malta 89 POLIO YES 14-10-2016
+1016 Qqk Uuebkesdx Malta 77 HEPATITIS-A YES 12-5-2016
+1903 Vas Qyqz Malta 77 CHICKENPOX NO 
+3948 Nnuzhqbjvu Jwj Malta 27 COVID-19 NO 
+7431 Ruruidqi Jbgzniaknc Malta 11 RUBELLA NO 
+2057 Vgpbvwwvesd Qhrvgnqrqk Malta 48 HEPATITIS-A NO 
+6027 Seuwufj Fbhcctwkgb Malta 3 HEPATITIS-B NO 
+3948 Nnuzhqbjvu Jwj Malta 27 MEASLES YES 7-2-2019
+1921 Xpfviwtbzuo Ejexntqocpku Malta 37 MEASLES YES 24-12-2017
+9076 Ajjwgysj Lskeyh Malta 64 TETANUS YES 4-4-2014
+9909 Kxhtufisepd Ubkmzjivnmd Malta 66 MEASLES NO 
+9076 Ajjwgysj Lskeyh Malta 64 TETANUS YES 8-10-2006
+7431 Ruruidqi Jbgzniaknc Malta 11 FLU YES 8-5-2000
+9428 Pwvfrzncizu Hiv Malta 88 HIB YES 17-11-2004
+7398 Gsteyp Kjh Malta 90 FLU NO 
+667 Uncyli Rglg Malta 6 TETANUS NO 
+6177 Dzenv Hyboihuuyap Malta 16 COVID-19 NO 
+9909 Kxhtufisepd Ubkmzjivnmd Malta 66 FLU NO 
+7398 Gsteyp Kjh Malta 90 MEASLES YES 18-11-2006
+3222 Fpuws Prrllmw Malta 120 FLU YES 30-8-2003
+9682 Rxzvyworwbq Tbiu Malta 56 HEPATITIS-A YES 13-12-2007
+5388 Kxlx Pgiifpzlhv Malta 118 HEPATITIS-B NO 
+5383 Wxqfwdv Ywdcfcmsmqlv Malta 59 TETANUS YES 20-11-2020
+5383 Wxqfwdv Ywdcfcmsmqlv Malta 59 COVID-19 NO 
+1073 Jqob Yopvces Malta 62 HEPATITIS-A NO 
+2137 Nfqzyvndl Zcylmfodua Malta 115 MEASLES NO 
+9428 Pwvfrzncizu Hiv Malta 88 HEPATITIS-A NO 

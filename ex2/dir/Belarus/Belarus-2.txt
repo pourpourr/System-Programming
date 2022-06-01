@@ -1,0 +1,44 @@
+
+6305 Jjfb Xhnogqkzqbfb Belarus 8 TETANUS YES 22-6-2017
+3605 Xmw Vfrxggenr Belarus 94 MEASLES YES 26-12-2006
+4804 Kocmwsms Qssbk Belarus 69 TETANUS YES 19-2-2013
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 HIB NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 HEPATITIS-A NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 HEPATITIS-B NO 
+3498 Stqwbqlm Aldcc Belarus 40 HEPATITIS-B NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 CHICKENPOX YES 6-10-2013
+3498 Stqwbqlm Aldcc Belarus 40 FLU YES 11-11-2006
+8928 Yns Fkjqa Belarus 66 RUBELLA YES 1-1-2006
+6305 Jjfb Xhnogqkzqbfb Belarus 8 COVID-19 NO 
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 HIB NO 
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 POLIO YES 2-7-2004
+7346 Mjmkuidyynd Fqczz Belarus 59 HIB NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 HEPATITIS-A NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 CHICKENPOX YES 9-4-2012
+769 Hckwi Bqeuq Belarus 86 TETANUS NO 
+7947 Lajcza Tlpvlzznxda Belarus 115 POLIO NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 MEASLES NO 
+6305 Jjfb Xhnogqkzqbfb Belarus 8 FLU NO 
+8928 Yns Fkjqa Belarus 66 POLIO YES 3-3-2005
+9162 Faswsxugyy Dvnnikek Belarus 80 HEPATITIS-A YES 1-12-2003
+8787 Eogyjfuhmpry Zserk Belarus 97 POLIO YES 18-1-2006
+9162 Faswsxugyy Dvnnikek Belarus 80 HIB YES 13-4-2010
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 MEASLES YES 6-10-2011
+8928 Yns Fkjqa Belarus 66 TETANUS YES 18-5-2009
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 HEPATITIS-B NO 
+9615 Bpui Calcug Belarus 119 HIB NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 HEPATITIS-A YES 19-5-2015
+9900 Wddlkpoebc Kkz Belarus 98 CHICKENPOX NO 
+4804 Kocmwsms Qssbk Belarus 69 HIB NO 
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 POLIO NO 
+8812 Chjf Lestxhn Belarus 31 MEASLES NO 
+5846 Wpoedolhpq Mptpt Belarus 51 HEPATITIS-B NO 
+8787 Eogyjfuhmpry Zserk Belarus 97 POLIO NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 MEASLES YES 7-3-2012
+7346 Mjmkuidyynd Fqczz Belarus 59 FLU NO 
+3498 Stqwbqlm Aldcc Belarus 40 HEPATITIS-A NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 HEPATITIS-B YES 26-12-2008
+3605 Xmw Vfrxggenr Belarus 94 CHICKENPOX NO 
+769 Hckwi Bqeuq Belarus 86 POLIO NO 
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 TETANUS NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 TETANUS YES 6-9-2001

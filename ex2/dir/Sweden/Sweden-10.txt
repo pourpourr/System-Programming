@@ -1,0 +1,33 @@
+
+4601 Ktcnkntherp Lvfwo Sweden 22 HEPATITIS-B NO 
+9370 Zvqpglxmq Oknjjzz Sweden 62 TETANUS NO 
+4613 Bjebutiey Qdmrefvcr Sweden 26 MEASLES NO 
+7031 Bzzfnrb Hxwvmzqstl Sweden 39 COVID-19 NO 
+2988 Ditc Ucgsyhwe Sweden 72 TETANUS YES 7-1-2006
+7031 Bzzfnrb Hxwvmzqstl Sweden 39 FLU NO 
+1257 Mqmk Ifxacn Sweden 68 HIB NO 
+4613 Bjebutiey Qdmrefvcr Sweden 26 POLIO NO 
+2988 Ditc Ucgsyhwe Sweden 72 HEPATITIS-A NO 
+2988 Ditc Ucgsyhwe Sweden 72 POLIO YES 15-1-2004
+7344 Pjwio Glutwchmd Sweden 22 HIB YES 17-2-2004
+4951 Dgzfo Qnynvzrnylil Sweden 24 TETANUS YES 18-10-2013
+2988 Ditc Ucgsyhwe Sweden 72 HEPATITIS-B YES 22-1-2008
+7344 Pjwio Glutwchmd Sweden 22 COVID-19 YES 13-5-2013
+7905 Hkuieyxbkb Ixh Sweden 64 FLU NO 
+2988 Ditc Ucgsyhwe Sweden 72 HEPATITIS-A YES 14-1-2015
+4613 Bjebutiey Qdmrefvcr Sweden 26 TETANUS NO 
+4613 Bjebutiey Qdmrefvcr Sweden 26 COVID-19 NO 
+2854 Louabno Sshbceg Sweden 47 COVID-19 YES 19-6-2000
+5296 Fetgjg Vefyqb Sweden 75 COVID-19 NO 
+8221 Svfrzjtvow Kazhf Sweden 113 CHICKENPOX NO 
+1617 Zaoxdkwcl Zyqzydaebyen Sweden 41 HEPATITIS-A NO 
+9370 Zvqpglxmq Oknjjzz Sweden 62 HEPATITIS-B YES 9-11-2008
+1257 Mqmk Ifxacn Sweden 68 COVID-19 NO 
+4601 Ktcnkntherp Lvfwo Sweden 22 RUBELLA YES 11-6-2014
+1617 Zaoxdkwcl Zyqzydaebyen Sweden 41 MEASLES YES 5-4-2005
+7031 Bzzfnrb Hxwvmzqstl Sweden 39 POLIO YES 14-12-2007
+7905 Hkuieyxbkb Ixh Sweden 64 MEASLES NO 
+5296 Fetgjg Vefyqb Sweden 75 POLIO YES 10-12-2014
+4601 Ktcnkntherp Lvfwo Sweden 22 CHICKENPOX NO 
+4613 Bjebutiey Qdmrefvcr Sweden 26 COVID-19 NO 
+9370 Zvqpglxmq Oknjjzz Sweden 62 RUBELLA NO 

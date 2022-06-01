@@ -1,0 +1,70 @@
+
+9326 Vxpfnrzphw Vbkco Fiji 57 COVID-19 YES 22-10-2003
+3471 Gsndelgtzj Eqaectwxp Fiji 23 HEPATITIS-B YES 4-9-2010
+305 Pqaurxkxa Sjyqi Fiji 116 POLIO NO 
+305 Pqaurxkxa Sjyqi Fiji 116 HEPATITIS-B NO 
+3810 Ytzkcqewgjy Iygbw Fiji 3 COVID-19 NO 
+8745 Ibnthe Vdn Fiji 17 RUBELLA YES 20-9-2015
+7156 Hayped Iaoygdvgjcbi Fiji 79 COVID-19 NO 
+3471 Gsndelgtzj Eqaectwxp Fiji 23 TETANUS NO 
+4489 Hrkl Rklvmdbfazr Fiji 21 MEASLES YES 14-9-2002
+9326 Vxpfnrzphw Vbkco Fiji 57 COVID-19 NO 
+5202 Atyc Kxlczmtjb Fiji 21 TETANUS NO 
+9326 Vxpfnrzphw Vbkco Fiji 57 MEASLES YES 8-11-2016
+9690 Oxmuz Cpsowshvrxb Fiji 83 RUBELLA YES 10-4-2020
+2797 Hymkwjfzye Gwfspyfhvu Fiji 80 HEPATITIS-A YES 21-10-2002
+4628 Zybouhbncx Yoxkwbewav Fiji 72 HIB NO 
+8480 Pavgncbah Vujti Fiji 3 HEPATITIS-B NO 
+3189 Ipgznrum Wcyj Fiji 5 RUBELLA YES 6-10-2017
+8745 Ibnthe Vdn Fiji 17 HIB NO 
+6547 Qqtwhonzvd Bxwqrrblkrz Fiji 101 TETANUS YES 23-7-2018
+4791 Hjebg Kqfspev Fiji 23 FLU YES 11-12-2002
+1365 Tzkpzlkik Ggpnkafu Fiji 103 HEPATITIS-B NO 
+3053 Iixumaqumsq Izqyxuk Fiji 107 HEPATITIS-B NO 
+6663 Tiipmwqzgqc Kuregrihgno Fiji 119 FLU NO 
+3053 Iixumaqumsq Izqyxuk Fiji 107 FLU NO 
+7647 Aablkz Rxwgi Fiji 112 FLU YES 7-4-2017
+9518 Pujmt Jgm Fiji 79 TETANUS YES 16-12-2013
+662 Arrvfdorrthr Rievkp Fiji 15 HEPATITIS-B YES 13-3-2020
+3546 Whqgund Fsurycylwq Fiji 1 TETANUS NO 
+3546 Whqgund Fsurycylwq Fiji 1 RUBELLA NO 
+8745 Ibnthe Vdn Fiji 17 TETANUS YES 14-10-2003
+9518 Pujmt Jgm Fiji 79 COVID-19 YES 22-1-2008
+9326 Vxpfnrzphw Vbkco Fiji 57 HEPATITIS-B NO 
+662 Arrvfdorrthr Rievkp Fiji 15 CHICKENPOX YES 14-12-2015
+7156 Hayped Iaoygdvgjcbi Fiji 79 MEASLES YES 4-9-2012
+3244 Ikawhndngjht Jlil Fiji 29 CHICKENPOX NO 
+3810 Ytzkcqewgjy Iygbw Fiji 3 MEASLES YES 17-6-2007
+6747 Hqvvbqwkwyk Hatw Fiji 88 CHICKENPOX YES 5-10-2005
+9518 Pujmt Jgm Fiji 79 HEPATITIS-B YES 17-4-2015
+5887 Rzvb Hdnmmzdody Fiji 70 POLIO YES 17-1-2001
+3285 Xotvubioxs Rybmfdyyigh Fiji 28 CHICKENPOX NO 
+4628 Zybouhbncx Yoxkwbewav Fiji 72 POLIO YES 16-11-2020
+9065 Ehbfbi Vgx Fiji 37 POLIO NO 
+4489 Hrkl Rklvmdbfazr Fiji 21 HEPATITIS-A YES 14-10-2010
+3810 Ytzkcqewgjy Iygbw Fiji 3 HEPATITIS-A NO 
+3546 Whqgund Fsurycylwq Fiji 1 FLU YES 11-3-2008
+3546 Whqgund Fsurycylwq Fiji 1 MEASLES YES 2-3-2016
+1922 Zwtmq Vasokqy Fiji 70 FLU YES 18-4-2001
+9326 Vxpfnrzphw Vbkco Fiji 57 POLIO YES 8-5-2007
+1365 Tzkpzlkik Ggpnkafu Fiji 103 TETANUS YES 14-4-2007
+6747 Hqvvbqwkwyk Hatw Fiji 88 HEPATITIS-B NO 
+7647 Aablkz Rxwgi Fiji 112 CHICKENPOX YES 22-6-2008
+6547 Qqtwhonzvd Bxwqrrblkrz Fiji 101 HIB YES 16-2-2015
+1801 Zpiganadtc Itv Fiji 51 HEPATITIS-B YES 16-5-2003
+8905 Vdspftzti Koqwzh Fiji 48 RUBELLA NO 
+6663 Tiipmwqzgqc Kuregrihgno Fiji 119 POLIO NO 
+1801 Zpiganadtc Itv Fiji 51 MEASLES NO 
+1365 Tzkpzlkik Ggpnkafu Fiji 103 FLU YES 27-10-2020
+7156 Hayped Iaoygdvgjcbi Fiji 79 POLIO NO 
+1365 Tzkpzlkik Ggpnkafu Fiji 103 COVID-19 YES 5-7-2005
+5887 Rzvb Hdnmmzdody Fiji 70 RUBELLA NO 
+8745 Ibnthe Vdn Fiji 17 FLU NO 
+8905 Vdspftzti Koqwzh Fiji 48 FLU NO 
+3189 Ipgznrum Wcyj Fiji 5 FLU YES 8-2-2013
+1801 Zpiganadtc Itv Fiji 51 MEASLES NO 
+3053 Iixumaqumsq Izqyxuk Fiji 107 MEASLES NO 
+3471 Gsndelgtzj Eqaectwxp Fiji 23 MEASLES NO 
+8745 Ibnthe Vdn Fiji 17 RUBELLA YES 6-12-2000
+3471 Gsndelgtzj Eqaectwxp Fiji 23 HEPATITIS-A YES 9-4-2017
+8480 Pavgncbah Vujti Fiji 3 FLU YES 15-2-2004

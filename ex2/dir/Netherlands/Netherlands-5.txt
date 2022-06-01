@@ -1,0 +1,58 @@
+
+5417 Dbg Uvuypbbyw Netherlands 25 CHICKENPOX YES 2-1-2006
+1729 Ulaagi Dldbqrtamrz Netherlands 114 MEASLES NO 
+9479 Sxxagriycxud Ybhetwsj Netherlands 47 MEASLES YES 14-9-2008
+6765 Mhfgdi Tmijmlyj Netherlands 106 POLIO YES 10-11-2010
+8276 Qottvzwx Lcdeyps Netherlands 85 HEPATITIS-B YES 7-2-2011
+8276 Qottvzwx Lcdeyps Netherlands 85 MEASLES YES 13-1-2018
+3031 Aoglz Igsuqq Netherlands 113 CHICKENPOX NO 
+112 Gsbnk Ytripn Netherlands 70 TETANUS NO 
+2383 Hlqbkgbdu Recepztou Netherlands 111 HIB YES 1-11-2019
+9479 Sxxagriycxud Ybhetwsj Netherlands 47 FLU NO 
+8276 Qottvzwx Lcdeyps Netherlands 85 POLIO NO 
+1729 Ulaagi Dldbqrtamrz Netherlands 114 TETANUS NO 
+639 Mwjld Pryglrriodo Netherlands 91 COVID-19 NO 
+7404 Gce Iupckunqc Netherlands 8 COVID-19 YES 14-11-2019
+9436 Nbrusxm Bjtnvqrwscxl Netherlands 39 HEPATITIS-B YES 5-8-2002
+9479 Sxxagriycxud Ybhetwsj Netherlands 47 HEPATITIS-B YES 16-4-2008
+639 Mwjld Pryglrriodo Netherlands 91 RUBELLA NO 
+7119 Folwkw Lcll Netherlands 57 FLU YES 13-12-2009
+1719 Jzqthkhhq Hhlmhgz Netherlands 47 CHICKENPOX NO 
+2383 Hlqbkgbdu Recepztou Netherlands 111 HEPATITIS-B NO 
+3031 Aoglz Igsuqq Netherlands 113 HIB YES 24-8-2004
+6415 Ijidbhpye Vcxirwvck Netherlands 48 MEASLES NO 
+6765 Mhfgdi Tmijmlyj Netherlands 106 TETANUS YES 29-6-2009
+5377 Ardlfdhri Mmmsj Netherlands 66 TETANUS NO 
+5417 Dbg Uvuypbbyw Netherlands 25 POLIO NO 
+639 Mwjld Pryglrriodo Netherlands 91 COVID-19 NO 
+127 Zdjbttcbxv Arzc Netherlands 112 MEASLES NO 
+9446 Uyepea Vmjbjlkoyg Netherlands 60 HIB NO 
+6765 Mhfgdi Tmijmlyj Netherlands 106 RUBELLA YES 21-1-2006
+1033 Kucrzw Mugtar Netherlands 42 RUBELLA YES 10-10-2001
+9436 Nbrusxm Bjtnvqrwscxl Netherlands 39 HEPATITIS-A YES 29-3-2006
+779 Hnua Ezat Netherlands 119 COVID-19 NO 
+112 Gsbnk Ytripn Netherlands 70 RUBELLA YES 5-7-2014
+1755 Gwallrcyym Unjifwgw Netherlands 80 FLU YES 1-12-2020
+6230 Fbtf Efciijopl Netherlands 20 HEPATITIS-B YES 17-10-2003
+1033 Kucrzw Mugtar Netherlands 42 POLIO YES 13-12-2001
+5542 Ttpvnfv Kqotbdboue Netherlands 96 FLU NO 
+6415 Ijidbhpye Vcxirwvck Netherlands 48 HEPATITIS-B YES 22-2-2000
+9479 Sxxagriycxud Ybhetwsj Netherlands 47 HEPATITIS-A YES 22-7-2019
+7119 Folwkw Lcll Netherlands 57 HIB NO 
+188 Lbyuc Sucugy Netherlands 112 MEASLES NO 
+188 Lbyuc Sucugy Netherlands 112 POLIO NO 
+2383 Hlqbkgbdu Recepztou Netherlands 111 TETANUS NO 
+779 Hnua Ezat Netherlands 119 TETANUS NO 
+5542 Ttpvnfv Kqotbdboue Netherlands 96 RUBELLA YES 16-12-2005
+5377 Ardlfdhri Mmmsj Netherlands 66 HEPATITIS-B NO 
+9446 Uyepea Vmjbjlkoyg Netherlands 60 TETANUS YES 11-2-2003
+9479 Sxxagriycxud Ybhetwsj Netherlands 47 CHICKENPOX YES 1-11-2007
+3851 Detqvl Spmazju Netherlands 118 FLU NO 
+5377 Ardlfdhri Mmmsj Netherlands 66 TETANUS NO 
+5417 Dbg Uvuypbbyw Netherlands 25 HEPATITIS-B YES 24-7-2003
+9436 Nbrusxm Bjtnvqrwscxl Netherlands 39 CHICKENPOX YES 30-8-2004
+5377 Ardlfdhri Mmmsj Netherlands 66 RUBELLA NO 
+2383 Hlqbkgbdu Recepztou Netherlands 111 POLIO NO 
+7404 Gce Iupckunqc Netherlands 8 FLU NO 
+9479 Sxxagriycxud Ybhetwsj Netherlands 47 HEPATITIS-B YES 27-1-2020
+1729 Ulaagi Dldbqrtamrz Netherlands 114 HEPATITIS-B NO 

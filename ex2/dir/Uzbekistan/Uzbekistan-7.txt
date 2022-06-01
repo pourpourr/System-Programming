@@ -1,0 +1,39 @@
+
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 POLIO YES 29-2-2002
+5885 Aetdygkldeug Pgpit Uzbekistan 95 RUBELLA NO 
+3799 Dda Ign Uzbekistan 101 CHICKENPOX YES 19-3-2003
+3799 Dda Ign Uzbekistan 101 HEPATITIS-A NO 
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 HIB NO 
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 HIB YES 8-1-2005
+3799 Dda Ign Uzbekistan 101 FLU NO 
+8588 Uqrlnvmmb Ixvr Uzbekistan 77 HEPATITIS-A YES 4-4-2008
+8588 Uqrlnvmmb Ixvr Uzbekistan 77 COVID-19 NO 
+8588 Uqrlnvmmb Ixvr Uzbekistan 77 HEPATITIS-A YES 8-6-2007
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 HIB NO 
+35 Wonpczojk Xfpe Uzbekistan 119 HEPATITIS-A YES 28-10-2016
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 FLU YES 22-7-2006
+5368 Huxxxo Ovzjrimqhid Uzbekistan 119 FLU YES 4-9-2008
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 CHICKENPOX YES 6-7-2003
+5368 Huxxxo Ovzjrimqhid Uzbekistan 119 HIB YES 10-12-2011
+2938 Wzxjkunbl Ngynomnuld Uzbekistan 42 COVID-19 YES 10-12-2015
+5885 Aetdygkldeug Pgpit Uzbekistan 95 TETANUS YES 11-11-2016
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 POLIO YES 4-3-2003
+35 Wonpczojk Xfpe Uzbekistan 119 POLIO YES 2-1-2001
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 MEASLES NO 
+8588 Uqrlnvmmb Ixvr Uzbekistan 77 RUBELLA NO 
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 RUBELLA YES 25-12-2002
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 HEPATITIS-B YES 26-11-2000
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 HIB NO 
+3799 Dda Ign Uzbekistan 101 HIB YES 13-9-2019
+35 Wonpczojk Xfpe Uzbekistan 119 TETANUS YES 19-12-2013
+35 Wonpczojk Xfpe Uzbekistan 119 RUBELLA YES 22-2-2019
+5885 Aetdygkldeug Pgpit Uzbekistan 95 POLIO YES 28-6-2008
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 HIB YES 21-1-2001
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 CHICKENPOX NO 
+35 Wonpczojk Xfpe Uzbekistan 119 TETANUS NO 
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 FLU YES 16-8-2015
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 HEPATITIS-B YES 7-11-2016
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 RUBELLA NO 
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 HEPATITIS-B NO 
+5885 Aetdygkldeug Pgpit Uzbekistan 95 RUBELLA YES 18-6-2012
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 POLIO NO 

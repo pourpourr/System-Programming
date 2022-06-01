@@ -1,0 +1,41 @@
+
+1147 Fzz Qbyq Mongolia 102 POLIO NO 
+5660 Pofcytzqan Vvfvm Mongolia 87 HEPATITIS-B YES 7-8-2016
+2154 Mpe Vpkziqs Mongolia 109 HEPATITIS-A YES 28-4-2014
+1485 Jdduem Zbuzccpodqcp Mongolia 59 MEASLES NO 
+1220 Nwqvsotaqpx Wqbk Mongolia 38 RUBELLA YES 15-4-2002
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 HIB NO 
+5660 Pofcytzqan Vvfvm Mongolia 87 CHICKENPOX NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 HIB YES 4-12-2009
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 FLU YES 5-8-2013
+1781 Phheyo Xmiff Mongolia 8 CHICKENPOX NO 
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 POLIO NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 TETANUS NO 
+8798 Sxmovwhmo Cwppen Mongolia 70 HEPATITIS-A YES 25-7-2008
+299 Ugg Ubk Mongolia 82 POLIO NO 
+7558 Idcvnund Ikyspql Mongolia 80 HEPATITIS-A YES 28-4-2003
+2154 Mpe Vpkziqs Mongolia 109 HEPATITIS-B YES 17-4-2010
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 HEPATITIS-A YES 1-1-2001
+9211 Lyfx Ibxcalwsr Mongolia 57 CHICKENPOX NO 
+1781 Phheyo Xmiff Mongolia 8 POLIO YES 7-12-2002
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 HEPATITIS-A YES 20-11-2005
+6030 Itlkw Cegc Mongolia 102 COVID-19 NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 HEPATITIS-B YES 22-6-2008
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 HEPATITIS-B NO 
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 CHICKENPOX NO 
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 TETANUS NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 HEPATITIS-A NO 
+2154 Mpe Vpkziqs Mongolia 109 HEPATITIS-A YES 4-12-2005
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 RUBELLA NO 
+7321 Woesvm Rmacmkwrzsi Mongolia 49 FLU NO 
+7321 Woesvm Rmacmkwrzsi Mongolia 49 RUBELLA YES 13-12-2008
+9211 Lyfx Ibxcalwsr Mongolia 57 FLU NO 
+9106 Okbidx Wcosezxsskhb Mongolia 117 POLIO NO 
+2154 Mpe Vpkziqs Mongolia 109 HEPATITIS-A NO 
+1781 Phheyo Xmiff Mongolia 8 HEPATITIS-B NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 TETANUS YES 7-12-2019
+6054 Wqcuuzfsvwoi Uovwlpbjmfkx Mongolia 61 RUBELLA YES 18-10-2008
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 COVID-19 NO 
+1220 Nwqvsotaqpx Wqbk Mongolia 38 MEASLES NO 
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 FLU YES 4-11-2020
+718 Ccgbql Dwqaww Mongolia 40 HIB YES 15-2-2012

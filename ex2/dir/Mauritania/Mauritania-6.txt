@@ -1,0 +1,59 @@
+
+502 Sbjxcgl Qjhi Mauritania 111 COVID-19 NO 
+7204 Lxvduhmtql Qjgekdsxlnh Mauritania 26 HEPATITIS-A YES 9-12-2020
+6017 Mppfwbsp Xetjfvsdzhx Mauritania 13 TETANUS NO 
+5611 Mturmlg Fopvlbdl Mauritania 3 RUBELLA YES 19-8-2015
+6017 Mppfwbsp Xetjfvsdzhx Mauritania 13 CHICKENPOX NO 
+4524 Yywduxltvh Hxavoqwa Mauritania 22 RUBELLA YES 13-5-2018
+5825 Eqxqj Xivkazz Mauritania 13 COVID-19 NO 
+5611 Mturmlg Fopvlbdl Mauritania 3 MEASLES NO 
+4965 Ykeyhxknke Cmfgohh Mauritania 77 HIB NO 
+9147 Okkexghz Yjbptu Mauritania 91 TETANUS NO 
+502 Sbjxcgl Qjhi Mauritania 111 TETANUS YES 22-1-2011
+3407 Sjlhomr Hpkkbczvlbp Mauritania 2 HIB NO 
+5036 Eoqyifjra Dxjrx Mauritania 39 POLIO YES 28-8-2014
+1991 Vskavxiv Ozzhbzyyrvh Mauritania 13 COVID-19 YES 16-6-2010
+1466 Mcgxg Mhypvtetiwq Mauritania 73 HIB YES 2-3-2005
+1583 Tjnceywnox Czaxhetahm Mauritania 69 TETANUS YES 19-5-2009
+6386 Zdgsacttkxd Lzdwdvde Mauritania 46 FLU NO 
+5611 Mturmlg Fopvlbdl Mauritania 3 RUBELLA NO 
+1466 Mcgxg Mhypvtetiwq Mauritania 73 POLIO NO 
+5825 Eqxqj Xivkazz Mauritania 13 TETANUS YES 23-4-2010
+3407 Sjlhomr Hpkkbczvlbp Mauritania 2 HEPATITIS-A YES 6-12-2000
+1583 Tjnceywnox Czaxhetahm Mauritania 69 CHICKENPOX YES 30-1-2000
+6017 Mppfwbsp Xetjfvsdzhx Mauritania 13 RUBELLA YES 1-7-2003
+8518 Ggvakloxrqmy Iuiprzhjehc Mauritania 40 COVID-19 NO 
+6776 Kpyhglpoo Ragbh Mauritania 76 TETANUS NO 
+6776 Kpyhglpoo Ragbh Mauritania 76 HIB NO 
+4008 Lvzrijlan Jwpdf Mauritania 44 RUBELLA NO 
+6161 Seyrhkq Rnfetls Mauritania 105 MEASLES YES 13-1-2005
+5825 Eqxqj Xivkazz Mauritania 13 HIB NO 
+5825 Eqxqj Xivkazz Mauritania 13 HEPATITIS-B YES 17-9-2008
+9270 Audhrjw Ayy Mauritania 48 TETANUS YES 6-3-2013
+6161 Seyrhkq Rnfetls Mauritania 105 MEASLES YES 17-3-2014
+1583 Tjnceywnox Czaxhetahm Mauritania 69 POLIO YES 30-4-2002
+542 Djbqo Bqdfn Mauritania 25 TETANUS YES 20-6-2016
+8143 Qrudpdcj Eyejjoowqflh Mauritania 47 MEASLES NO 
+8143 Qrudpdcj Eyejjoowqflh Mauritania 47 HEPATITIS-B YES 29-5-2009
+1991 Vskavxiv Ozzhbzyyrvh Mauritania 13 COVID-19 NO 
+6161 Seyrhkq Rnfetls Mauritania 105 HEPATITIS-A YES 30-12-2000
+8143 Qrudpdcj Eyejjoowqflh Mauritania 47 COVID-19 NO 
+4965 Ykeyhxknke Cmfgohh Mauritania 77 TETANUS NO 
+834 Mbzq Qxlvhmrnwo Mauritania 74 MEASLES YES 19-2-2002
+3556 Gtq Dmdxqnutfu Mauritania 89 MEASLES YES 17-8-2011
+542 Djbqo Bqdfn Mauritania 25 COVID-19 YES 13-1-2013
+5036 Eoqyifjra Dxjrx Mauritania 39 HEPATITIS-B NO 
+5002 Gmsk Btyms Mauritania 15 HEPATITIS-B YES 5-8-2002
+6386 Zdgsacttkxd Lzdwdvde Mauritania 46 HIB YES 1-5-2015
+834 Mbzq Qxlvhmrnwo Mauritania 74 HEPATITIS-A YES 20-6-2008
+4965 Ykeyhxknke Cmfgohh Mauritania 77 HEPATITIS-B YES 6-4-2006
+1354 Wxdnzikmaep Yxpbz Mauritania 87 HEPATITIS-A NO 
+1466 Mcgxg Mhypvtetiwq Mauritania 73 POLIO YES 3-12-2009
+4008 Lvzrijlan Jwpdf Mauritania 44 CHICKENPOX NO 
+4524 Yywduxltvh Hxavoqwa Mauritania 22 CHICKENPOX NO 
+3407 Sjlhomr Hpkkbczvlbp Mauritania 2 TETANUS NO 
+1466 Mcgxg Mhypvtetiwq Mauritania 73 CHICKENPOX YES 1-9-2004
+5825 Eqxqj Xivkazz Mauritania 13 HEPATITIS-A NO 
+7641 Svxdhq Mqdoshv Mauritania 116 HEPATITIS-B YES 19-12-2004
+4965 Ykeyhxknke Cmfgohh Mauritania 77 FLU NO 
+5611 Mturmlg Fopvlbdl Mauritania 3 CHICKENPOX NO 

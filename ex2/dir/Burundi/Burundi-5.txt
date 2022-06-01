@@ -1,0 +1,47 @@
+
+1341 Nxfuqwsc Plicqqoa Burundi 4 FLU YES 15-2-2003
+9223 Wrnidqxvp Ercsqgibm Burundi 103 MEASLES NO 
+2685 Kafksdkiputw Mpew Burundi 82 HEPATITIS-B YES 25-9-2001
+2999 Vjmgyrxpbc Yhe Burundi 61 COVID-19 NO 
+2011 Jzsu Mzbihfecld Burundi 2 CHICKENPOX NO 
+7755 Yhev Uje Burundi 7 TETANUS YES 12-9-2004
+3024 Ngtqzbqninil Bkeovfstcmdz Burundi 91 COVID-19 NO 
+9747 Najr Pmfdpvctz Burundi 102 MEASLES NO 
+9747 Najr Pmfdpvctz Burundi 102 HEPATITIS-B NO 
+239 Lgk Toi Burundi 102 TETANUS YES 22-9-2014
+1341 Nxfuqwsc Plicqqoa Burundi 4 HIB YES 5-2-2007
+5112 Gvicjv Uzcl Burundi 9 MEASLES YES 9-5-2002
+9980 Cqetjvqy Xxbulpli Burundi 82 CHICKENPOX NO 
+2850 Qzrq Ybwg Burundi 71 CHICKENPOX YES 26-8-2011
+8147 Ldbky Fltadhghzxa Burundi 92 HEPATITIS-B YES 11-8-2009
+239 Lgk Toi Burundi 102 TETANUS YES 5-6-2017
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 HIB NO 
+239 Lgk Toi Burundi 102 MEASLES NO 
+6414 Yguiedvmpkgt Njeanmwxnzo Burundi 66 CHICKENPOX YES 18-4-2008
+2999 Vjmgyrxpbc Yhe Burundi 61 HEPATITIS-A YES 25-10-2007
+5112 Gvicjv Uzcl Burundi 9 POLIO YES 13-10-2013
+2685 Kafksdkiputw Mpew Burundi 82 CHICKENPOX YES 3-1-2005
+9213 Ewevdul Tzbrmaltkbl Burundi 99 HEPATITIS-B NO 
+2011 Jzsu Mzbihfecld Burundi 2 RUBELLA NO 
+7755 Yhev Uje Burundi 7 HEPATITIS-B NO 
+9213 Ewevdul Tzbrmaltkbl Burundi 99 HEPATITIS-A YES 24-9-2011
+7052 Yviymh Angsgsxoank Burundi 110 HIB YES 13-11-2019
+422 Kmhxupp Tilbxycqwruw Burundi 106 CHICKENPOX YES 23-12-2012
+5074 Rwanf Qxcel Burundi 67 HEPATITIS-A NO 
+2062 Egxlmwngd Buhjwkgnzc Burundi 43 COVID-19 YES 13-2-2008
+5074 Rwanf Qxcel Burundi 67 CHICKENPOX YES 14-8-2013
+2011 Jzsu Mzbihfecld Burundi 2 FLU YES 18-10-2000
+8147 Ldbky Fltadhghzxa Burundi 92 CHICKENPOX NO 
+8147 Ldbky Fltadhghzxa Burundi 92 COVID-19 NO 
+9980 Cqetjvqy Xxbulpli Burundi 82 COVID-19 NO 
+8721 Ztxdypyio Xqqtqaw Burundi 97 POLIO NO 
+2062 Egxlmwngd Buhjwkgnzc Burundi 43 POLIO YES 7-9-2013
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 FLU YES 17-8-2015
+9747 Najr Pmfdpvctz Burundi 102 CHICKENPOX YES 9-2-2017
+2685 Kafksdkiputw Mpew Burundi 82 RUBELLA YES 15-11-2014
+2011 Jzsu Mzbihfecld Burundi 2 RUBELLA NO 
+2685 Kafksdkiputw Mpew Burundi 82 FLU NO 
+2685 Kafksdkiputw Mpew Burundi 82 HEPATITIS-B NO 
+2011 Jzsu Mzbihfecld Burundi 2 COVID-19 NO 
+9223 Wrnidqxvp Ercsqgibm Burundi 103 RUBELLA YES 27-7-2018
+239 Lgk Toi Burundi 102 HEPATITIS-A NO 

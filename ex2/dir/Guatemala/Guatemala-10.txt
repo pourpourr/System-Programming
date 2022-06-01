@@ -1,0 +1,48 @@
+
+4531 Fjjvmfdtkqc Qwtkeqjfcke Guatemala 55 HEPATITIS-A NO 
+8554 Pimyfxwohbt Rfcvhixl Guatemala 55 MEASLES NO 
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 COVID-19 YES 8-8-2018
+5062 Pdmfor Vcygm Guatemala 34 RUBELLA NO 
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 COVID-19 NO 
+5988 Tcmvoku Tibqxpho Guatemala 43 TETANUS NO 
+2651 Fskovrhff Wvhfqx Guatemala 77 FLU NO 
+5988 Tcmvoku Tibqxpho Guatemala 43 MEASLES NO 
+6630 Zkim Xyrs Guatemala 49 MEASLES NO 
+5988 Tcmvoku Tibqxpho Guatemala 43 RUBELLA YES 29-12-2000
+5062 Pdmfor Vcygm Guatemala 34 COVID-19 NO 
+5062 Pdmfor Vcygm Guatemala 34 FLU NO 
+1361 Ybkwlkyojtbs Rwcdjpocod Guatemala 53 CHICKENPOX YES 11-12-2000
+144 Yeyw Ugidkqulm Guatemala 78 TETANUS NO 
+137 Adizumtk Oqw Guatemala 46 TETANUS NO 
+9768 Iebbzruzm Zoce Guatemala 100 MEASLES NO 
+5193 Dti Qwenebfhs Guatemala 42 HEPATITIS-A NO 
+2651 Fskovrhff Wvhfqx Guatemala 77 RUBELLA NO 
+1227 Yefubkox Ozskcqfxjk Guatemala 105 COVID-19 NO 
+1361 Ybkwlkyojtbs Rwcdjpocod Guatemala 53 HEPATITIS-B NO 
+144 Yeyw Ugidkqulm Guatemala 78 CHICKENPOX NO 
+5193 Dti Qwenebfhs Guatemala 42 RUBELLA YES 6-11-2001
+6630 Zkim Xyrs Guatemala 49 POLIO YES 29-4-2002
+5193 Dti Qwenebfhs Guatemala 42 CHICKENPOX YES 9-6-2010
+137 Adizumtk Oqw Guatemala 46 COVID-19 YES 27-2-2007
+9768 Iebbzruzm Zoce Guatemala 100 FLU YES 14-12-2017
+9879 Vkm Pcfxwxqgzj Guatemala 47 CHICKENPOX YES 26-4-2018
+5988 Tcmvoku Tibqxpho Guatemala 43 MEASLES YES 8-5-2001
+137 Adizumtk Oqw Guatemala 46 CHICKENPOX YES 21-9-2002
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 RUBELLA YES 18-12-2011
+5988 Tcmvoku Tibqxpho Guatemala 43 RUBELLA YES 19-10-2007
+1361 Ybkwlkyojtbs Rwcdjpocod Guatemala 53 MEASLES YES 26-11-2003
+9942 Olmmelirtfp Lkcntrpsqpu Guatemala 75 TETANUS YES 11-6-2010
+4893 Agk Ihyqvoysdzf Guatemala 109 FLU NO 
+8848 Uvh Juenxqpsli Guatemala 5 HEPATITIS-A NO 
+4372 Mwhrmfvvnm Tsrncahsa Guatemala 52 MEASLES NO 
+6042 Yqsnfhpxpq Zgtfpremw Guatemala 44 MEASLES NO 
+6042 Yqsnfhpxpq Zgtfpremw Guatemala 44 TETANUS YES 1-11-2007
+8848 Uvh Juenxqpsli Guatemala 5 HIB NO 
+6834 Lqohsfsbcf Vvxmiass Guatemala 22 TETANUS YES 17-8-2015
+6042 Yqsnfhpxpq Zgtfpremw Guatemala 44 COVID-19 NO 
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 COVID-19 NO 
+5193 Dti Qwenebfhs Guatemala 42 FLU YES 6-9-2017
+1227 Yefubkox Ozskcqfxjk Guatemala 105 TETANUS YES 17-3-2020
+1181 Qrmkkwvhe Sdmdilkwjev Guatemala 6 COVID-19 YES 20-4-2010
+8848 Uvh Juenxqpsli Guatemala 5 COVID-19 YES 12-8-2004
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 TETANUS YES 30-9-2003

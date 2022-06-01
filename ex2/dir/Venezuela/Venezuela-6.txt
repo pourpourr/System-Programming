@@ -1,0 +1,63 @@
+
+8197 Bcnhluhzr Epggwb Venezuela 36 FLU NO 
+9407 Wsiircicndkh Vry Venezuela 79 HEPATITIS-B YES 27-8-2007
+104 Odnq Ziil Venezuela 55 HEPATITIS-B NO 
+2529 Vyqrguxmn Vhu Venezuela 42 POLIO NO 
+2529 Vyqrguxmn Vhu Venezuela 42 MEASLES NO 
+2288 Eupfsahjsxnq Cnq Venezuela 91 HEPATITIS-B YES 6-11-2019
+2109 Wewe Wlfvl Venezuela 90 CHICKENPOX YES 15-12-2014
+2109 Wewe Wlfvl Venezuela 90 MEASLES YES 2-2-2009
+2288 Eupfsahjsxnq Cnq Venezuela 91 RUBELLA YES 12-2-2016
+1056 Bdh Ltrxmqok Venezuela 66 RUBELLA YES 21-10-2001
+9534 Ksmvznrl Wxq Venezuela 94 MEASLES YES 18-8-2003
+6931 Ldvkj Zawg Venezuela 28 HEPATITIS-A NO 
+2570 Bxs Fnujpjlqcfh Venezuela 21 RUBELLA NO 
+2060 Uzhvti Jmsyhhawp Venezuela 49 HEPATITIS-A NO 
+9407 Wsiircicndkh Vry Venezuela 79 COVID-19 YES 28-3-2006
+9534 Ksmvznrl Wxq Venezuela 94 HIB NO 
+2109 Wewe Wlfvl Venezuela 90 RUBELLA NO 
+6116 Bkfpxzlaphk Omqday Venezuela 98 CHICKENPOX NO 
+6116 Bkfpxzlaphk Omqday Venezuela 98 FLU NO 
+2109 Wewe Wlfvl Venezuela 90 FLU NO 
+8199 Hvjmhhozosg Abgshrzi Venezuela 119 FLU NO 
+4277 Feqmufhlhkoz Npii Venezuela 96 TETANUS NO 
+9037 Tmlbnncilxqq Iwuix Venezuela 56 HEPATITIS-B YES 11-3-2001
+9534 Ksmvznrl Wxq Venezuela 94 RUBELLA NO 
+4149 Mnlzpphyisc Gzbxc Venezuela 82 HEPATITIS-A YES 29-2-2003
+9407 Wsiircicndkh Vry Venezuela 79 RUBELLA NO 
+104 Odnq Ziil Venezuela 55 HEPATITIS-A YES 7-3-2002
+2109 Wewe Wlfvl Venezuela 90 CHICKENPOX YES 15-10-2013
+8524 Aypacjlqqiq Osa Venezuela 29 HIB YES 16-10-2005
+4277 Feqmufhlhkoz Npii Venezuela 96 HEPATITIS-B YES 6-4-2019
+5808 Vbfu Ztuvjhkyvc Venezuela 84 HEPATITIS-A NO 
+9407 Wsiircicndkh Vry Venezuela 79 TETANUS YES 23-7-2000
+2109 Wewe Wlfvl Venezuela 90 FLU NO 
+2060 Uzhvti Jmsyhhawp Venezuela 49 COVID-19 NO 
+1426 Ocbyhf Qrfhcug Venezuela 86 FLU YES 14-3-2019
+2529 Vyqrguxmn Vhu Venezuela 42 TETANUS NO 
+5808 Vbfu Ztuvjhkyvc Venezuela 84 POLIO YES 9-7-2005
+3230 Mrrer Upjptasft Venezuela 79 TETANUS YES 12-10-2020
+9407 Wsiircicndkh Vry Venezuela 79 MEASLES YES 6-10-2007
+2060 Uzhvti Jmsyhhawp Venezuela 49 TETANUS YES 24-4-2015
+5852 Xwnfl Tcmkucrhndgh Venezuela 31 TETANUS NO 
+2109 Wewe Wlfvl Venezuela 90 RUBELLA YES 17-12-2005
+331 Puqrgqf Cjatld Venezuela 10 HIB NO 
+8197 Bcnhluhzr Epggwb Venezuela 36 COVID-19 NO 
+2570 Bxs Fnujpjlqcfh Venezuela 21 HEPATITIS-A YES 9-2-2009
+8057 Trlv Pjfuntajn Venezuela 104 HEPATITIS-B YES 19-11-2003
+2529 Vyqrguxmn Vhu Venezuela 42 HEPATITIS-B NO 
+121 Lxgtd Pllie Venezuela 66 HEPATITIS-A YES 13-4-2009
+4060 Rtgpkzys Ubqz Venezuela 76 RUBELLA YES 10-5-2020
+4149 Mnlzpphyisc Gzbxc Venezuela 82 HEPATITIS-B NO 
+6300 Rfydpinbsu Mzhuyv Venezuela 61 RUBELLA NO 
+8199 Hvjmhhozosg Abgshrzi Venezuela 119 POLIO YES 7-4-2014
+9037 Tmlbnncilxqq Iwuix Venezuela 56 RUBELLA NO 
+9534 Ksmvznrl Wxq Venezuela 94 HEPATITIS-B YES 11-5-2017
+8011 Kfvuhkqho Osx Venezuela 94 HEPATITIS-B YES 10-12-2011
+8791 Jaloqtq Oyzkyxjzsdy Venezuela 83 TETANUS YES 14-7-2010
+3230 Mrrer Upjptasft Venezuela 79 HEPATITIS-A YES 6-3-2018
+2288 Eupfsahjsxnq Cnq Venezuela 91 RUBELLA YES 9-3-2016
+4060 Rtgpkzys Ubqz Venezuela 76 RUBELLA NO 
+2060 Uzhvti Jmsyhhawp Venezuela 49 COVID-19 YES 10-9-2003
+8524 Aypacjlqqiq Osa Venezuela 29 HEPATITIS-B NO 
+5852 Xwnfl Tcmkucrhndgh Venezuela 31 COVID-19 NO 

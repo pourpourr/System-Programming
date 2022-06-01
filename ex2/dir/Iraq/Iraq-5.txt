@@ -1,0 +1,43 @@
+
+9526 Fpcxvlpnrf Clkxwhtg Iraq 91 RUBELLA NO 
+5511 Kykkv Koqkdrbhsibf Iraq 81 RUBELLA NO 
+6472 Tpbrql Enxgtambjh Iraq 64 FLU YES 19-3-2000
+8314 Filuapwk Itihzdv Iraq 16 COVID-19 NO 
+9846 Swopiq Ubayuyjjehac Iraq 28 MEASLES YES 14-2-2011
+9526 Fpcxvlpnrf Clkxwhtg Iraq 91 TETANUS YES 25-7-2004
+9686 Kwhvvmpyqsg Sqbow Iraq 2 HEPATITIS-A YES 27-12-2005
+9526 Fpcxvlpnrf Clkxwhtg Iraq 91 HEPATITIS-A YES 15-9-2020
+2255 Iiveblvdthg Kptujqcu Iraq 101 CHICKENPOX NO 
+5511 Kykkv Koqkdrbhsibf Iraq 81 HEPATITIS-B NO 
+131 Rglyauaicyqz Yrgww Iraq 24 HIB YES 19-9-2015
+5511 Kykkv Koqkdrbhsibf Iraq 81 HEPATITIS-A NO 
+9686 Kwhvvmpyqsg Sqbow Iraq 2 HIB YES 11-8-2009
+6472 Tpbrql Enxgtambjh Iraq 64 RUBELLA NO 
+6730 Xkid Skewiebe Iraq 69 FLU NO 
+9166 Kaapqqrfchd Elzysqdlduu Iraq 6 RUBELLA YES 30-10-2005
+4296 Qfo Acbqdhqu Iraq 60 HIB YES 4-4-2000
+4296 Qfo Acbqdhqu Iraq 60 COVID-19 YES 10-8-2001
+6472 Tpbrql Enxgtambjh Iraq 64 COVID-19 YES 9-4-2005
+6654 Cqw Ocmjya Iraq 8 HEPATITIS-A NO 
+9166 Kaapqqrfchd Elzysqdlduu Iraq 6 RUBELLA NO 
+5511 Kykkv Koqkdrbhsibf Iraq 81 HEPATITIS-A NO 
+2255 Iiveblvdthg Kptujqcu Iraq 101 POLIO YES 9-9-2011
+211 Ruhdlplios Dcktjjr Iraq 14 CHICKENPOX YES 1-3-2004
+2791 Zlcn Pfptovikg Iraq 64 HIB YES 19-8-2007
+4296 Qfo Acbqdhqu Iraq 60 TETANUS NO 
+9787 Mpjzaq Hkgxvxb Iraq 115 HIB NO 
+3336 Atkuqwqx Qhpzokqupt Iraq 7 POLIO NO 
+2255 Iiveblvdthg Kptujqcu Iraq 101 HEPATITIS-B YES 1-10-2011
+6472 Tpbrql Enxgtambjh Iraq 64 HEPATITIS-B YES 30-3-2019
+7525 Ylrouavv Nqpqhsaow Iraq 71 HIB NO 
+2255 Iiveblvdthg Kptujqcu Iraq 101 HIB YES 4-2-2016
+9459 Ssnjsunvdup Ualrceau Iraq 93 CHICKENPOX NO 
+9166 Kaapqqrfchd Elzysqdlduu Iraq 6 POLIO NO 
+7525 Ylrouavv Nqpqhsaow Iraq 71 TETANUS NO 
+9787 Mpjzaq Hkgxvxb Iraq 115 HEPATITIS-B YES 9-12-2016
+7525 Ylrouavv Nqpqhsaow Iraq 71 HIB YES 27-6-2016
+9787 Mpjzaq Hkgxvxb Iraq 115 HIB YES 30-5-2018
+6654 Cqw Ocmjya Iraq 8 COVID-19 NO 
+7525 Ylrouavv Nqpqhsaow Iraq 71 HEPATITIS-B NO 
+9846 Swopiq Ubayuyjjehac Iraq 28 MEASLES YES 1-6-2013
+7525 Ylrouavv Nqpqhsaow Iraq 71 CHICKENPOX NO 

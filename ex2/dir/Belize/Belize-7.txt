@@ -1,0 +1,44 @@
+
+1668 Oqcffafj Ndgoz Belize 99 TETANUS YES 28-5-2018
+8695 Dhdn Jrshwiih Belize 75 COVID-19 YES 2-1-2004
+873 Mcfkfdkd Ajubtuqyetz Belize 60 HEPATITIS-B YES 6-10-2003
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 FLU YES 19-11-2000
+8016 Wexpzni Jxnafz Belize 113 CHICKENPOX NO 
+7923 Ctch Bfwynufsnim Belize 56 HEPATITIS-A YES 9-1-2011
+8016 Wexpzni Jxnafz Belize 113 RUBELLA YES 3-10-2009
+1668 Oqcffafj Ndgoz Belize 99 HIB YES 20-6-2002
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 FLU YES 4-10-2015
+2358 Dstwlhqxehb Saz Belize 76 HIB NO 
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 CHICKENPOX NO 
+8016 Wexpzni Jxnafz Belize 113 POLIO YES 11-10-2011
+872 Wixgt Iclytamp Belize 73 HIB NO 
+2358 Dstwlhqxehb Saz Belize 76 RUBELLA YES 1-12-2019
+7567 Cuqioeovo Jroiws Belize 17 MEASLES YES 4-1-2014
+7567 Cuqioeovo Jroiws Belize 17 MEASLES YES 30-12-2004
+873 Mcfkfdkd Ajubtuqyetz Belize 60 HEPATITIS-B NO 
+1668 Oqcffafj Ndgoz Belize 99 COVID-19 YES 13-10-2003
+6436 Wckzxe Idacrkmwc Belize 94 HEPATITIS-A YES 29-1-2014
+872 Wixgt Iclytamp Belize 73 RUBELLA NO 
+2286 Luslauqhj Afce Belize 10 MEASLES NO 
+4930 Bakykgi Tlobmt Belize 118 TETANUS YES 26-8-2010
+3395 Ymsnkpztk Ktmb Belize 20 HEPATITIS-B NO 
+4930 Bakykgi Tlobmt Belize 118 POLIO YES 19-9-2013
+7567 Cuqioeovo Jroiws Belize 17 HEPATITIS-A NO 
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 HIB NO 
+2286 Luslauqhj Afce Belize 10 POLIO YES 10-3-2013
+1668 Oqcffafj Ndgoz Belize 99 HEPATITIS-A NO 
+9302 Mmmt Cfvf Belize 7 HEPATITIS-B NO 
+901 Jdeemu Utpuzv Belize 17 FLU NO 
+4930 Bakykgi Tlobmt Belize 118 HEPATITIS-B YES 1-3-2013
+7906 Bqtves Qetikxnespvd Belize 63 COVID-19 YES 4-6-2005
+2286 Luslauqhj Afce Belize 10 TETANUS YES 29-12-2011
+1668 Oqcffafj Ndgoz Belize 99 HEPATITIS-B NO 
+4930 Bakykgi Tlobmt Belize 118 TETANUS NO 
+2286 Luslauqhj Afce Belize 10 CHICKENPOX YES 15-1-2017
+7906 Bqtves Qetikxnespvd Belize 63 COVID-19 YES 23-1-2017
+8016 Wexpzni Jxnafz Belize 113 CHICKENPOX NO 
+7923 Ctch Bfwynufsnim Belize 56 COVID-19 NO 
+872 Wixgt Iclytamp Belize 73 POLIO NO 
+7906 Bqtves Qetikxnespvd Belize 63 TETANUS YES 5-12-2012
+2286 Luslauqhj Afce Belize 10 FLU NO 
+9302 Mmmt Cfvf Belize 7 TETANUS NO 

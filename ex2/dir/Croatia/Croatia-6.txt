@@ -1,0 +1,60 @@
+
+1744 Etvsy Fkrfhl Croatia 117 POLIO NO 
+2472 Uilmmkhqpk Mdkg Croatia 24 RUBELLA NO 
+3273 Tmhzgio Dkhnwjrfz Croatia 92 HEPATITIS-B YES 26-4-2003
+4319 Ajqlhrzqet Fuzqvykujni Croatia 81 MEASLES YES 3-12-2004
+1267 Tddqijx Bgy Croatia 22 FLU NO 
+4868 Deyei Dauhhkshpux Croatia 61 HEPATITIS-B NO 
+1267 Tddqijx Bgy Croatia 22 COVID-19 NO 
+3882 Rzgsgjv Nrpxmqb Croatia 76 HEPATITIS-A NO 
+4319 Ajqlhrzqet Fuzqvykujni Croatia 81 HIB NO 
+4319 Ajqlhrzqet Fuzqvykujni Croatia 81 COVID-19 YES 6-3-2006
+690 Yzwnai Wzntjexghc Croatia 52 HIB YES 28-3-2012
+1267 Tddqijx Bgy Croatia 22 COVID-19 YES 27-9-2006
+4868 Deyei Dauhhkshpux Croatia 61 HIB YES 23-6-2016
+2472 Uilmmkhqpk Mdkg Croatia 24 FLU YES 25-11-2003
+7363 Bcw Idptlwt Croatia 32 RUBELLA NO 
+5021 Bnple Zrft Croatia 105 POLIO YES 25-4-2019
+2472 Uilmmkhqpk Mdkg Croatia 24 COVID-19 YES 8-12-2016
+4049 Adce Uobzk Croatia 19 COVID-19 YES 23-10-2018
+4603 Jnxqwmrqcs Ssgcyvjrg Croatia 85 FLU NO 
+980 Ickcf Xlr Croatia 7 RUBELLA YES 17-2-2013
+4319 Ajqlhrzqet Fuzqvykujni Croatia 81 HEPATITIS-B NO 
+5734 Aukgkuevf Wikq Croatia 51 TETANUS YES 22-10-2014
+980 Ickcf Xlr Croatia 7 POLIO NO 
+2472 Uilmmkhqpk Mdkg Croatia 24 POLIO YES 12-4-2010
+4049 Adce Uobzk Croatia 19 TETANUS NO 
+1744 Etvsy Fkrfhl Croatia 117 RUBELLA YES 8-9-2002
+4603 Jnxqwmrqcs Ssgcyvjrg Croatia 85 TETANUS YES 19-3-2012
+4603 Jnxqwmrqcs Ssgcyvjrg Croatia 85 TETANUS YES 8-7-2006
+2472 Uilmmkhqpk Mdkg Croatia 24 FLU YES 22-3-2006
+980 Ickcf Xlr Croatia 7 HIB YES 10-4-2013
+690 Yzwnai Wzntjexghc Croatia 52 COVID-19 NO 
+690 Yzwnai Wzntjexghc Croatia 52 MEASLES YES 19-6-2013
+3305 Lgszlhnmquii Zhhaxbv Croatia 2 HEPATITIS-B NO 
+4603 Jnxqwmrqcs Ssgcyvjrg Croatia 85 MEASLES YES 4-10-2004
+4319 Ajqlhrzqet Fuzqvykujni Croatia 81 HEPATITIS-B NO 
+1909 Zlbbcmiqq Gumduf Croatia 40 MEASLES NO 
+2818 Hsfjfqfbahfx Tdm Croatia 84 MEASLES YES 16-5-2014
+690 Yzwnai Wzntjexghc Croatia 52 POLIO YES 6-6-2018
+980 Ickcf Xlr Croatia 7 FLU NO 
+7363 Bcw Idptlwt Croatia 32 RUBELLA NO 
+4319 Ajqlhrzqet Fuzqvykujni Croatia 81 CHICKENPOX YES 21-12-2002
+1175 Gblebxxh Hwtld Croatia 57 MEASLES YES 12-6-2007
+4049 Adce Uobzk Croatia 19 HEPATITIS-A YES 15-10-2003
+1152 Ksxjsrhr Lovhuyaxkng Croatia 24 TETANUS YES 30-12-2013
+465 Bhm Wpnszbi Croatia 32 FLU YES 21-3-2007
+1267 Tddqijx Bgy Croatia 22 TETANUS YES 20-3-2020
+9429 Guxmkqqs Atvzztyac Croatia 31 MEASLES YES 25-3-2012
+980 Ickcf Xlr Croatia 7 POLIO YES 9-8-2010
+5530 Zncaclrte Pjztch Croatia 8 TETANUS YES 22-3-2009
+5734 Aukgkuevf Wikq Croatia 51 RUBELLA YES 26-1-2004
+690 Yzwnai Wzntjexghc Croatia 52 TETANUS NO 
+3273 Tmhzgio Dkhnwjrfz Croatia 92 RUBELLA NO 
+1175 Gblebxxh Hwtld Croatia 57 POLIO NO 
+3273 Tmhzgio Dkhnwjrfz Croatia 92 COVID-19 NO 
+1267 Tddqijx Bgy Croatia 22 HIB NO 
+5021 Bnple Zrft Croatia 105 TETANUS NO 
+2472 Uilmmkhqpk Mdkg Croatia 24 HEPATITIS-B NO 
+9429 Guxmkqqs Atvzztyac Croatia 31 HEPATITIS-A YES 4-5-2001
+7363 Bcw Idptlwt Croatia 32 CHICKENPOX NO 

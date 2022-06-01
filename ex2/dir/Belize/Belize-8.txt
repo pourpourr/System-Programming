@@ -1,0 +1,44 @@
+
+7567 Cuqioeovo Jroiws Belize 17 POLIO YES 26-10-2000
+901 Jdeemu Utpuzv Belize 17 RUBELLA YES 11-11-2009
+6436 Wckzxe Idacrkmwc Belize 94 HEPATITIS-B YES 21-7-2007
+7567 Cuqioeovo Jroiws Belize 17 FLU NO 
+7567 Cuqioeovo Jroiws Belize 17 FLU NO 
+2358 Dstwlhqxehb Saz Belize 76 FLU YES 5-8-2007
+4930 Bakykgi Tlobmt Belize 118 HIB YES 28-11-2009
+7567 Cuqioeovo Jroiws Belize 17 POLIO NO 
+3780 Kprrcnpfzb Dsqhqmurilc Belize 52 HEPATITIS-B YES 13-11-2002
+4930 Bakykgi Tlobmt Belize 118 TETANUS NO 
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 RUBELLA YES 4-1-2016
+872 Wixgt Iclytamp Belize 73 FLU NO 
+7906 Bqtves Qetikxnespvd Belize 63 MEASLES NO 
+8695 Dhdn Jrshwiih Belize 75 FLU YES 24-3-2020
+867 Mzkyaq Tqoho Belize 23 HEPATITIS-B NO 
+873 Mcfkfdkd Ajubtuqyetz Belize 60 RUBELLA YES 7-12-2002
+6436 Wckzxe Idacrkmwc Belize 94 HEPATITIS-A NO 
+9302 Mmmt Cfvf Belize 7 COVID-19 YES 20-7-2018
+7923 Ctch Bfwynufsnim Belize 56 FLU NO 
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 FLU NO 
+9210 Movfpbtmoz Qbaeknwx Belize 31 CHICKENPOX YES 30-9-2008
+7567 Cuqioeovo Jroiws Belize 17 RUBELLA NO 
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 HEPATITIS-A YES 21-9-2000
+6436 Wckzxe Idacrkmwc Belize 94 HEPATITIS-B YES 18-12-2011
+9210 Movfpbtmoz Qbaeknwx Belize 31 TETANUS NO 
+2286 Luslauqhj Afce Belize 10 FLU NO 
+901 Jdeemu Utpuzv Belize 17 HIB NO 
+9302 Mmmt Cfvf Belize 7 HEPATITIS-B NO 
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 HEPATITIS-B YES 6-8-2009
+9210 Movfpbtmoz Qbaeknwx Belize 31 POLIO NO 
+2358 Dstwlhqxehb Saz Belize 76 HIB YES 11-9-2002
+8695 Dhdn Jrshwiih Belize 75 RUBELLA YES 28-11-2010
+7923 Ctch Bfwynufsnim Belize 56 CHICKENPOX NO 
+8016 Wexpzni Jxnafz Belize 113 FLU NO 
+3780 Kprrcnpfzb Dsqhqmurilc Belize 52 HIB NO 
+867 Mzkyaq Tqoho Belize 23 RUBELLA NO 
+7567 Cuqioeovo Jroiws Belize 17 POLIO NO 
+9210 Movfpbtmoz Qbaeknwx Belize 31 COVID-19 YES 8-12-2002
+7923 Ctch Bfwynufsnim Belize 56 HEPATITIS-A YES 10-8-2019
+873 Mcfkfdkd Ajubtuqyetz Belize 60 HIB NO 
+901 Jdeemu Utpuzv Belize 17 RUBELLA NO 
+872 Wixgt Iclytamp Belize 73 TETANUS YES 27-11-2011
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 HIB NO 

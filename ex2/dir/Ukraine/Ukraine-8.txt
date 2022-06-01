@@ -1,0 +1,31 @@
+
+4581 Tlbvebwphoj Vorym Ukraine 100 RUBELLA YES 6-1-2019
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 HEPATITIS-B NO 
+1754 Fbwkkhusg Cmzxorsstjr Ukraine 93 CHICKENPOX YES 15-4-2013
+1754 Fbwkkhusg Cmzxorsstjr Ukraine 93 MEASLES YES 9-2-2014
+1754 Fbwkkhusg Cmzxorsstjr Ukraine 93 HEPATITIS-A NO 
+6726 Ublyjzi Obzdiwst Ukraine 70 TETANUS YES 21-1-2000
+6785 Typcgjvnc Pefcvzj Ukraine 81 HIB YES 21-10-2003
+1793 Nqrawjnim Yxmrqh Ukraine 108 TETANUS NO 
+125 Fbtr Mlysxut Ukraine 86 HEPATITIS-B YES 20-3-2009
+1005 Tvrlbwzzlk Icrkvmgtsstw Ukraine 17 POLIO YES 26-12-2004
+1754 Fbwkkhusg Cmzxorsstjr Ukraine 93 FLU YES 2-4-2016
+7821 Drjdn Cmqk Ukraine 78 HIB YES 17-6-2005
+7821 Drjdn Cmqk Ukraine 78 HEPATITIS-B YES 5-11-2005
+7821 Drjdn Cmqk Ukraine 78 FLU NO 
+1292 Kfwnkylxgu Ikojpsqiujc Ukraine 94 COVID-19 YES 28-9-2002
+125 Fbtr Mlysxut Ukraine 86 COVID-19 YES 3-3-2003
+125 Fbtr Mlysxut Ukraine 86 TETANUS NO 
+1292 Kfwnkylxgu Ikojpsqiujc Ukraine 94 MEASLES YES 10-6-2020
+6785 Typcgjvnc Pefcvzj Ukraine 81 MEASLES YES 23-1-2011
+6785 Typcgjvnc Pefcvzj Ukraine 81 CHICKENPOX NO 
+125 Fbtr Mlysxut Ukraine 86 CHICKENPOX YES 7-9-2003
+125 Fbtr Mlysxut Ukraine 86 CHICKENPOX NO 
+1292 Kfwnkylxgu Ikojpsqiujc Ukraine 94 RUBELLA YES 6-3-2003
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 HEPATITIS-B YES 26-7-2018
+7821 Drjdn Cmqk Ukraine 78 POLIO NO 
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 FLU YES 1-2-2014
+6726 Ublyjzi Obzdiwst Ukraine 70 FLU YES 24-12-2012
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 HIB NO 
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 POLIO YES 24-6-2012
+6785 Typcgjvnc Pefcvzj Ukraine 81 TETANUS NO 

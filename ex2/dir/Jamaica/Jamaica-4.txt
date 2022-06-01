@@ -1,0 +1,46 @@
+
+8663 Zzai Bqanlw Jamaica 15 POLIO YES 20-3-2020
+312 Rbymgnuj Tnblof Jamaica 89 HEPATITIS-B YES 10-12-2020
+7816 Bzbuzifjewre Kgqz Jamaica 49 MEASLES NO 
+5033 Owofyrpypli Ygsiochhhvtv Jamaica 2 RUBELLA NO 
+4649 Gmnvrfhzpxgw Gkppufesv Jamaica 14 FLU NO 
+4548 Qcvaajx Fpbw Jamaica 20 FLU NO 
+7816 Bzbuzifjewre Kgqz Jamaica 49 COVID-19 YES 20-5-2008
+111 Qvj Pnjgtedr Jamaica 50 MEASLES NO 
+4649 Gmnvrfhzpxgw Gkppufesv Jamaica 14 COVID-19 YES 13-4-2008
+6516 Tfos Xngjn Jamaica 51 MEASLES NO 
+3313 Buumrlj Xozxektefiqb Jamaica 14 FLU YES 4-12-2019
+2596 Boqzd Esnq Jamaica 104 POLIO NO 
+5033 Owofyrpypli Ygsiochhhvtv Jamaica 2 POLIO NO 
+7474 Czutnretcjox Qgd Jamaica 10 TETANUS YES 28-3-2013
+3313 Buumrlj Xozxektefiqb Jamaica 14 CHICKENPOX NO 
+5972 Xltx Pfkckuvzwwv Jamaica 72 COVID-19 YES 12-1-2008
+2596 Boqzd Esnq Jamaica 104 RUBELLA NO 
+6854 Fllspktg Etl Jamaica 69 HEPATITIS-B YES 24-9-2016
+3313 Buumrlj Xozxektefiqb Jamaica 14 POLIO YES 9-9-2003
+3166 Pixjae Pyt Jamaica 104 TETANUS NO 
+6516 Tfos Xngjn Jamaica 51 HEPATITIS-A YES 28-9-2018
+7816 Bzbuzifjewre Kgqz Jamaica 49 RUBELLA YES 22-6-2005
+3166 Pixjae Pyt Jamaica 104 HEPATITIS-A YES 7-1-2006
+2596 Boqzd Esnq Jamaica 104 HIB YES 17-6-2017
+2596 Boqzd Esnq Jamaica 104 HIB NO 
+2560 Gitxohfmzzh Uuhx Jamaica 46 RUBELLA YES 18-1-2004
+5033 Owofyrpypli Ygsiochhhvtv Jamaica 2 FLU NO 
+1842 Aykb Xzeutecs Jamaica 4 MEASLES YES 18-2-2009
+5627 Bqzjbvyexf Bphkcmcdj Jamaica 8 COVID-19 NO 
+6516 Tfos Xngjn Jamaica 51 RUBELLA YES 11-5-2005
+5972 Xltx Pfkckuvzwwv Jamaica 72 RUBELLA NO 
+3313 Buumrlj Xozxektefiqb Jamaica 14 TETANUS YES 7-1-2019
+8663 Zzai Bqanlw Jamaica 15 HEPATITIS-A YES 6-11-2009
+7816 Bzbuzifjewre Kgqz Jamaica 49 TETANUS NO 
+9452 Gjfsoztcq Oozh Jamaica 35 TETANUS NO 
+3558 Wxxbgjbecesu Hsxxm Jamaica 48 CHICKENPOX NO 
+6516 Tfos Xngjn Jamaica 51 HIB NO 
+2596 Boqzd Esnq Jamaica 104 RUBELLA NO 
+646 Pchu Kqvoxzmoi Jamaica 120 POLIO NO 
+2596 Boqzd Esnq Jamaica 104 HIB YES 26-3-2015
+5033 Owofyrpypli Ygsiochhhvtv Jamaica 2 RUBELLA YES 8-9-2013
+646 Pchu Kqvoxzmoi Jamaica 120 MEASLES NO 
+5627 Bqzjbvyexf Bphkcmcdj Jamaica 8 HIB YES 25-4-2006
+6516 Tfos Xngjn Jamaica 51 FLU YES 3-2-2018
+5972 Xltx Pfkckuvzwwv Jamaica 72 RUBELLA NO 

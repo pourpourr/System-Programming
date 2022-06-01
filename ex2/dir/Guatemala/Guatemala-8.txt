@@ -1,0 +1,49 @@
+
+4893 Agk Ihyqvoysdzf Guatemala 109 HEPATITIS-A YES 6-9-2008
+9942 Olmmelirtfp Lkcntrpsqpu Guatemala 75 TETANUS YES 17-7-2020
+9768 Iebbzruzm Zoce Guatemala 100 POLIO NO 
+1181 Qrmkkwvhe Sdmdilkwjev Guatemala 6 RUBELLA NO 
+137 Adizumtk Oqw Guatemala 46 COVID-19 YES 14-9-2004
+9768 Iebbzruzm Zoce Guatemala 100 COVID-19 YES 15-11-2000
+9879 Vkm Pcfxwxqgzj Guatemala 47 COVID-19 NO 
+4531 Fjjvmfdtkqc Qwtkeqjfcke Guatemala 55 HEPATITIS-B NO 
+9768 Iebbzruzm Zoce Guatemala 100 FLU YES 7-7-2017
+7566 Kkpg Kcturo Guatemala 63 HEPATITIS-A YES 19-2-2004
+5988 Tcmvoku Tibqxpho Guatemala 43 HEPATITIS-B YES 18-4-2009
+2651 Fskovrhff Wvhfqx Guatemala 77 RUBELLA NO 
+144 Yeyw Ugidkqulm Guatemala 78 HEPATITIS-A NO 
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 HEPATITIS-B YES 27-6-2000
+7566 Kkpg Kcturo Guatemala 63 HEPATITIS-A NO 
+4372 Mwhrmfvvnm Tsrncahsa Guatemala 52 HEPATITIS-A YES 4-10-2016
+6630 Zkim Xyrs Guatemala 49 RUBELLA YES 19-3-2012
+4840 Tffzzriqb Ygwoo Guatemala 90 HEPATITIS-B YES 21-3-2007
+4840 Tffzzriqb Ygwoo Guatemala 90 HEPATITIS-A NO 
+5193 Dti Qwenebfhs Guatemala 42 COVID-19 YES 29-7-2008
+2651 Fskovrhff Wvhfqx Guatemala 77 POLIO NO 
+4840 Tffzzriqb Ygwoo Guatemala 90 HIB YES 17-5-2002
+1361 Ybkwlkyojtbs Rwcdjpocod Guatemala 53 RUBELLA YES 14-6-2016
+9879 Vkm Pcfxwxqgzj Guatemala 47 FLU NO 
+1227 Yefubkox Ozskcqfxjk Guatemala 105 MEASLES NO 
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 TETANUS NO 
+144 Yeyw Ugidkqulm Guatemala 78 RUBELLA NO 
+1361 Ybkwlkyojtbs Rwcdjpocod Guatemala 53 COVID-19 YES 13-7-2000
+8848 Uvh Juenxqpsli Guatemala 5 HEPATITIS-A YES 4-3-2004
+144 Yeyw Ugidkqulm Guatemala 78 COVID-19 YES 7-11-2002
+1227 Yefubkox Ozskcqfxjk Guatemala 105 TETANUS YES 16-6-2019
+6630 Zkim Xyrs Guatemala 49 HEPATITIS-B NO 
+137 Adizumtk Oqw Guatemala 46 MEASLES NO 
+5988 Tcmvoku Tibqxpho Guatemala 43 HEPATITIS-A YES 1-3-2010
+5988 Tcmvoku Tibqxpho Guatemala 43 RUBELLA NO 
+5193 Dti Qwenebfhs Guatemala 42 POLIO YES 14-2-2007
+1181 Qrmkkwvhe Sdmdilkwjev Guatemala 6 MEASLES NO 
+5193 Dti Qwenebfhs Guatemala 42 CHICKENPOX YES 2-7-2000
+9879 Vkm Pcfxwxqgzj Guatemala 47 RUBELLA YES 11-12-2012
+4372 Mwhrmfvvnm Tsrncahsa Guatemala 52 MEASLES YES 1-4-2014
+6042 Yqsnfhpxpq Zgtfpremw Guatemala 44 HEPATITIS-A YES 12-9-2014
+5988 Tcmvoku Tibqxpho Guatemala 43 FLU NO 
+137 Adizumtk Oqw Guatemala 46 COVID-19 YES 9-2-2007
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 HEPATITIS-B YES 17-1-2012
+5988 Tcmvoku Tibqxpho Guatemala 43 POLIO YES 9-12-2000
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 HEPATITIS-B NO 
+1181 Qrmkkwvhe Sdmdilkwjev Guatemala 6 POLIO NO 
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 HEPATITIS-B YES 27-2-2011

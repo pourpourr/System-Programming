@@ -1,0 +1,38 @@
+
+1203 Evh Ulwhlntfztzj Bolivia 89 TETANUS NO 
+3376 Pnhsgh Krjybppbyiat Bolivia 22 POLIO NO 
+4608 Jembxvp Qvntiaiubvt Bolivia 22 HEPATITIS-A NO 
+398 Lmlj Bjxlts Bolivia 40 COVID-19 YES 13-6-2004
+9626 Ypped Vzfmtvy Bolivia 119 MEASLES NO 
+5834 Cqqb Oxxsotvbasgo Bolivia 38 TETANUS YES 10-2-2018
+1203 Evh Ulwhlntfztzj Bolivia 89 HIB NO 
+398 Lmlj Bjxlts Bolivia 40 TETANUS YES 14-11-2005
+4608 Jembxvp Qvntiaiubvt Bolivia 22 RUBELLA YES 10-6-2020
+398 Lmlj Bjxlts Bolivia 40 RUBELLA NO 
+9056 Mzlri Ozpgywan Bolivia 1 POLIO NO 
+4608 Jembxvp Qvntiaiubvt Bolivia 22 TETANUS YES 30-6-2013
+700 Eepssuycmt Bknpkzyn Bolivia 74 HIB YES 19-4-2007
+9056 Mzlri Ozpgywan Bolivia 1 HEPATITIS-A YES 22-9-2020
+398 Lmlj Bjxlts Bolivia 40 HEPATITIS-A YES 18-5-2005
+700 Eepssuycmt Bknpkzyn Bolivia 74 TETANUS NO 
+700 Eepssuycmt Bknpkzyn Bolivia 74 FLU NO 
+7022 Ipifckziin Fkkrub Bolivia 97 RUBELLA NO 
+4608 Jembxvp Qvntiaiubvt Bolivia 22 COVID-19 YES 28-2-2003
+9056 Mzlri Ozpgywan Bolivia 1 RUBELLA YES 3-12-2009
+5834 Cqqb Oxxsotvbasgo Bolivia 38 POLIO NO 
+5834 Cqqb Oxxsotvbasgo Bolivia 38 RUBELLA YES 16-11-2000
+7690 Azpx Jug Bolivia 65 HIB NO 
+4983 Dovu Jyie Bolivia 45 HIB NO 
+8866 Znsysbx Ujfessegleag Bolivia 42 COVID-19 YES 3-2-2016
+7690 Azpx Jug Bolivia 65 RUBELLA NO 
+8866 Znsysbx Ujfessegleag Bolivia 42 MEASLES YES 29-12-2016
+1060 Tazy Ovfknlhereb Bolivia 91 HEPATITIS-A NO 
+9626 Ypped Vzfmtvy Bolivia 119 FLU YES 21-5-2010
+3105 Tnlm Mmbarnzgqncp Bolivia 13 POLIO YES 22-1-2016
+8289 Divex Zqtiylj Bolivia 112 RUBELLA NO 
+7022 Ipifckziin Fkkrub Bolivia 97 HEPATITIS-B NO 
+3376 Pnhsgh Krjybppbyiat Bolivia 22 RUBELLA NO 
+8866 Znsysbx Ujfessegleag Bolivia 42 TETANUS NO 
+412 Hkaipromr Jpwrltkoeg Bolivia 60 HIB YES 18-3-2004
+3376 Pnhsgh Krjybppbyiat Bolivia 22 HEPATITIS-B YES 9-12-2010
+1203 Evh Ulwhlntfztzj Bolivia 89 COVID-19 YES 22-5-2007

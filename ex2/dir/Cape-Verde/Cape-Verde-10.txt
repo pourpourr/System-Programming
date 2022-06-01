@@ -1,0 +1,42 @@
+
+4520 Owgmkemvtm Ptwho Cape-Verde 4 POLIO NO 
+3072 Rerh Vju Cape-Verde 47 MEASLES NO 
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 HEPATITIS-A NO 
+9099 Bqqk Loap Cape-Verde 58 HIB YES 28-9-2000
+5737 Gtcwxwle Fsxtsdmqa Cape-Verde 38 MEASLES NO 
+5138 Hpzrbeju Nmjruvfmw Cape-Verde 102 COVID-19 NO 
+5138 Hpzrbeju Nmjruvfmw Cape-Verde 102 TETANUS YES 24-7-2011
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 COVID-19 YES 27-4-2013
+6411 Edeiye Xwd Cape-Verde 59 POLIO YES 20-7-2010
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 TETANUS YES 21-11-2001
+2775 Ety Yyfpaode Cape-Verde 31 HEPATITIS-B NO 
+7263 Nvypsmatnm Fpa Cape-Verde 40 COVID-19 NO 
+1440 Wdnjsmwbtujo Apc Cape-Verde 21 HIB YES 4-4-2009
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 FLU NO 
+4838 Fdbezyjgok Tvogwlfdz Cape-Verde 31 CHICKENPOX YES 18-9-2005
+2775 Ety Yyfpaode Cape-Verde 31 FLU NO 
+3107 Stktqgvgrl Xtvhu Cape-Verde 108 HIB NO 
+8670 Zvvkk Oooo Cape-Verde 101 MEASLES NO 
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 RUBELLA NO 
+2497 Lvjbpd Cso Cape-Verde 25 HEPATITIS-B YES 27-5-2006
+9815 Kih Qcivw Cape-Verde 6 TETANUS YES 28-3-2015
+6411 Edeiye Xwd Cape-Verde 59 MEASLES YES 1-4-2005
+4722 Ccng Karwoyambne Cape-Verde 34 COVID-19 YES 24-1-2016
+1611 Cnhutcxn Qylldafh Cape-Verde 59 TETANUS YES 11-10-2011
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 FLU NO 
+7263 Nvypsmatnm Fpa Cape-Verde 40 POLIO YES 13-8-2016
+4520 Owgmkemvtm Ptwho Cape-Verde 4 RUBELLA YES 29-12-2006
+3072 Rerh Vju Cape-Verde 47 RUBELLA YES 13-7-2020
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 TETANUS YES 5-8-2012
+4838 Fdbezyjgok Tvogwlfdz Cape-Verde 31 TETANUS YES 27-7-2008
+4838 Fdbezyjgok Tvogwlfdz Cape-Verde 31 COVID-19 YES 14-2-2016
+4722 Ccng Karwoyambne Cape-Verde 34 HEPATITIS-A YES 14-2-2020
+4722 Ccng Karwoyambne Cape-Verde 34 HIB YES 21-2-2000
+2775 Ety Yyfpaode Cape-Verde 31 RUBELLA NO 
+3107 Stktqgvgrl Xtvhu Cape-Verde 108 POLIO NO 
+1440 Wdnjsmwbtujo Apc Cape-Verde 21 COVID-19 YES 20-11-2018
+4722 Ccng Karwoyambne Cape-Verde 34 MEASLES YES 24-6-2007
+2497 Lvjbpd Cso Cape-Verde 25 TETANUS NO 
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 TETANUS YES 6-3-2001
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 TETANUS NO 
+9099 Bqqk Loap Cape-Verde 58 HIB YES 22-7-2019

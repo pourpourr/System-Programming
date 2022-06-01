@@ -1,0 +1,36 @@
+
+5307 Fos Jzfcv United-Arab-Emirates 57 FLU YES 4-12-2002
+7020 Cew Tqkux United-Arab-Emirates 9 HEPATITIS-B NO 
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 MEASLES NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 HIB YES 21-12-2019
+3489 Wdcuh Fgwftymmk United-Arab-Emirates 107 FLU NO 
+875 Tirvbm Bsgjn United-Arab-Emirates 67 FLU NO 
+875 Tirvbm Bsgjn United-Arab-Emirates 67 HIB NO 
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 POLIO YES 22-10-2007
+875 Tirvbm Bsgjn United-Arab-Emirates 67 HIB NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 COVID-19 YES 13-11-2004
+1036 Oixgjort Iasnc United-Arab-Emirates 105 MEASLES NO 
+6187 Nebzcmg Rutq United-Arab-Emirates 31 TETANUS YES 1-4-2008
+8868 Cir Cap United-Arab-Emirates 74 POLIO NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 HIB NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 HIB YES 27-12-2012
+7020 Cew Tqkux United-Arab-Emirates 9 POLIO YES 18-5-2007
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 MEASLES YES 21-2-2004
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 TETANUS YES 18-6-2005
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 TETANUS NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 FLU YES 7-12-2012
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 MEASLES NO 
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 POLIO NO 
+8868 Cir Cap United-Arab-Emirates 74 HEPATITIS-B NO 
+7020 Cew Tqkux United-Arab-Emirates 9 HIB YES 16-8-2004
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 HEPATITIS-B NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 POLIO YES 9-12-2008
+8868 Cir Cap United-Arab-Emirates 74 HEPATITIS-B YES 30-8-2012
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 COVID-19 NO 
+7020 Cew Tqkux United-Arab-Emirates 9 HIB YES 12-4-2002
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 MEASLES NO 
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 RUBELLA NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 TETANUS NO 
+6187 Nebzcmg Rutq United-Arab-Emirates 31 CHICKENPOX NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 CHICKENPOX NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 TETANUS NO 

@@ -1,0 +1,31 @@
+
+125 Fbtr Mlysxut Ukraine 86 POLIO NO 
+457 Ougzawloo Erntxluqwqu Ukraine 100 COVID-19 YES 24-6-2017
+6785 Typcgjvnc Pefcvzj Ukraine 81 TETANUS YES 21-8-2019
+644 Lshiot Ftnvdv Ukraine 25 RUBELLA NO 
+6785 Typcgjvnc Pefcvzj Ukraine 81 TETANUS YES 15-3-2001
+4030 Lliqubn Mavpqghi Ukraine 7 POLIO YES 9-1-2008
+1292 Kfwnkylxgu Ikojpsqiujc Ukraine 94 HIB NO 
+5797 Oxq Ldphsw Ukraine 41 HEPATITIS-B NO 
+1292 Kfwnkylxgu Ikojpsqiujc Ukraine 94 HEPATITIS-B YES 10-7-2006
+1793 Nqrawjnim Yxmrqh Ukraine 108 MEASLES YES 20-5-2020
+5797 Oxq Ldphsw Ukraine 41 COVID-19 NO 
+457 Ougzawloo Erntxluqwqu Ukraine 100 HEPATITIS-B NO 
+644 Lshiot Ftnvdv Ukraine 25 HEPATITIS-B NO 
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 HEPATITIS-A YES 28-3-2018
+4030 Lliqubn Mavpqghi Ukraine 7 POLIO YES 22-6-2011
+4581 Tlbvebwphoj Vorym Ukraine 100 COVID-19 YES 4-6-2005
+1292 Kfwnkylxgu Ikojpsqiujc Ukraine 94 HEPATITIS-B YES 18-1-2017
+6785 Typcgjvnc Pefcvzj Ukraine 81 TETANUS YES 7-6-2012
+7821 Drjdn Cmqk Ukraine 78 HEPATITIS-B NO 
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 HIB NO 
+1005 Tvrlbwzzlk Icrkvmgtsstw Ukraine 17 CHICKENPOX YES 15-8-2013
+1292 Kfwnkylxgu Ikojpsqiujc Ukraine 94 FLU YES 19-7-2014
+644 Lshiot Ftnvdv Ukraine 25 COVID-19 NO 
+6785 Typcgjvnc Pefcvzj Ukraine 81 POLIO NO 
+125 Fbtr Mlysxut Ukraine 86 FLU YES 14-5-2002
+4581 Tlbvebwphoj Vorym Ukraine 100 CHICKENPOX NO 
+5797 Oxq Ldphsw Ukraine 41 CHICKENPOX YES 10-2-2005
+457 Ougzawloo Erntxluqwqu Ukraine 100 HEPATITIS-B YES 7-3-2009
+457 Ougzawloo Erntxluqwqu Ukraine 100 FLU YES 10-4-2000
+1005 Tvrlbwzzlk Icrkvmgtsstw Ukraine 17 HIB NO 

@@ -1,0 +1,57 @@
+
+376 Zvclhxida Twzzloyp Guinea-Bissau 95 CHICKENPOX NO 
+6574 Qffevxdw Qkwrrnyqk Guinea-Bissau 103 HIB NO 
+1540 Iouonhtdr Dyj Guinea-Bissau 9 COVID-19 NO 
+5420 Ptjvja Hyxiuxfu Guinea-Bissau 111 HEPATITIS-A YES 10-12-2004
+6641 Lvgsdmai Epqgdmped Guinea-Bissau 84 FLU NO 
+6272 Utebnnxzko Gckpaogstwrd Guinea-Bissau 84 POLIO YES 5-4-2009
+1540 Iouonhtdr Dyj Guinea-Bissau 9 FLU NO 
+2722 Lnabvjnnzcd Eqmwo Guinea-Bissau 32 HEPATITIS-A NO 
+4331 Kvzkksyata Ysoopc Guinea-Bissau 96 MEASLES NO 
+9509 Trxffcf Iqkrasoavmuq Guinea-Bissau 9 CHICKENPOX NO 
+6766 Naffigs Aocmzbzggzhl Guinea-Bissau 51 TETANUS YES 13-12-2018
+9487 Txeknho Fpye Guinea-Bissau 7 FLU YES 19-7-2008
+2722 Lnabvjnnzcd Eqmwo Guinea-Bissau 32 HIB NO 
+1078 Gcfnzwdrwn Tgwusrsfrxf Guinea-Bissau 48 CHICKENPOX YES 19-10-2009
+2735 Fnjysmgwxqbc Pkwzwhcrwhm Guinea-Bissau 59 MEASLES NO 
+2735 Fnjysmgwxqbc Pkwzwhcrwhm Guinea-Bissau 59 HEPATITIS-A NO 
+7617 Lmtkb Phyxr Guinea-Bissau 95 COVID-19 NO 
+5239 Jtuukqbwrbk Jtab Guinea-Bissau 91 RUBELLA YES 26-9-2008
+471 Prknpxjcmyk Dtztngr Guinea-Bissau 29 COVID-19 NO 
+633 Jgjfmnwpi Wwthassbcm Guinea-Bissau 63 RUBELLA YES 3-6-2014
+8394 Armt Iyn Guinea-Bissau 53 COVID-19 YES 1-4-2019
+6272 Utebnnxzko Gckpaogstwrd Guinea-Bissau 84 HEPATITIS-A NO 
+5420 Ptjvja Hyxiuxfu Guinea-Bissau 111 HEPATITIS-B YES 18-3-2015
+1758 Honl Xcsytuvlieb Guinea-Bissau 42 RUBELLA NO 
+471 Prknpxjcmyk Dtztngr Guinea-Bissau 29 HIB NO 
+9509 Trxffcf Iqkrasoavmuq Guinea-Bissau 9 FLU YES 21-2-2002
+1758 Honl Xcsytuvlieb Guinea-Bissau 42 HEPATITIS-B YES 30-9-2001
+2722 Lnabvjnnzcd Eqmwo Guinea-Bissau 32 FLU NO 
+9487 Txeknho Fpye Guinea-Bissau 7 HIB YES 19-6-2009
+471 Prknpxjcmyk Dtztngr Guinea-Bissau 29 TETANUS NO 
+6574 Qffevxdw Qkwrrnyqk Guinea-Bissau 103 HEPATITIS-B YES 23-4-2015
+5323 Fcuznoioelk Aqgbvfje Guinea-Bissau 81 HIB NO 
+9476 Xst Lkp Guinea-Bissau 61 HIB NO 
+633 Jgjfmnwpi Wwthassbcm Guinea-Bissau 63 HEPATITIS-A NO 
+5239 Jtuukqbwrbk Jtab Guinea-Bissau 91 HEPATITIS-A NO 
+1804 Csyqbtszib Nezbt Guinea-Bissau 19 HEPATITIS-B YES 9-12-2005
+2722 Lnabvjnnzcd Eqmwo Guinea-Bissau 32 CHICKENPOX NO 
+2722 Lnabvjnnzcd Eqmwo Guinea-Bissau 32 COVID-19 YES 4-12-2016
+6574 Qffevxdw Qkwrrnyqk Guinea-Bissau 103 HEPATITIS-A YES 5-4-2004
+9476 Xst Lkp Guinea-Bissau 61 CHICKENPOX NO 
+4331 Kvzkksyata Ysoopc Guinea-Bissau 96 FLU YES 26-8-2011
+6641 Lvgsdmai Epqgdmped Guinea-Bissau 84 RUBELLA NO 
+2318 Jnmqfva Yquej Guinea-Bissau 104 RUBELLA NO 
+1804 Csyqbtszib Nezbt Guinea-Bissau 19 POLIO NO 
+8394 Armt Iyn Guinea-Bissau 53 TETANUS NO 
+6641 Lvgsdmai Epqgdmped Guinea-Bissau 84 FLU YES 14-12-2004
+6574 Qffevxdw Qkwrrnyqk Guinea-Bissau 103 POLIO NO 
+2722 Lnabvjnnzcd Eqmwo Guinea-Bissau 32 CHICKENPOX NO 
+471 Prknpxjcmyk Dtztngr Guinea-Bissau 29 TETANUS NO 
+6641 Lvgsdmai Epqgdmped Guinea-Bissau 84 HEPATITIS-A NO 
+2735 Fnjysmgwxqbc Pkwzwhcrwhm Guinea-Bissau 59 MEASLES YES 4-12-2008
+2735 Fnjysmgwxqbc Pkwzwhcrwhm Guinea-Bissau 59 TETANUS YES 26-7-2002
+376 Zvclhxida Twzzloyp Guinea-Bissau 95 HIB NO 
+8777 Xpc Upe Guinea-Bissau 28 FLU YES 26-5-2019
+2411 Tvyryaogpti Dpcjqs Guinea-Bissau 103 TETANUS NO 
+2318 Jnmqfva Yquej Guinea-Bissau 104 HIB NO 

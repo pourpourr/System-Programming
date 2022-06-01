@@ -1,0 +1,54 @@
+
+5472 Btapywtqmni Opanwuof France 25 TETANUS NO 
+298 Lpi Smrtme France 68 TETANUS NO 
+8275 Fqbknagaa Hctyfslrz France 120 COVID-19 NO 
+4678 Gyeehprtrm Pddpof France 79 HEPATITIS-A YES 21-10-2015
+9904 Ahkyipinv Ufnvtmmqk France 41 FLU NO 
+8513 Bolxhnf Kxzioq France 120 HIB NO 
+298 Lpi Smrtme France 68 TETANUS NO 
+5472 Btapywtqmni Opanwuof France 25 HEPATITIS-B YES 23-12-2019
+6160 Cvkb Dcqcnrdgf France 59 FLU YES 17-6-2002
+9904 Ahkyipinv Ufnvtmmqk France 41 COVID-19 NO 
+6160 Cvkb Dcqcnrdgf France 59 TETANUS NO 
+3203 Vnflllc Lmqdntjrjmtq France 3 CHICKENPOX NO 
+2650 Emspo Ctotkvmoz France 30 COVID-19 YES 9-5-2010
+9904 Ahkyipinv Ufnvtmmqk France 41 COVID-19 NO 
+8513 Bolxhnf Kxzioq France 120 COVID-19 NO 
+3203 Vnflllc Lmqdntjrjmtq France 3 HEPATITIS-B YES 23-7-2009
+3649 Qrrdmmkycxs Olubigkewcmo France 6 HIB YES 24-2-2013
+298 Lpi Smrtme France 68 CHICKENPOX YES 18-8-2019
+9904 Ahkyipinv Ufnvtmmqk France 41 HEPATITIS-A NO 
+2650 Emspo Ctotkvmoz France 30 RUBELLA NO 
+7521 Gkoub Qrvcrpt France 14 TETANUS NO 
+8295 Ckjnuklidte Gdqnuhdkjl France 119 COVID-19 NO 
+9921 Tdphxi Keljfzidmhii France 110 FLU YES 30-11-2004
+3203 Vnflllc Lmqdntjrjmtq France 3 TETANUS YES 4-7-2003
+484 Cvddvijsbdqh Xauexmugizaj France 87 HEPATITIS-A YES 15-6-2016
+3649 Qrrdmmkycxs Olubigkewcmo France 6 FLU YES 9-2-2012
+484 Cvddvijsbdqh Xauexmugizaj France 87 CHICKENPOX NO 
+9009 Rrny Omwmzsjohrna France 75 COVID-19 NO 
+8295 Ckjnuklidte Gdqnuhdkjl France 119 FLU YES 22-5-2018
+7081 Ehedri Dbee France 61 POLIO NO 
+2480 Mqp Pglcantkeyc France 8 COVID-19 YES 2-1-2019
+4723 Clahd Qnx France 19 RUBELLA YES 19-10-2020
+7521 Gkoub Qrvcrpt France 14 HEPATITIS-A YES 28-4-2011
+298 Lpi Smrtme France 68 HEPATITIS-A NO 
+7521 Gkoub Qrvcrpt France 14 FLU YES 1-6-2016
+1096 Lanlsqopcy Hft France 86 TETANUS NO 
+7521 Gkoub Qrvcrpt France 14 FLU NO 
+7081 Ehedri Dbee France 61 TETANUS YES 7-8-2016
+1263 Cawssvxdptr Ogmb France 23 POLIO YES 28-1-2007
+8275 Fqbknagaa Hctyfslrz France 120 COVID-19 YES 13-12-2011
+7521 Gkoub Qrvcrpt France 14 TETANUS YES 20-11-2020
+7521 Gkoub Qrvcrpt France 14 COVID-19 YES 19-7-2011
+298 Lpi Smrtme France 68 COVID-19 YES 1-12-2018
+7081 Ehedri Dbee France 61 COVID-19 NO 
+1096 Lanlsqopcy Hft France 86 MEASLES YES 25-11-2018
+8275 Fqbknagaa Hctyfslrz France 120 FLU NO 
+1263 Cawssvxdptr Ogmb France 23 RUBELLA NO 
+1263 Cawssvxdptr Ogmb France 23 HEPATITIS-A YES 23-4-2008
+7081 Ehedri Dbee France 61 RUBELLA YES 2-12-2010
+484 Cvddvijsbdqh Xauexmugizaj France 87 COVID-19 NO 
+1263 Cawssvxdptr Ogmb France 23 POLIO YES 5-5-2008
+8513 Bolxhnf Kxzioq France 120 COVID-19 NO 
+7841 Dyxja Twostb France 53 COVID-19 YES 26-6-2001

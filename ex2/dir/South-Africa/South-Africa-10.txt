@@ -1,0 +1,30 @@
+
+9777 Cmizymdibmh Yzplwhcheogv South-Africa 36 MEASLES YES 25-12-2014
+7302 Ktdyv Qsuzgkxuppkz South-Africa 67 HEPATITIS-A YES 29-5-2016
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 HEPATITIS-B NO 
+8177 Rittcgpyj Itczkuosqzjp South-Africa 14 HEPATITIS-B YES 4-8-2007
+9725 Zflpdbcdtl Wndzgoclytx South-Africa 7 HEPATITIS-A NO 
+9777 Cmizymdibmh Yzplwhcheogv South-Africa 36 TETANUS NO 
+5230 Bia Yzwtspv South-Africa 56 POLIO NO 
+9725 Zflpdbcdtl Wndzgoclytx South-Africa 7 POLIO NO 
+9725 Zflpdbcdtl Wndzgoclytx South-Africa 7 FLU NO 
+8177 Rittcgpyj Itczkuosqzjp South-Africa 14 MEASLES NO 
+9070 Izoofckshwok Jgvt South-Africa 21 FLU NO 
+9600 Lsfdzpiiatx Tgtep South-Africa 1 COVID-19 NO 
+9600 Lsfdzpiiatx Tgtep South-Africa 1 POLIO NO 
+2782 Ywiijq Fmcsmccuv South-Africa 97 TETANUS YES 8-10-2001
+2019 Fbbbqnxcc Illqgr South-Africa 17 HEPATITIS-B NO 
+7302 Ktdyv Qsuzgkxuppkz South-Africa 67 MEASLES NO 
+7302 Ktdyv Qsuzgkxuppkz South-Africa 67 FLU NO 
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 POLIO YES 2-10-2019
+9777 Cmizymdibmh Yzplwhcheogv South-Africa 36 CHICKENPOX NO 
+9447 Nzonbomhr Que South-Africa 109 RUBELLA NO 
+9725 Zflpdbcdtl Wndzgoclytx South-Africa 7 RUBELLA YES 15-3-2018
+5214 Iqairpet Xjorgl South-Africa 44 TETANUS NO 
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 MEASLES YES 7-5-2014
+9725 Zflpdbcdtl Wndzgoclytx South-Africa 7 MEASLES NO 
+2019 Fbbbqnxcc Illqgr South-Africa 17 MEASLES YES 9-12-2008
+7253 Foikdcvnwtm Aidpybpi South-Africa 105 CHICKENPOX YES 18-4-2000
+2782 Ywiijq Fmcsmccuv South-Africa 97 HEPATITIS-A NO 
+2926 Jvhcunlcro Pzrqxtxegoim South-Africa 92 POLIO NO 
+9777 Cmizymdibmh Yzplwhcheogv South-Africa 36 MEASLES YES 15-4-2009

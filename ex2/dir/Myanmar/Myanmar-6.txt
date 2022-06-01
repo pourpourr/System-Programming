@@ -1,0 +1,64 @@
+
+6527 Tbaakemlm Rnhdz Myanmar 76 HIB YES 16-10-2011
+1863 Urw Cjvnmorog Myanmar 10 HEPATITIS-B NO 
+7192 Ujjix Knxkuasuqo Myanmar 9 HEPATITIS-B YES 22-11-2016
+7192 Ujjix Knxkuasuqo Myanmar 9 RUBELLA NO 
+990 Vvtcd Welub Myanmar 31 HIB YES 3-4-2006
+6815 Wuvtl Gdqepq Myanmar 87 HIB YES 2-1-2016
+3747 Lrumz Zjx Myanmar 76 HEPATITIS-A NO 
+1672 Lmjf Atojnzt Myanmar 53 HEPATITIS-A NO 
+7576 Nsmrjejjeak Ezjfd Myanmar 15 HEPATITIS-B YES 21-8-2005
+990 Vvtcd Welub Myanmar 31 COVID-19 YES 26-11-2015
+6075 Zpqwio Ehsxmk Myanmar 2 POLIO YES 14-1-2016
+9327 Wkljqfte Btaxbfoi Myanmar 101 MEASLES NO 
+990 Vvtcd Welub Myanmar 31 FLU NO 
+5574 Axsunacu Uyr Myanmar 47 HEPATITIS-B NO 
+1525 Eto Pxumlltmlmi Myanmar 35 MEASLES NO 
+598 Foxyjvmzgsv Bsvmcodjqvu Myanmar 51 FLU NO 
+5361 Gwaj Dnh Myanmar 58 FLU YES 24-11-2012
+1672 Lmjf Atojnzt Myanmar 53 FLU YES 2-5-2016
+1525 Eto Pxumlltmlmi Myanmar 35 POLIO YES 29-5-2002
+3194 Sdgohvrnxf Subafaavzop Myanmar 39 HEPATITIS-A NO 
+5574 Axsunacu Uyr Myanmar 47 CHICKENPOX NO 
+5967 Dxtjifb Gbsjhwpy Myanmar 82 FLU NO 
+8618 Wwnomnudnuq Fvjlb Myanmar 120 HEPATITIS-B NO 
+4720 Conlnys Ukfvhg Myanmar 30 TETANUS NO 
+1596 Yadtxasfxffg Tsjo Myanmar 71 CHICKENPOX NO 
+1043 Ifmsopebuyw Nmj Myanmar 46 HIB YES 24-10-2020
+990 Vvtcd Welub Myanmar 31 CHICKENPOX NO 
+9593 Wsssfnmhanhr Vabkfmoio Myanmar 62 HEPATITIS-B NO 
+1596 Yadtxasfxffg Tsjo Myanmar 71 CHICKENPOX NO 
+4720 Conlnys Ukfvhg Myanmar 30 TETANUS YES 11-6-2003
+5754 Nlepghvpmg Xqcjlae Myanmar 39 HEPATITIS-B YES 13-1-2016
+1863 Urw Cjvnmorog Myanmar 10 MEASLES YES 20-12-2008
+1863 Urw Cjvnmorog Myanmar 10 RUBELLA NO 
+3194 Sdgohvrnxf Subafaavzop Myanmar 39 TETANUS YES 28-12-2020
+9327 Wkljqfte Btaxbfoi Myanmar 101 POLIO NO 
+1672 Lmjf Atojnzt Myanmar 53 HEPATITIS-A NO 
+1525 Eto Pxumlltmlmi Myanmar 35 HIB NO 
+4720 Conlnys Ukfvhg Myanmar 30 RUBELLA NO 
+8618 Wwnomnudnuq Fvjlb Myanmar 120 RUBELLA YES 8-3-2000
+3194 Sdgohvrnxf Subafaavzop Myanmar 39 RUBELLA YES 25-3-2015
+990 Vvtcd Welub Myanmar 31 MEASLES NO 
+7773 Qhrd Wgdkasikfag Myanmar 16 CHICKENPOX NO 
+134 Fblzpjnupjtj Vdznnmxcrcah Myanmar 70 POLIO YES 30-12-2002
+7066 Cjro Hufwd Myanmar 79 CHICKENPOX YES 23-1-2001
+7773 Qhrd Wgdkasikfag Myanmar 16 FLU NO 
+3194 Sdgohvrnxf Subafaavzop Myanmar 39 COVID-19 NO 
+5574 Axsunacu Uyr Myanmar 47 HIB YES 23-4-2002
+5361 Gwaj Dnh Myanmar 58 POLIO NO 
+4721 Ymtsdk Puoesdsnwv Myanmar 95 COVID-19 YES 26-10-2004
+4720 Conlnys Ukfvhg Myanmar 30 HEPATITIS-B YES 14-1-2014
+5361 Gwaj Dnh Myanmar 58 FLU NO 
+6373 Fyalirru Ciyctdlbz Myanmar 95 HIB YES 18-5-2008
+8991 Zmipyxbgcfhu Ieiwxcw Myanmar 103 POLIO NO 
+134 Fblzpjnupjtj Vdznnmxcrcah Myanmar 70 COVID-19 YES 5-10-2017
+5967 Dxtjifb Gbsjhwpy Myanmar 82 TETANUS NO 
+3747 Lrumz Zjx Myanmar 76 CHICKENPOX YES 7-12-2014
+1672 Lmjf Atojnzt Myanmar 53 HIB NO 
+5754 Nlepghvpmg Xqcjlae Myanmar 39 RUBELLA NO 
+7576 Nsmrjejjeak Ezjfd Myanmar 15 CHICKENPOX YES 8-11-2002
+5967 Dxtjifb Gbsjhwpy Myanmar 82 HIB NO 
+5361 Gwaj Dnh Myanmar 58 HIB NO 
+8744 Kydtlq Ezp Myanmar 16 POLIO YES 26-7-2010
+8744 Kydtlq Ezp Myanmar 16 HEPATITIS-B YES 9-9-2005

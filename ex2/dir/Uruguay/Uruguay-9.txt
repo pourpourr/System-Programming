@@ -1,0 +1,41 @@
+
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 HEPATITIS-A NO 
+2114 Rga Zwti Uruguay 74 TETANUS YES 14-6-2014
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 FLU NO 
+4093 Uofy Gceey Uruguay 6 RUBELLA NO 
+9411 Lsehukzqs Ppwvb Uruguay 49 HEPATITIS-A NO 
+9411 Lsehukzqs Ppwvb Uruguay 49 POLIO NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 FLU NO 
+2753 Fwydoys Llizqct Uruguay 41 HEPATITIS-B NO 
+2753 Fwydoys Llizqct Uruguay 41 HIB NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 POLIO YES 22-5-2014
+2753 Fwydoys Llizqct Uruguay 41 TETANUS YES 1-2-2000
+4093 Uofy Gceey Uruguay 6 HEPATITIS-A YES 18-11-2007
+603 Fdonyj Kmrqfdwomqz Uruguay 26 POLIO YES 21-3-2015
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 FLU YES 27-2-2013
+2753 Fwydoys Llizqct Uruguay 41 FLU NO 
+2753 Fwydoys Llizqct Uruguay 41 HEPATITIS-B NO 
+603 Fdonyj Kmrqfdwomqz Uruguay 26 MEASLES YES 1-8-2020
+4093 Uofy Gceey Uruguay 6 RUBELLA NO 
+5613 Aja Nozapmlrtvjf Uruguay 17 POLIO NO 
+3491 Ravxxikmsmdt Msldv Uruguay 65 HEPATITIS-B YES 16-10-2002
+3491 Ravxxikmsmdt Msldv Uruguay 65 HEPATITIS-A NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 RUBELLA YES 15-5-2020
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 HEPATITIS-A YES 17-10-2019
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 HEPATITIS-A NO 
+2753 Fwydoys Llizqct Uruguay 41 POLIO NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 CHICKENPOX YES 15-4-2020
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 POLIO YES 25-10-2015
+8752 Qffx Zvpzjrrgu Uruguay 27 RUBELLA YES 14-7-2018
+7646 Pqtpyjup Yhprj Uruguay 118 HEPATITIS-B YES 27-8-2010
+4972 Enztjim Sksjkgf Uruguay 67 FLU NO 
+2753 Fwydoys Llizqct Uruguay 41 MEASLES NO 
+4093 Uofy Gceey Uruguay 6 RUBELLA NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 CHICKENPOX YES 22-11-2012
+2753 Fwydoys Llizqct Uruguay 41 FLU NO 
+5613 Aja Nozapmlrtvjf Uruguay 17 COVID-19 YES 27-4-2011
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 MEASLES NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 COVID-19 YES 6-9-2014
+2753 Fwydoys Llizqct Uruguay 41 CHICKENPOX NO 
+603 Fdonyj Kmrqfdwomqz Uruguay 26 COVID-19 NO 
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 HEPATITIS-B YES 8-10-2005

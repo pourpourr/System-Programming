@@ -1,0 +1,58 @@
+
+7247 Zsokjfaeqatc Qpqvner Tajikistan 22 HEPATITIS-A NO 
+1242 Gaxrqqhkv Xgzcmcukavgn Tajikistan 24 POLIO YES 12-4-2012
+7897 Gplpbpiq Mfnlsyohiw Tajikistan 69 MEASLES NO 
+6840 Pnpnagszmo Rpu Tajikistan 103 RUBELLA YES 7-10-2000
+7247 Zsokjfaeqatc Qpqvner Tajikistan 22 HEPATITIS-A NO 
+7247 Zsokjfaeqatc Qpqvner Tajikistan 22 HIB NO 
+175 Vjiozlwdaog Ugibejk Tajikistan 107 FLU YES 1-8-2000
+1760 Pko Nkzfkjn Tajikistan 97 RUBELLA NO 
+6410 Pmqgthcuuhd Wvo Tajikistan 98 MEASLES NO 
+1677 Ojdwjwnrxix Ggpeom Tajikistan 50 MEASLES YES 16-10-2005
+5183 Hmedba Dlahjfyygpxs Tajikistan 54 FLU YES 4-8-2018
+2693 Ygh Vyhomvrozt Tajikistan 64 COVID-19 NO 
+3081 Zqcnido Jpa Tajikistan 100 MEASLES YES 14-6-2008
+998 Ziarnwiiocvg Hwkbqwwrg Tajikistan 36 HIB NO 
+6410 Pmqgthcuuhd Wvo Tajikistan 98 HIB YES 3-1-2017
+3644 Imhytnm Rysffjeyqk Tajikistan 105 COVID-19 NO 
+5560 Rcxyjjf Dsixjzr Tajikistan 53 TETANUS NO 
+2693 Ygh Vyhomvrozt Tajikistan 64 HIB YES 22-7-2020
+5183 Hmedba Dlahjfyygpxs Tajikistan 54 RUBELLA YES 22-2-2018
+3258 Gujvgp Hukuplsf Tajikistan 15 HEPATITIS-B NO 
+591 Xsiabpmttiu Faijgvp Tajikistan 24 HEPATITIS-A YES 15-9-2014
+4802 Ayldwokcj Jpveks Tajikistan 96 HEPATITIS-B NO 
+1242 Gaxrqqhkv Xgzcmcukavgn Tajikistan 24 FLU NO 
+175 Vjiozlwdaog Ugibejk Tajikistan 107 FLU YES 30-9-2016
+1677 Ojdwjwnrxix Ggpeom Tajikistan 50 HEPATITIS-A YES 16-11-2017
+1677 Ojdwjwnrxix Ggpeom Tajikistan 50 POLIO YES 15-8-2017
+3644 Imhytnm Rysffjeyqk Tajikistan 105 HIB NO 
+2627 Tlgzu Ygxnqrkbfw Tajikistan 13 TETANUS NO 
+6079 Izkq Mku Tajikistan 104 CHICKENPOX NO 
+2693 Ygh Vyhomvrozt Tajikistan 64 FLU NO 
+591 Xsiabpmttiu Faijgvp Tajikistan 24 TETANUS NO 
+4802 Ayldwokcj Jpveks Tajikistan 96 RUBELLA YES 19-7-2004
+2693 Ygh Vyhomvrozt Tajikistan 64 COVID-19 NO 
+998 Ziarnwiiocvg Hwkbqwwrg Tajikistan 36 FLU YES 4-10-2016
+1242 Gaxrqqhkv Xgzcmcukavgn Tajikistan 24 CHICKENPOX NO 
+998 Ziarnwiiocvg Hwkbqwwrg Tajikistan 36 HEPATITIS-A NO 
+2693 Ygh Vyhomvrozt Tajikistan 64 HEPATITIS-A NO 
+1677 Ojdwjwnrxix Ggpeom Tajikistan 50 HEPATITIS-B NO 
+2475 Izsqvz Gbtv Tajikistan 6 FLU NO 
+2269 Jdjhkwulnho Hdw Tajikistan 42 HIB YES 2-12-2007
+3151 Onnsiaizy Phvidowtkab Tajikistan 74 CHICKENPOX NO 
+3081 Zqcnido Jpa Tajikistan 100 POLIO YES 13-8-2002
+1760 Pko Nkzfkjn Tajikistan 97 HIB NO 
+4802 Ayldwokcj Jpveks Tajikistan 96 POLIO NO 
+5183 Hmedba Dlahjfyygpxs Tajikistan 54 TETANUS YES 6-4-2010
+1760 Pko Nkzfkjn Tajikistan 97 RUBELLA YES 3-5-2008
+2627 Tlgzu Ygxnqrkbfw Tajikistan 13 COVID-19 NO 
+7247 Zsokjfaeqatc Qpqvner Tajikistan 22 POLIO NO 
+3151 Onnsiaizy Phvidowtkab Tajikistan 74 HEPATITIS-B NO 
+2475 Izsqvz Gbtv Tajikistan 6 RUBELLA NO 
+2269 Jdjhkwulnho Hdw Tajikistan 42 MEASLES YES 2-8-2003
+9642 Nbgdlqvimuzo Cbcnq Tajikistan 35 CHICKENPOX NO 
+1242 Gaxrqqhkv Xgzcmcukavgn Tajikistan 24 HIB NO 
+7247 Zsokjfaeqatc Qpqvner Tajikistan 22 POLIO NO 
+7247 Zsokjfaeqatc Qpqvner Tajikistan 22 HEPATITIS-B YES 7-2-2018
+8130 Cbyp Oglqjee Tajikistan 91 HEPATITIS-B YES 23-12-2003
+4802 Ayldwokcj Jpveks Tajikistan 96 COVID-19 NO 

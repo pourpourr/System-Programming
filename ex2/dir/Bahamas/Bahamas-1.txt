@@ -1,0 +1,58 @@
+
+1513 Ntybi Bnojediuntga Bahamas 37 HEPATITIS-B NO 
+3276 Efmuoxzmvxc Ahmlaqd Bahamas 28 HEPATITIS-B NO 
+6174 Jcciwkvjz Vzia Bahamas 11 MEASLES NO 
+1024 Xomdamcb Mgxnwvorhxo Bahamas 120 HEPATITIS-A NO 
+8815 Ugahmdbyxn Yrfd Bahamas 65 MEASLES YES 12-12-2008
+5655 Akvmawoaggiq Zyssfuvdxyf Bahamas 102 COVID-19 NO 
+4260 Veelljzns Eus Bahamas 102 MEASLES NO 
+895 Lnjfrpcf Fxofi Bahamas 72 HEPATITIS-A NO 
+3538 Ibfe Ixhswku Bahamas 34 HEPATITIS-A NO 
+8815 Ugahmdbyxn Yrfd Bahamas 65 RUBELLA YES 4-12-2000
+614 Vdjsdkcinlvb Zaexpsknaq Bahamas 93 POLIO YES 9-7-2017
+5655 Akvmawoaggiq Zyssfuvdxyf Bahamas 102 TETANUS NO 
+5016 Ltsmmsdtf Rxxjwzj Bahamas 17 HEPATITIS-A YES 8-2-2001
+9034 Ufzbuxors Uknenetl Bahamas 9 HEPATITIS-A NO 
+1314 Kewd Ghivg Bahamas 58 CHICKENPOX NO 
+895 Lnjfrpcf Fxofi Bahamas 72 POLIO NO 
+2540 Skwnvyxrxhb Yoqovujemha Bahamas 47 POLIO NO 
+1513 Ntybi Bnojediuntga Bahamas 37 HIB NO 
+7973 Seoljgxu Ysjeyblkn Bahamas 112 RUBELLA NO 
+3248 Tdidselnav Cfuyt Bahamas 116 POLIO YES 21-7-2000
+721 Dxzcnms Uyzrqxddyg Bahamas 3 POLIO NO 
+1817 Lsucvwi Vkonkq Bahamas 75 POLIO NO 
+7973 Seoljgxu Ysjeyblkn Bahamas 112 RUBELLA NO 
+6174 Jcciwkvjz Vzia Bahamas 11 TETANUS NO 
+1817 Lsucvwi Vkonkq Bahamas 75 TETANUS YES 12-3-2015
+5275 Gjhtvds Cebsnlnayjyy Bahamas 66 FLU NO 
+5875 Scy Jzpukfedfurx Bahamas 104 FLU YES 5-8-2000
+1817 Lsucvwi Vkonkq Bahamas 75 FLU YES 11-6-2008
+3276 Efmuoxzmvxc Ahmlaqd Bahamas 28 RUBELLA NO 
+9034 Ufzbuxors Uknenetl Bahamas 9 HEPATITIS-A NO 
+5911 Uzwglqgzx Eirumzext Bahamas 19 CHICKENPOX NO 
+895 Lnjfrpcf Fxofi Bahamas 72 HEPATITIS-A NO 
+3117 Tnirejdbf Isf Bahamas 29 MEASLES NO 
+9034 Ufzbuxors Uknenetl Bahamas 9 COVID-19 YES 17-11-2020
+8899 Wlnmuqeq Woyekgljiwpt Bahamas 58 FLU YES 7-11-2003
+3117 Tnirejdbf Isf Bahamas 29 FLU YES 26-11-2004
+5655 Akvmawoaggiq Zyssfuvdxyf Bahamas 102 RUBELLA NO 
+9141 Raux Qnspa Bahamas 106 POLIO NO 
+1314 Kewd Ghivg Bahamas 58 CHICKENPOX NO 
+3538 Ibfe Ixhswku Bahamas 34 COVID-19 YES 19-6-2009
+5275 Gjhtvds Cebsnlnayjyy Bahamas 66 HEPATITIS-A NO 
+6174 Jcciwkvjz Vzia Bahamas 11 HEPATITIS-B YES 6-2-2001
+1024 Xomdamcb Mgxnwvorhxo Bahamas 120 CHICKENPOX NO 
+721 Dxzcnms Uyzrqxddyg Bahamas 3 TETANUS NO 
+614 Vdjsdkcinlvb Zaexpsknaq Bahamas 93 COVID-19 YES 12-4-2002
+1314 Kewd Ghivg Bahamas 58 HEPATITIS-B NO 
+5281 Rodrpfaaspl Aataszkqvw Bahamas 81 COVID-19 YES 24-10-2001
+3538 Ibfe Ixhswku Bahamas 34 COVID-19 YES 8-5-2013
+4260 Veelljzns Eus Bahamas 102 COVID-19 YES 15-12-2020
+3990 Ffblb Thdvj Bahamas 14 MEASLES NO 
+9141 Raux Qnspa Bahamas 106 HEPATITIS-A YES 25-4-2015
+2540 Skwnvyxrxhb Yoqovujemha Bahamas 47 RUBELLA NO 
+5275 Gjhtvds Cebsnlnayjyy Bahamas 66 POLIO YES 30-1-2012
+1513 Ntybi Bnojediuntga Bahamas 37 COVID-19 NO 
+3538 Ibfe Ixhswku Bahamas 34 CHICKENPOX YES 1-12-2017
+830 Ertwnvwxieq Dwmrrayfgbaf Bahamas 28 CHICKENPOX NO 
+895 Lnjfrpcf Fxofi Bahamas 72 HIB NO 

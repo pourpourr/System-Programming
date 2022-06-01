@@ -1,0 +1,37 @@
+
+6002 Pgnkcrbx Cfwjyam Pakistan 42 COVID-19 YES 6-7-2006
+1968 Kadxywfmouxw Vkanee Pakistan 44 CHICKENPOX YES 19-2-2012
+4341 Cuifkmi Npqickzzf Pakistan 11 HEPATITIS-B YES 6-4-2011
+562 Xrpehqiejjcm Ylirqtdmpnhr Pakistan 39 HIB YES 27-3-2007
+2356 Pijvdgm Jtjmkzpvbz Pakistan 111 HIB YES 27-5-2020
+7639 Jqiskugcuspc Sgptcpuoanse Pakistan 20 HIB YES 19-2-2001
+9657 Mjvhayo Prptdwxvtjbu Pakistan 8 FLU YES 9-12-2001
+1968 Kadxywfmouxw Vkanee Pakistan 44 HIB NO 
+7663 Rqik Ypm Pakistan 48 CHICKENPOX YES 23-10-2018
+1968 Kadxywfmouxw Vkanee Pakistan 44 COVID-19 YES 5-6-2015
+562 Xrpehqiejjcm Ylirqtdmpnhr Pakistan 39 HEPATITIS-A NO 
+6002 Pgnkcrbx Cfwjyam Pakistan 42 POLIO NO 
+9011 Zki Neypxk Pakistan 107 HIB YES 15-9-2000
+6471 Xnjibdcih Ugch Pakistan 102 HEPATITIS-A YES 8-10-2020
+562 Xrpehqiejjcm Ylirqtdmpnhr Pakistan 39 TETANUS NO 
+6002 Pgnkcrbx Cfwjyam Pakistan 42 HEPATITIS-A YES 1-3-2008
+2356 Pijvdgm Jtjmkzpvbz Pakistan 111 POLIO NO 
+562 Xrpehqiejjcm Ylirqtdmpnhr Pakistan 39 HIB YES 25-1-2011
+562 Xrpehqiejjcm Ylirqtdmpnhr Pakistan 39 TETANUS YES 17-8-2002
+2356 Pijvdgm Jtjmkzpvbz Pakistan 111 MEASLES NO 
+891 Yfyk Hwjjvuy Pakistan 56 TETANUS NO 
+4339 Sfyjdhk Euozs Pakistan 34 COVID-19 NO 
+891 Yfyk Hwjjvuy Pakistan 56 MEASLES YES 17-4-2010
+562 Xrpehqiejjcm Ylirqtdmpnhr Pakistan 39 HEPATITIS-B YES 16-12-2007
+6002 Pgnkcrbx Cfwjyam Pakistan 42 HIB YES 25-11-2002
+891 Yfyk Hwjjvuy Pakistan 56 HEPATITIS-B YES 18-1-2006
+6471 Xnjibdcih Ugch Pakistan 102 RUBELLA NO 
+6471 Xnjibdcih Ugch Pakistan 102 COVID-19 YES 17-5-2016
+1185 Ejf Hpa Pakistan 42 FLU YES 29-12-2011
+4339 Sfyjdhk Euozs Pakistan 34 FLU YES 8-5-2018
+7663 Rqik Ypm Pakistan 48 HEPATITIS-B YES 20-8-2008
+9657 Mjvhayo Prptdwxvtjbu Pakistan 8 MEASLES YES 16-2-2019
+975 Rpfmjcwa Caqdhsyri Pakistan 103 TETANUS NO 
+9613 Yggon Vpl Pakistan 30 POLIO NO 
+6002 Pgnkcrbx Cfwjyam Pakistan 42 HEPATITIS-B NO 
+7663 Rqik Ypm Pakistan 48 COVID-19 NO 

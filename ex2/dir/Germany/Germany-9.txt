@@ -1,0 +1,45 @@
+
+5048 Oiqujj Whdhj Germany 6 MEASLES YES 3-2-2002
+569 Skgiqvsosab Bmcqyve Germany 113 TETANUS NO 
+6751 Vnhdjlv Mgscguc Germany 71 HEPATITIS-A YES 18-2-2004
+5833 Mxdspmiho Jntjzlnm Germany 17 CHICKENPOX NO 
+206 Wee Emz Germany 110 HEPATITIS-A NO 
+6751 Vnhdjlv Mgscguc Germany 71 CHICKENPOX NO 
+6286 Ouztgh Hpa Germany 24 HEPATITIS-B NO 
+5833 Mxdspmiho Jntjzlnm Germany 17 HEPATITIS-B YES 25-6-2005
+6751 Vnhdjlv Mgscguc Germany 71 HEPATITIS-B NO 
+5833 Mxdspmiho Jntjzlnm Germany 17 FLU YES 8-2-2007
+5833 Mxdspmiho Jntjzlnm Germany 17 TETANUS NO 
+7443 Nbnykfoazrf Afozhaolu Germany 49 HEPATITIS-A YES 29-4-2019
+4211 Xtgrvnu Tdadstxdo Germany 38 POLIO NO 
+5524 Oybqavtyod Vujhml Germany 7 MEASLES YES 12-7-2020
+5048 Oiqujj Whdhj Germany 6 FLU NO 
+9867 Nxxpvnri Cbzdayjsvvg Germany 56 CHICKENPOX NO 
+2307 Tnkwtgl Vurkeccj Germany 81 POLIO YES 14-5-2011
+7443 Nbnykfoazrf Afozhaolu Germany 49 MEASLES YES 25-1-2010
+7443 Nbnykfoazrf Afozhaolu Germany 49 TETANUS YES 10-11-2009
+6751 Vnhdjlv Mgscguc Germany 71 COVID-19 NO 
+5048 Oiqujj Whdhj Germany 6 CHICKENPOX YES 22-5-2004
+4647 Puageaonlbfg Ljpejsozraw Germany 32 HIB NO 
+2245 Ogsaqrtwhgb Cluce Germany 62 CHICKENPOX YES 19-12-2016
+9867 Nxxpvnri Cbzdayjsvvg Germany 56 HEPATITIS-B NO 
+7443 Nbnykfoazrf Afozhaolu Germany 49 RUBELLA NO 
+5892 Cocrjritfw Ezmqckimla Germany 1 MEASLES YES 21-6-2012
+6069 Kqqgb Mibedlf Germany 58 HIB YES 20-5-2009
+270 Splt Juiewovb Germany 112 COVID-19 NO 
+6069 Kqqgb Mibedlf Germany 58 RUBELLA YES 23-9-2002
+5833 Mxdspmiho Jntjzlnm Germany 17 HEPATITIS-B YES 26-10-2020
+7443 Nbnykfoazrf Afozhaolu Germany 49 COVID-19 YES 22-5-2012
+6751 Vnhdjlv Mgscguc Germany 71 COVID-19 YES 3-12-2002
+2307 Tnkwtgl Vurkeccj Germany 81 TETANUS NO 
+7016 Tfrhxnu Lpoujsldv Germany 70 HEPATITIS-A NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 TETANUS NO 
+6751 Vnhdjlv Mgscguc Germany 71 HEPATITIS-B YES 15-1-2007
+7016 Tfrhxnu Lpoujsldv Germany 70 CHICKENPOX YES 22-7-2018
+7303 Dsi Egwo Germany 70 RUBELLA YES 19-11-2001
+8940 Luxjyx Oaycksjhjfhn Germany 58 HEPATITIS-B NO 
+2307 Tnkwtgl Vurkeccj Germany 81 CHICKENPOX NO 
+7016 Tfrhxnu Lpoujsldv Germany 70 CHICKENPOX YES 23-4-2005
+5833 Mxdspmiho Jntjzlnm Germany 17 MEASLES YES 19-6-2001
+6069 Kqqgb Mibedlf Germany 58 HEPATITIS-B YES 2-4-2005
+4211 Xtgrvnu Tdadstxdo Germany 38 RUBELLA YES 1-10-2015

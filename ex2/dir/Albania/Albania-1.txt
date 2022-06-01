@@ -1,0 +1,41 @@
+
+4235 Olactvihyqu Meatb Albania 118 POLIO YES 2-5-2020
+1211 Bqypqdoqxkqd Plxhvavhfokb Albania 87 POLIO YES 7-6-2015
+802 Bceh Bxmtnhhy Albania 15 MEASLES YES 18-9-2001
+1547 Hepprwm Dxpjomov Albania 57 POLIO YES 29-12-2017
+7383 Jzor Navby Albania 2 FLU YES 12-5-2009
+6322 Ianujzz Ondbczxdwgz Albania 56 CHICKENPOX NO 
+1211 Bqypqdoqxkqd Plxhvavhfokb Albania 87 MEASLES NO 
+1211 Bqypqdoqxkqd Plxhvavhfokb Albania 87 COVID-19 NO 
+6322 Ianujzz Ondbczxdwgz Albania 56 POLIO NO 
+3077 Osrpyidfx Bpjsv Albania 13 HEPATITIS-A NO 
+802 Bceh Bxmtnhhy Albania 15 HEPATITIS-B NO 
+2274 Qpkqnvs Xtx Albania 59 HEPATITIS-B YES 20-6-2020
+4235 Olactvihyqu Meatb Albania 118 COVID-19 YES 26-7-2011
+6523 Iejvqg Qfh Albania 14 HEPATITIS-B YES 29-5-2011
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 COVID-19 NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 RUBELLA NO 
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 RUBELLA YES 4-8-2020
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 TETANUS NO 
+8754 Vahcavjr Lfjwnhkq Albania 114 HEPATITIS-B YES 8-9-2017
+2274 Qpkqnvs Xtx Albania 59 HEPATITIS-A NO 
+802 Bceh Bxmtnhhy Albania 15 POLIO NO 
+2274 Qpkqnvs Xtx Albania 59 HEPATITIS-A NO 
+5940 Knjqvopt Cyavxge Albania 3 FLU NO 
+7383 Jzor Navby Albania 2 COVID-19 NO 
+4235 Olactvihyqu Meatb Albania 118 POLIO NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 COVID-19 YES 9-8-2020
+9917 Kxxh Uulfeuw Albania 44 HEPATITIS-B NO 
+1547 Hepprwm Dxpjomov Albania 57 POLIO YES 15-6-2015
+2274 Qpkqnvs Xtx Albania 59 HEPATITIS-B YES 22-9-2009
+6322 Ianujzz Ondbczxdwgz Albania 56 COVID-19 NO 
+2274 Qpkqnvs Xtx Albania 59 HIB YES 10-2-2009
+4982 Hxpqg Iooxuvwcyayk Albania 55 RUBELLA NO 
+6523 Iejvqg Qfh Albania 14 HEPATITIS-B YES 14-3-2012
+1606 Csbbnyypmxlz Dmger Albania 72 COVID-19 YES 11-5-2020
+6322 Ianujzz Ondbczxdwgz Albania 56 MEASLES YES 9-9-2005
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 COVID-19 NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 FLU YES 26-5-2000
+5595 Okrnhddm Ddaddlopzwu Albania 34 TETANUS YES 27-3-2018
+4235 Olactvihyqu Meatb Albania 118 COVID-19 NO 
+2866 Sjgqguzoc Jdhd Albania 8 HEPATITIS-B YES 21-1-2018

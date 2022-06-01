@@ -1,0 +1,39 @@
+
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 CHICKENPOX NO 
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 COVID-19 YES 30-12-2005
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 RUBELLA YES 17-1-2013
+366 Pfdbhmwsteig Lpuah Uzbekistan 84 COVID-19 YES 30-4-2007
+7856 Dfphslglc Imadrr Uzbekistan 75 FLU YES 8-8-2008
+4655 Nnvczm Gnlfanmvf Uzbekistan 68 CHICKENPOX NO 
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 RUBELLA NO 
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 MEASLES NO 
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 HEPATITIS-B YES 19-12-2009
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 HEPATITIS-A NO 
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 CHICKENPOX YES 1-7-2008
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 TETANUS YES 15-1-2007
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 RUBELLA NO 
+2938 Wzxjkunbl Ngynomnuld Uzbekistan 42 HEPATITIS-A NO 
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 HIB YES 28-10-2005
+5368 Huxxxo Ovzjrimqhid Uzbekistan 119 MEASLES YES 12-2-2009
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 HIB YES 23-8-2000
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 MEASLES NO 
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 HIB YES 11-1-2006
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 COVID-19 YES 14-4-2016
+5885 Aetdygkldeug Pgpit Uzbekistan 95 RUBELLA YES 22-7-2006
+5885 Aetdygkldeug Pgpit Uzbekistan 95 HIB NO 
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 MEASLES NO 
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 MEASLES YES 15-9-2007
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 COVID-19 NO 
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 HIB YES 22-2-2004
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 POLIO YES 14-10-2000
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 HEPATITIS-B YES 5-6-2010
+7856 Dfphslglc Imadrr Uzbekistan 75 HIB YES 13-1-2016
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 HIB YES 23-7-2017
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 HEPATITIS-B YES 18-9-2020
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 HEPATITIS-B YES 22-7-2006
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 FLU YES 22-4-2014
+4655 Nnvczm Gnlfanmvf Uzbekistan 68 HEPATITIS-A YES 29-1-2013
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 HEPATITIS-B YES 6-12-2004
+3799 Dda Ign Uzbekistan 101 HEPATITIS-A YES 17-12-2012
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 HEPATITIS-A NO 
+7856 Dfphslglc Imadrr Uzbekistan 75 FLU YES 20-10-2018

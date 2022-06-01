@@ -1,0 +1,41 @@
+
+3154 Tvlvtc Lnhq Uruguay 116 HEPATITIS-B NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 RUBELLA YES 18-6-2012
+603 Fdonyj Kmrqfdwomqz Uruguay 26 TETANUS NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 CHICKENPOX NO 
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 COVID-19 NO 
+3154 Tvlvtc Lnhq Uruguay 116 HEPATITIS-A YES 24-11-2006
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 POLIO NO 
+3154 Tvlvtc Lnhq Uruguay 116 RUBELLA NO 
+3154 Tvlvtc Lnhq Uruguay 116 HIB NO 
+4972 Enztjim Sksjkgf Uruguay 67 POLIO YES 5-12-2007
+3154 Tvlvtc Lnhq Uruguay 116 MEASLES NO 
+7414 Ydyln Hmysmxbmabq Uruguay 112 TETANUS YES 20-10-2012
+7414 Ydyln Hmysmxbmabq Uruguay 112 MEASLES YES 30-12-2016
+3491 Ravxxikmsmdt Msldv Uruguay 65 FLU NO 
+8752 Qffx Zvpzjrrgu Uruguay 27 HIB NO 
+4972 Enztjim Sksjkgf Uruguay 67 HIB YES 17-5-2004
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 HIB NO 
+8752 Qffx Zvpzjrrgu Uruguay 27 HEPATITIS-B NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 HEPATITIS-B NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 FLU YES 11-7-2005
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 COVID-19 NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 CHICKENPOX YES 10-3-2006
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 HEPATITIS-B YES 26-11-2002
+5613 Aja Nozapmlrtvjf Uruguay 17 HIB YES 1-6-2007
+603 Fdonyj Kmrqfdwomqz Uruguay 26 CHICKENPOX YES 20-2-2014
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 TETANUS YES 5-11-2013
+3491 Ravxxikmsmdt Msldv Uruguay 65 FLU YES 10-1-2015
+9411 Lsehukzqs Ppwvb Uruguay 49 MEASLES YES 23-11-2000
+4093 Uofy Gceey Uruguay 6 CHICKENPOX NO 
+7414 Ydyln Hmysmxbmabq Uruguay 112 CHICKENPOX YES 12-4-2017
+4093 Uofy Gceey Uruguay 6 CHICKENPOX NO 
+8752 Qffx Zvpzjrrgu Uruguay 27 CHICKENPOX YES 28-6-2003
+7646 Pqtpyjup Yhprj Uruguay 118 HEPATITIS-B YES 23-6-2012
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 COVID-19 NO 
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 HEPATITIS-A NO 
+2753 Fwydoys Llizqct Uruguay 41 RUBELLA NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 COVID-19 NO 
+2114 Rga Zwti Uruguay 74 MEASLES NO 
+8752 Qffx Zvpzjrrgu Uruguay 27 COVID-19 NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 HEPATITIS-A YES 8-4-2014

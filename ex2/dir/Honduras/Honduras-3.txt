@@ -1,0 +1,44 @@
+
+4869 Wlvn Qlrmklbcm Honduras 65 FLU YES 26-12-2005
+1295 Xpegi Frxoqjk Honduras 106 TETANUS NO 
+9812 Bzimrlufahp Zgvfxuj Honduras 88 POLIO YES 2-6-2001
+6376 Cxa Soxur Honduras 18 FLU NO 
+6280 Qweqruzvvrs Hkawch Honduras 98 HIB YES 12-10-2020
+2843 Kwfyjippsemf Ltctfmldylqd Honduras 21 FLU NO 
+7009 Mbjwqwado Cjstbk Honduras 30 TETANUS NO 
+7009 Mbjwqwado Cjstbk Honduras 30 FLU YES 24-2-2009
+2300 Uqau Temzx Honduras 78 FLU NO 
+1581 Ppwnevcbtp Lluymzsod Honduras 9 RUBELLA NO 
+6280 Qweqruzvvrs Hkawch Honduras 98 FLU NO 
+5986 Cbsexomusjon Ewouuaxn Honduras 66 HEPATITIS-A NO 
+9378 Gowswrhh Sjjufwylrb Honduras 3 FLU YES 16-9-2019
+6280 Qweqruzvvrs Hkawch Honduras 98 HEPATITIS-B NO 
+4869 Wlvn Qlrmklbcm Honduras 65 TETANUS NO 
+6376 Cxa Soxur Honduras 18 HEPATITIS-A NO 
+4607 Xasx Odu Honduras 94 COVID-19 YES 22-12-2013
+9378 Gowswrhh Sjjufwylrb Honduras 3 HEPATITIS-B YES 8-3-2003
+9045 Eznkyaevail Qdsaaflfk Honduras 2 COVID-19 YES 10-4-2012
+7009 Mbjwqwado Cjstbk Honduras 30 RUBELLA YES 21-12-2018
+7629 Wuvjcnygr Niuzapt Honduras 66 RUBELLA YES 14-6-2013
+7629 Wuvjcnygr Niuzapt Honduras 66 POLIO YES 12-5-2000
+4224 Xysdqzqqycvg Ysbvdac Honduras 79 HEPATITIS-B YES 24-6-2000
+6890 Ancophfupfco Mej Honduras 99 CHICKENPOX NO 
+1581 Ppwnevcbtp Lluymzsod Honduras 9 HIB YES 19-10-2014
+9045 Eznkyaevail Qdsaaflfk Honduras 2 RUBELLA NO 
+9045 Eznkyaevail Qdsaaflfk Honduras 2 MEASLES NO 
+9812 Bzimrlufahp Zgvfxuj Honduras 88 HEPATITIS-A YES 10-11-2014
+4224 Xysdqzqqycvg Ysbvdac Honduras 79 HEPATITIS-A NO 
+5986 Cbsexomusjon Ewouuaxn Honduras 66 HEPATITIS-B YES 8-12-2010
+5429 Lkopmeegu Iaixv Honduras 89 TETANUS NO 
+7629 Wuvjcnygr Niuzapt Honduras 66 COVID-19 NO 
+7009 Mbjwqwado Cjstbk Honduras 30 COVID-19 NO 
+7629 Wuvjcnygr Niuzapt Honduras 66 HIB YES 14-4-2008
+5986 Cbsexomusjon Ewouuaxn Honduras 66 COVID-19 NO 
+1581 Ppwnevcbtp Lluymzsod Honduras 9 HIB NO 
+6501 Tyi Lvtndrsfubq Honduras 43 COVID-19 NO 
+6376 Cxa Soxur Honduras 18 COVID-19 NO 
+4224 Xysdqzqqycvg Ysbvdac Honduras 79 MEASLES YES 11-10-2010
+5429 Lkopmeegu Iaixv Honduras 89 COVID-19 YES 15-6-2003
+9378 Gowswrhh Sjjufwylrb Honduras 3 HIB NO 
+9812 Bzimrlufahp Zgvfxuj Honduras 88 FLU YES 11-7-2018
+7629 Wuvjcnygr Niuzapt Honduras 66 COVID-19 YES 1-10-2009

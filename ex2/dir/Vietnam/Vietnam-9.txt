@@ -1,0 +1,68 @@
+
+4326 Itqpjny Sqykfltsho Vietnam 28 CHICKENPOX YES 20-11-2008
+1159 Gmvovfqf Ikh Vietnam 51 MEASLES NO 
+6602 Tlzy Fztpqljsvwjb Vietnam 66 POLIO YES 9-5-2004
+429 Ulefl Jhhpooykiap Vietnam 59 COVID-19 NO 
+400 Yim Frbr Vietnam 92 COVID-19 YES 23-6-2000
+6229 Joywmbasupcz Ahsxfbgxn Vietnam 8 POLIO NO 
+4064 Zqva Moyxho Vietnam 42 TETANUS YES 8-3-2005
+6602 Tlzy Fztpqljsvwjb Vietnam 66 CHICKENPOX YES 11-10-2011
+5661 Ykgu Hjalyr Vietnam 54 MEASLES YES 6-6-2006
+4326 Itqpjny Sqykfltsho Vietnam 28 CHICKENPOX YES 20-12-2007
+2370 Vkmjgcjzn Dmi Vietnam 57 HEPATITIS-B YES 30-6-2000
+4345 Plxsrowfe Bygtiwrvxfz Vietnam 98 POLIO YES 18-4-2010
+6035 Itkdybm Xkt Vietnam 54 MEASLES NO 
+7700 Svng Gpvseotbtvw Vietnam 113 HIB NO 
+2370 Vkmjgcjzn Dmi Vietnam 57 FLU NO 
+3009 Samrcbx Ospoughq Vietnam 15 FLU NO 
+2587 Ocuzaa Ifuizidrslm Vietnam 108 RUBELLA NO 
+86 Vnscqlk Grjcilc Vietnam 77 CHICKENPOX NO 
+4064 Zqva Moyxho Vietnam 42 HEPATITIS-B YES 28-2-2017
+4204 Bqrpqmzi Bgeps Vietnam 76 HEPATITIS-A YES 8-3-2004
+1159 Gmvovfqf Ikh Vietnam 51 FLU YES 26-3-2008
+4719 Yxdndw Hllyawosgtx Vietnam 73 FLU NO 
+8979 Zlsegg Wleicjqrsqs Vietnam 74 TETANUS YES 28-1-2011
+4345 Plxsrowfe Bygtiwrvxfz Vietnam 98 HIB YES 29-10-2002
+4326 Itqpjny Sqykfltsho Vietnam 28 MEASLES NO 
+4345 Plxsrowfe Bygtiwrvxfz Vietnam 98 POLIO YES 14-10-2017
+6328 Syr Cxin Vietnam 72 RUBELLA YES 30-5-2014
+3348 Rgfyv Oyu Vietnam 54 RUBELLA YES 10-2-2010
+824 Aewdhpnppvh Krssw Vietnam 30 HEPATITIS-B NO 
+3080 Ohvqze Hgpxdw Vietnam 85 MEASLES YES 25-2-2001
+4719 Yxdndw Hllyawosgtx Vietnam 73 RUBELLA YES 11-1-2005
+7700 Svng Gpvseotbtvw Vietnam 113 HIB YES 29-10-2016
+2370 Vkmjgcjzn Dmi Vietnam 57 HIB NO 
+2587 Ocuzaa Ifuizidrslm Vietnam 108 TETANUS NO 
+86 Vnscqlk Grjcilc Vietnam 77 CHICKENPOX NO 
+6672 Lyzxuaxc Otily Vietnam 116 HIB YES 16-4-2015
+3080 Ohvqze Hgpxdw Vietnam 85 RUBELLA YES 15-4-2007
+8979 Zlsegg Wleicjqrsqs Vietnam 74 FLU NO 
+7700 Svng Gpvseotbtvw Vietnam 113 HEPATITIS-B YES 28-8-2001
+6328 Syr Cxin Vietnam 72 HIB YES 20-7-2019
+3603 Vgdb Gueqd Vietnam 51 HIB NO 
+7700 Svng Gpvseotbtvw Vietnam 113 HEPATITIS-A NO 
+6602 Tlzy Fztpqljsvwjb Vietnam 66 HIB NO 
+4719 Yxdndw Hllyawosgtx Vietnam 73 HEPATITIS-B NO 
+385 Vnqlaoyt Heefmqa Vietnam 33 MEASLES NO 
+3348 Rgfyv Oyu Vietnam 54 CHICKENPOX YES 27-8-2008
+385 Vnqlaoyt Heefmqa Vietnam 33 HEPATITIS-A YES 30-5-2009
+4345 Plxsrowfe Bygtiwrvxfz Vietnam 98 TETANUS NO 
+2370 Vkmjgcjzn Dmi Vietnam 57 HIB YES 24-5-2004
+1159 Gmvovfqf Ikh Vietnam 51 MEASLES YES 3-11-2000
+400 Yim Frbr Vietnam 92 COVID-19 NO 
+4326 Itqpjny Sqykfltsho Vietnam 28 POLIO YES 14-11-2004
+1089 Loihisvcozxr Vzytrpxl Vietnam 25 RUBELLA YES 30-6-2013
+4064 Zqva Moyxho Vietnam 42 POLIO NO 
+8979 Zlsegg Wleicjqrsqs Vietnam 74 FLU YES 11-8-2011
+3009 Samrcbx Ospoughq Vietnam 15 HIB YES 19-4-2006
+400 Yim Frbr Vietnam 92 HEPATITIS-B NO 
+4719 Yxdndw Hllyawosgtx Vietnam 73 MEASLES NO 
+5661 Ykgu Hjalyr Vietnam 54 POLIO YES 21-2-2010
+1159 Gmvovfqf Ikh Vietnam 51 TETANUS YES 19-2-2020
+3080 Ohvqze Hgpxdw Vietnam 85 CHICKENPOX YES 21-2-2011
+4064 Zqva Moyxho Vietnam 42 HEPATITIS-B NO 
+7703 Yjngjfupx Znzoekdao Vietnam 33 CHICKENPOX YES 15-4-2013
+4345 Plxsrowfe Bygtiwrvxfz Vietnam 98 POLIO NO 
+7703 Yjngjfupx Znzoekdao Vietnam 33 COVID-19 YES 9-12-2005
+4326 Itqpjny Sqykfltsho Vietnam 28 HEPATITIS-B NO 
+4204 Bqrpqmzi Bgeps Vietnam 76 CHICKENPOX NO 

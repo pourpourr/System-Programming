@@ -1,0 +1,39 @@
+
+8588 Uqrlnvmmb Ixvr Uzbekistan 77 RUBELLA NO 
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 CHICKENPOX NO 
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 MEASLES YES 19-3-2013
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 CHICKENPOX NO 
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 HEPATITIS-B NO 
+4851 Epgrbdbdtgoc Ygryfpgbj Uzbekistan 109 MEASLES NO 
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 MEASLES NO 
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 TETANUS YES 4-10-2014
+366 Pfdbhmwsteig Lpuah Uzbekistan 84 POLIO YES 14-10-2004
+5368 Huxxxo Ovzjrimqhid Uzbekistan 119 HIB NO 
+3799 Dda Ign Uzbekistan 101 CHICKENPOX YES 27-12-2006
+366 Pfdbhmwsteig Lpuah Uzbekistan 84 MEASLES NO 
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 FLU NO 
+5885 Aetdygkldeug Pgpit Uzbekistan 95 COVID-19 YES 17-11-2014
+366 Pfdbhmwsteig Lpuah Uzbekistan 84 HIB YES 16-11-2002
+35 Wonpczojk Xfpe Uzbekistan 119 HEPATITIS-B YES 5-3-2007
+7856 Dfphslglc Imadrr Uzbekistan 75 FLU YES 28-2-2003
+4851 Epgrbdbdtgoc Ygryfpgbj Uzbekistan 109 POLIO YES 24-6-2009
+3799 Dda Ign Uzbekistan 101 CHICKENPOX YES 20-7-2018
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 CHICKENPOX NO 
+7856 Dfphslglc Imadrr Uzbekistan 75 TETANUS NO 
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 FLU NO 
+5885 Aetdygkldeug Pgpit Uzbekistan 95 RUBELLA YES 18-8-2002
+4655 Nnvczm Gnlfanmvf Uzbekistan 68 HEPATITIS-B NO 
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 CHICKENPOX YES 22-3-2001
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 POLIO NO 
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 CHICKENPOX NO 
+3799 Dda Ign Uzbekistan 101 COVID-19 NO 
+4851 Epgrbdbdtgoc Ygryfpgbj Uzbekistan 109 HIB YES 13-10-2003
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 RUBELLA NO 
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 HIB YES 24-3-2004
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 CHICKENPOX NO 
+366 Pfdbhmwsteig Lpuah Uzbekistan 84 TETANUS NO 
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 HEPATITIS-A NO 
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 TETANUS NO 
+2938 Wzxjkunbl Ngynomnuld Uzbekistan 42 TETANUS YES 24-3-2000
+5368 Huxxxo Ovzjrimqhid Uzbekistan 119 FLU YES 11-4-2002
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 COVID-19 NO 

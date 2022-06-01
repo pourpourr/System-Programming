@@ -1,0 +1,60 @@
+
+3342 Qxpi Hqmyxszb Marshall-Islands 33 MEASLES NO 
+4837 Dftr Uxrjqfxwkft Marshall-Islands 44 TETANUS NO 
+9809 Vfuwdgxvite Fdlcqeqw Marshall-Islands 5 CHICKENPOX YES 27-11-2009
+4837 Dftr Uxrjqfxwkft Marshall-Islands 44 MEASLES NO 
+1395 Cilkcopkxs Gokav Marshall-Islands 22 HIB YES 6-9-2005
+4781 Pryarmukzno Dworyzbvksp Marshall-Islands 111 HEPATITIS-A NO 
+475 Cokdphnlr Yqcexnm Marshall-Islands 5 TETANUS YES 29-12-2010
+9571 Daoyfja Rzjizn Marshall-Islands 73 COVID-19 YES 29-12-2012
+8833 Rpclpoccwosq Thvri Marshall-Islands 119 HEPATITIS-A NO 
+9978 Vlxvixsvfdfr Ajxjisfpfc Marshall-Islands 23 HEPATITIS-A NO 
+9832 Jnxlkp Dathbpzvipj Marshall-Islands 89 CHICKENPOX YES 9-7-2011
+7571 Olosfydavjw Imlvlcf Marshall-Islands 22 MEASLES YES 3-11-2011
+1395 Cilkcopkxs Gokav Marshall-Islands 22 CHICKENPOX YES 22-2-2000
+1351 Mvzphxs Jnyvlp Marshall-Islands 94 POLIO YES 1-2-2007
+1079 Zgt Qdtc Marshall-Islands 87 HEPATITIS-A NO 
+9809 Vfuwdgxvite Fdlcqeqw Marshall-Islands 5 FLU NO 
+7448 Nfi Esdhkpjzqf Marshall-Islands 53 HEPATITIS-A YES 21-11-2013
+7976 Pyryipimgk Ahpuvsum Marshall-Islands 41 CHICKENPOX NO 
+9850 Ygyxrfnoj Ctlqnukbyi Marshall-Islands 17 TETANUS YES 22-11-2011
+3342 Qxpi Hqmyxszb Marshall-Islands 33 RUBELLA NO 
+4826 Kgjlzlnqmuwh Wkbnhvuo Marshall-Islands 13 RUBELLA YES 26-10-2018
+8645 Kng Hrijvvxcu Marshall-Islands 11 TETANUS NO 
+8833 Rpclpoccwosq Thvri Marshall-Islands 119 CHICKENPOX NO 
+7998 Weghazor Uqewgg Marshall-Islands 113 HEPATITIS-A YES 7-8-2009
+4837 Dftr Uxrjqfxwkft Marshall-Islands 44 HEPATITIS-A YES 29-10-2016
+706 Frmatawe Ibjremuo Marshall-Islands 119 COVID-19 YES 3-7-2012
+4781 Pryarmukzno Dworyzbvksp Marshall-Islands 111 POLIO YES 8-8-2018
+5260 Gtblzh Lbi Marshall-Islands 3 MEASLES NO 
+7448 Nfi Esdhkpjzqf Marshall-Islands 53 RUBELLA YES 12-11-2008
+1351 Mvzphxs Jnyvlp Marshall-Islands 94 HIB NO 
+9832 Jnxlkp Dathbpzvipj Marshall-Islands 89 COVID-19 NO 
+706 Frmatawe Ibjremuo Marshall-Islands 119 MEASLES NO 
+706 Frmatawe Ibjremuo Marshall-Islands 119 HEPATITIS-B NO 
+1351 Mvzphxs Jnyvlp Marshall-Islands 94 HEPATITIS-A NO 
+4771 Vjd Vtmwhyoroeo Marshall-Islands 4 FLU YES 3-7-2000
+9571 Daoyfja Rzjizn Marshall-Islands 73 CHICKENPOX NO 
+5260 Gtblzh Lbi Marshall-Islands 3 TETANUS YES 25-12-2012
+4826 Kgjlzlnqmuwh Wkbnhvuo Marshall-Islands 13 POLIO YES 11-11-2009
+7926 Bdmoqogv Lzixafombxmq Marshall-Islands 80 HEPATITIS-B NO 
+7976 Pyryipimgk Ahpuvsum Marshall-Islands 41 HEPATITIS-B YES 11-6-2013
+9832 Jnxlkp Dathbpzvipj Marshall-Islands 89 TETANUS YES 30-11-2013
+7926 Bdmoqogv Lzixafombxmq Marshall-Islands 80 MEASLES NO 
+9455 Zanzfhagv Hnmecsa Marshall-Islands 47 HIB YES 29-3-2010
+4781 Pryarmukzno Dworyzbvksp Marshall-Islands 111 POLIO NO 
+5260 Gtblzh Lbi Marshall-Islands 3 HEPATITIS-A NO 
+9455 Zanzfhagv Hnmecsa Marshall-Islands 47 CHICKENPOX NO 
+9978 Vlxvixsvfdfr Ajxjisfpfc Marshall-Islands 23 CHICKENPOX YES 20-6-2010
+7448 Nfi Esdhkpjzqf Marshall-Islands 53 MEASLES YES 24-2-2015
+4837 Dftr Uxrjqfxwkft Marshall-Islands 44 MEASLES YES 3-11-2020
+7976 Pyryipimgk Ahpuvsum Marshall-Islands 41 MEASLES NO 
+9832 Jnxlkp Dathbpzvipj Marshall-Islands 89 HIB NO 
+7802 Vxjvltwiugty Ybwmyltckgq Marshall-Islands 95 MEASLES NO 
+9832 Jnxlkp Dathbpzvipj Marshall-Islands 89 TETANUS NO 
+4781 Pryarmukzno Dworyzbvksp Marshall-Islands 111 CHICKENPOX NO 
+7926 Bdmoqogv Lzixafombxmq Marshall-Islands 80 FLU NO 
+2512 Kryrgkj Hsbxajnqm Marshall-Islands 34 HEPATITIS-B NO 
+7998 Weghazor Uqewgg Marshall-Islands 113 TETANUS NO 
+475 Cokdphnlr Yqcexnm Marshall-Islands 5 HEPATITIS-B NO 
+7571 Olosfydavjw Imlvlcf Marshall-Islands 22 HIB YES 20-4-2015

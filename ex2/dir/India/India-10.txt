@@ -1,0 +1,44 @@
+
+8089 Uimkukitbkw Prarqfsug India 120 HIB NO 
+2827 Xsjvhuywois Lydt India 80 HEPATITIS-A NO 
+8495 Axwsxukd Sqjidimkpdcg India 83 HEPATITIS-B NO 
+4373 Irgcwbtw Qdkpijvievxh India 115 HIB NO 
+2346 Vamwgs Ajc India 89 HEPATITIS-B YES 13-4-2005
+1072 Zeeijybr Pimot India 32 RUBELLA NO 
+9748 Ohiesbmrswxo Josqorbvtmrn India 26 MEASLES NO 
+9251 Fmzzhptpbfxt Abmn India 99 RUBELLA NO 
+1072 Zeeijybr Pimot India 32 FLU NO 
+8684 Rmaud Farlqy India 66 COVID-19 YES 13-7-2000
+9251 Fmzzhptpbfxt Abmn India 99 MEASLES NO 
+8115 Rxvkoaes Cscvlusyrb India 86 MEASLES NO 
+2346 Vamwgs Ajc India 89 MEASLES NO 
+8115 Rxvkoaes Cscvlusyrb India 86 FLU NO 
+9950 Wbkuhpzhnkd Javklzkl India 4 COVID-19 YES 7-10-2000
+8115 Rxvkoaes Cscvlusyrb India 86 HEPATITIS-A YES 24-2-2010
+9950 Wbkuhpzhnkd Javklzkl India 4 POLIO NO 
+9748 Ohiesbmrswxo Josqorbvtmrn India 26 MEASLES NO 
+1072 Zeeijybr Pimot India 32 MEASLES NO 
+8115 Rxvkoaes Cscvlusyrb India 86 TETANUS NO 
+4373 Irgcwbtw Qdkpijvievxh India 115 HIB NO 
+1502 Tkronykxw Fcnrvgzndbr India 70 CHICKENPOX YES 2-3-2019
+1072 Zeeijybr Pimot India 32 POLIO YES 13-7-2001
+8089 Uimkukitbkw Prarqfsug India 120 TETANUS NO 
+1502 Tkronykxw Fcnrvgzndbr India 70 CHICKENPOX NO 
+3335 Qwivlpsqzzf Yerrwox India 97 HIB NO 
+6794 Nwjel Cqt India 71 MEASLES YES 12-6-2005
+4373 Irgcwbtw Qdkpijvievxh India 115 TETANUS YES 29-5-2017
+6794 Nwjel Cqt India 71 CHICKENPOX NO 
+1502 Tkronykxw Fcnrvgzndbr India 70 CHICKENPOX NO 
+5199 Btjwn Jqmb India 31 FLU YES 10-7-2003
+6536 Salelrbq Mmwjmcdoc India 53 POLIO NO 
+8684 Rmaud Farlqy India 66 RUBELLA NO 
+7853 Iqsjto Mhvrvir India 16 POLIO YES 10-4-2019
+8115 Rxvkoaes Cscvlusyrb India 86 TETANUS YES 18-7-2011
+7853 Iqsjto Mhvrvir India 16 CHICKENPOX NO 
+8115 Rxvkoaes Cscvlusyrb India 86 MEASLES YES 16-6-2011
+2518 Kxpossk Peggqqmm India 79 HEPATITIS-A YES 20-12-2000
+6794 Nwjel Cqt India 71 COVID-19 NO 
+7273 Hqefmpzdgkvr Qlpcy India 59 HEPATITIS-B YES 11-6-2000
+1502 Tkronykxw Fcnrvgzndbr India 70 COVID-19 YES 28-1-2001
+9251 Fmzzhptpbfxt Abmn India 99 HIB YES 20-10-2010
+8684 Rmaud Farlqy India 66 FLU YES 8-12-2019

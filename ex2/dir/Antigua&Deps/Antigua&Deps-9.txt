@@ -1,0 +1,49 @@
+
+4753 Uqcwwudbqi Hzymhkkjmcf Antigua&Deps 42 TETANUS YES 28-1-2003
+5158 Vegyqvouxwe Drapxnoc Antigua&Deps 6 RUBELLA YES 5-12-2000
+7167 Ixv Gvxavqbvmnlh Antigua&Deps 63 HEPATITIS-A NO 
+323 Xfp Qkkumjfv Antigua&Deps 22 MEASLES NO 
+8412 Jknplibu Drwcocjiwkol Antigua&Deps 3 CHICKENPOX YES 30-12-2019
+8412 Jknplibu Drwcocjiwkol Antigua&Deps 3 MEASLES YES 29-8-2016
+8412 Jknplibu Drwcocjiwkol Antigua&Deps 3 CHICKENPOX YES 30-9-2000
+323 Xfp Qkkumjfv Antigua&Deps 22 FLU NO 
+7345 Gat Xrkviqnwod Antigua&Deps 22 HEPATITIS-A NO 
+1477 Ppsspr Gsnph Antigua&Deps 22 HEPATITIS-B YES 20-6-2017
+3926 Snfsntne Ktnycnpmj Antigua&Deps 76 HEPATITIS-B NO 
+1706 Tvxahysw Tlfwyhwg Antigua&Deps 19 RUBELLA NO 
+8333 Mvcogavnclqw Dojnakdqf Antigua&Deps 53 TETANUS NO 
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 RUBELLA YES 26-11-2016
+7167 Ixv Gvxavqbvmnlh Antigua&Deps 63 HEPATITIS-B YES 27-2-2002
+3926 Snfsntne Ktnycnpmj Antigua&Deps 76 FLU NO 
+6648 Wffpbuqppwo Vfdpgkrjcg Antigua&Deps 7 POLIO YES 6-11-2002
+1706 Tvxahysw Tlfwyhwg Antigua&Deps 19 CHICKENPOX YES 7-8-2005
+5158 Vegyqvouxwe Drapxnoc Antigua&Deps 6 HIB YES 6-2-2003
+1477 Ppsspr Gsnph Antigua&Deps 22 FLU YES 1-7-2012
+3869 Fpsmoyuinfai Qdizg Antigua&Deps 119 RUBELLA NO 
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 POLIO NO 
+8412 Jknplibu Drwcocjiwkol Antigua&Deps 3 CHICKENPOX YES 5-5-2008
+1014 Zorokrmwhy Cgghwlacbvmh Antigua&Deps 52 TETANUS YES 25-10-2009
+6648 Wffpbuqppwo Vfdpgkrjcg Antigua&Deps 7 HEPATITIS-A YES 24-11-2012
+439 Gjgmf Uryfvrcc Antigua&Deps 66 RUBELLA YES 12-3-2013
+1014 Zorokrmwhy Cgghwlacbvmh Antigua&Deps 52 CHICKENPOX NO 
+1014 Zorokrmwhy Cgghwlacbvmh Antigua&Deps 52 HIB NO 
+7167 Ixv Gvxavqbvmnlh Antigua&Deps 63 TETANUS NO 
+1168 Bvtazyxzhzym Ysddhrzxio Antigua&Deps 72 FLU NO 
+2426 Jhdcqo Hiqngtc Antigua&Deps 64 HEPATITIS-B NO 
+4753 Uqcwwudbqi Hzymhkkjmcf Antigua&Deps 42 HEPATITIS-A NO 
+1706 Tvxahysw Tlfwyhwg Antigua&Deps 19 TETANUS NO 
+408 Urhukkgmod Cxlgip Antigua&Deps 108 HEPATITIS-B YES 22-3-2010
+439 Gjgmf Uryfvrcc Antigua&Deps 66 CHICKENPOX YES 17-2-2020
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 HEPATITIS-B YES 5-4-2005
+9362 Ohdjzee Ethjcc Antigua&Deps 117 FLU YES 9-2-2006
+8412 Jknplibu Drwcocjiwkol Antigua&Deps 3 FLU NO 
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 HIB NO 
+1014 Zorokrmwhy Cgghwlacbvmh Antigua&Deps 52 COVID-19 YES 11-6-2019
+323 Xfp Qkkumjfv Antigua&Deps 22 MEASLES YES 24-3-2009
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 HIB YES 2-12-2006
+7345 Gat Xrkviqnwod Antigua&Deps 22 MEASLES NO 
+439 Gjgmf Uryfvrcc Antigua&Deps 66 HEPATITIS-A YES 1-10-2002
+5158 Vegyqvouxwe Drapxnoc Antigua&Deps 6 RUBELLA YES 3-6-2007
+1477 Ppsspr Gsnph Antigua&Deps 22 CHICKENPOX NO 
+9362 Ohdjzee Ethjcc Antigua&Deps 117 POLIO YES 2-6-2009
+5042 Ubchemknsxqm Akngybtcnp Antigua&Deps 76 MEASLES YES 15-10-2015

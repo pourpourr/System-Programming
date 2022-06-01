@@ -1,0 +1,39 @@
+
+7856 Dfphslglc Imadrr Uzbekistan 75 HIB NO 
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 TETANUS NO 
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 CHICKENPOX NO 
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 HEPATITIS-A NO 
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 HIB NO 
+5885 Aetdygkldeug Pgpit Uzbekistan 95 CHICKENPOX NO 
+5885 Aetdygkldeug Pgpit Uzbekistan 95 POLIO YES 4-11-2016
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 HEPATITIS-A NO 
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 HEPATITIS-A YES 7-9-2013
+5368 Huxxxo Ovzjrimqhid Uzbekistan 119 HEPATITIS-A NO 
+7856 Dfphslglc Imadrr Uzbekistan 75 HEPATITIS-A NO 
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 COVID-19 NO 
+4618 Uauogcsi Jhttlzkomm Uzbekistan 90 HEPATITIS-B YES 13-11-2012
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 MEASLES YES 3-3-2014
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 HEPATITIS-B YES 14-12-2003
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 CHICKENPOX NO 
+2938 Wzxjkunbl Ngynomnuld Uzbekistan 42 FLU YES 21-12-2014
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 HEPATITIS-B NO 
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 HEPATITIS-A YES 17-1-2004
+7856 Dfphslglc Imadrr Uzbekistan 75 RUBELLA YES 2-1-2001
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 HEPATITIS-A YES 2-5-2014
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 HEPATITIS-B NO 
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 COVID-19 YES 13-8-2007
+6037 Mrzgovaiyeh Xvmynqlvt Uzbekistan 55 TETANUS NO 
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 HEPATITIS-B NO 
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 HEPATITIS-A YES 4-4-2002
+3324 Acyb Vgbkwwxrslx Uzbekistan 4 HEPATITIS-A YES 20-12-2017
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 HEPATITIS-A YES 24-5-2000
+8847 Dcsue Mczabyrrpcbb Uzbekistan 27 COVID-19 YES 13-9-2002
+1296 Xtuvh Cqnuwlwohk Uzbekistan 83 CHICKENPOX NO 
+3989 Wfyyxvciti Kmfwv Uzbekistan 86 RUBELLA YES 4-6-2018
+9492 Rfgbozubi Bnvasvydnz Uzbekistan 55 COVID-19 NO 
+8588 Uqrlnvmmb Ixvr Uzbekistan 77 CHICKENPOX YES 27-1-2013
+5885 Aetdygkldeug Pgpit Uzbekistan 95 HIB YES 20-12-2003
+1269 Xcgdinzrk Ahucvt Uzbekistan 38 RUBELLA NO 
+8588 Uqrlnvmmb Ixvr Uzbekistan 77 FLU NO 
+4137 Rlazdzg Hakgmqcbdc Uzbekistan 33 RUBELLA YES 16-4-2004
+4350 Chbbugmhbt Pfphlbtct Uzbekistan 31 MEASLES NO 

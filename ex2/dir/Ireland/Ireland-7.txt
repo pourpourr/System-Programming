@@ -1,0 +1,41 @@
+
+5097 Jkxmq Jvb Ireland 4 HEPATITIS-B YES 21-9-2016
+3307 Spiaqb Cafwfs Ireland 62 MEASLES YES 13-2-2004
+3307 Spiaqb Cafwfs Ireland 62 RUBELLA NO 
+7277 Kbtmzjewciln Ebh Ireland 120 FLU NO 
+7733 Vijspul Cjdftram Ireland 48 FLU NO 
+7277 Kbtmzjewciln Ebh Ireland 120 RUBELLA NO 
+3768 Ffobryiavy Qkfrrknhiq Ireland 26 MEASLES NO 
+8306 Ghliswprifh Wvke Ireland 71 HEPATITIS-A NO 
+3307 Spiaqb Cafwfs Ireland 62 COVID-19 NO 
+7962 Wuwtrgfwgl Mfhblpbst Ireland 32 MEASLES NO 
+6787 Rjigypyyytq Vycpdazs Ireland 46 FLU YES 20-12-2002
+7043 Iibcpcdsy Gyd Ireland 78 FLU NO 
+9222 Ozfacjhx Vuopoqenrw Ireland 60 POLIO YES 10-7-2020
+2468 Dgigwjhq Ghu Ireland 43 FLU NO 
+7163 Eadtkcpc Uaknocdyg Ireland 104 FLU YES 24-4-2006
+7962 Wuwtrgfwgl Mfhblpbst Ireland 32 HIB NO 
+7733 Vijspul Cjdftram Ireland 48 HIB YES 29-10-2008
+9222 Ozfacjhx Vuopoqenrw Ireland 60 POLIO NO 
+2780 Zuvyevem Twlhwzza Ireland 44 COVID-19 YES 30-12-2013
+7277 Kbtmzjewciln Ebh Ireland 120 TETANUS NO 
+7389 Agattaiyx Dbbgumt Ireland 5 RUBELLA YES 20-8-2000
+7043 Iibcpcdsy Gyd Ireland 78 HEPATITIS-B NO 
+7163 Eadtkcpc Uaknocdyg Ireland 104 HEPATITIS-A YES 12-3-2003
+8625 Jbkrkimnr Derf Ireland 2 HEPATITIS-B YES 28-12-2020
+9222 Ozfacjhx Vuopoqenrw Ireland 60 POLIO YES 9-1-2013
+8306 Ghliswprifh Wvke Ireland 71 TETANUS YES 22-12-2006
+7277 Kbtmzjewciln Ebh Ireland 120 POLIO YES 2-10-2001
+2468 Dgigwjhq Ghu Ireland 43 CHICKENPOX YES 11-11-2010
+2007 Laauwjcsoaj Aerf Ireland 13 RUBELLA NO 
+9222 Ozfacjhx Vuopoqenrw Ireland 60 MEASLES YES 17-10-2003
+2780 Zuvyevem Twlhwzza Ireland 44 TETANUS YES 5-11-2020
+3768 Ffobryiavy Qkfrrknhiq Ireland 26 HEPATITIS-A YES 10-9-2017
+3307 Spiaqb Cafwfs Ireland 62 HEPATITIS-B NO 
+8306 Ghliswprifh Wvke Ireland 71 HIB YES 11-9-2013
+4627 Zsbozqnpmlbk Ybxtqiouprf Ireland 12 HIB YES 29-10-2013
+991 Cgtmxvx Lrpixfxyjvip Ireland 13 HIB NO 
+2780 Zuvyevem Twlhwzza Ireland 44 HEPATITIS-A NO 
+7043 Iibcpcdsy Gyd Ireland 78 HEPATITIS-A NO 
+2468 Dgigwjhq Ghu Ireland 43 MEASLES YES 6-4-2017
+4627 Zsbozqnpmlbk Ybxtqiouprf Ireland 12 COVID-19 YES 24-2-2004

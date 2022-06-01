@@ -1,0 +1,44 @@
+
+3300 Xsixi Mfrdihcvie Honduras 96 FLU NO 
+4607 Xasx Odu Honduras 94 COVID-19 NO 
+4224 Xysdqzqqycvg Ysbvdac Honduras 79 POLIO NO 
+7629 Wuvjcnygr Niuzapt Honduras 66 POLIO NO 
+6501 Tyi Lvtndrsfubq Honduras 43 MEASLES NO 
+2843 Kwfyjippsemf Ltctfmldylqd Honduras 21 RUBELLA YES 16-12-2009
+2843 Kwfyjippsemf Ltctfmldylqd Honduras 21 POLIO NO 
+5986 Cbsexomusjon Ewouuaxn Honduras 66 MEASLES NO 
+9812 Bzimrlufahp Zgvfxuj Honduras 88 TETANUS YES 4-4-2005
+6280 Qweqruzvvrs Hkawch Honduras 98 RUBELLA YES 16-6-2001
+1295 Xpegi Frxoqjk Honduras 106 CHICKENPOX YES 4-8-2005
+6280 Qweqruzvvrs Hkawch Honduras 98 CHICKENPOX NO 
+1295 Xpegi Frxoqjk Honduras 106 HEPATITIS-A NO 
+1295 Xpegi Frxoqjk Honduras 106 MEASLES YES 9-1-2015
+1295 Xpegi Frxoqjk Honduras 106 POLIO NO 
+7009 Mbjwqwado Cjstbk Honduras 30 FLU YES 8-9-2018
+4869 Wlvn Qlrmklbcm Honduras 65 HIB NO 
+6890 Ancophfupfco Mej Honduras 99 RUBELLA NO 
+9045 Eznkyaevail Qdsaaflfk Honduras 2 FLU NO 
+9378 Gowswrhh Sjjufwylrb Honduras 3 HEPATITIS-B YES 25-6-2005
+4607 Xasx Odu Honduras 94 COVID-19 NO 
+7009 Mbjwqwado Cjstbk Honduras 30 CHICKENPOX NO 
+4869 Wlvn Qlrmklbcm Honduras 65 HEPATITIS-A YES 25-11-2000
+5429 Lkopmeegu Iaixv Honduras 89 CHICKENPOX NO 
+6280 Qweqruzvvrs Hkawch Honduras 98 RUBELLA NO 
+7009 Mbjwqwado Cjstbk Honduras 30 TETANUS YES 25-5-2015
+7629 Wuvjcnygr Niuzapt Honduras 66 CHICKENPOX NO 
+2300 Uqau Temzx Honduras 78 MEASLES NO 
+1295 Xpegi Frxoqjk Honduras 106 CHICKENPOX NO 
+2902 Iwcm Ygupxmxf Honduras 94 MEASLES NO 
+4224 Xysdqzqqycvg Ysbvdac Honduras 79 CHICKENPOX YES 10-11-2014
+5986 Cbsexomusjon Ewouuaxn Honduras 66 RUBELLA YES 27-2-2018
+4869 Wlvn Qlrmklbcm Honduras 65 TETANUS YES 17-11-2014
+6280 Qweqruzvvrs Hkawch Honduras 98 HEPATITIS-B NO 
+6280 Qweqruzvvrs Hkawch Honduras 98 COVID-19 YES 3-1-2012
+2843 Kwfyjippsemf Ltctfmldylqd Honduras 21 HEPATITIS-A YES 20-12-2005
+1581 Ppwnevcbtp Lluymzsod Honduras 9 RUBELLA YES 27-2-2012
+7288 Xxdn Nhojcsfrh Honduras 72 HEPATITIS-A NO 
+1581 Ppwnevcbtp Lluymzsod Honduras 9 POLIO NO 
+6376 Cxa Soxur Honduras 18 FLU YES 19-6-2004
+7288 Xxdn Nhojcsfrh Honduras 72 RUBELLA YES 12-6-2000
+7629 Wuvjcnygr Niuzapt Honduras 66 CHICKENPOX NO 
+5986 Cbsexomusjon Ewouuaxn Honduras 66 TETANUS NO 

@@ -1,0 +1,31 @@
+
+7821 Drjdn Cmqk Ukraine 78 TETANUS NO 
+6726 Ublyjzi Obzdiwst Ukraine 70 FLU YES 6-2-2002
+9998 Gpnru Ytzbqhpwvcil Ukraine 65 MEASLES YES 4-1-2010
+5797 Oxq Ldphsw Ukraine 41 COVID-19 NO 
+4030 Lliqubn Mavpqghi Ukraine 7 HEPATITIS-B YES 16-11-2020
+9998 Gpnru Ytzbqhpwvcil Ukraine 65 HIB YES 19-7-2003
+1754 Fbwkkhusg Cmzxorsstjr Ukraine 93 COVID-19 NO 
+6726 Ublyjzi Obzdiwst Ukraine 70 HEPATITIS-A NO 
+6726 Ublyjzi Obzdiwst Ukraine 70 CHICKENPOX YES 21-11-2001
+1005 Tvrlbwzzlk Icrkvmgtsstw Ukraine 17 TETANUS YES 7-2-2002
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 RUBELLA NO 
+4030 Lliqubn Mavpqghi Ukraine 7 HEPATITIS-B YES 14-3-2016
+4030 Lliqubn Mavpqghi Ukraine 7 COVID-19 YES 8-6-2012
+6785 Typcgjvnc Pefcvzj Ukraine 81 CHICKENPOX YES 18-4-2003
+6785 Typcgjvnc Pefcvzj Ukraine 81 TETANUS NO 
+9998 Gpnru Ytzbqhpwvcil Ukraine 65 HEPATITIS-B NO 
+644 Lshiot Ftnvdv Ukraine 25 HEPATITIS-A YES 28-2-2001
+125 Fbtr Mlysxut Ukraine 86 FLU YES 7-6-2019
+9998 Gpnru Ytzbqhpwvcil Ukraine 65 RUBELLA YES 5-7-2001
+4030 Lliqubn Mavpqghi Ukraine 7 HIB NO 
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 RUBELLA YES 18-10-2010
+457 Ougzawloo Erntxluqwqu Ukraine 100 TETANUS NO 
+457 Ougzawloo Erntxluqwqu Ukraine 100 MEASLES NO 
+5797 Oxq Ldphsw Ukraine 41 TETANUS NO 
+9998 Gpnru Ytzbqhpwvcil Ukraine 65 HEPATITIS-B YES 3-11-2000
+7473 Ygwaahajufhw Czamaeywek Ukraine 33 COVID-19 YES 26-10-2017
+7821 Drjdn Cmqk Ukraine 78 CHICKENPOX YES 13-5-2018
+6726 Ublyjzi Obzdiwst Ukraine 70 FLU NO 
+1754 Fbwkkhusg Cmzxorsstjr Ukraine 93 CHICKENPOX NO 
+6785 Typcgjvnc Pefcvzj Ukraine 81 COVID-19 NO 

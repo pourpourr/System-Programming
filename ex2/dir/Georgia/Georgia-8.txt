@@ -1,0 +1,42 @@
+
+2737 Pzjzfnaybwmm Lbqfotqtzxy Georgia 11 FLU YES 27-6-2008
+617 Xmlrrljkr Fuatxyrg Georgia 117 FLU NO 
+8949 Qdxc Jchfuhqvar Georgia 96 RUBELLA YES 9-11-2011
+6586 Pntbjoe Ambyl Georgia 83 COVID-19 YES 25-10-2017
+2737 Pzjzfnaybwmm Lbqfotqtzxy Georgia 11 TETANUS NO 
+4609 Storpcpllkmj Jlfuuj Georgia 28 TETANUS YES 7-9-2001
+8949 Qdxc Jchfuhqvar Georgia 96 TETANUS YES 24-10-2004
+6033 Qcopshfw Whhahmvo Georgia 112 HEPATITIS-A YES 12-12-2020
+7194 Iutfi Rrd Georgia 32 RUBELLA YES 23-1-2007
+9049 Sxczekcobw Phvqnukszsfp Georgia 35 COVID-19 NO 
+8949 Qdxc Jchfuhqvar Georgia 96 HIB YES 7-8-2000
+5647 Yslazc Vxtzjek Georgia 13 FLU YES 6-11-2004
+7358 Noy Xbplnxicrg Georgia 115 FLU YES 29-5-2003
+2737 Pzjzfnaybwmm Lbqfotqtzxy Georgia 11 HIB YES 8-3-2013
+7358 Noy Xbplnxicrg Georgia 115 HIB NO 
+4203 Vdor Ykuvq Georgia 47 CHICKENPOX NO 
+9049 Sxczekcobw Phvqnukszsfp Georgia 35 RUBELLA YES 11-3-2001
+4203 Vdor Ykuvq Georgia 47 HEPATITIS-B YES 19-7-2011
+22 Acmshlhsvzkk Vbhuokd Georgia 73 COVID-19 NO 
+5729 Plwsdurkdrj Ktfagkvbgr Georgia 112 HIB NO 
+1947 Lqppjkznjj Sji Georgia 72 CHICKENPOX NO 
+6033 Qcopshfw Whhahmvo Georgia 112 HIB YES 17-3-2015
+8949 Qdxc Jchfuhqvar Georgia 96 COVID-19 YES 25-6-2011
+1947 Lqppjkznjj Sji Georgia 72 MEASLES NO 
+440 Lzkkgsjwhbl Mxgxcu Georgia 16 MEASLES YES 3-2-2006
+4718 Xfsuz Mcjxuuyxosvo Georgia 99 FLU YES 26-7-2001
+2899 Xnbtdpbfyoh Vkvic Georgia 112 HIB NO 
+4718 Xfsuz Mcjxuuyxosvo Georgia 99 RUBELLA NO 
+5729 Plwsdurkdrj Ktfagkvbgr Georgia 112 RUBELLA YES 13-3-2014
+8949 Qdxc Jchfuhqvar Georgia 96 HEPATITIS-A YES 26-1-2007
+617 Xmlrrljkr Fuatxyrg Georgia 117 HEPATITIS-B YES 29-1-2004
+5647 Yslazc Vxtzjek Georgia 13 HEPATITIS-B YES 3-4-2013
+4203 Vdor Ykuvq Georgia 47 HEPATITIS-A YES 26-4-2018
+5066 Trxldsuv Dhxfl Georgia 27 HIB NO 
+440 Lzkkgsjwhbl Mxgxcu Georgia 16 FLU YES 6-12-2009
+4718 Xfsuz Mcjxuuyxosvo Georgia 99 FLU NO 
+4718 Xfsuz Mcjxuuyxosvo Georgia 99 HIB NO 
+5647 Yslazc Vxtzjek Georgia 13 CHICKENPOX YES 19-1-2001
+7194 Iutfi Rrd Georgia 32 RUBELLA YES 14-9-2006
+2899 Xnbtdpbfyoh Vkvic Georgia 112 COVID-19 NO 
+6586 Pntbjoe Ambyl Georgia 83 TETANUS YES 28-8-2017

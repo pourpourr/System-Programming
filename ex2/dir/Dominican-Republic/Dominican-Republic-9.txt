@@ -1,0 +1,50 @@
+
+5762 Agrulxokipbb Hoqqym Dominican-Republic 53 POLIO NO 
+1776 Crl Ouxeniwdnmf Dominican-Republic 34 MEASLES NO 
+4635 Kowudzikdo Xxoaz Dominican-Republic 44 FLU YES 17-11-2009
+3587 Wusmafoyfr Dzfzmqinxty Dominican-Republic 63 FLU NO 
+4630 Mccc Nlzgnzovd Dominican-Republic 118 COVID-19 NO 
+1482 Dasmdexwi Hercdoe Dominican-Republic 94 HEPATITIS-A NO 
+1231 Qzmikowfc Rxrhoiswr Dominican-Republic 1 HIB YES 11-3-2015
+1888 Tybxxfszqs Ogovn Dominican-Republic 84 CHICKENPOX YES 15-10-2001
+2349 Ysatjdgtkom Fzdb Dominican-Republic 4 HEPATITIS-B YES 13-8-2007
+1231 Qzmikowfc Rxrhoiswr Dominican-Republic 1 RUBELLA NO 
+9729 Aok Epfreratepb Dominican-Republic 25 MEASLES YES 25-10-2016
+1231 Qzmikowfc Rxrhoiswr Dominican-Republic 1 MEASLES NO 
+5022 Gutsjigbpg Kcwpouetkeo Dominican-Republic 44 TETANUS NO 
+300 Fyrxaoirxb Npvxwcdlsxe Dominican-Republic 41 CHICKENPOX YES 28-3-2013
+6206 Jgbh Oizpy Dominican-Republic 34 HEPATITIS-B YES 2-12-2009
+1482 Dasmdexwi Hercdoe Dominican-Republic 94 TETANUS NO 
+2159 Apfssidsibto Gblkunusqvw Dominican-Republic 34 HEPATITIS-B NO 
+1776 Crl Ouxeniwdnmf Dominican-Republic 34 MEASLES NO 
+689 Lcynfqxerh Ujjad Dominican-Republic 41 MEASLES NO 
+8827 Vujx Zbin Dominican-Republic 62 RUBELLA YES 12-1-2015
+4825 Pwrkys Qruerpfta Dominican-Republic 9 CHICKENPOX NO 
+5762 Agrulxokipbb Hoqqym Dominican-Republic 53 RUBELLA YES 20-5-2005
+3587 Wusmafoyfr Dzfzmqinxty Dominican-Republic 63 HIB NO 
+689 Lcynfqxerh Ujjad Dominican-Republic 41 RUBELLA NO 
+6783 Afkhxkcyrtj Ypuei Dominican-Republic 102 TETANUS YES 20-12-2010
+1888 Tybxxfszqs Ogovn Dominican-Republic 84 TETANUS YES 17-8-2010
+4551 Dcl Eha Dominican-Republic 1 MEASLES NO 
+2867 Nsqrzcan Npgupujaelet Dominican-Republic 32 MEASLES NO 
+1482 Dasmdexwi Hercdoe Dominican-Republic 94 CHICKENPOX NO 
+1231 Qzmikowfc Rxrhoiswr Dominican-Republic 1 COVID-19 YES 14-5-2005
+1231 Qzmikowfc Rxrhoiswr Dominican-Republic 1 HEPATITIS-B YES 24-3-2009
+8578 Yft Uzpjicxoyqw Dominican-Republic 62 FLU YES 1-6-2004
+2645 Nvdrk Egycklaxzic Dominican-Republic 107 MEASLES YES 3-9-2012
+8578 Yft Uzpjicxoyqw Dominican-Republic 62 HEPATITIS-B NO 
+4635 Kowudzikdo Xxoaz Dominican-Republic 44 COVID-19 YES 24-8-2002
+300 Fyrxaoirxb Npvxwcdlsxe Dominican-Republic 41 MEASLES YES 30-8-2009
+8827 Vujx Zbin Dominican-Republic 62 HEPATITIS-A NO 
+5101 Dmhveovh Yuge Dominican-Republic 49 HEPATITIS-A YES 12-9-2003
+6206 Jgbh Oizpy Dominican-Republic 34 HEPATITIS-A YES 5-8-2008
+2349 Ysatjdgtkom Fzdb Dominican-Republic 4 HIB YES 7-3-2010
+9729 Aok Epfreratepb Dominican-Republic 25 HIB NO 
+2159 Apfssidsibto Gblkunusqvw Dominican-Republic 34 TETANUS YES 6-4-2002
+9729 Aok Epfreratepb Dominican-Republic 25 HIB YES 13-4-2003
+2645 Nvdrk Egycklaxzic Dominican-Republic 107 COVID-19 NO 
+8578 Yft Uzpjicxoyqw Dominican-Republic 62 POLIO NO 
+2349 Ysatjdgtkom Fzdb Dominican-Republic 4 POLIO NO 
+300 Fyrxaoirxb Npvxwcdlsxe Dominican-Republic 41 TETANUS YES 18-6-2000
+9729 Aok Epfreratepb Dominican-Republic 25 HEPATITIS-B NO 
+5022 Gutsjigbpg Kcwpouetkeo Dominican-Republic 44 HEPATITIS-B NO 

@@ -1,0 +1,40 @@
+
+4586 Skhcqbahxyn Ixebth Armenia 79 HEPATITIS-B YES 18-1-2000
+4435 Hdkbfunniqxi Vzelxcjuenn Armenia 19 HEPATITIS-A NO 
+496 Itdwmnoftsl Gex Armenia 86 POLIO NO 
+688 Ltmtagwop Ocbcrslhjw Armenia 99 FLU YES 14-1-2010
+496 Itdwmnoftsl Gex Armenia 86 RUBELLA YES 22-4-2007
+2223 Lgtbvte Wcfiqxxq Armenia 7 HIB YES 16-4-2010
+4111 Hxqjlbjhwwqm Yrw Armenia 31 FLU YES 1-6-2010
+1371 Paz Xiosnzrohui Armenia 78 RUBELLA YES 2-6-2007
+278 Xcl Fpbpymcr Armenia 66 RUBELLA YES 11-11-2009
+9668 Jsjpmiogps Knqrulotjdsm Armenia 15 RUBELLA YES 18-2-2015
+2785 Zglqxttel Kjgz Armenia 56 COVID-19 YES 24-2-2008
+1371 Paz Xiosnzrohui Armenia 78 FLU NO 
+2223 Lgtbvte Wcfiqxxq Armenia 7 HIB YES 19-10-2017
+688 Ltmtagwop Ocbcrslhjw Armenia 99 COVID-19 YES 27-1-2004
+9426 Wfbio Jpusxbpca Armenia 113 TETANUS NO 
+496 Itdwmnoftsl Gex Armenia 86 FLU NO 
+688 Ltmtagwop Ocbcrslhjw Armenia 99 FLU NO 
+688 Ltmtagwop Ocbcrslhjw Armenia 99 HEPATITIS-B YES 29-1-2008
+2785 Zglqxttel Kjgz Armenia 56 RUBELLA YES 9-8-2002
+9668 Jsjpmiogps Knqrulotjdsm Armenia 15 POLIO YES 26-3-2001
+1371 Paz Xiosnzrohui Armenia 78 TETANUS NO 
+362 Pthois Pnoluvvsnoww Armenia 107 POLIO NO 
+9426 Wfbio Jpusxbpca Armenia 113 RUBELLA YES 18-8-2011
+5229 Mibw Vhppdtrl Armenia 81 HEPATITIS-B NO 
+8634 Lqwzy Mmswwtfiojis Armenia 36 TETANUS NO 
+4586 Skhcqbahxyn Ixebth Armenia 79 HIB NO 
+4586 Skhcqbahxyn Ixebth Armenia 79 FLU NO 
+278 Xcl Fpbpymcr Armenia 66 HEPATITIS-B YES 25-10-2005
+4586 Skhcqbahxyn Ixebth Armenia 79 FLU NO 
+4586 Skhcqbahxyn Ixebth Armenia 79 COVID-19 YES 3-6-2014
+496 Itdwmnoftsl Gex Armenia 86 CHICKENPOX YES 14-4-2001
+1371 Paz Xiosnzrohui Armenia 78 HEPATITIS-A YES 17-2-2016
+4435 Hdkbfunniqxi Vzelxcjuenn Armenia 19 HEPATITIS-A NO 
+2223 Lgtbvte Wcfiqxxq Armenia 7 RUBELLA NO 
+9426 Wfbio Jpusxbpca Armenia 113 HEPATITIS-A YES 1-1-2005
+4586 Skhcqbahxyn Ixebth Armenia 79 COVID-19 YES 2-6-2015
+5229 Mibw Vhppdtrl Armenia 81 HIB YES 28-10-2014
+8634 Lqwzy Mmswwtfiojis Armenia 36 HEPATITIS-B YES 6-8-2003
+4111 Hxqjlbjhwwqm Yrw Armenia 31 CHICKENPOX NO 

@@ -1,0 +1,43 @@
+
+2791 Zlcn Pfptovikg Iraq 64 POLIO YES 17-2-2015
+211 Ruhdlplios Dcktjjr Iraq 14 HIB YES 22-9-2004
+211 Ruhdlplios Dcktjjr Iraq 14 RUBELLA NO 
+2255 Iiveblvdthg Kptujqcu Iraq 101 MEASLES YES 12-6-2002
+2791 Zlcn Pfptovikg Iraq 64 CHICKENPOX NO 
+2255 Iiveblvdthg Kptujqcu Iraq 101 MEASLES YES 29-7-2019
+9166 Kaapqqrfchd Elzysqdlduu Iraq 6 HIB NO 
+7317 Xykkuuv Fsqzhi Iraq 65 MEASLES NO 
+7525 Ylrouavv Nqpqhsaow Iraq 71 HIB NO 
+9846 Swopiq Ubayuyjjehac Iraq 28 COVID-19 YES 1-4-2007
+9686 Kwhvvmpyqsg Sqbow Iraq 2 FLU NO 
+9846 Swopiq Ubayuyjjehac Iraq 28 HEPATITIS-A NO 
+131 Rglyauaicyqz Yrgww Iraq 24 MEASLES YES 14-12-2019
+4296 Qfo Acbqdhqu Iraq 60 HEPATITIS-B YES 30-4-2006
+3336 Atkuqwqx Qhpzokqupt Iraq 7 TETANUS NO 
+9686 Kwhvvmpyqsg Sqbow Iraq 2 HEPATITIS-A YES 11-1-2004
+4296 Qfo Acbqdhqu Iraq 60 RUBELLA NO 
+8376 Czlsrhsm Nkmmxum Iraq 98 COVID-19 NO 
+1623 Gebsmdyebunv Gkasxzclpwk Iraq 98 CHICKENPOX YES 30-3-2016
+9787 Mpjzaq Hkgxvxb Iraq 115 POLIO YES 14-7-2001
+9846 Swopiq Ubayuyjjehac Iraq 28 MEASLES NO 
+131 Rglyauaicyqz Yrgww Iraq 24 COVID-19 NO 
+9686 Kwhvvmpyqsg Sqbow Iraq 2 FLU YES 18-9-2007
+7317 Xykkuuv Fsqzhi Iraq 65 POLIO YES 25-11-2016
+9686 Kwhvvmpyqsg Sqbow Iraq 2 HEPATITIS-A YES 29-10-2007
+9459 Ssnjsunvdup Ualrceau Iraq 93 RUBELLA NO 
+3336 Atkuqwqx Qhpzokqupt Iraq 7 HEPATITIS-A NO 
+4296 Qfo Acbqdhqu Iraq 60 POLIO YES 4-11-2003
+9846 Swopiq Ubayuyjjehac Iraq 28 POLIO NO 
+9846 Swopiq Ubayuyjjehac Iraq 28 HEPATITIS-A YES 17-12-2018
+211 Ruhdlplios Dcktjjr Iraq 14 TETANUS NO 
+211 Ruhdlplios Dcktjjr Iraq 14 HEPATITIS-A YES 7-1-2003
+9459 Ssnjsunvdup Ualrceau Iraq 93 MEASLES YES 29-8-2003
+4296 Qfo Acbqdhqu Iraq 60 HEPATITIS-B YES 28-6-2018
+9526 Fpcxvlpnrf Clkxwhtg Iraq 91 MEASLES NO 
+1623 Gebsmdyebunv Gkasxzclpwk Iraq 98 TETANUS YES 23-5-2000
+9166 Kaapqqrfchd Elzysqdlduu Iraq 6 HEPATITIS-B NO 
+6730 Xkid Skewiebe Iraq 69 FLU YES 14-7-2004
+131 Rglyauaicyqz Yrgww Iraq 24 TETANUS NO 
+9166 Kaapqqrfchd Elzysqdlduu Iraq 6 MEASLES YES 2-2-2006
+6730 Xkid Skewiebe Iraq 69 COVID-19 NO 
+4296 Qfo Acbqdhqu Iraq 60 POLIO YES 19-7-2001

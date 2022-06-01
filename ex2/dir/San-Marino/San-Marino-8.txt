@@ -1,0 +1,58 @@
+
+8938 Yhhnd Zkydtvq San-Marino 99 HIB YES 19-4-2010
+1800 Lrc Psdpynsvnht San-Marino 51 TETANUS NO 
+3827 Zjl Lphukxmmb San-Marino 20 TETANUS NO 
+6118 Ozwpmekduae Nktkdweled San-Marino 15 TETANUS NO 
+9156 Aueh Nvbkworyfp San-Marino 68 POLIO YES 23-9-2017
+1800 Lrc Psdpynsvnht San-Marino 51 POLIO NO 
+6806 Atfquyh Rouq San-Marino 27 HIB YES 12-11-2008
+6571 Ttzn Gxevsg San-Marino 6 RUBELLA YES 28-5-2008
+4154 Ygueo Hgp San-Marino 112 RUBELLA NO 
+4921 Oyr Xdftrkiadtkg San-Marino 105 HEPATITIS-A NO 
+4056 Suva Hxphjauhsh San-Marino 3 HEPATITIS-A NO 
+4056 Suva Hxphjauhsh San-Marino 3 RUBELLA YES 8-1-2017
+6118 Ozwpmekduae Nktkdweled San-Marino 15 POLIO YES 13-8-2020
+9156 Aueh Nvbkworyfp San-Marino 68 POLIO YES 26-4-2004
+344 Wkzzwmafxjl Xkr San-Marino 110 TETANUS NO 
+3640 Xpbofpc Cvftqdvvgvis San-Marino 47 TETANUS NO 
+3593 Qjxaqm Aox San-Marino 18 HEPATITIS-B YES 15-1-2002
+7625 Yrzro Olg San-Marino 97 TETANUS YES 5-10-2019
+8566 Pqtbaepza Dlzucwkw San-Marino 90 COVID-19 NO 
+7625 Yrzro Olg San-Marino 97 COVID-19 YES 13-8-2010
+7625 Yrzro Olg San-Marino 97 HEPATITIS-A YES 18-8-2003
+4815 Hyovjeiggsa Tnbdgot San-Marino 49 POLIO NO 
+4154 Ygueo Hgp San-Marino 112 CHICKENPOX NO 
+3640 Xpbofpc Cvftqdvvgvis San-Marino 47 FLU NO 
+2096 Jmkiko Rqlhmjty San-Marino 115 HIB NO 
+9156 Aueh Nvbkworyfp San-Marino 68 MEASLES NO 
+3593 Qjxaqm Aox San-Marino 18 MEASLES YES 16-2-2001
+2044 Ciezd Nevqgzcwxugc San-Marino 54 MEASLES YES 9-6-2008
+6427 Dcovmynbqj Dbxniknhgcul San-Marino 25 COVID-19 NO 
+3640 Xpbofpc Cvftqdvvgvis San-Marino 47 TETANUS YES 24-2-2000
+4056 Suva Hxphjauhsh San-Marino 3 HIB YES 9-9-2000
+1077 Brtjywac Vseulu San-Marino 77 RUBELLA YES 16-10-2017
+6427 Dcovmynbqj Dbxniknhgcul San-Marino 25 HEPATITIS-A YES 14-5-2002
+4154 Ygueo Hgp San-Marino 112 POLIO YES 6-6-2001
+5045 Oxpvlbsgyi Cyzygw San-Marino 116 MEASLES NO 
+3593 Qjxaqm Aox San-Marino 18 HEPATITIS-B NO 
+9412 Yfuqqx Cdpeoxwbmy San-Marino 115 RUBELLA YES 1-7-2009
+8566 Pqtbaepza Dlzucwkw San-Marino 90 FLU NO 
+2096 Jmkiko Rqlhmjty San-Marino 115 RUBELLA YES 14-3-2005
+3640 Xpbofpc Cvftqdvvgvis San-Marino 47 FLU YES 12-2-2013
+6526 Cywvztt Kdfn San-Marino 92 RUBELLA YES 28-4-2020
+6571 Ttzn Gxevsg San-Marino 6 CHICKENPOX YES 16-9-2007
+4092 Zgbpriz Aytglu San-Marino 54 RUBELLA YES 3-1-2006
+1362 Iygdlexmjjw Bnnwu San-Marino 26 TETANUS NO 
+4154 Ygueo Hgp San-Marino 112 COVID-19 YES 27-3-2010
+6427 Dcovmynbqj Dbxniknhgcul San-Marino 25 TETANUS NO 
+4056 Suva Hxphjauhsh San-Marino 3 POLIO YES 27-1-2005
+5045 Oxpvlbsgyi Cyzygw San-Marino 116 HEPATITIS-B YES 25-5-2010
+5045 Oxpvlbsgyi Cyzygw San-Marino 116 MEASLES NO 
+2044 Ciezd Nevqgzcwxugc San-Marino 54 POLIO YES 25-10-2001
+6571 Ttzn Gxevsg San-Marino 6 RUBELLA NO 
+6526 Cywvztt Kdfn San-Marino 92 COVID-19 YES 21-9-2010
+6526 Cywvztt Kdfn San-Marino 92 FLU NO 
+6118 Ozwpmekduae Nktkdweled San-Marino 15 CHICKENPOX YES 11-2-2018
+4815 Hyovjeiggsa Tnbdgot San-Marino 49 FLU YES 12-9-2018
+1362 Iygdlexmjjw Bnnwu San-Marino 26 HEPATITIS-B YES 2-4-2018
+4154 Ygueo Hgp San-Marino 112 HEPATITIS-B NO 

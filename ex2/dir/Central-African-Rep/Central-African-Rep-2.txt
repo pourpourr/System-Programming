@@ -1,0 +1,39 @@
+
+584 Kvg Wawd Central-African-Rep 120 TETANUS NO 
+622 Rozpvup Qlae Central-African-Rep 74 HEPATITIS-B NO 
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 MEASLES NO 
+2686 Afg Uktply Central-African-Rep 80 POLIO NO 
+9293 Cktc Qqqideyc Central-African-Rep 33 CHICKENPOX NO 
+8585 Nfo Vjdqrohek Central-African-Rep 4 HEPATITIS-B NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 POLIO YES 8-7-2018
+9293 Cktc Qqqideyc Central-African-Rep 33 CHICKENPOX YES 14-2-2003
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 FLU YES 7-4-2013
+452 Kzangqijp Oqbr Central-African-Rep 80 MEASLES NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 HEPATITIS-A NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 MEASLES YES 19-3-2009
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 CHICKENPOX NO 
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 COVID-19 NO 
+9293 Cktc Qqqideyc Central-African-Rep 33 POLIO YES 6-4-2004
+2686 Afg Uktply Central-African-Rep 80 COVID-19 YES 15-10-2005
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 HEPATITIS-A YES 21-1-2006
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 POLIO NO 
+9831 Gtw Acrotrcbccg Central-African-Rep 116 POLIO YES 26-1-2018
+2686 Afg Uktply Central-African-Rep 80 FLU NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 FLU NO 
+622 Rozpvup Qlae Central-African-Rep 74 TETANUS YES 17-1-2012
+2686 Afg Uktply Central-African-Rep 80 HEPATITIS-A NO 
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 RUBELLA YES 2-7-2006
+584 Kvg Wawd Central-African-Rep 120 POLIO NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 POLIO NO 
+5024 Hrfiiuby Obn Central-African-Rep 52 MEASLES NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 HIB YES 30-12-2013
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 HIB YES 16-5-2009
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HEPATITIS-A NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 TETANUS NO 
+8585 Nfo Vjdqrohek Central-African-Rep 4 HEPATITIS-B YES 7-8-2009
+8585 Nfo Vjdqrohek Central-African-Rep 4 HIB YES 1-7-2009
+4886 Niibwi Yktphnltga Central-African-Rep 43 RUBELLA NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HIB YES 1-10-2019
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HEPATITIS-B YES 23-5-2007
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 FLU YES 16-4-2006
+584 Kvg Wawd Central-African-Rep 120 RUBELLA YES 11-10-2011

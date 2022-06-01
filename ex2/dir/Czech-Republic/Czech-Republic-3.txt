@@ -1,0 +1,55 @@
+
+2811 Ubjujvcff Kyqtmijotjz Czech-Republic 14 HEPATITIS-A YES 13-9-2015
+5477 Mius Wjylq Czech-Republic 101 HEPATITIS-A YES 6-5-2003
+4104 Qavymi Idnqfxsttl Czech-Republic 115 COVID-19 YES 8-4-2008
+6115 Qbxxdwhynt Sxefyn Czech-Republic 59 TETANUS NO 
+3136 Mzwxithx Sxkrniajenz Czech-Republic 47 MEASLES YES 11-9-2010
+5169 Vdahhhui Odcfpont Czech-Republic 78 MEASLES YES 14-9-2003
+5917 Wdjvdeyd Fazkn Czech-Republic 12 HEPATITIS-A NO 
+957 Lzln Len Czech-Republic 11 FLU YES 16-2-2013
+2116 Inlpgrjlunjt Vdwhjcrd Czech-Republic 72 FLU YES 17-9-2009
+2811 Ubjujvcff Kyqtmijotjz Czech-Republic 14 MEASLES NO 
+5169 Vdahhhui Odcfpont Czech-Republic 78 HEPATITIS-A NO 
+5477 Mius Wjylq Czech-Republic 101 HEPATITIS-B YES 18-10-2015
+5169 Vdahhhui Odcfpont Czech-Republic 78 HEPATITIS-A NO 
+5477 Mius Wjylq Czech-Republic 101 COVID-19 NO 
+2550 Levij Qzvipvdw Czech-Republic 94 POLIO YES 13-2-2011
+5477 Mius Wjylq Czech-Republic 101 HEPATITIS-B NO 
+2116 Inlpgrjlunjt Vdwhjcrd Czech-Republic 72 TETANUS NO 
+1797 Qqahmyixnmrr Ybesebbf Czech-Republic 28 POLIO YES 23-1-2001
+5917 Wdjvdeyd Fazkn Czech-Republic 12 TETANUS NO 
+1049 Aqzklllsqudu Tketfaaxtqln Czech-Republic 95 HEPATITIS-A YES 30-10-2014
+341 Nde Psultfvuzfv Czech-Republic 35 FLU NO 
+8746 Leuee Etbzankqp Czech-Republic 28 POLIO NO 
+3136 Mzwxithx Sxkrniajenz Czech-Republic 47 RUBELLA NO 
+7774 Omrnmntaj Gmjaua Czech-Republic 45 MEASLES YES 24-3-2012
+887 Twwfvoxeb Ymlyytunz Czech-Republic 111 RUBELLA NO 
+3136 Mzwxithx Sxkrniajenz Czech-Republic 47 TETANUS NO 
+325 Kykssfslufqc Iqz Czech-Republic 100 TETANUS YES 4-6-2015
+4810 Dflsripblyy Ebhxukyl Czech-Republic 46 HEPATITIS-B YES 1-12-2018
+2116 Inlpgrjlunjt Vdwhjcrd Czech-Republic 72 COVID-19 YES 1-9-2017
+957 Lzln Len Czech-Republic 11 MEASLES YES 14-5-2012
+5217 Pdbzcuv Jkipkr Czech-Republic 13 MEASLES YES 15-11-2020
+2550 Levij Qzvipvdw Czech-Republic 94 FLU YES 3-1-2015
+590 Vfvndlvdxhe Oysvjecta Czech-Republic 26 FLU YES 30-8-2008
+1797 Qqahmyixnmrr Ybesebbf Czech-Republic 28 CHICKENPOX YES 9-8-2005
+5917 Wdjvdeyd Fazkn Czech-Republic 12 MEASLES YES 26-5-2017
+6247 Jormd Kjvtodhcs Czech-Republic 115 TETANUS NO 
+6115 Qbxxdwhynt Sxefyn Czech-Republic 59 HIB YES 12-5-2004
+2364 Oacngqxu Tfin Czech-Republic 117 HEPATITIS-A YES 16-8-2016
+6901 Wlsotbhfx Rjk Czech-Republic 19 FLU YES 28-7-2006
+6247 Jormd Kjvtodhcs Czech-Republic 115 HIB YES 28-2-2003
+7774 Omrnmntaj Gmjaua Czech-Republic 45 POLIO NO 
+341 Nde Psultfvuzfv Czech-Republic 35 HIB YES 22-4-2000
+5917 Wdjvdeyd Fazkn Czech-Republic 12 POLIO YES 9-4-2014
+325 Kykssfslufqc Iqz Czech-Republic 100 HIB YES 15-9-2016
+887 Twwfvoxeb Ymlyytunz Czech-Republic 111 RUBELLA NO 
+957 Lzln Len Czech-Republic 11 RUBELLA NO 
+325 Kykssfslufqc Iqz Czech-Republic 100 TETANUS NO 
+8568 Kaje Mvp Czech-Republic 67 RUBELLA YES 3-7-2000
+7774 Omrnmntaj Gmjaua Czech-Republic 45 RUBELLA YES 8-4-2006
+5217 Pdbzcuv Jkipkr Czech-Republic 13 HIB NO 
+6901 Wlsotbhfx Rjk Czech-Republic 19 COVID-19 YES 2-7-2018
+1049 Aqzklllsqudu Tketfaaxtqln Czech-Republic 95 COVID-19 NO 
+8746 Leuee Etbzankqp Czech-Republic 28 HEPATITIS-A YES 21-5-2018
+590 Vfvndlvdxhe Oysvjecta Czech-Republic 26 HEPATITIS-A NO 

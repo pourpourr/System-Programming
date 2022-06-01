@@ -1,0 +1,35 @@
+
+2607 Rqrnh Aazcu Switzerland 13 RUBELLA YES 17-6-2008
+9349 Qbdamidprl Ihe Switzerland 51 POLIO NO 
+9237 Apfsu Uofreohnxjjh Switzerland 96 HIB NO 
+2507 Iqo Bgnejleprjpl Switzerland 101 FLU YES 9-5-2000
+6494 Uvlcmd Iidztzlznnb Switzerland 37 HEPATITIS-B NO 
+1783 Tbsoxaiixby Wppk Switzerland 6 HEPATITIS-A YES 6-7-2014
+2607 Rqrnh Aazcu Switzerland 13 HEPATITIS-B NO 
+6494 Uvlcmd Iidztzlznnb Switzerland 37 HIB YES 6-3-2001
+2607 Rqrnh Aazcu Switzerland 13 COVID-19 YES 5-2-2001
+2490 Rhokovekulh Dqexgdy Switzerland 94 HIB YES 5-5-2004
+6782 Yco Idpgsrne Switzerland 22 COVID-19 NO 
+3314 Iwqge Vkhbkmbrier Switzerland 45 CHICKENPOX NO 
+1783 Tbsoxaiixby Wppk Switzerland 6 FLU YES 29-12-2011
+1783 Tbsoxaiixby Wppk Switzerland 6 RUBELLA YES 15-4-2020
+6782 Yco Idpgsrne Switzerland 22 HIB YES 12-1-2004
+2457 Baxxidz Nrc Switzerland 86 HIB YES 29-1-2007
+1144 Vwkcmo Zvsidnx Switzerland 116 POLIO NO 
+3314 Iwqge Vkhbkmbrier Switzerland 45 COVID-19 YES 30-3-2014
+1144 Vwkcmo Zvsidnx Switzerland 116 HEPATITIS-A NO 
+4611 Wucc Ssomahmji Switzerland 103 MEASLES NO 
+2507 Iqo Bgnejleprjpl Switzerland 101 HEPATITIS-B NO 
+9237 Apfsu Uofreohnxjjh Switzerland 96 HEPATITIS-B NO 
+6782 Yco Idpgsrne Switzerland 22 RUBELLA NO 
+8367 Vcygopw Bcvmgsas Switzerland 34 HIB YES 29-12-2020
+9237 Apfsu Uofreohnxjjh Switzerland 96 HIB NO 
+2507 Iqo Bgnejleprjpl Switzerland 101 HEPATITIS-B YES 7-11-2011
+2507 Iqo Bgnejleprjpl Switzerland 101 CHICKENPOX NO 
+2507 Iqo Bgnejleprjpl Switzerland 101 MEASLES YES 14-6-2005
+684 Pxtoiwudkau Mgrhblbbh Switzerland 60 FLU NO 
+2490 Rhokovekulh Dqexgdy Switzerland 94 COVID-19 NO 
+6494 Uvlcmd Iidztzlznnb Switzerland 37 HIB YES 2-11-2009
+684 Pxtoiwudkau Mgrhblbbh Switzerland 60 HEPATITIS-A NO 
+2457 Baxxidz Nrc Switzerland 86 MEASLES YES 26-1-2010
+6074 Mbltz Honry Switzerland 57 COVID-19 NO 

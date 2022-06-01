@@ -1,0 +1,41 @@
+
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 FLU YES 13-11-2018
+5660 Pofcytzqan Vvfvm Mongolia 87 RUBELLA NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 POLIO YES 14-1-2005
+9106 Okbidx Wcosezxsskhb Mongolia 117 HIB NO 
+6054 Wqcuuzfsvwoi Uovwlpbjmfkx Mongolia 61 MEASLES NO 
+1485 Jdduem Zbuzccpodqcp Mongolia 59 RUBELLA NO 
+9106 Okbidx Wcosezxsskhb Mongolia 117 RUBELLA NO 
+7558 Idcvnund Ikyspql Mongolia 80 RUBELLA NO 
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 HEPATITIS-A YES 28-5-2007
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 HEPATITIS-A NO 
+7321 Woesvm Rmacmkwrzsi Mongolia 49 FLU YES 2-10-2001
+9106 Okbidx Wcosezxsskhb Mongolia 117 POLIO YES 9-1-2011
+7321 Woesvm Rmacmkwrzsi Mongolia 49 CHICKENPOX NO 
+2154 Mpe Vpkziqs Mongolia 109 HIB NO 
+9106 Okbidx Wcosezxsskhb Mongolia 117 COVID-19 YES 21-9-2017
+718 Ccgbql Dwqaww Mongolia 40 HIB NO 
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 FLU YES 29-2-2013
+1220 Nwqvsotaqpx Wqbk Mongolia 38 HIB YES 20-5-2009
+861 Vggcaqf Mpcdwntlq Mongolia 68 HEPATITIS-B NO 
+8798 Sxmovwhmo Cwppen Mongolia 70 RUBELLA NO 
+1781 Phheyo Xmiff Mongolia 8 CHICKENPOX NO 
+9106 Okbidx Wcosezxsskhb Mongolia 117 HEPATITIS-A NO 
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 POLIO NO 
+6054 Wqcuuzfsvwoi Uovwlpbjmfkx Mongolia 61 COVID-19 YES 15-8-2005
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 TETANUS YES 1-10-2005
+7558 Idcvnund Ikyspql Mongolia 80 FLU NO 
+8798 Sxmovwhmo Cwppen Mongolia 70 POLIO YES 16-3-2009
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 HEPATITIS-B YES 24-9-2003
+718 Ccgbql Dwqaww Mongolia 40 HEPATITIS-B YES 27-10-2007
+861 Vggcaqf Mpcdwntlq Mongolia 68 HIB YES 23-12-2018
+1485 Jdduem Zbuzccpodqcp Mongolia 59 COVID-19 NO 
+1781 Phheyo Xmiff Mongolia 8 HEPATITIS-A NO 
+1485 Jdduem Zbuzccpodqcp Mongolia 59 FLU NO 
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 FLU YES 7-12-2006
+861 Vggcaqf Mpcdwntlq Mongolia 68 RUBELLA NO 
+6054 Wqcuuzfsvwoi Uovwlpbjmfkx Mongolia 61 MEASLES NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 MEASLES YES 11-4-2017
+1485 Jdduem Zbuzccpodqcp Mongolia 59 RUBELLA NO 
+718 Ccgbql Dwqaww Mongolia 40 CHICKENPOX NO 
+1220 Nwqvsotaqpx Wqbk Mongolia 38 HEPATITIS-B NO 

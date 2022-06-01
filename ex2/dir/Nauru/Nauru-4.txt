@@ -1,0 +1,46 @@
+
+6093 Ejwm Ztpqt Nauru 28 CHICKENPOX NO 
+4188 Qiheu Rsfluqmknj Nauru 97 TETANUS YES 10-7-2015
+5247 Summe Bwqufqsbq Nauru 20 COVID-19 NO 
+5856 Xerns Mlfjjksy Nauru 92 MEASLES YES 30-5-2005
+5856 Xerns Mlfjjksy Nauru 92 MEASLES YES 5-3-2011
+541 Rwu Pghitp Nauru 6 CHICKENPOX NO 
+4374 Xyszj Xzugqynqa Nauru 96 COVID-19 NO 
+6093 Ejwm Ztpqt Nauru 28 COVID-19 NO 
+541 Rwu Pghitp Nauru 6 HEPATITIS-B NO 
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 TETANUS YES 24-3-2010
+2717 Psa Gpqznjdvmnv Nauru 80 RUBELLA YES 10-9-2012
+1813 Raqnlz Adae Nauru 26 FLU NO 
+2717 Psa Gpqznjdvmnv Nauru 80 COVID-19 YES 4-12-2016
+7925 Skwxecwn Xvhqpprnd Nauru 77 HIB NO 
+2479 Ttaadttssm Abjutvbzbvd Nauru 61 COVID-19 NO 
+924 Unsl Vkqoauojip Nauru 23 TETANUS NO 
+5247 Summe Bwqufqsbq Nauru 20 CHICKENPOX YES 8-9-2020
+9303 Cglyoaqc Dased Nauru 37 COVID-19 NO 
+8861 Trjttldoacye Mlf Nauru 85 HEPATITIS-B YES 8-4-2011
+8476 Bakpxp Asynpdwcckia Nauru 48 COVID-19 YES 7-3-2004
+2479 Ttaadttssm Abjutvbzbvd Nauru 61 HEPATITIS-A YES 24-5-2007
+924 Unsl Vkqoauojip Nauru 23 HIB YES 1-11-2006
+6420 Ppmppgvrjl Skw Nauru 34 HEPATITIS-A YES 11-3-2005
+2717 Psa Gpqznjdvmnv Nauru 80 COVID-19 NO 
+541 Rwu Pghitp Nauru 6 TETANUS YES 14-8-2008
+6093 Ejwm Ztpqt Nauru 28 MEASLES NO 
+1813 Raqnlz Adae Nauru 26 RUBELLA YES 15-2-2009
+1249 Bdrirjstdszq Rvpeknczyw Nauru 88 MEASLES YES 10-9-2007
+1813 Raqnlz Adae Nauru 26 FLU NO 
+5856 Xerns Mlfjjksy Nauru 92 TETANUS YES 14-3-2001
+2717 Psa Gpqznjdvmnv Nauru 80 COVID-19 YES 26-10-2018
+6093 Ejwm Ztpqt Nauru 28 RUBELLA NO 
+2479 Ttaadttssm Abjutvbzbvd Nauru 61 HEPATITIS-B NO 
+6093 Ejwm Ztpqt Nauru 28 RUBELLA YES 12-6-2000
+5247 Summe Bwqufqsbq Nauru 20 POLIO NO 
+1192 Ecdjipd Kkmhq Nauru 49 HEPATITIS-B YES 12-1-2013
+1813 Raqnlz Adae Nauru 26 HEPATITIS-A YES 10-3-2010
+1192 Ecdjipd Kkmhq Nauru 49 TETANUS YES 12-9-2005
+5856 Xerns Mlfjjksy Nauru 92 HIB NO 
+5247 Summe Bwqufqsbq Nauru 20 FLU NO 
+924 Unsl Vkqoauojip Nauru 23 TETANUS NO 
+2717 Psa Gpqznjdvmnv Nauru 80 COVID-19 NO 
+6420 Ppmppgvrjl Skw Nauru 34 POLIO YES 20-6-2013
+1249 Bdrirjstdszq Rvpeknczyw Nauru 88 RUBELLA NO 
+5856 Xerns Mlfjjksy Nauru 92 HEPATITIS-B YES 11-4-2018

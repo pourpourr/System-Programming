@@ -1,0 +1,53 @@
+
+6402 Efrjmhlvdey Motokzc Latvia 102 FLU NO 
+8574 Ijm Cey Latvia 44 HEPATITIS-B YES 30-2-2004
+2697 Rlszp Yepqt Latvia 13 FLU YES 23-10-2007
+2762 Amq Abrvfgwehif Latvia 38 COVID-19 YES 14-1-2000
+2192 Repvjn Kifodvhk Latvia 2 FLU NO 
+8108 Wlylga Vfytkjbblh Latvia 33 TETANUS YES 7-9-2005
+538 Rbmuwjgre Yqjm Latvia 101 RUBELLA NO 
+8574 Ijm Cey Latvia 44 CHICKENPOX YES 12-5-2014
+1944 Gen Vqtslep Latvia 34 MEASLES YES 24-9-2019
+566 Bythkssqg Yfi Latvia 48 HEPATITIS-B YES 28-10-2020
+2762 Amq Abrvfgwehif Latvia 38 MEASLES YES 10-4-2010
+2762 Amq Abrvfgwehif Latvia 38 HEPATITIS-B YES 21-9-2018
+5975 Cpds Ypulb Latvia 92 MEASLES NO 
+566 Bythkssqg Yfi Latvia 48 HEPATITIS-B NO 
+3415 Lqloye Rgonchhcgw Latvia 109 COVID-19 NO 
+9995 Ztdurrrtndpj Ymv Latvia 113 MEASLES YES 7-2-2004
+1464 Ovgqprf Mjf Latvia 69 HEPATITIS-A NO 
+9995 Ztdurrrtndpj Ymv Latvia 113 HIB YES 3-3-2017
+1852 Qqnmpk Lkkrgixujye Latvia 27 HEPATITIS-A YES 21-4-2013
+5975 Cpds Ypulb Latvia 92 HEPATITIS-A NO 
+3415 Lqloye Rgonchhcgw Latvia 109 TETANUS NO 
+7242 Ahhslrwv Uwwv Latvia 68 FLU NO 
+5975 Cpds Ypulb Latvia 92 HIB YES 15-11-2012
+1464 Ovgqprf Mjf Latvia 69 POLIO NO 
+1464 Ovgqprf Mjf Latvia 69 HEPATITIS-B NO 
+8766 Fdwnhyurmxu Pmyiulkfcm Latvia 119 POLIO YES 26-10-2011
+566 Bythkssqg Yfi Latvia 48 TETANUS NO 
+9995 Ztdurrrtndpj Ymv Latvia 113 MEASLES NO 
+1944 Gen Vqtslep Latvia 34 COVID-19 YES 26-7-2000
+1977 Eyuppq Pqyboqjc Latvia 101 CHICKENPOX YES 12-5-2010
+5535 Lrc Fktkucufiixw Latvia 43 RUBELLA NO 
+2697 Rlszp Yepqt Latvia 13 TETANUS YES 30-9-2018
+1944 Gen Vqtslep Latvia 34 HIB YES 19-3-2012
+8766 Fdwnhyurmxu Pmyiulkfcm Latvia 119 HEPATITIS-A YES 13-11-2015
+4986 Elitpyhej Xjthhdn Latvia 46 HEPATITIS-B YES 9-11-2003
+5535 Lrc Fktkucufiixw Latvia 43 HIB NO 
+5975 Cpds Ypulb Latvia 92 FLU YES 14-9-2016
+7370 Ekwdvb Mctohynwo Latvia 95 HEPATITIS-A NO 
+5535 Lrc Fktkucufiixw Latvia 43 FLU NO 
+3415 Lqloye Rgonchhcgw Latvia 109 HEPATITIS-A YES 3-5-2014
+1977 Eyuppq Pqyboqjc Latvia 101 HEPATITIS-B YES 2-2-2019
+8574 Ijm Cey Latvia 44 POLIO YES 26-12-2006
+8574 Ijm Cey Latvia 44 CHICKENPOX YES 18-5-2008
+9995 Ztdurrrtndpj Ymv Latvia 113 FLU YES 26-4-2003
+8108 Wlylga Vfytkjbblh Latvia 33 HIB NO 
+1977 Eyuppq Pqyboqjc Latvia 101 HEPATITIS-A YES 28-4-2009
+538 Rbmuwjgre Yqjm Latvia 101 TETANUS NO 
+1977 Eyuppq Pqyboqjc Latvia 101 COVID-19 YES 23-4-2020
+4986 Elitpyhej Xjthhdn Latvia 46 FLU NO 
+5535 Lrc Fktkucufiixw Latvia 43 TETANUS NO 
+1944 Gen Vqtslep Latvia 34 TETANUS NO 
+566 Bythkssqg Yfi Latvia 48 MEASLES NO 

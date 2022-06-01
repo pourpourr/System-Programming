@@ -1,0 +1,57 @@
+
+256 Jynq Gxuxizubberb Cameroon 109 POLIO YES 4-1-2005
+2313 Mzh Mrkh Cameroon 114 COVID-19 NO 
+5317 Ibzeozcl Zwadx Cameroon 18 RUBELLA NO 
+5295 Nvphl Sljidjvlx Cameroon 25 CHICKENPOX YES 6-3-2008
+550 Upgjgqmsbwo Huqgong Cameroon 108 TETANUS NO 
+256 Jynq Gxuxizubberb Cameroon 109 CHICKENPOX YES 29-8-2005
+200 Nrapdygren Qyxej Cameroon 85 TETANUS NO 
+25 Wgpji Wviagwsicv Cameroon 120 HIB YES 5-4-2013
+8647 Qrszhqc Bxsntlplwn Cameroon 37 HIB NO 
+7019 Zxmspekchu Wfyq Cameroon 94 HEPATITIS-A NO 
+9837 Vxwywa Sjyqbjvxgwkk Cameroon 22 HIB NO 
+732 Xddljdjwi Qdyuisdgzfa Cameroon 76 HEPATITIS-A NO 
+5641 Xskbct Klc Cameroon 97 POLIO YES 2-2-2000
+7019 Zxmspekchu Wfyq Cameroon 94 HEPATITIS-B YES 3-1-2018
+732 Xddljdjwi Qdyuisdgzfa Cameroon 76 HIB NO 
+256 Jynq Gxuxizubberb Cameroon 109 CHICKENPOX YES 21-4-2012
+200 Nrapdygren Qyxej Cameroon 85 COVID-19 NO 
+5978 Qhpduowedfuo Cxahzrbh Cameroon 115 RUBELLA YES 21-4-2003
+8647 Qrszhqc Bxsntlplwn Cameroon 37 CHICKENPOX YES 18-11-2009
+6111 Zxryqgsyghus Kweiymyn Cameroon 39 MEASLES NO 
+5978 Qhpduowedfuo Cxahzrbh Cameroon 115 POLIO NO 
+7292 Ssjanr Tjmenh Cameroon 112 CHICKENPOX NO 
+3432 Urdx Nmt Cameroon 104 HEPATITIS-B NO 
+5295 Nvphl Sljidjvlx Cameroon 25 HIB NO 
+3432 Urdx Nmt Cameroon 104 HEPATITIS-B YES 18-8-2012
+25 Wgpji Wviagwsicv Cameroon 120 POLIO NO 
+7815 Mwdfikzxrz Dbusgr Cameroon 111 HIB NO 
+9837 Vxwywa Sjyqbjvxgwkk Cameroon 22 TETANUS YES 25-9-2007
+8647 Qrszhqc Bxsntlplwn Cameroon 37 HIB YES 7-12-2014
+2313 Mzh Mrkh Cameroon 114 CHICKENPOX YES 4-12-2011
+1743 Jkp Ukhg Cameroon 95 HEPATITIS-B YES 8-8-2017
+550 Upgjgqmsbwo Huqgong Cameroon 108 CHICKENPOX NO 
+6111 Zxryqgsyghus Kweiymyn Cameroon 39 FLU YES 5-7-2002
+732 Xddljdjwi Qdyuisdgzfa Cameroon 76 CHICKENPOX YES 27-9-2007
+5317 Ibzeozcl Zwadx Cameroon 18 RUBELLA NO 
+3701 Sbiq Qwxgmtaus Cameroon 104 COVID-19 NO 
+2313 Mzh Mrkh Cameroon 114 CHICKENPOX YES 12-3-2002
+256 Jynq Gxuxizubberb Cameroon 109 HIB YES 9-11-2009
+263 Ltv Ctkjbxw Cameroon 38 MEASLES NO 
+3432 Urdx Nmt Cameroon 104 POLIO YES 6-5-2008
+25 Wgpji Wviagwsicv Cameroon 120 CHICKENPOX YES 14-8-2017
+5295 Nvphl Sljidjvlx Cameroon 25 COVID-19 YES 23-3-2016
+5978 Qhpduowedfuo Cxahzrbh Cameroon 115 MEASLES YES 2-8-2005
+7814 Ufmkygfh Rjwkxuczce Cameroon 48 CHICKENPOX YES 9-11-2011
+25 Wgpji Wviagwsicv Cameroon 120 HEPATITIS-A YES 13-1-2009
+6111 Zxryqgsyghus Kweiymyn Cameroon 39 POLIO NO 
+5978 Qhpduowedfuo Cxahzrbh Cameroon 115 COVID-19 YES 11-5-2014
+1564 Nphwu Sffipjz Cameroon 11 POLIO NO 
+9837 Vxwywa Sjyqbjvxgwkk Cameroon 22 HEPATITIS-B YES 12-6-2005
+1743 Jkp Ukhg Cameroon 95 MEASLES NO 
+7815 Mwdfikzxrz Dbusgr Cameroon 111 POLIO NO 
+8647 Qrszhqc Bxsntlplwn Cameroon 37 HEPATITIS-B YES 15-1-2015
+263 Ltv Ctkjbxw Cameroon 38 TETANUS NO 
+5317 Ibzeozcl Zwadx Cameroon 18 MEASLES YES 16-11-2007
+7814 Ufmkygfh Rjwkxuczce Cameroon 48 RUBELLA NO 
+256 Jynq Gxuxizubberb Cameroon 109 HIB NO 

@@ -1,0 +1,42 @@
+
+4752 Ubj Osshrxee Samoa 112 HEPATITIS-A NO 
+2071 Mipyusqghr Kozafuune Samoa 66 HIB NO 
+3666 Hzajxa Yrkvxo Samoa 36 CHICKENPOX YES 13-12-2004
+5659 Rkikzfltw Fkxtkjhsl Samoa 30 RUBELLA YES 6-4-2005
+8084 Zpbyeuyl Kkofbr Samoa 35 FLU YES 27-2-2001
+7681 Xjk Vcmshzgujqd Samoa 79 HEPATITIS-B NO 
+5252 Exqunz Kjvrang Samoa 60 HIB NO 
+2150 Tezf Btpdxeis Samoa 50 RUBELLA NO 
+7403 Jxsdguqtthtp Ccqhrqhsh Samoa 35 TETANUS NO 
+7681 Xjk Vcmshzgujqd Samoa 79 TETANUS YES 28-1-2008
+2071 Mipyusqghr Kozafuune Samoa 66 FLU YES 4-6-2014
+5699 Iqvc Oodtmq Samoa 26 RUBELLA NO 
+3378 Vwjfacu Vzfgdhmz Samoa 52 MEASLES NO 
+7403 Jxsdguqtthtp Ccqhrqhsh Samoa 35 CHICKENPOX NO 
+3633 Upmjzo Qxqz Samoa 101 CHICKENPOX NO 
+9572 Inn Cwfswkldhxgd Samoa 116 HIB NO 
+9572 Inn Cwfswkldhxgd Samoa 116 RUBELLA YES 19-10-2019
+4086 Bavzcbrgvte Qooegsmzhk Samoa 22 MEASLES NO 
+4752 Ubj Osshrxee Samoa 112 RUBELLA YES 23-7-2014
+3666 Hzajxa Yrkvxo Samoa 36 CHICKENPOX YES 24-9-2010
+5699 Iqvc Oodtmq Samoa 26 TETANUS NO 
+8084 Zpbyeuyl Kkofbr Samoa 35 RUBELLA NO 
+8084 Zpbyeuyl Kkofbr Samoa 35 HIB NO 
+9031 Qjkufgbvuc Rdkzrvdjj Samoa 93 RUBELLA NO 
+5659 Rkikzfltw Fkxtkjhsl Samoa 30 POLIO NO 
+5659 Rkikzfltw Fkxtkjhsl Samoa 30 RUBELLA NO 
+8084 Zpbyeuyl Kkofbr Samoa 35 HEPATITIS-B NO 
+1143 Uovonicxpdt Roahdru Samoa 66 FLU NO 
+6831 Ixug Agsrumtl Samoa 49 HEPATITIS-B YES 27-7-2009
+3666 Hzajxa Yrkvxo Samoa 36 TETANUS NO 
+2150 Tezf Btpdxeis Samoa 50 HEPATITIS-B YES 17-3-2020
+3666 Hzajxa Yrkvxo Samoa 36 POLIO NO 
+3378 Vwjfacu Vzfgdhmz Samoa 52 POLIO NO 
+2071 Mipyusqghr Kozafuune Samoa 66 HEPATITIS-B NO 
+1143 Uovonicxpdt Roahdru Samoa 66 CHICKENPOX NO 
+7681 Xjk Vcmshzgujqd Samoa 79 HEPATITIS-A NO 
+5252 Exqunz Kjvrang Samoa 60 HEPATITIS-B NO 
+8084 Zpbyeuyl Kkofbr Samoa 35 HEPATITIS-B NO 
+4086 Bavzcbrgvte Qooegsmzhk Samoa 22 HIB NO 
+3666 Hzajxa Yrkvxo Samoa 36 TETANUS NO 
+8084 Zpbyeuyl Kkofbr Samoa 35 CHICKENPOX YES 10-7-2018

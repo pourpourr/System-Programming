@@ -1,0 +1,42 @@
+
+4511 Uro Wxfpvfmrbt United-States 110 COVID-19 YES 18-8-2002
+8212 Xod Ahtmhx United-States 85 HEPATITIS-A NO 
+9991 Twh Bek United-States 75 POLIO YES 26-4-2020
+6264 Wkph Jvhswcxxibmj United-States 118 HEPATITIS-A NO 
+6622 Msilpjqz Pltvcxdz United-States 87 RUBELLA YES 5-4-2003
+9561 Ruw Uqbt United-States 57 CHICKENPOX YES 13-6-2010
+7060 Lbzblbtkcal Jzbobt United-States 28 HEPATITIS-A NO 
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 HEPATITIS-A YES 26-5-2016
+6268 Ivrl Hiqjzhacns United-States 49 HIB YES 23-6-2011
+4511 Uro Wxfpvfmrbt United-States 110 HEPATITIS-B NO 
+4453 Ozvi Dwjhanxqiwdx United-States 73 FLU YES 15-1-2017
+1432 Nmcdsqyjsrn Erfl United-States 81 RUBELLA YES 13-7-2017
+8334 Zzsca Fqogtrpuzp United-States 70 MEASLES NO 
+7060 Lbzblbtkcal Jzbobt United-States 28 HIB NO 
+8598 Oavjqybpwr Zaqkqve United-States 118 RUBELLA YES 13-3-2008
+4511 Uro Wxfpvfmrbt United-States 110 HEPATITIS-A YES 21-2-2000
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 TETANUS YES 22-7-2020
+8334 Zzsca Fqogtrpuzp United-States 70 FLU NO 
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 MEASLES YES 21-3-2007
+296 Vnefper Danxkmlnsv United-States 27 HEPATITIS-B YES 6-7-2000
+1791 Ioq Gphqvzmnf United-States 39 POLIO YES 22-1-2009
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 CHICKENPOX NO 
+4397 Hafyyengesxh Ijghoknodc United-States 45 MEASLES NO 
+9561 Ruw Uqbt United-States 57 HEPATITIS-B YES 9-4-2019
+4192 Vlipszw Iwsmnuqqeirh United-States 119 POLIO YES 11-1-2019
+4511 Uro Wxfpvfmrbt United-States 110 HEPATITIS-B YES 11-9-2010
+6268 Ivrl Hiqjzhacns United-States 49 HIB YES 26-6-2007
+254 Mkqzx Bywe United-States 40 CHICKENPOX NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 FLU NO 
+6622 Msilpjqz Pltvcxdz United-States 87 HEPATITIS-B NO 
+5544 Dzarhjahqw Vibrjoa United-States 108 TETANUS YES 15-4-2012
+4453 Ozvi Dwjhanxqiwdx United-States 73 MEASLES YES 20-12-2006
+9561 Ruw Uqbt United-States 57 TETANUS NO 
+7678 Qqlfqs Uli United-States 39 CHICKENPOX YES 2-5-2014
+6268 Ivrl Hiqjzhacns United-States 49 TETANUS YES 4-9-2006
+8212 Xod Ahtmhx United-States 85 TETANUS NO 
+5544 Dzarhjahqw Vibrjoa United-States 108 POLIO NO 
+8334 Zzsca Fqogtrpuzp United-States 70 HEPATITIS-B YES 27-4-2000
+8598 Oavjqybpwr Zaqkqve United-States 118 POLIO YES 24-7-2002
+9991 Twh Bek United-States 75 HEPATITIS-A NO 
+4511 Uro Wxfpvfmrbt United-States 110 RUBELLA NO 

@@ -1,0 +1,35 @@
+
+1144 Vwkcmo Zvsidnx Switzerland 116 POLIO NO 
+2784 Zcu Xzhhyy Switzerland 107 RUBELLA NO 
+2784 Zcu Xzhhyy Switzerland 107 COVID-19 NO 
+9349 Qbdamidprl Ihe Switzerland 51 FLU YES 15-4-2018
+9349 Qbdamidprl Ihe Switzerland 51 HIB YES 26-9-2014
+2507 Iqo Bgnejleprjpl Switzerland 101 HIB NO 
+2607 Rqrnh Aazcu Switzerland 13 CHICKENPOX NO 
+6782 Yco Idpgsrne Switzerland 22 HIB NO 
+1144 Vwkcmo Zvsidnx Switzerland 116 FLU NO 
+6494 Uvlcmd Iidztzlznnb Switzerland 37 COVID-19 NO 
+9349 Qbdamidprl Ihe Switzerland 51 POLIO NO 
+1783 Tbsoxaiixby Wppk Switzerland 6 MEASLES NO 
+4611 Wucc Ssomahmji Switzerland 103 POLIO YES 9-7-2004
+6782 Yco Idpgsrne Switzerland 22 COVID-19 NO 
+2457 Baxxidz Nrc Switzerland 86 CHICKENPOX YES 3-6-2017
+2607 Rqrnh Aazcu Switzerland 13 POLIO YES 24-4-2019
+8367 Vcygopw Bcvmgsas Switzerland 34 HEPATITIS-A NO 
+6782 Yco Idpgsrne Switzerland 22 HEPATITIS-B YES 8-6-2001
+6074 Mbltz Honry Switzerland 57 POLIO NO 
+2457 Baxxidz Nrc Switzerland 86 HEPATITIS-B YES 3-10-2014
+2507 Iqo Bgnejleprjpl Switzerland 101 CHICKENPOX YES 20-7-2003
+1144 Vwkcmo Zvsidnx Switzerland 116 CHICKENPOX YES 18-6-2002
+2607 Rqrnh Aazcu Switzerland 13 HIB NO 
+1144 Vwkcmo Zvsidnx Switzerland 116 CHICKENPOX YES 12-10-2010
+1783 Tbsoxaiixby Wppk Switzerland 6 COVID-19 YES 4-5-2012
+6782 Yco Idpgsrne Switzerland 22 RUBELLA NO 
+3314 Iwqge Vkhbkmbrier Switzerland 45 HEPATITIS-B NO 
+2490 Rhokovekulh Dqexgdy Switzerland 94 HIB NO 
+1144 Vwkcmo Zvsidnx Switzerland 116 TETANUS NO 
+4510 Abkoqefm Lurndal Switzerland 63 COVID-19 NO 
+1144 Vwkcmo Zvsidnx Switzerland 116 TETANUS NO 
+6494 Uvlcmd Iidztzlznnb Switzerland 37 POLIO NO 
+1144 Vwkcmo Zvsidnx Switzerland 116 TETANUS YES 29-2-2009
+2457 Baxxidz Nrc Switzerland 86 HEPATITIS-A YES 11-4-2018

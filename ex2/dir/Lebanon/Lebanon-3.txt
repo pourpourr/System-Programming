@@ -1,0 +1,52 @@
+
+8247 Hfobskhks Hwqtkoivwj Lebanon 95 HEPATITIS-B YES 13-2-2002
+9805 Xuscpvuolh Uewbxnpj Lebanon 45 TETANUS NO 
+8348 Hsjmjtlfe Fucnbf Lebanon 114 TETANUS NO 
+7393 Ssgbydvvyzxy Vfu Lebanon 67 FLU YES 15-10-2009
+413 Qoy Rvuodisbdfij Lebanon 18 POLIO NO 
+7211 Nmmfdzdspq Tmwvtrmfhvw Lebanon 35 HEPATITIS-B YES 13-8-2016
+1451 Orxdjxfzryva Plijgr Lebanon 20 POLIO YES 29-8-2014
+8941 Rhfbqxxegrf Rjxxcedhrlma Lebanon 80 HEPATITIS-A NO 
+9805 Xuscpvuolh Uewbxnpj Lebanon 45 MEASLES YES 5-12-2009
+1951 Mod Shulfjebdm Lebanon 116 HEPATITIS-A YES 3-4-2020
+2927 Kpijiqwgqyx Bqodk Lebanon 72 CHICKENPOX NO 
+6786 Bifycmllkmp Zwrrwc Lebanon 89 HIB YES 16-7-2008
+7211 Nmmfdzdspq Tmwvtrmfhvw Lebanon 35 RUBELLA NO 
+5028 Pvc Owxnsbhti Lebanon 89 CHICKENPOX YES 6-7-2006
+5028 Pvc Owxnsbhti Lebanon 89 RUBELLA NO 
+413 Qoy Rvuodisbdfij Lebanon 18 RUBELLA YES 20-2-2008
+2927 Kpijiqwgqyx Bqodk Lebanon 72 CHICKENPOX NO 
+6010 Ksonul Ucoabhrw Lebanon 61 HEPATITIS-B YES 23-7-2000
+9606 Gqnjk Knxhtfxztj Lebanon 100 TETANUS NO 
+5143 Aosrbpk Oldqzuanu Lebanon 31 TETANUS YES 22-12-2014
+9727 Tfvnqdn Hbjlixhw Lebanon 96 TETANUS NO 
+6010 Ksonul Ucoabhrw Lebanon 61 POLIO NO 
+5143 Aosrbpk Oldqzuanu Lebanon 31 HIB YES 7-6-2012
+1291 Pezo Bpqrkbknr Lebanon 47 FLU NO 
+8 Teeavwl Ezrt Lebanon 100 POLIO NO 
+8 Teeavwl Ezrt Lebanon 100 TETANUS YES 17-9-2018
+8 Teeavwl Ezrt Lebanon 100 MEASLES YES 16-5-2010
+9805 Xuscpvuolh Uewbxnpj Lebanon 45 MEASLES YES 27-5-2017
+2927 Kpijiqwgqyx Bqodk Lebanon 72 HEPATITIS-A YES 9-9-2011
+5028 Pvc Owxnsbhti Lebanon 89 HEPATITIS-A NO 
+1451 Orxdjxfzryva Plijgr Lebanon 20 RUBELLA NO 
+8 Teeavwl Ezrt Lebanon 100 HIB YES 15-3-2013
+5389 Qlinzsg Vixdeejl Lebanon 24 HIB NO 
+5143 Aosrbpk Oldqzuanu Lebanon 31 TETANUS YES 26-2-2003
+8348 Hsjmjtlfe Fucnbf Lebanon 114 TETANUS NO 
+8 Teeavwl Ezrt Lebanon 100 TETANUS YES 2-9-2008
+7098 Fybbhay Upn Lebanon 88 HIB NO 
+8348 Hsjmjtlfe Fucnbf Lebanon 114 HEPATITIS-B NO 
+413 Qoy Rvuodisbdfij Lebanon 18 HEPATITIS-B NO 
+7098 Fybbhay Upn Lebanon 88 POLIO NO 
+5143 Aosrbpk Oldqzuanu Lebanon 31 COVID-19 NO 
+6786 Bifycmllkmp Zwrrwc Lebanon 89 HEPATITIS-B NO 
+6825 Ilmcvyasfua Fzjiw Lebanon 17 HIB YES 14-3-2004
+6786 Bifycmllkmp Zwrrwc Lebanon 89 HEPATITIS-B YES 26-5-2006
+5143 Aosrbpk Oldqzuanu Lebanon 31 COVID-19 NO 
+8247 Hfobskhks Hwqtkoivwj Lebanon 95 MEASLES YES 23-10-2014
+6010 Ksonul Ucoabhrw Lebanon 61 HIB YES 13-9-2004
+1291 Pezo Bpqrkbknr Lebanon 47 COVID-19 YES 22-4-2019
+5389 Qlinzsg Vixdeejl Lebanon 24 HEPATITIS-B YES 20-10-2009
+2927 Kpijiqwgqyx Bqodk Lebanon 72 POLIO NO 
+8941 Rhfbqxxegrf Rjxxcedhrlma Lebanon 80 COVID-19 YES 1-5-2004

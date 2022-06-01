@@ -1,0 +1,38 @@
+
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 RUBELLA NO 
+8233 Itijyunzx Ciieaekpyjq Cambodia 20 CHICKENPOX YES 1-2-2000
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 HIB YES 5-1-2014
+2544 Ipcvjvrexvd Iirfc Cambodia 107 HEPATITIS-A NO 
+416 Dimfkpstf Olyg Cambodia 81 HEPATITIS-A YES 17-4-2017
+2445 Xcndrldedi Xaz Cambodia 83 CHICKENPOX YES 24-6-2010
+6267 Fospibmwi Aivpv Cambodia 120 HEPATITIS-B NO 
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 CHICKENPOX NO 
+1840 Lrinvwy Tgwidss Cambodia 36 RUBELLA YES 22-3-2006
+6583 Mkcrh Wrwzehuaxe Cambodia 38 HEPATITIS-B YES 20-3-2007
+1840 Lrinvwy Tgwidss Cambodia 36 HIB YES 14-11-2014
+7645 Iesqbzwq Doqdvkcr Cambodia 21 FLU NO 
+6583 Mkcrh Wrwzehuaxe Cambodia 38 COVID-19 NO 
+8233 Itijyunzx Ciieaekpyjq Cambodia 20 HEPATITIS-B NO 
+8233 Itijyunzx Ciieaekpyjq Cambodia 20 HEPATITIS-A YES 20-11-2010
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 RUBELLA NO 
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 MEASLES NO 
+2544 Ipcvjvrexvd Iirfc Cambodia 107 POLIO NO 
+2445 Xcndrldedi Xaz Cambodia 83 TETANUS YES 21-1-2000
+8233 Itijyunzx Ciieaekpyjq Cambodia 20 HEPATITIS-B NO 
+6583 Mkcrh Wrwzehuaxe Cambodia 38 POLIO YES 1-10-2015
+7645 Iesqbzwq Doqdvkcr Cambodia 21 RUBELLA NO 
+6267 Fospibmwi Aivpv Cambodia 120 RUBELLA YES 13-1-2017
+1412 Zeziz Gjtfvskritpy Cambodia 112 HEPATITIS-A NO 
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 TETANUS NO 
+5549 Aindkwctbpeg Dgaorofmuk Cambodia 85 HEPATITIS-B NO 
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 COVID-19 NO 
+5549 Aindkwctbpeg Dgaorofmuk Cambodia 85 HIB NO 
+2544 Ipcvjvrexvd Iirfc Cambodia 107 MEASLES YES 13-2-2007
+6583 Mkcrh Wrwzehuaxe Cambodia 38 FLU YES 28-11-2016
+6267 Fospibmwi Aivpv Cambodia 120 TETANUS YES 17-8-2006
+1412 Zeziz Gjtfvskritpy Cambodia 112 RUBELLA NO 
+54 Fqoeqong Gkbpcqbsbnge Cambodia 25 HEPATITIS-A NO 
+5973 Fjmzokgol Nygwqknbctr Cambodia 72 RUBELLA NO 
+5973 Fjmzokgol Nygwqknbctr Cambodia 72 HEPATITIS-A YES 19-4-2018
+9881 Okbjmth Cdqvjlvoaw Cambodia 34 MEASLES NO 
+6267 Fospibmwi Aivpv Cambodia 120 CHICKENPOX NO 

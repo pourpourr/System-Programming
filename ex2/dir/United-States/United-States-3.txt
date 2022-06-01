@@ -1,0 +1,42 @@
+
+6268 Ivrl Hiqjzhacns United-States 49 MEASLES NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 COVID-19 NO 
+4511 Uro Wxfpvfmrbt United-States 110 HEPATITIS-A YES 18-4-2002
+7678 Qqlfqs Uli United-States 39 HIB NO 
+4397 Hafyyengesxh Ijghoknodc United-States 45 FLU YES 14-10-2020
+1432 Nmcdsqyjsrn Erfl United-States 81 HEPATITIS-B YES 11-2-2000
+1791 Ioq Gphqvzmnf United-States 39 HEPATITIS-B YES 7-2-2012
+7060 Lbzblbtkcal Jzbobt United-States 28 CHICKENPOX YES 25-10-2010
+7060 Lbzblbtkcal Jzbobt United-States 28 COVID-19 YES 16-10-2014
+6264 Wkph Jvhswcxxibmj United-States 118 FLU YES 10-9-2004
+8334 Zzsca Fqogtrpuzp United-States 70 HEPATITIS-B YES 13-7-2008
+8212 Xod Ahtmhx United-States 85 POLIO NO 
+254 Mkqzx Bywe United-States 40 HEPATITIS-A YES 11-4-2009
+8212 Xod Ahtmhx United-States 85 HIB NO 
+5544 Dzarhjahqw Vibrjoa United-States 108 HEPATITIS-A NO 
+7678 Qqlfqs Uli United-States 39 HIB NO 
+8334 Zzsca Fqogtrpuzp United-States 70 CHICKENPOX NO 
+4511 Uro Wxfpvfmrbt United-States 110 HEPATITIS-A NO 
+9561 Ruw Uqbt United-States 57 COVID-19 NO 
+8598 Oavjqybpwr Zaqkqve United-States 118 POLIO YES 24-12-2017
+5544 Dzarhjahqw Vibrjoa United-States 108 MEASLES YES 5-12-2010
+4453 Ozvi Dwjhanxqiwdx United-States 73 HEPATITIS-A YES 1-10-2004
+9991 Twh Bek United-States 75 COVID-19 YES 13-1-2010
+4511 Uro Wxfpvfmrbt United-States 110 CHICKENPOX NO 
+4192 Vlipszw Iwsmnuqqeirh United-States 119 MEASLES NO 
+4192 Vlipszw Iwsmnuqqeirh United-States 119 HEPATITIS-B NO 
+6268 Ivrl Hiqjzhacns United-States 49 CHICKENPOX NO 
+8334 Zzsca Fqogtrpuzp United-States 70 HIB YES 23-6-2005
+4397 Hafyyengesxh Ijghoknodc United-States 45 MEASLES YES 8-8-2017
+7060 Lbzblbtkcal Jzbobt United-States 28 COVID-19 YES 12-6-2005
+5544 Dzarhjahqw Vibrjoa United-States 108 MEASLES NO 
+254 Mkqzx Bywe United-States 40 FLU NO 
+5544 Dzarhjahqw Vibrjoa United-States 108 CHICKENPOX NO 
+5544 Dzarhjahqw Vibrjoa United-States 108 MEASLES NO 
+8334 Zzsca Fqogtrpuzp United-States 70 FLU YES 18-6-2019
+7060 Lbzblbtkcal Jzbobt United-States 28 FLU YES 22-2-2013
+254 Mkqzx Bywe United-States 40 MEASLES NO 
+8212 Xod Ahtmhx United-States 85 COVID-19 YES 5-11-2007
+4453 Ozvi Dwjhanxqiwdx United-States 73 TETANUS YES 20-1-2010
+9991 Twh Bek United-States 75 POLIO YES 23-4-2002
+8598 Oavjqybpwr Zaqkqve United-States 118 HEPATITIS-B NO 

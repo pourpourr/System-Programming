@@ -1,0 +1,43 @@
+
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 HEPATITIS-B NO 
+5846 Wpoedolhpq Mptpt Belarus 51 POLIO YES 18-10-2004
+4804 Kocmwsms Qssbk Belarus 69 POLIO NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 HIB YES 23-5-2007
+9615 Bpui Calcug Belarus 119 MEASLES NO 
+5161 Gimhkilm Nlnwyq Belarus 77 HIB YES 18-11-2011
+4804 Kocmwsms Qssbk Belarus 69 FLU NO 
+3498 Stqwbqlm Aldcc Belarus 40 MEASLES NO 
+3605 Xmw Vfrxggenr Belarus 94 CHICKENPOX NO 
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 POLIO NO 
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 HIB YES 25-4-2002
+8812 Chjf Lestxhn Belarus 31 TETANUS NO 
+5846 Wpoedolhpq Mptpt Belarus 51 COVID-19 YES 28-10-2001
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 CHICKENPOX YES 20-9-2000
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 CHICKENPOX YES 11-8-2016
+9205 Xpmo Abgdfimfr Belarus 42 CHICKENPOX NO 
+769 Hckwi Bqeuq Belarus 86 HEPATITIS-A NO 
+8928 Yns Fkjqa Belarus 66 HIB NO 
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 RUBELLA NO 
+769 Hckwi Bqeuq Belarus 86 MEASLES NO 
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 CHICKENPOX NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 POLIO NO 
+769 Hckwi Bqeuq Belarus 86 RUBELLA NO 
+8928 Yns Fkjqa Belarus 66 COVID-19 NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 MEASLES NO 
+8928 Yns Fkjqa Belarus 66 COVID-19 YES 15-10-2007
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 MEASLES YES 8-2-2000
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 COVID-19 NO 
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 HEPATITIS-B YES 26-9-2017
+9162 Faswsxugyy Dvnnikek Belarus 80 MEASLES YES 27-5-2011
+8928 Yns Fkjqa Belarus 66 MEASLES NO 
+3498 Stqwbqlm Aldcc Belarus 40 TETANUS YES 25-7-2002
+8812 Chjf Lestxhn Belarus 31 RUBELLA NO 
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 HEPATITIS-B YES 7-12-2003
+7947 Lajcza Tlpvlzznxda Belarus 115 HEPATITIS-A YES 11-9-2014
+4804 Kocmwsms Qssbk Belarus 69 HEPATITIS-A YES 10-11-2004
+7947 Lajcza Tlpvlzznxda Belarus 115 MEASLES YES 26-9-2003
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 HEPATITIS-A YES 5-6-2018
+9205 Xpmo Abgdfimfr Belarus 42 RUBELLA YES 1-5-2011
+4804 Kocmwsms Qssbk Belarus 69 HEPATITIS-B NO 
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 HIB YES 28-3-2012
+9900 Wddlkpoebc Kkz Belarus 98 HEPATITIS-A YES 2-8-2003

@@ -1,0 +1,47 @@
+
+9826 Hkferds Sydczxsvo Somalia 96 HEPATITIS-B NO 
+9826 Hkferds Sydczxsvo Somalia 96 FLU YES 7-3-2014
+4667 Lci Waiirit Somalia 10 POLIO NO 
+2144 Krgahdoryp Zqflqi Somalia 86 TETANUS YES 17-5-2014
+6511 Zamesx Ylosmredy Somalia 87 HIB NO 
+2733 Ctvdyovtuv Fqofgdwwn Somalia 1 HEPATITIS-B NO 
+9826 Hkferds Sydczxsvo Somalia 96 FLU NO 
+1195 Udenamjwftma Hrrrbb Somalia 106 TETANUS YES 7-1-2010
+2144 Krgahdoryp Zqflqi Somalia 86 COVID-19 YES 17-2-2014
+6853 Ioetxu Heswoaztubl Somalia 59 POLIO YES 2-8-2019
+2733 Ctvdyovtuv Fqofgdwwn Somalia 1 HEPATITIS-A NO 
+5993 Fxbya Nzdqwhst Somalia 34 HIB YES 23-4-2002
+3762 Cuvcxtxj Wlwyimsa Somalia 67 COVID-19 YES 22-6-2003
+9826 Hkferds Sydczxsvo Somalia 96 RUBELLA YES 6-8-2015
+9826 Hkferds Sydczxsvo Somalia 96 MEASLES NO 
+8870 Hkukfxmgs Aywtjntojre Somalia 98 FLU NO 
+754 Gbijnuaqgjd Yhgp Somalia 51 RUBELLA NO 
+6853 Ioetxu Heswoaztubl Somalia 59 HIB YES 25-1-2005
+2144 Krgahdoryp Zqflqi Somalia 86 HIB NO 
+582 Zkxkynkboz Mzzaofiyzsf Somalia 93 COVID-19 NO 
+6904 Gnsrfrv Gfoybhyui Somalia 102 HEPATITIS-A YES 28-10-2004
+8870 Hkukfxmgs Aywtjntojre Somalia 98 TETANUS NO 
+2144 Krgahdoryp Zqflqi Somalia 86 COVID-19 NO 
+2848 Rthuij Ohvelya Somalia 63 COVID-19 NO 
+8870 Hkukfxmgs Aywtjntojre Somalia 98 CHICKENPOX NO 
+6949 Zhhdcm Bperqodcj Somalia 77 RUBELLA YES 21-2-2002
+9826 Hkferds Sydczxsvo Somalia 96 RUBELLA NO 
+6904 Gnsrfrv Gfoybhyui Somalia 102 POLIO YES 17-4-2012
+6904 Gnsrfrv Gfoybhyui Somalia 102 COVID-19 NO 
+2293 Ryyazznf Snl Somalia 90 CHICKENPOX NO 
+1195 Udenamjwftma Hrrrbb Somalia 106 MEASLES NO 
+6949 Zhhdcm Bperqodcj Somalia 77 HEPATITIS-A NO 
+582 Zkxkynkboz Mzzaofiyzsf Somalia 93 TETANUS YES 9-10-2007
+582 Zkxkynkboz Mzzaofiyzsf Somalia 93 POLIO YES 16-7-2019
+8870 Hkukfxmgs Aywtjntojre Somalia 98 HEPATITIS-B NO 
+6763 Xchjyzla Vltqr Somalia 109 POLIO NO 
+6949 Zhhdcm Bperqodcj Somalia 77 MEASLES YES 20-8-2020
+1195 Udenamjwftma Hrrrbb Somalia 106 FLU YES 9-4-2017
+9826 Hkferds Sydczxsvo Somalia 96 CHICKENPOX YES 15-3-2008
+6904 Gnsrfrv Gfoybhyui Somalia 102 FLU YES 19-7-2007
+2293 Ryyazznf Snl Somalia 90 MEASLES YES 28-1-2014
+582 Zkxkynkboz Mzzaofiyzsf Somalia 93 RUBELLA YES 28-9-2007
+6949 Zhhdcm Bperqodcj Somalia 77 HIB NO 
+6949 Zhhdcm Bperqodcj Somalia 77 FLU YES 26-7-2020
+6949 Zhhdcm Bperqodcj Somalia 77 HEPATITIS-B NO 
+6763 Xchjyzla Vltqr Somalia 109 MEASLES NO 

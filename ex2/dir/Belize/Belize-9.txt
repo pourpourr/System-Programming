@@ -1,0 +1,43 @@
+
+7923 Ctch Bfwynufsnim Belize 56 POLIO NO 
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 HEPATITIS-A YES 22-9-2017
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 POLIO YES 24-2-2014
+1668 Oqcffafj Ndgoz Belize 99 RUBELLA YES 30-9-2004
+7923 Ctch Bfwynufsnim Belize 56 COVID-19 NO 
+3395 Ymsnkpztk Ktmb Belize 20 HEPATITIS-A YES 2-11-2007
+9302 Mmmt Cfvf Belize 7 TETANUS YES 26-8-2006
+2286 Luslauqhj Afce Belize 10 COVID-19 NO 
+3780 Kprrcnpfzb Dsqhqmurilc Belize 52 TETANUS NO 
+1668 Oqcffafj Ndgoz Belize 99 RUBELLA NO 
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 FLU YES 16-11-2004
+7567 Cuqioeovo Jroiws Belize 17 FLU NO 
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 RUBELLA YES 6-2-2005
+3395 Ymsnkpztk Ktmb Belize 20 COVID-19 YES 6-1-2000
+7906 Bqtves Qetikxnespvd Belize 63 CHICKENPOX YES 18-6-2012
+3395 Ymsnkpztk Ktmb Belize 20 CHICKENPOX YES 20-1-2006
+7906 Bqtves Qetikxnespvd Belize 63 RUBELLA YES 9-2-2000
+7923 Ctch Bfwynufsnim Belize 56 MEASLES YES 19-3-2005
+2358 Dstwlhqxehb Saz Belize 76 HEPATITIS-B NO 
+2358 Dstwlhqxehb Saz Belize 76 HEPATITIS-B NO 
+8695 Dhdn Jrshwiih Belize 75 HIB NO 
+1668 Oqcffafj Ndgoz Belize 99 POLIO NO 
+9210 Movfpbtmoz Qbaeknwx Belize 31 POLIO NO 
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 MEASLES YES 22-3-2004
+873 Mcfkfdkd Ajubtuqyetz Belize 60 HEPATITIS-A YES 16-12-2015
+7567 Cuqioeovo Jroiws Belize 17 TETANUS YES 16-5-2019
+867 Mzkyaq Tqoho Belize 23 POLIO YES 12-9-2017
+873 Mcfkfdkd Ajubtuqyetz Belize 60 HEPATITIS-A YES 4-12-2010
+7567 Cuqioeovo Jroiws Belize 17 RUBELLA YES 13-8-2014
+2286 Luslauqhj Afce Belize 10 POLIO NO 
+7567 Cuqioeovo Jroiws Belize 17 CHICKENPOX YES 16-1-2019
+7923 Ctch Bfwynufsnim Belize 56 RUBELLA NO 
+901 Jdeemu Utpuzv Belize 17 HEPATITIS-A NO 
+7906 Bqtves Qetikxnespvd Belize 63 FLU YES 24-1-2012
+9210 Movfpbtmoz Qbaeknwx Belize 31 TETANUS YES 1-4-2002
+7567 Cuqioeovo Jroiws Belize 17 CHICKENPOX YES 29-10-2004
+867 Mzkyaq Tqoho Belize 23 TETANUS YES 25-9-2006
+872 Wixgt Iclytamp Belize 73 FLU YES 25-8-2014
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 HIB YES 4-1-2019
+873 Mcfkfdkd Ajubtuqyetz Belize 60 RUBELLA YES 12-3-2004
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 RUBELLA YES 16-8-2010
+873 Mcfkfdkd Ajubtuqyetz Belize 60 HIB YES 23-2-2006

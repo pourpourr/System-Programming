@@ -1,0 +1,42 @@
+
+7451 Nlvruyy Bhydbhqgsmgz Swaziland 88 POLIO YES 20-10-2005
+3756 Hmrhzebrq Djgit Swaziland 65 HIB YES 28-3-2000
+1696 Iokerlud Dbxlmjlrop Swaziland 9 COVID-19 YES 28-12-2020
+7957 Fdortm Hsaeufbswjbx Swaziland 98 MEASLES NO 
+2476 Tfvdbcdkpmfp Gvsjiycndz Swaziland 44 HEPATITIS-B YES 26-11-2005
+3894 Pxumcoe Gcvwsq Swaziland 68 HEPATITIS-A YES 20-7-2004
+7957 Fdortm Hsaeufbswjbx Swaziland 98 TETANUS NO 
+2989 Pyofcbr Kyefrjow Swaziland 92 CHICKENPOX YES 29-10-2016
+3894 Pxumcoe Gcvwsq Swaziland 68 CHICKENPOX YES 12-1-2020
+7670 Xyetazv Ogggkbqxea Swaziland 7 HIB NO 
+2932 Qzdwodegy Enksukyoc Swaziland 96 TETANUS NO 
+4733 Qdv Tkfyoloqrzyw Swaziland 92 HEPATITIS-A YES 19-11-2017
+2476 Tfvdbcdkpmfp Gvsjiycndz Swaziland 44 MEASLES YES 24-5-2003
+3894 Pxumcoe Gcvwsq Swaziland 68 TETANUS NO 
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 HIB YES 10-11-2007
+4343 Qobyiksfxlzj Qzw Swaziland 61 COVID-19 NO 
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 CHICKENPOX NO 
+1696 Iokerlud Dbxlmjlrop Swaziland 9 COVID-19 NO 
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 HEPATITIS-B NO 
+7575 Ojixegbckz Efozuvt Swaziland 22 POLIO NO 
+1696 Iokerlud Dbxlmjlrop Swaziland 9 CHICKENPOX NO 
+3488 Ddzsabqlvh Tpxlrmf Swaziland 54 CHICKENPOX YES 28-3-2016
+4733 Qdv Tkfyoloqrzyw Swaziland 92 MEASLES YES 11-1-2010
+8716 Lowhle Hkqha Swaziland 95 COVID-19 YES 5-5-2004
+3488 Ddzsabqlvh Tpxlrmf Swaziland 54 HEPATITIS-A NO 
+2907 Ihjxmwpqom Tdsasf Swaziland 37 HIB YES 21-11-2008
+3488 Ddzsabqlvh Tpxlrmf Swaziland 54 CHICKENPOX NO 
+4733 Qdv Tkfyoloqrzyw Swaziland 92 POLIO NO 
+2907 Ihjxmwpqom Tdsasf Swaziland 37 TETANUS NO 
+7957 Fdortm Hsaeufbswjbx Swaziland 98 FLU YES 11-2-2000
+2989 Pyofcbr Kyefrjow Swaziland 92 POLIO NO 
+2476 Tfvdbcdkpmfp Gvsjiycndz Swaziland 44 RUBELLA YES 30-3-2000
+7957 Fdortm Hsaeufbswjbx Swaziland 98 FLU NO 
+1825 Ldf Zdofnhaz Swaziland 80 HEPATITIS-A YES 20-4-2009
+1696 Iokerlud Dbxlmjlrop Swaziland 9 POLIO YES 18-3-2008
+1825 Ldf Zdofnhaz Swaziland 80 HEPATITIS-B NO 
+2989 Pyofcbr Kyefrjow Swaziland 92 FLU YES 20-5-2001
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 TETANUS NO 
+1696 Iokerlud Dbxlmjlrop Swaziland 9 COVID-19 NO 
+7957 Fdortm Hsaeufbswjbx Swaziland 98 CHICKENPOX YES 5-10-2016
+7670 Xyetazv Ogggkbqxea Swaziland 7 RUBELLA YES 2-6-2012

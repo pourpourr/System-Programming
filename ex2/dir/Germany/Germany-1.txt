@@ -1,0 +1,46 @@
+
+5833 Mxdspmiho Jntjzlnm Germany 17 MEASLES YES 14-7-2013
+206 Wee Emz Germany 110 FLU YES 30-8-2016
+7016 Tfrhxnu Lpoujsldv Germany 70 HIB NO 
+4211 Xtgrvnu Tdadstxdo Germany 38 HEPATITIS-B YES 28-9-2008
+569 Skgiqvsosab Bmcqyve Germany 113 CHICKENPOX YES 24-9-2012
+6286 Ouztgh Hpa Germany 24 CHICKENPOX YES 30-1-2003
+7443 Nbnykfoazrf Afozhaolu Germany 49 POLIO YES 3-10-2013
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 TETANUS YES 1-6-2005
+7443 Nbnykfoazrf Afozhaolu Germany 49 POLIO NO 
+4647 Puageaonlbfg Ljpejsozraw Germany 32 TETANUS NO 
+2307 Tnkwtgl Vurkeccj Germany 81 RUBELLA YES 24-6-2005
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 MEASLES NO 
+5048 Oiqujj Whdhj Germany 6 MEASLES YES 14-4-2005
+8940 Luxjyx Oaycksjhjfhn Germany 58 MEASLES NO 
+7445 Kvylyzqtp Lcblthmc Germany 64 MEASLES NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 MEASLES NO 
+7303 Dsi Egwo Germany 70 HEPATITIS-B YES 20-6-2007
+206 Wee Emz Germany 110 TETANUS YES 3-7-2009
+5833 Mxdspmiho Jntjzlnm Germany 17 HEPATITIS-B NO 
+5833 Mxdspmiho Jntjzlnm Germany 17 COVID-19 NO 
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 HEPATITIS-A NO 
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 POLIO YES 20-7-2014
+8940 Luxjyx Oaycksjhjfhn Germany 58 POLIO YES 18-8-2013
+569 Skgiqvsosab Bmcqyve Germany 113 MEASLES YES 15-12-2006
+2245 Ogsaqrtwhgb Cluce Germany 62 FLU NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 RUBELLA NO 
+206 Wee Emz Germany 110 HEPATITIS-B NO 
+5892 Cocrjritfw Ezmqckimla Germany 1 FLU NO 
+2307 Tnkwtgl Vurkeccj Germany 81 FLU NO 
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 CHICKENPOX NO 
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 POLIO YES 12-8-2007
+6069 Kqqgb Mibedlf Germany 58 COVID-19 NO 
+569 Skgiqvsosab Bmcqyve Germany 113 COVID-19 YES 5-7-2002
+5892 Cocrjritfw Ezmqckimla Germany 1 FLU NO 
+6069 Kqqgb Mibedlf Germany 58 POLIO YES 16-12-2005
+6286 Ouztgh Hpa Germany 24 TETANUS YES 21-4-2018
+6069 Kqqgb Mibedlf Germany 58 POLIO NO 
+4647 Puageaonlbfg Ljpejsozraw Germany 32 COVID-19 YES 12-3-2011
+2307 Tnkwtgl Vurkeccj Germany 81 CHICKENPOX YES 4-11-2007
+5524 Oybqavtyod Vujhml Germany 7 HEPATITIS-B NO 
+7443 Nbnykfoazrf Afozhaolu Germany 49 TETANUS YES 2-1-2018
+4211 Xtgrvnu Tdadstxdo Germany 38 MEASLES NO 
+5524 Oybqavtyod Vujhml Germany 7 RUBELLA NO 
+6751 Vnhdjlv Mgscguc Germany 71 MEASLES YES 18-6-2007
+7443 Nbnykfoazrf Afozhaolu Germany 49 HEPATITIS-B NO 

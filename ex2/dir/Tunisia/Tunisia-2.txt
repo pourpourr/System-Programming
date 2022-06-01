@@ -1,0 +1,65 @@
+
+8225 Ogs Yld Tunisia 13 TETANUS YES 10-1-2002
+8603 Dggfvfp Npou Tunisia 67 TETANUS YES 14-3-2003
+1029 Phv Zlfphywo Tunisia 100 RUBELLA YES 1-10-2011
+9119 Yjwfp Zadg Tunisia 76 CHICKENPOX YES 8-5-2004
+3176 Rcegoljdmyjh Bmxmoxohbfa Tunisia 98 MEASLES YES 15-8-2018
+8603 Dggfvfp Npou Tunisia 67 HEPATITIS-A YES 18-2-2005
+7123 Ecqzmpcv Epxuoevdh Tunisia 102 MEASLES YES 19-1-2000
+698 Nowwqimgm Yomadz Tunisia 117 HIB YES 4-2-2000
+1084 Bemhajap Oltesaovck Tunisia 83 CHICKENPOX YES 10-7-2018
+2982 Jxbonlowoaxx Gsjfw Tunisia 59 POLIO NO 
+5297 Cwec Mhujun Tunisia 31 RUBELLA YES 28-4-2007
+9863 Gqkfbfkzwh Ynroietniui Tunisia 75 CHICKENPOX NO 
+3320 Kvpgidcfds Jltaxwi Tunisia 113 FLU NO 
+6665 Grcapdzh Mtrwg Tunisia 103 HIB NO 
+3176 Rcegoljdmyjh Bmxmoxohbfa Tunisia 98 COVID-19 NO 
+2681 Ekljjyyevrj Lnsdelqbvwee Tunisia 35 FLU YES 13-7-2018
+4612 Tgyhorkd Hvqyq Tunisia 63 COVID-19 NO 
+2681 Ekljjyyevrj Lnsdelqbvwee Tunisia 35 FLU NO 
+698 Nowwqimgm Yomadz Tunisia 117 FLU NO 
+1084 Bemhajap Oltesaovck Tunisia 83 HEPATITIS-B YES 20-11-2018
+4540 Chbxqzwdiv Gdgnpe Tunisia 76 MEASLES NO 
+5297 Cwec Mhujun Tunisia 31 FLU YES 5-7-2001
+4472 Ioqymqtdoen Mwvgsmsvqvxz Tunisia 114 POLIO NO 
+4540 Chbxqzwdiv Gdgnpe Tunisia 76 FLU YES 18-1-2017
+4914 Csqmjcb Xcjnzsiqoeg Tunisia 92 POLIO NO 
+4472 Ioqymqtdoen Mwvgsmsvqvxz Tunisia 114 HIB YES 16-4-2007
+698 Nowwqimgm Yomadz Tunisia 117 POLIO NO 
+4472 Ioqymqtdoen Mwvgsmsvqvxz Tunisia 114 TETANUS YES 7-1-2019
+9119 Yjwfp Zadg Tunisia 76 FLU NO 
+1029 Phv Zlfphywo Tunisia 100 HIB YES 24-1-2008
+2437 Fbsv Nqqopwyoouql Tunisia 91 HEPATITIS-A YES 26-2-2013
+3528 Xth Hhgqyzqqidt Tunisia 72 POLIO YES 2-7-2017
+7619 Sahbk Guv Tunisia 14 HEPATITIS-B YES 22-2-2014
+4612 Tgyhorkd Hvqyq Tunisia 63 CHICKENPOX YES 25-12-2017
+8597 Eabsqqdyqix Ltlvfiqlrjl Tunisia 4 COVID-19 YES 24-2-2006
+8603 Dggfvfp Npou Tunisia 67 HEPATITIS-A YES 19-9-2007
+6665 Grcapdzh Mtrwg Tunisia 103 CHICKENPOX NO 
+4472 Ioqymqtdoen Mwvgsmsvqvxz Tunisia 114 TETANUS YES 16-2-2004
+6729 Nownrk Klmxvry Tunisia 115 POLIO NO 
+3320 Kvpgidcfds Jltaxwi Tunisia 113 CHICKENPOX NO 
+3528 Xth Hhgqyzqqidt Tunisia 72 MEASLES NO 
+2681 Ekljjyyevrj Lnsdelqbvwee Tunisia 35 HIB YES 30-12-2011
+4472 Ioqymqtdoen Mwvgsmsvqvxz Tunisia 114 COVID-19 NO 
+427 Ghmxykkwrlno Hchnoebay Tunisia 73 HEPATITIS-A NO 
+2982 Jxbonlowoaxx Gsjfw Tunisia 59 HEPATITIS-A YES 16-3-2012
+6729 Nownrk Klmxvry Tunisia 115 COVID-19 YES 28-3-2010
+6665 Grcapdzh Mtrwg Tunisia 103 TETANUS YES 7-10-2001
+2437 Fbsv Nqqopwyoouql Tunisia 91 HIB YES 2-8-2014
+1029 Phv Zlfphywo Tunisia 100 HEPATITIS-A NO 
+8597 Eabsqqdyqix Ltlvfiqlrjl Tunisia 4 MEASLES YES 29-7-2004
+7123 Ecqzmpcv Epxuoevdh Tunisia 102 POLIO YES 24-11-2003
+2630 Bxwaup Isdnc Tunisia 92 HEPATITIS-A NO 
+4540 Chbxqzwdiv Gdgnpe Tunisia 76 MEASLES YES 16-9-2015
+7337 Bfmn Nikhkjvjtycu Tunisia 22 TETANUS NO 
+3176 Rcegoljdmyjh Bmxmoxohbfa Tunisia 98 COVID-19 NO 
+3320 Kvpgidcfds Jltaxwi Tunisia 113 FLU NO 
+3528 Xth Hhgqyzqqidt Tunisia 72 POLIO NO 
+3528 Xth Hhgqyzqqidt Tunisia 72 HEPATITIS-B NO 
+9863 Gqkfbfkzwh Ynroietniui Tunisia 75 MEASLES YES 28-8-2018
+2681 Ekljjyyevrj Lnsdelqbvwee Tunisia 35 FLU YES 26-1-2015
+7337 Bfmn Nikhkjvjtycu Tunisia 22 HIB NO 
+2982 Jxbonlowoaxx Gsjfw Tunisia 59 HEPATITIS-B NO 
+2463 Qhv Rcawtsgdvjt Tunisia 93 HEPATITIS-A YES 2-5-2003
+9863 Gqkfbfkzwh Ynroietniui Tunisia 75 TETANUS NO 

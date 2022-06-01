@@ -1,0 +1,55 @@
+
+4316 Hpma Lczosmtdmn Japan 30 HEPATITIS-A NO 
+7949 Iqoipy Skteiybqutq Japan 115 POLIO NO 
+2353 Uosw Dzjnsoy Japan 70 FLU YES 7-9-2006
+4099 Elmu Xggrdtobw Japan 99 TETANUS NO 
+5255 Auajcre Qginliwnbgw Japan 51 TETANUS NO 
+4407 Lite Uhqyliiolyp Japan 41 POLIO NO 
+7534 Qolpfz Hiizgm Japan 8 HIB NO 
+5255 Auajcre Qginliwnbgw Japan 51 FLU NO 
+1207 Eblgrlyuhcel Ipfvbivott Japan 92 POLIO YES 3-5-2016
+8878 Ynjgjwq Duiqzyzuprd Japan 2 HEPATITIS-A NO 
+5052 Turfz Mets Japan 58 FLU NO 
+1207 Eblgrlyuhcel Ipfvbivott Japan 92 CHICKENPOX YES 25-3-2017
+5255 Auajcre Qginliwnbgw Japan 51 POLIO NO 
+1491 Ffhixjam Afnh Japan 93 HIB NO 
+4407 Lite Uhqyliiolyp Japan 41 HIB YES 16-4-2007
+9874 Bmkoz Fdst Japan 104 CHICKENPOX YES 2-8-2010
+4942 Jgnlnuho Kibxi Japan 66 HIB YES 7-7-2012
+961 Ddpspmsngcd Aqmd Japan 45 RUBELLA YES 27-9-2015
+4407 Lite Uhqyliiolyp Japan 41 TETANUS NO 
+8360 Ahcrbzjq Uttrq Japan 1 CHICKENPOX NO 
+4407 Lite Uhqyliiolyp Japan 41 TETANUS NO 
+7949 Iqoipy Skteiybqutq Japan 115 MEASLES NO 
+961 Ddpspmsngcd Aqmd Japan 45 HEPATITIS-A NO 
+8037 Slgrsvj Mohi Japan 61 HEPATITIS-B NO 
+5052 Turfz Mets Japan 58 MEASLES NO 
+961 Ddpspmsngcd Aqmd Japan 45 CHICKENPOX NO 
+9874 Bmkoz Fdst Japan 104 TETANUS NO 
+8171 Xyd Itsj Japan 51 HEPATITIS-A YES 20-9-2019
+8171 Xyd Itsj Japan 51 HEPATITIS-B YES 9-10-2019
+7534 Qolpfz Hiizgm Japan 8 FLU YES 18-8-2018
+1609 Dwihf Ukshybrbk Japan 56 CHICKENPOX NO 
+7729 Yqlsp Faqgyqpkpnia Japan 56 TETANUS NO 
+4407 Lite Uhqyliiolyp Japan 41 HIB YES 25-9-2014
+961 Ddpspmsngcd Aqmd Japan 45 POLIO NO 
+8171 Xyd Itsj Japan 51 MEASLES YES 3-6-2002
+1609 Dwihf Ukshybrbk Japan 56 TETANUS YES 3-11-2006
+4099 Elmu Xggrdtobw Japan 99 POLIO YES 2-8-2010
+4316 Hpma Lczosmtdmn Japan 30 CHICKENPOX NO 
+1609 Dwihf Ukshybrbk Japan 56 TETANUS NO 
+5255 Auajcre Qginliwnbgw Japan 51 HEPATITIS-B YES 3-5-2017
+8171 Xyd Itsj Japan 51 MEASLES NO 
+5267 Jswpbixkfnas Yjqbpbyadku Japan 19 COVID-19 NO 
+9874 Bmkoz Fdst Japan 104 MEASLES NO 
+9874 Bmkoz Fdst Japan 104 POLIO NO 
+7729 Yqlsp Faqgyqpkpnia Japan 56 HIB NO 
+5052 Turfz Mets Japan 58 TETANUS YES 10-10-2011
+2353 Uosw Dzjnsoy Japan 70 RUBELLA NO 
+7534 Qolpfz Hiizgm Japan 8 RUBELLA YES 25-11-2001
+4099 Elmu Xggrdtobw Japan 99 COVID-19 NO 
+7729 Yqlsp Faqgyqpkpnia Japan 56 HEPATITIS-A NO 
+4407 Lite Uhqyliiolyp Japan 41 CHICKENPOX YES 20-8-2006
+5154 Nge Winigxx Japan 84 TETANUS YES 30-2-2016
+4316 Hpma Lczosmtdmn Japan 30 HIB YES 30-8-2014
+8171 Xyd Itsj Japan 51 CHICKENPOX NO 

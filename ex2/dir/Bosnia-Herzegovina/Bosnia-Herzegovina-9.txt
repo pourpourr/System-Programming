@@ -1,0 +1,69 @@
+
+5576 Qfmkrizgmcr Lbltciklja Bosnia-Herzegovina 17 TETANUS NO 
+4138 Drcpblaou Ptxo Bosnia-Herzegovina 37 HEPATITIS-B NO 
+6909 Anzbrhjqh Mugqqybguhne Bosnia-Herzegovina 95 MEASLES YES 14-10-2018
+6551 Moh Tystjdjn Bosnia-Herzegovina 83 HIB NO 
+7528 Knfx Ipjrqtxfpag Bosnia-Herzegovina 34 RUBELLA YES 19-11-2003
+7528 Knfx Ipjrqtxfpag Bosnia-Herzegovina 34 MEASLES YES 12-7-2018
+4138 Drcpblaou Ptxo Bosnia-Herzegovina 37 MEASLES YES 26-12-2007
+4714 Kdfjn Ajokyc Bosnia-Herzegovina 68 COVID-19 YES 17-9-2002
+6893 Rqgghlw Ttvthluskxx Bosnia-Herzegovina 104 HIB NO 
+2405 Ahgczsuetvwh Osthodjmbx Bosnia-Herzegovina 105 HEPATITIS-B NO 
+2573 Hiayvzev Uxvudarjhbfu Bosnia-Herzegovina 77 COVID-19 NO 
+6895 Gggqln Lzj Bosnia-Herzegovina 90 COVID-19 NO 
+4760 Domzjsor Kauguzyiybt Bosnia-Herzegovina 17 POLIO NO 
+859 Payz Cgu Bosnia-Herzegovina 78 RUBELLA NO 
+4138 Drcpblaou Ptxo Bosnia-Herzegovina 37 FLU YES 16-5-2006
+6909 Anzbrhjqh Mugqqybguhne Bosnia-Herzegovina 95 HEPATITIS-B YES 13-9-2009
+21 Izlku Rkjdje Bosnia-Herzegovina 16 HEPATITIS-B NO 
+2870 Pgv Bicwv Bosnia-Herzegovina 59 RUBELLA NO 
+818 Tabax Vwwmzjl Bosnia-Herzegovina 8 MEASLES NO 
+2024 Aynkcsdegt Rcxvbsrtnbc Bosnia-Herzegovina 80 HEPATITIS-B NO 
+6551 Moh Tystjdjn Bosnia-Herzegovina 83 POLIO YES 11-2-2007
+6551 Moh Tystjdjn Bosnia-Herzegovina 83 FLU NO 
+1172 Mdlbzqrgyp Vbrrdkqexmjh Bosnia-Herzegovina 86 COVID-19 NO 
+1431 Xssheeswf Jlkcfkpauzsh Bosnia-Herzegovina 102 HEPATITIS-A YES 24-12-2004
+3436 Ddldtxlr Exphacn Bosnia-Herzegovina 99 HEPATITIS-A NO 
+9130 Poywbrebepor Dejbzi Bosnia-Herzegovina 18 HEPATITIS-A NO 
+2573 Hiayvzev Uxvudarjhbfu Bosnia-Herzegovina 77 HIB NO 
+1970 Xrzmisylqsvu Ygcon Bosnia-Herzegovina 43 MEASLES YES 3-2-2003
+5614 Vllhebvfaust Egtazsmtxph Bosnia-Herzegovina 120 TETANUS YES 14-7-2011
+4714 Kdfjn Ajokyc Bosnia-Herzegovina 68 COVID-19 NO 
+4880 Hqhiwujffjq Imcogqitsds Bosnia-Herzegovina 7 RUBELLA YES 7-8-2002
+686 Nhpwhrtsbo Rdqoacvv Bosnia-Herzegovina 33 FLU NO 
+686 Nhpwhrtsbo Rdqoacvv Bosnia-Herzegovina 33 TETANUS YES 5-1-2006
+4431 Zdkdrtgaybpd Hlfaetyf Bosnia-Herzegovina 11 TETANUS NO 
+3010 Mxoovdix Owpizu Bosnia-Herzegovina 30 POLIO YES 28-7-2013
+4880 Hqhiwujffjq Imcogqitsds Bosnia-Herzegovina 7 TETANUS YES 5-11-2000
+2405 Ahgczsuetvwh Osthodjmbx Bosnia-Herzegovina 105 HEPATITIS-A YES 10-11-2004
+3968 Rrbkrxkm Qbqqeffk Bosnia-Herzegovina 60 HEPATITIS-A YES 25-12-2006
+5614 Vllhebvfaust Egtazsmtxph Bosnia-Herzegovina 120 RUBELLA YES 30-6-2012
+4760 Domzjsor Kauguzyiybt Bosnia-Herzegovina 17 TETANUS NO 
+5614 Vllhebvfaust Egtazsmtxph Bosnia-Herzegovina 120 POLIO NO 
+4674 Uolcvhrspxg Krwtfwsj Bosnia-Herzegovina 105 FLU YES 1-5-2018
+759 Nfoxnxhml Jppek Bosnia-Herzegovina 119 RUBELLA YES 22-8-2020
+859 Payz Cgu Bosnia-Herzegovina 78 CHICKENPOX YES 28-8-2017
+8094 Thqijvddy Vekjfxh Bosnia-Herzegovina 11 TETANUS NO 
+6893 Rqgghlw Ttvthluskxx Bosnia-Herzegovina 104 HIB YES 30-9-2010
+686 Nhpwhrtsbo Rdqoacvv Bosnia-Herzegovina 33 COVID-19 NO 
+8094 Thqijvddy Vekjfxh Bosnia-Herzegovina 11 POLIO YES 15-8-2017
+6895 Gggqln Lzj Bosnia-Herzegovina 90 HIB YES 21-4-2014
+4714 Kdfjn Ajokyc Bosnia-Herzegovina 68 POLIO NO 
+2405 Ahgczsuetvwh Osthodjmbx Bosnia-Herzegovina 105 TETANUS YES 24-4-2012
+3968 Rrbkrxkm Qbqqeffk Bosnia-Herzegovina 60 HEPATITIS-A NO 
+4674 Uolcvhrspxg Krwtfwsj Bosnia-Herzegovina 105 FLU YES 11-6-2019
+5614 Vllhebvfaust Egtazsmtxph Bosnia-Herzegovina 120 MEASLES NO 
+3010 Mxoovdix Owpizu Bosnia-Herzegovina 30 MEASLES NO 
+4714 Kdfjn Ajokyc Bosnia-Herzegovina 68 COVID-19 NO 
+759 Nfoxnxhml Jppek Bosnia-Herzegovina 119 HEPATITIS-A NO 
+759 Nfoxnxhml Jppek Bosnia-Herzegovina 119 COVID-19 YES 21-5-2020
+759 Nfoxnxhml Jppek Bosnia-Herzegovina 119 TETANUS YES 12-9-2007
+759 Nfoxnxhml Jppek Bosnia-Herzegovina 119 MEASLES NO 
+4431 Zdkdrtgaybpd Hlfaetyf Bosnia-Herzegovina 11 HEPATITIS-A YES 3-11-2003
+21 Izlku Rkjdje Bosnia-Herzegovina 16 COVID-19 YES 16-9-2009
+1172 Mdlbzqrgyp Vbrrdkqexmjh Bosnia-Herzegovina 86 TETANUS YES 29-2-2003
+4714 Kdfjn Ajokyc Bosnia-Herzegovina 68 TETANUS YES 17-5-2004
+4431 Zdkdrtgaybpd Hlfaetyf Bosnia-Herzegovina 11 TETANUS NO 
+686 Nhpwhrtsbo Rdqoacvv Bosnia-Herzegovina 33 HEPATITIS-B YES 29-4-2004
+7727 Prwhoywgw Bxzjdkawbe Bosnia-Herzegovina 117 HEPATITIS-A NO 
+3436 Ddldtxlr Exphacn Bosnia-Herzegovina 99 COVID-19 YES 1-8-2014

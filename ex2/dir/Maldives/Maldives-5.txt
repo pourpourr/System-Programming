@@ -1,0 +1,63 @@
+
+3144 Dggwigspi Jjlxvmvaekj Maldives 107 POLIO NO 
+7728 Fnkeb Mwgihuu Maldives 36 COVID-19 YES 1-10-2015
+5905 Plxwelqerto Etwfsskncwhi Maldives 4 MEASLES YES 4-11-2014
+9673 Iktbjlrnchll Qxsgnmqf Maldives 68 HIB NO 
+3144 Dggwigspi Jjlxvmvaekj Maldives 107 COVID-19 NO 
+5512 Piorvxkafoc Gwzpbdevcmgn Maldives 85 CHICKENPOX YES 22-10-2016
+8709 Phwhi Fdnemhtlhi Maldives 41 FLU YES 28-6-2011
+8751 Dynpatzrem Gvgufncgslr Maldives 41 HEPATITIS-A YES 8-7-2013
+536 Uockcahyi Uymvpdjaeye Maldives 56 HEPATITIS-B NO 
+701 Fkkhyxxoath Edrj Maldives 93 HEPATITIS-A YES 5-9-2007
+3921 Bgj Zvk Maldives 111 HIB YES 29-8-2007
+753 Ptlplt Jdbmdik Maldives 82 RUBELLA NO 
+8709 Phwhi Fdnemhtlhi Maldives 41 FLU YES 25-5-2003
+3144 Dggwigspi Jjlxvmvaekj Maldives 107 TETANUS YES 28-11-2018
+9733 Mkjb Lloarot Maldives 51 TETANUS YES 8-4-2019
+3921 Bgj Zvk Maldives 111 POLIO YES 15-10-2000
+701 Fkkhyxxoath Edrj Maldives 93 CHICKENPOX NO 
+9780 Nzcrzls Bpodlvexaj Maldives 115 CHICKENPOX YES 30-6-2011
+8110 Dukuwq Wboefxrv Maldives 42 POLIO NO 
+4653 Punv Pnd Maldives 24 RUBELLA NO 
+5512 Piorvxkafoc Gwzpbdevcmgn Maldives 85 COVID-19 YES 8-12-2019
+8110 Dukuwq Wboefxrv Maldives 42 TETANUS YES 24-8-2003
+2066 Tzrhcq Uttapc Maldives 100 COVID-19 NO 
+8679 Rwsmoxyxtz Kojhuqcsv Maldives 93 TETANUS NO 
+7728 Fnkeb Mwgihuu Maldives 36 FLU NO 
+1532 Mdhizquum Pfbo Maldives 70 HEPATITIS-A YES 2-11-2010
+701 Fkkhyxxoath Edrj Maldives 93 COVID-19 YES 27-4-2019
+8047 Xoiy Uyeocgt Maldives 16 TETANUS NO 
+3224 Uoo Ufhpyeugu Maldives 76 TETANUS YES 14-2-2006
+5512 Piorvxkafoc Gwzpbdevcmgn Maldives 85 HEPATITIS-A YES 10-10-2005
+1934 Ayth Iibxs Maldives 14 FLU YES 6-3-2000
+4808 Wogzjreeeuns Qamofhla Maldives 80 RUBELLA YES 4-6-2006
+3144 Dggwigspi Jjlxvmvaekj Maldives 107 HEPATITIS-B YES 2-9-2000
+701 Fkkhyxxoath Edrj Maldives 93 RUBELLA NO 
+8297 Nntqyszahib Xgckiyjzqhqz Maldives 71 HEPATITIS-A NO 
+701 Fkkhyxxoath Edrj Maldives 93 MEASLES NO 
+5512 Piorvxkafoc Gwzpbdevcmgn Maldives 85 HEPATITIS-A YES 12-6-2003
+8751 Dynpatzrem Gvgufncgslr Maldives 41 MEASLES NO 
+5905 Plxwelqerto Etwfsskncwhi Maldives 4 HEPATITIS-B NO 
+927 Yjjt Urtydyhfwwd Maldives 108 HEPATITIS-A YES 27-7-2018
+9883 Fyhswqo Zdrnyjyhy Maldives 58 CHICKENPOX YES 5-11-2017
+8679 Rwsmoxyxtz Kojhuqcsv Maldives 93 HEPATITIS-B NO 
+610 Catyesia Tyt Maldives 90 FLU NO 
+9673 Iktbjlrnchll Qxsgnmqf Maldives 68 HIB YES 29-1-2010
+8047 Xoiy Uyeocgt Maldives 16 HEPATITIS-B YES 1-3-2012
+5512 Piorvxkafoc Gwzpbdevcmgn Maldives 85 CHICKENPOX NO 
+7728 Fnkeb Mwgihuu Maldives 36 COVID-19 YES 25-2-2013
+701 Fkkhyxxoath Edrj Maldives 93 HEPATITIS-A YES 27-7-2020
+3224 Uoo Ufhpyeugu Maldives 76 FLU YES 7-3-2004
+5512 Piorvxkafoc Gwzpbdevcmgn Maldives 85 FLU NO 
+6679 Lkajbmglmij Ecd Maldives 101 HEPATITIS-B NO 
+1934 Ayth Iibxs Maldives 14 RUBELLA YES 28-4-2017
+1532 Mdhizquum Pfbo Maldives 70 HEPATITIS-A YES 4-3-2004
+753 Ptlplt Jdbmdik Maldives 82 POLIO NO 
+8679 Rwsmoxyxtz Kojhuqcsv Maldives 93 FLU NO 
+5289 Subzr Ozrialdgpkl Maldives 21 COVID-19 YES 19-8-2001
+2374 Cjebou Swfvsndsbuwn Maldives 68 MEASLES NO 
+8679 Rwsmoxyxtz Kojhuqcsv Maldives 93 HEPATITIS-B YES 7-1-2011
+3144 Dggwigspi Jjlxvmvaekj Maldives 107 CHICKENPOX NO 
+927 Yjjt Urtydyhfwwd Maldives 108 MEASLES YES 8-10-2015
+4653 Punv Pnd Maldives 24 COVID-19 YES 25-5-2012
+7503 Coeole Goget Maldives 118 HEPATITIS-B YES 6-12-2013

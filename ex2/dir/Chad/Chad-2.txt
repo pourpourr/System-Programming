@@ -1,0 +1,42 @@
+
+6798 Nqkt Zzgpf Chad 12 HEPATITIS-B NO 
+7457 Vmprgw Fdkwoxztu Chad 106 FLU NO 
+3201 Guifkckxapbz Krmpdxkqbd Chad 71 TETANUS YES 25-6-2008
+3592 Ogpcpbrelw Boivfpflv Chad 117 TETANUS YES 11-1-2000
+6798 Nqkt Zzgpf Chad 12 TETANUS NO 
+3201 Guifkckxapbz Krmpdxkqbd Chad 71 TETANUS NO 
+7457 Vmprgw Fdkwoxztu Chad 106 HIB NO 
+7457 Vmprgw Fdkwoxztu Chad 106 RUBELLA NO 
+6798 Nqkt Zzgpf Chad 12 HIB NO 
+9749 Uto Rfn Chad 69 HEPATITIS-A NO 
+9704 Miroow Soih Chad 34 HEPATITIS-A NO 
+9568 Guskepyfg Mvqo Chad 27 POLIO NO 
+7244 Vjwtqmf Ayws Chad 26 POLIO YES 29-12-2002
+6798 Nqkt Zzgpf Chad 12 FLU YES 19-12-2007
+4469 Dcwp Sgdwswo Chad 69 CHICKENPOX NO 
+9749 Uto Rfn Chad 69 HEPATITIS-A YES 18-11-2005
+9704 Miroow Soih Chad 34 POLIO NO 
+6983 Ujrhoor Tktyhkcq Chad 69 HEPATITIS-A NO 
+9749 Uto Rfn Chad 69 MEASLES YES 4-4-2015
+6798 Nqkt Zzgpf Chad 12 HEPATITIS-B NO 
+9704 Miroow Soih Chad 34 HEPATITIS-A NO 
+3384 Xrnu Wieu Chad 104 HEPATITIS-A YES 3-6-2014
+3592 Ogpcpbrelw Boivfpflv Chad 117 HEPATITIS-A NO 
+6983 Ujrhoor Tktyhkcq Chad 69 FLU YES 13-11-2007
+9000 Bixykggjgqyl Ttxbwrqtha Chad 79 CHICKENPOX NO 
+4579 Poouvktcc Umumopdddo Chad 50 POLIO NO 
+7950 Kpq Qwrj Chad 108 HIB NO 
+4579 Poouvktcc Umumopdddo Chad 50 COVID-19 NO 
+6798 Nqkt Zzgpf Chad 12 HEPATITIS-B YES 28-10-2005
+9000 Bixykggjgqyl Ttxbwrqtha Chad 79 HEPATITIS-B NO 
+7950 Kpq Qwrj Chad 108 CHICKENPOX YES 24-4-2014
+7261 Nkrnb Tigfkilomwqh Chad 101 TETANUS NO 
+6798 Nqkt Zzgpf Chad 12 FLU YES 24-1-2010
+9749 Uto Rfn Chad 69 HEPATITIS-B YES 6-6-2007
+6798 Nqkt Zzgpf Chad 12 HIB YES 25-12-2009
+885 Hrwmc Edjjxwdpmt Chad 106 MEASLES YES 6-1-2017
+4579 Poouvktcc Umumopdddo Chad 50 MEASLES NO 
+7261 Nkrnb Tigfkilomwqh Chad 101 HIB YES 27-7-2009
+8839 Xibbk Nmcrljw Chad 11 CHICKENPOX NO 
+5557 Oxphufitj Dlze Chad 38 HEPATITIS-A NO 
+3217 Fjip Xaqgbnatvl Chad 59 MEASLES NO 

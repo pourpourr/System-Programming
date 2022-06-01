@@ -1,0 +1,63 @@
+
+2998 Kdutcwm Nfxyl Rwanda 28 MEASLES NO 
+7248 Kfaqzrp Whkj Rwanda 87 HEPATITIS-B NO 
+8329 Kzhz Lwguiocqwd Rwanda 109 FLU NO 
+33 Mnz Zmdthjsx Rwanda 12 TETANUS YES 2-7-2017
+7248 Kfaqzrp Whkj Rwanda 87 TETANUS NO 
+7248 Kfaqzrp Whkj Rwanda 87 HEPATITIS-B YES 11-7-2014
+8135 Vozfst Waid Rwanda 9 FLU YES 14-6-2019
+7257 Nmycoqh Dgttbsjp Rwanda 83 CHICKENPOX YES 11-12-2015
+7419 Seiaogpvfp Tbrf Rwanda 77 FLU NO 
+8135 Vozfst Waid Rwanda 9 CHICKENPOX NO 
+2998 Kdutcwm Nfxyl Rwanda 28 MEASLES NO 
+1448 Tsopgvuyzz Vzbcp Rwanda 26 FLU NO 
+6488 Aje Pkmyib Rwanda 64 RUBELLA YES 21-2-2003
+7248 Kfaqzrp Whkj Rwanda 87 MEASLES YES 20-11-2007
+3268 Xenh Ytsyncvltr Rwanda 23 FLU YES 26-11-2001
+8135 Vozfst Waid Rwanda 9 HIB NO 
+5115 Uezoxelfra Stzkdjy Rwanda 16 HIB NO 
+2971 Mokqkpilbs Fzk Rwanda 98 HIB YES 4-7-2006
+7257 Nmycoqh Dgttbsjp Rwanda 83 HIB YES 4-12-2011
+2295 Otakgto Ihluyuxzhx Rwanda 93 HEPATITIS-A NO 
+8329 Kzhz Lwguiocqwd Rwanda 109 HIB YES 21-12-2000
+6488 Aje Pkmyib Rwanda 64 COVID-19 NO 
+5115 Uezoxelfra Stzkdjy Rwanda 16 HEPATITIS-A NO 
+5730 Jvx Wayhpbkucs Rwanda 36 FLU YES 29-6-2012
+1796 Eyidujeprud Kehdt Rwanda 24 TETANUS NO 
+8329 Kzhz Lwguiocqwd Rwanda 109 RUBELLA YES 13-5-2014
+9172 Etasepyunyzv Mbhcwtonuvp Rwanda 34 HIB YES 17-3-2018
+9892 Xuswmewj Dgommhar Rwanda 38 RUBELLA YES 30-8-2003
+33 Mnz Zmdthjsx Rwanda 12 TETANUS YES 6-8-2008
+5495 Tuwanxpb Sombsjlg Rwanda 113 CHICKENPOX YES 14-9-2009
+2162 Yukcmcg Rklnilwwjhc Rwanda 96 HIB NO 
+1796 Eyidujeprud Kehdt Rwanda 24 FLU YES 3-11-2002
+5495 Tuwanxpb Sombsjlg Rwanda 113 FLU YES 7-9-2000
+6558 Vtc Aalyxeesyoq Rwanda 99 HEPATITIS-B YES 9-12-2009
+9245 Ckhuqbklwrhi Sln Rwanda 11 HEPATITIS-A YES 23-4-2001
+1448 Tsopgvuyzz Vzbcp Rwanda 26 RUBELLA YES 21-4-2015
+1796 Eyidujeprud Kehdt Rwanda 24 COVID-19 YES 8-1-2011
+1149 Kbazyoqpl Txfggulzxpb Rwanda 112 RUBELLA YES 9-6-2007
+7603 Jfakxeg Euzfxlglr Rwanda 37 HEPATITIS-A NO 
+8329 Kzhz Lwguiocqwd Rwanda 109 TETANUS YES 16-9-2019
+7248 Kfaqzrp Whkj Rwanda 87 TETANUS NO 
+7603 Jfakxeg Euzfxlglr Rwanda 37 RUBELLA YES 4-12-2009
+9172 Etasepyunyzv Mbhcwtonuvp Rwanda 34 RUBELLA NO 
+1149 Kbazyoqpl Txfggulzxpb Rwanda 112 RUBELLA NO 
+2483 Lmiwgxc Xxrcdeuwiucx Rwanda 15 HEPATITIS-B NO 
+2998 Kdutcwm Nfxyl Rwanda 28 HEPATITIS-B YES 7-5-2017
+8329 Kzhz Lwguiocqwd Rwanda 109 TETANUS NO 
+2971 Mokqkpilbs Fzk Rwanda 98 MEASLES NO 
+5962 Zfmooptvyt Visvbcujufh Rwanda 55 POLIO YES 26-8-2006
+7248 Kfaqzrp Whkj Rwanda 87 HEPATITIS-B NO 
+5115 Uezoxelfra Stzkdjy Rwanda 16 COVID-19 YES 30-12-2003
+2295 Otakgto Ihluyuxzhx Rwanda 93 HEPATITIS-B YES 11-1-2006
+1448 Tsopgvuyzz Vzbcp Rwanda 26 TETANUS YES 17-8-2014
+2998 Kdutcwm Nfxyl Rwanda 28 COVID-19 YES 23-6-2006
+6714 Zhjszxzdv Ylxqbrxtz Rwanda 92 HIB NO 
+2971 Mokqkpilbs Fzk Rwanda 98 HEPATITIS-A YES 30-5-2020
+9245 Ckhuqbklwrhi Sln Rwanda 11 TETANUS YES 12-2-2014
+6210 Nnfgqdttsfad Zrrodqy Rwanda 20 HEPATITIS-A NO 
+9892 Xuswmewj Dgommhar Rwanda 38 TETANUS NO 
+33 Mnz Zmdthjsx Rwanda 12 FLU NO 
+7603 Jfakxeg Euzfxlglr Rwanda 37 FLU YES 24-8-2010
+1796 Eyidujeprud Kehdt Rwanda 24 POLIO NO 

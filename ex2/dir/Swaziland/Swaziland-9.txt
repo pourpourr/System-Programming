@@ -1,0 +1,42 @@
+
+1696 Iokerlud Dbxlmjlrop Swaziland 9 RUBELLA NO 
+1825 Ldf Zdofnhaz Swaziland 80 RUBELLA NO 
+7670 Xyetazv Ogggkbqxea Swaziland 7 COVID-19 NO 
+2907 Ihjxmwpqom Tdsasf Swaziland 37 HEPATITIS-B NO 
+7575 Ojixegbckz Efozuvt Swaziland 22 POLIO YES 21-1-2005
+2206 Mrcc Rpdtcgh Swaziland 119 POLIO NO 
+1696 Iokerlud Dbxlmjlrop Swaziland 9 HIB YES 17-10-2008
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 MEASLES YES 4-9-2007
+3756 Hmrhzebrq Djgit Swaziland 65 CHICKENPOX NO 
+3756 Hmrhzebrq Djgit Swaziland 65 HIB YES 1-12-2018
+3894 Pxumcoe Gcvwsq Swaziland 68 HIB NO 
+8716 Lowhle Hkqha Swaziland 95 FLU YES 9-5-2017
+7957 Fdortm Hsaeufbswjbx Swaziland 98 TETANUS NO 
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 COVID-19 NO 
+2476 Tfvdbcdkpmfp Gvsjiycndz Swaziland 44 RUBELLA NO 
+3894 Pxumcoe Gcvwsq Swaziland 68 HIB YES 5-7-2002
+2989 Pyofcbr Kyefrjow Swaziland 92 HEPATITIS-A YES 13-8-2003
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 HIB NO 
+7957 Fdortm Hsaeufbswjbx Swaziland 98 CHICKENPOX YES 18-12-2004
+2932 Qzdwodegy Enksukyoc Swaziland 96 POLIO NO 
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 HIB NO 
+3894 Pxumcoe Gcvwsq Swaziland 68 HEPATITIS-B YES 16-1-2008
+1825 Ldf Zdofnhaz Swaziland 80 RUBELLA YES 9-1-2017
+2907 Ihjxmwpqom Tdsasf Swaziland 37 HIB NO 
+1696 Iokerlud Dbxlmjlrop Swaziland 9 HEPATITIS-B NO 
+4343 Qobyiksfxlzj Qzw Swaziland 61 CHICKENPOX YES 24-2-2004
+8716 Lowhle Hkqha Swaziland 95 HEPATITIS-B NO 
+3894 Pxumcoe Gcvwsq Swaziland 68 COVID-19 YES 9-6-2010
+2932 Qzdwodegy Enksukyoc Swaziland 96 HIB NO 
+2476 Tfvdbcdkpmfp Gvsjiycndz Swaziland 44 RUBELLA YES 11-5-2010
+7451 Nlvruyy Bhydbhqgsmgz Swaziland 88 MEASLES YES 8-8-2008
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 FLU YES 9-5-2009
+2206 Mrcc Rpdtcgh Swaziland 119 FLU YES 8-1-2004
+1825 Ldf Zdofnhaz Swaziland 80 CHICKENPOX NO 
+7575 Ojixegbckz Efozuvt Swaziland 22 CHICKENPOX YES 28-10-2006
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 FLU NO 
+3756 Hmrhzebrq Djgit Swaziland 65 HIB NO 
+3488 Ddzsabqlvh Tpxlrmf Swaziland 54 HEPATITIS-A YES 22-4-2012
+2907 Ihjxmwpqom Tdsasf Swaziland 37 CHICKENPOX YES 6-6-2002
+1696 Iokerlud Dbxlmjlrop Swaziland 9 HEPATITIS-B YES 15-3-2005
+8716 Lowhle Hkqha Swaziland 95 POLIO NO 

@@ -1,0 +1,39 @@
+
+626 Lxrhnmsamv Ekn Niger 27 TETANUS NO 
+3934 Pwxsrlgxzbl Lyzxac Niger 25 HEPATITIS-B YES 17-11-2000
+7395 Qdblbft Ggvnoyu Niger 119 HIB NO 
+3147 Tnsm Fpncfbhtbc Niger 21 CHICKENPOX YES 28-3-2003
+2588 Souaxbw Hevjzbcxd Niger 53 CHICKENPOX YES 2-5-2016
+7395 Qdblbft Ggvnoyu Niger 119 COVID-19 YES 12-7-2007
+7395 Qdblbft Ggvnoyu Niger 119 RUBELLA NO 
+3402 Ddj Yzljzee Niger 92 HEPATITIS-A NO 
+9058 Adrvysztx Bzwzqbmvpzs Niger 44 TETANUS YES 11-3-2003
+3402 Ddj Yzljzee Niger 92 HIB YES 9-8-2007
+1094 Znmhri Ghbfpe Niger 9 CHICKENPOX NO 
+1575 Pcisuazlh Umrfysfh Niger 25 MEASLES NO 
+3271 Ntadxk Xyqlgerblgja Niger 7 TETANUS NO 
+4002 Aofqv Clv Niger 88 FLU YES 9-4-2018
+3271 Ntadxk Xyqlgerblgja Niger 7 HIB NO 
+4463 Vyusyvmooptl Skkd Niger 100 HEPATITIS-A NO 
+1094 Znmhri Ghbfpe Niger 9 COVID-19 NO 
+7395 Qdblbft Ggvnoyu Niger 119 HIB YES 8-2-2000
+9058 Adrvysztx Bzwzqbmvpzs Niger 44 COVID-19 YES 6-2-2005
+34 Xgzorhasnvl Rcv Niger 103 RUBELLA NO 
+4933 Ltzmdgxdx Pouf Niger 12 CHICKENPOX YES 15-11-2015
+4682 Wthsx Oty Niger 63 RUBELLA NO 
+4463 Vyusyvmooptl Skkd Niger 100 COVID-19 YES 5-6-2006
+4933 Ltzmdgxdx Pouf Niger 12 POLIO NO 
+3271 Ntadxk Xyqlgerblgja Niger 7 HEPATITIS-B NO 
+4933 Ltzmdgxdx Pouf Niger 12 MEASLES YES 26-6-2005
+626 Lxrhnmsamv Ekn Niger 27 FLU YES 21-3-2005
+1094 Znmhri Ghbfpe Niger 9 POLIO YES 14-1-2008
+626 Lxrhnmsamv Ekn Niger 27 HEPATITIS-A NO 
+1094 Znmhri Ghbfpe Niger 9 HEPATITIS-B NO 
+626 Lxrhnmsamv Ekn Niger 27 POLIO YES 11-12-2000
+1094 Znmhri Ghbfpe Niger 9 HIB YES 1-6-2001
+3402 Ddj Yzljzee Niger 92 RUBELLA NO 
+3969 Yigbjdt Pzfl Niger 26 MEASLES YES 13-5-2012
+7395 Qdblbft Ggvnoyu Niger 119 HIB NO 
+3934 Pwxsrlgxzbl Lyzxac Niger 25 COVID-19 YES 30-3-2011
+626 Lxrhnmsamv Ekn Niger 27 RUBELLA NO 
+4463 Vyusyvmooptl Skkd Niger 100 HIB NO 

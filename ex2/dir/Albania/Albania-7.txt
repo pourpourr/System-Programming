@@ -1,0 +1,40 @@
+
+8754 Vahcavjr Lfjwnhkq Albania 114 HEPATITIS-A YES 2-12-2017
+8976 Orrtentiaxu Vqhlebuxy Albania 68 POLIO YES 19-11-2011
+6322 Ianujzz Ondbczxdwgz Albania 56 MEASLES NO 
+2274 Qpkqnvs Xtx Albania 59 TETANUS NO 
+5595 Okrnhddm Ddaddlopzwu Albania 34 HEPATITIS-A NO 
+3077 Osrpyidfx Bpjsv Albania 13 MEASLES YES 15-10-2020
+8754 Vahcavjr Lfjwnhkq Albania 114 COVID-19 NO 
+1606 Csbbnyypmxlz Dmger Albania 72 CHICKENPOX NO 
+3077 Osrpyidfx Bpjsv Albania 13 HIB YES 15-6-2007
+6322 Ianujzz Ondbczxdwgz Albania 56 HIB YES 7-9-2011
+9917 Kxxh Uulfeuw Albania 44 HEPATITIS-B NO 
+6322 Ianujzz Ondbczxdwgz Albania 56 TETANUS NO 
+8976 Orrtentiaxu Vqhlebuxy Albania 68 MEASLES YES 13-9-2004
+9917 Kxxh Uulfeuw Albania 44 FLU NO 
+1211 Bqypqdoqxkqd Plxhvavhfokb Albania 87 TETANUS NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 HIB YES 24-12-2009
+802 Bceh Bxmtnhhy Albania 15 TETANUS NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 RUBELLA YES 17-3-2004
+6523 Iejvqg Qfh Albania 14 HIB NO 
+8754 Vahcavjr Lfjwnhkq Albania 114 POLIO NO 
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 MEASLES YES 25-11-2010
+6523 Iejvqg Qfh Albania 14 HIB NO 
+8976 Orrtentiaxu Vqhlebuxy Albania 68 COVID-19 YES 3-8-2016
+3077 Osrpyidfx Bpjsv Albania 13 COVID-19 YES 26-7-2015
+3077 Osrpyidfx Bpjsv Albania 13 COVID-19 NO 
+802 Bceh Bxmtnhhy Albania 15 POLIO YES 11-3-2003
+1606 Csbbnyypmxlz Dmger Albania 72 FLU NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 HIB NO 
+1606 Csbbnyypmxlz Dmger Albania 72 FLU YES 6-7-2017
+1211 Bqypqdoqxkqd Plxhvavhfokb Albania 87 TETANUS NO 
+8976 Orrtentiaxu Vqhlebuxy Albania 68 COVID-19 YES 2-5-2002
+802 Bceh Bxmtnhhy Albania 15 RUBELLA NO 
+1547 Hepprwm Dxpjomov Albania 57 RUBELLA YES 7-3-2008
+5595 Okrnhddm Ddaddlopzwu Albania 34 HIB YES 9-4-2003
+802 Bceh Bxmtnhhy Albania 15 HIB YES 18-11-2007
+4982 Hxpqg Iooxuvwcyayk Albania 55 MEASLES YES 10-10-2008
+4982 Hxpqg Iooxuvwcyayk Albania 55 RUBELLA YES 4-12-2020
+3077 Osrpyidfx Bpjsv Albania 13 TETANUS NO 
+2866 Sjgqguzoc Jdhd Albania 8 COVID-19 YES 28-2-2006

@@ -1,0 +1,53 @@
+
+766 Mlrsznnsjd Zmazt New-Zealand 97 HIB NO 
+3062 Rdkvw Owsa New-Zealand 67 CHICKENPOX YES 24-9-2006
+692 Kiutlqaocuod Iqlr New-Zealand 27 RUBELLA YES 29-4-2004
+1595 Ihqrrncz Sap New-Zealand 37 RUBELLA YES 22-5-2010
+4065 Dzojxsiyx Ldz New-Zealand 104 TETANUS NO 
+4065 Dzojxsiyx Ldz New-Zealand 104 MEASLES NO 
+3641 Ubzohpte Ahp New-Zealand 22 FLU YES 20-7-2020
+9435 Mzjqy Vpx New-Zealand 30 HEPATITIS-A YES 26-5-2017
+3514 Ysoasv Vskalgi New-Zealand 25 FLU YES 23-12-2017
+3641 Ubzohpte Ahp New-Zealand 22 POLIO YES 11-5-2017
+766 Mlrsznnsjd Zmazt New-Zealand 97 HIB YES 12-1-2005
+1595 Ihqrrncz Sap New-Zealand 37 HEPATITIS-B NO 
+2664 Rdwjznrft Ajvdpxnoac New-Zealand 75 TETANUS NO 
+9435 Mzjqy Vpx New-Zealand 30 HIB YES 1-4-2016
+7903 Oid Skyhqsxynfqk New-Zealand 106 HEPATITIS-A YES 15-10-2008
+8248 Lcdtz Pejjoeqjzdi New-Zealand 11 HIB YES 19-11-2012
+69 Gfabyugtgf Hxvc New-Zealand 67 HEPATITIS-B NO 
+3062 Rdkvw Owsa New-Zealand 67 COVID-19 YES 26-5-2003
+9108 Dnlssbyfednc Vdcutc New-Zealand 68 HEPATITIS-B YES 5-5-2016
+4065 Dzojxsiyx Ldz New-Zealand 104 TETANUS NO 
+3641 Ubzohpte Ahp New-Zealand 22 CHICKENPOX NO 
+766 Mlrsznnsjd Zmazt New-Zealand 97 HEPATITIS-A YES 29-7-2018
+3514 Ysoasv Vskalgi New-Zealand 25 POLIO YES 21-11-2018
+4379 Pznkpqzfgt Hscuszjp New-Zealand 90 HEPATITIS-A YES 25-5-2006
+9108 Dnlssbyfednc Vdcutc New-Zealand 68 COVID-19 YES 19-12-2003
+7086 Gyatjqty Brpxqfvqw New-Zealand 108 TETANUS YES 14-4-2007
+9435 Mzjqy Vpx New-Zealand 30 MEASLES YES 22-1-2017
+9291 Yjanwspipcxw Opeyqgcc New-Zealand 3 COVID-19 YES 25-1-2007
+1595 Ihqrrncz Sap New-Zealand 37 FLU YES 20-1-2013
+2261 Qnfpiq Pmdxhkxeuz New-Zealand 120 HEPATITIS-A YES 29-5-2011
+3514 Ysoasv Vskalgi New-Zealand 25 POLIO NO 
+69 Gfabyugtgf Hxvc New-Zealand 67 CHICKENPOX NO 
+3995 Onowbz Ckgt New-Zealand 21 CHICKENPOX YES 4-7-2006
+7086 Gyatjqty Brpxqfvqw New-Zealand 108 COVID-19 NO 
+4379 Pznkpqzfgt Hscuszjp New-Zealand 90 POLIO YES 4-9-2007
+69 Gfabyugtgf Hxvc New-Zealand 67 HIB YES 10-3-2003
+4201 Xnuau Xnk New-Zealand 1 HEPATITIS-B NO 
+8125 Frryjxzucmi Uupoqs New-Zealand 116 TETANUS YES 4-3-2006
+2376 Vabiheafvl Djlmebjrz New-Zealand 95 POLIO YES 1-5-2010
+2376 Vabiheafvl Djlmebjrz New-Zealand 95 HEPATITIS-B NO 
+5652 Oanpaum Zmknbaek New-Zealand 114 FLU NO 
+2261 Qnfpiq Pmdxhkxeuz New-Zealand 120 POLIO YES 7-5-2017
+3662 Xzoby Eqmv New-Zealand 57 HIB YES 11-3-2011
+2261 Qnfpiq Pmdxhkxeuz New-Zealand 120 FLU NO 
+7903 Oid Skyhqsxynfqk New-Zealand 106 MEASLES NO 
+692 Kiutlqaocuod Iqlr New-Zealand 27 HEPATITIS-A YES 8-6-2017
+4992 Vfswbtz Jpwegrn New-Zealand 99 HEPATITIS-A NO 
+1595 Ihqrrncz Sap New-Zealand 37 RUBELLA YES 26-5-2015
+2261 Qnfpiq Pmdxhkxeuz New-Zealand 120 HIB NO 
+2261 Qnfpiq Pmdxhkxeuz New-Zealand 120 HIB NO 
+5652 Oanpaum Zmknbaek New-Zealand 114 POLIO NO 
+692 Kiutlqaocuod Iqlr New-Zealand 27 HEPATITIS-B NO 

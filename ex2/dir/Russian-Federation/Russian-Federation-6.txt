@@ -1,0 +1,39 @@
+
+7139 Zroki Hqkynwdc Russian-Federation 51 POLIO YES 26-5-2012
+7139 Zroki Hqkynwdc Russian-Federation 51 TETANUS NO 
+9842 Jregnhhdmgj Nwibby Russian-Federation 108 HEPATITIS-B NO 
+9519 Kyrlrpjf Fftfkkeclp Russian-Federation 36 TETANUS NO 
+7608 Npryzs Hjcbmjusn Russian-Federation 48 FLU YES 20-9-2017
+61 Gzovtvktymt Nkuphj Russian-Federation 79 HEPATITIS-A NO 
+7037 Ccjrijqgtx Pjxa Russian-Federation 99 COVID-19 NO 
+2765 Nlcyqk Cyyyclw Russian-Federation 45 RUBELLA NO 
+6561 Cjc Iwpwryfibk Russian-Federation 75 TETANUS YES 22-5-2006
+6561 Cjc Iwpwryfibk Russian-Federation 75 FLU NO 
+8952 Ojhtwexp Wmauamg Russian-Federation 96 TETANUS YES 25-3-2017
+5057 Btv Kgc Russian-Federation 17 HEPATITIS-A YES 20-9-2020
+61 Gzovtvktymt Nkuphj Russian-Federation 79 POLIO YES 2-6-2005
+9519 Kyrlrpjf Fftfkkeclp Russian-Federation 36 COVID-19 YES 14-5-2019
+6883 Qohybg Ryjqst Russian-Federation 93 CHICKENPOX YES 29-12-2009
+8952 Ojhtwexp Wmauamg Russian-Federation 96 HIB NO 
+6561 Cjc Iwpwryfibk Russian-Federation 75 FLU YES 5-11-2004
+6087 Yvinw Bye Russian-Federation 91 RUBELLA YES 8-3-2012
+7037 Ccjrijqgtx Pjxa Russian-Federation 99 FLU YES 20-8-2001
+7037 Ccjrijqgtx Pjxa Russian-Federation 99 HEPATITIS-A YES 10-12-2002
+2765 Nlcyqk Cyyyclw Russian-Federation 45 HEPATITIS-B NO 
+3710 Ofnkuyhrp Hbhccahjcuca Russian-Federation 32 COVID-19 NO 
+2765 Nlcyqk Cyyyclw Russian-Federation 45 HEPATITIS-B YES 21-12-2005
+6883 Qohybg Ryjqst Russian-Federation 93 POLIO YES 3-11-2002
+1960 Qcii Wqhcpulyz Russian-Federation 38 TETANUS NO 
+6883 Qohybg Ryjqst Russian-Federation 93 RUBELLA NO 
+7139 Zroki Hqkynwdc Russian-Federation 51 MEASLES YES 6-9-2003
+7608 Npryzs Hjcbmjusn Russian-Federation 48 CHICKENPOX YES 2-7-2019
+7037 Ccjrijqgtx Pjxa Russian-Federation 99 RUBELLA NO 
+1816 Noixpidocaoc Qzlhpdynsfrm Russian-Federation 41 HEPATITIS-A NO 
+8562 Enysvvqn Wwjfztsmtm Russian-Federation 60 RUBELLA YES 9-6-2006
+9842 Jregnhhdmgj Nwibby Russian-Federation 108 COVID-19 NO 
+5057 Btv Kgc Russian-Federation 17 HEPATITIS-A YES 12-11-2010
+2765 Nlcyqk Cyyyclw Russian-Federation 45 HEPATITIS-A YES 5-2-2005
+6087 Yvinw Bye Russian-Federation 91 RUBELLA YES 21-9-2017
+5057 Btv Kgc Russian-Federation 17 FLU NO 
+6682 Sokjjsmdm Imqsfuvcsri Russian-Federation 78 COVID-19 NO 
+9842 Jregnhhdmgj Nwibby Russian-Federation 108 RUBELLA YES 19-3-2015

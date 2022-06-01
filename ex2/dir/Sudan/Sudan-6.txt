@@ -1,0 +1,54 @@
+
+6796 Edejemjxh Yqmtaextj Sudan 94 TETANUS YES 9-5-2011
+8403 Yxnziierdscl Qdpib Sudan 45 HIB NO 
+3370 Dvequlb Kgxhiqh Sudan 7 MEASLES NO 
+675 Fighkw Cxrezzmk Sudan 11 HEPATITIS-A NO 
+4819 Zlmmmtz Yza Sudan 103 FLU NO 
+4819 Zlmmmtz Yza Sudan 103 HIB YES 14-8-2014
+8403 Yxnziierdscl Qdpib Sudan 45 RUBELLA NO 
+5928 Xskpmtyhlg Mhhleogr Sudan 32 FLU NO 
+3931 Wseg Flz Sudan 113 TETANUS YES 10-6-2011
+1712 Lakuessoz Qvclni Sudan 76 CHICKENPOX NO 
+8403 Yxnziierdscl Qdpib Sudan 45 MEASLES YES 25-9-2012
+1712 Lakuessoz Qvclni Sudan 76 RUBELLA YES 28-5-2002
+1875 Stj Tjxlzqiae Sudan 100 POLIO YES 15-10-2003
+537 Uuh Iiuqtodxhwdm Sudan 2 HEPATITIS-B NO 
+1712 Lakuessoz Qvclni Sudan 76 POLIO NO 
+8403 Yxnziierdscl Qdpib Sudan 45 CHICKENPOX YES 10-4-2002
+487 Wrbe Sreqln Sudan 16 HIB YES 15-11-2005
+5616 Vsft Fgs Sudan 72 HIB NO 
+7874 Tgvufkppcyfv Wqlbjskhppxt Sudan 59 COVID-19 YES 25-5-2005
+7874 Tgvufkppcyfv Wqlbjskhppxt Sudan 59 HEPATITIS-A YES 5-11-2017
+7549 Hijdibwu Vrs Sudan 27 MEASLES NO 
+4819 Zlmmmtz Yza Sudan 103 HIB NO 
+886 Tpjnoudwktk Aolpayimxmks Sudan 22 TETANUS YES 1-6-2006
+1061 Roaavjfwfqyi Wqte Sudan 75 MEASLES NO 
+1712 Lakuessoz Qvclni Sudan 76 FLU YES 2-7-2019
+886 Tpjnoudwktk Aolpayimxmks Sudan 22 HIB NO 
+1061 Roaavjfwfqyi Wqte Sudan 75 FLU YES 24-6-2005
+5011 Retgsf Zkrd Sudan 119 HEPATITIS-B YES 11-5-2003
+5616 Vsft Fgs Sudan 72 HEPATITIS-A YES 22-12-2003
+8781 Gtgmmbi Liwcnnlck Sudan 57 RUBELLA NO 
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 HIB NO 
+3931 Wseg Flz Sudan 113 COVID-19 YES 27-11-2017
+675 Fighkw Cxrezzmk Sudan 11 HEPATITIS-A NO 
+8635 Yujmfqgddfk Oavp Sudan 92 HEPATITIS-B NO 
+4819 Zlmmmtz Yza Sudan 103 POLIO YES 16-3-2003
+3048 Xdxa Sdzksoqr Sudan 91 POLIO YES 4-9-2001
+3048 Xdxa Sdzksoqr Sudan 91 COVID-19 YES 20-9-2011
+1061 Roaavjfwfqyi Wqte Sudan 75 HIB NO 
+8403 Yxnziierdscl Qdpib Sudan 45 MEASLES NO 
+4499 Znvg Aqifjfw Sudan 71 CHICKENPOX NO 
+487 Wrbe Sreqln Sudan 16 RUBELLA NO 
+1875 Stj Tjxlzqiae Sudan 100 TETANUS NO 
+6796 Edejemjxh Yqmtaextj Sudan 94 TETANUS YES 3-2-2009
+1076 Zafuqoptwy Nvqqasjeyz Sudan 72 FLU YES 24-7-2002
+7549 Hijdibwu Vrs Sudan 27 HIB NO 
+8403 Yxnziierdscl Qdpib Sudan 45 CHICKENPOX NO 
+4819 Zlmmmtz Yza Sudan 103 RUBELLA YES 17-9-2014
+1614 Fjjjtdofys Oscbbmsazwx Sudan 33 RUBELLA YES 23-12-2019
+7549 Hijdibwu Vrs Sudan 27 HEPATITIS-B NO 
+675 Fighkw Cxrezzmk Sudan 11 MEASLES NO 
+3931 Wseg Flz Sudan 113 MEASLES YES 5-1-2008
+8403 Yxnziierdscl Qdpib Sudan 45 HEPATITIS-B YES 4-6-2009
+1614 Fjjjtdofys Oscbbmsazwx Sudan 33 HIB YES 21-6-2010

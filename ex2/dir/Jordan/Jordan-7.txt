@@ -1,0 +1,53 @@
+
+8594 Fjbnoxdu Rnheqwgzdv Jordan 85 POLIO NO 
+7920 Sta Gwjhlwaqpbck Jordan 6 COVID-19 NO 
+1247 Jbsjlanenxb Kkuxlzryld Jordan 35 HEPATITIS-B NO 
+281 Metxt Bhmrnh Jordan 40 MEASLES NO 
+7920 Sta Gwjhlwaqpbck Jordan 6 TETANUS NO 
+5578 Jhkafhlfxmom Nljfnsay Jordan 33 POLIO NO 
+8594 Fjbnoxdu Rnheqwgzdv Jordan 85 HIB NO 
+5400 Pruv Kirpkppco Jordan 33 HIB YES 17-1-2000
+1247 Jbsjlanenxb Kkuxlzryld Jordan 35 TETANUS YES 5-1-2019
+2155 Scfrusxmam Ocdljaysj Jordan 113 CHICKENPOX YES 27-8-2006
+7920 Sta Gwjhlwaqpbck Jordan 6 COVID-19 YES 28-12-2007
+7920 Sta Gwjhlwaqpbck Jordan 6 CHICKENPOX YES 17-3-2020
+2155 Scfrusxmam Ocdljaysj Jordan 113 CHICKENPOX YES 9-4-2009
+30 Fhltrcbej Php Jordan 48 HIB NO 
+6004 Qrksskexdi Voqrw Jordan 27 HEPATITIS-B YES 15-1-2010
+5400 Pruv Kirpkppco Jordan 33 HIB NO 
+1661 Ofofi Otywylyqx Jordan 106 HEPATITIS-B YES 1-2-2007
+5644 Qww Clhqhcaornqe Jordan 90 TETANUS YES 23-11-2015
+2155 Scfrusxmam Ocdljaysj Jordan 113 TETANUS NO 
+146 Srdfuvup Krsm Jordan 104 HIB NO 
+5644 Qww Clhqhcaornqe Jordan 90 FLU NO 
+5644 Qww Clhqhcaornqe Jordan 90 POLIO YES 28-12-2004
+7920 Sta Gwjhlwaqpbck Jordan 6 RUBELLA YES 9-8-2001
+5644 Qww Clhqhcaornqe Jordan 90 HEPATITIS-B NO 
+8617 Jsov Vqbuhdaesko Jordan 98 COVID-19 YES 3-6-2006
+5400 Pruv Kirpkppco Jordan 33 TETANUS NO 
+5631 Eea Aomougatz Jordan 105 RUBELLA YES 5-5-2002
+5644 Qww Clhqhcaornqe Jordan 90 POLIO YES 14-6-2020
+5400 Pruv Kirpkppco Jordan 33 POLIO NO 
+2847 Quzpxz Xbdeo Jordan 76 COVID-19 NO 
+281 Metxt Bhmrnh Jordan 40 HEPATITIS-A YES 5-10-2001
+4101 Oanovlgd Zyjlk Jordan 88 RUBELLA YES 27-9-2016
+1661 Ofofi Otywylyqx Jordan 106 RUBELLA NO 
+2847 Quzpxz Xbdeo Jordan 76 COVID-19 YES 11-10-2019
+1661 Ofofi Otywylyqx Jordan 106 RUBELLA YES 7-8-2004
+5578 Jhkafhlfxmom Nljfnsay Jordan 33 HEPATITIS-A NO 
+7920 Sta Gwjhlwaqpbck Jordan 6 HEPATITIS-A NO 
+5631 Eea Aomougatz Jordan 105 MEASLES YES 4-5-2012
+8594 Fjbnoxdu Rnheqwgzdv Jordan 85 HIB NO 
+4550 Yxwpckf Lsjwwbhxuycx Jordan 45 CHICKENPOX YES 4-1-2019
+363 Dlzd Vmsazfhrbwd Jordan 11 CHICKENPOX NO 
+1661 Ofofi Otywylyqx Jordan 106 TETANUS YES 1-1-2017
+1661 Ofofi Otywylyqx Jordan 106 HEPATITIS-A YES 22-8-2015
+30 Fhltrcbej Php Jordan 48 MEASLES NO 
+6004 Qrksskexdi Voqrw Jordan 27 HEPATITIS-B YES 30-2-2002
+4101 Oanovlgd Zyjlk Jordan 88 CHICKENPOX NO 
+2155 Scfrusxmam Ocdljaysj Jordan 113 RUBELLA NO 
+2847 Quzpxz Xbdeo Jordan 76 HEPATITIS-A YES 14-11-2017
+5631 Eea Aomougatz Jordan 105 HEPATITIS-A YES 9-10-2013
+7920 Sta Gwjhlwaqpbck Jordan 6 TETANUS NO 
+1531 Hferluecd Zxtps Jordan 33 HEPATITIS-B YES 9-6-2011
+7920 Sta Gwjhlwaqpbck Jordan 6 HEPATITIS-A NO 

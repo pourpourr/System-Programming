@@ -1,0 +1,60 @@
+
+7394 Rbnsgvdfjoe Moplcjuekxc South-Sudan 108 MEASLES YES 30-9-2012
+9004 Lisxpzpyolvu Wefbuyvfnx South-Sudan 38 CHICKENPOX YES 4-11-2011
+7138 Planaknuol Sivei South-Sudan 43 TETANUS YES 6-4-2001
+3011 Rfegwjcdjzzv Pbl South-Sudan 45 HEPATITIS-B NO 
+6304 Gquylvrp Kmjtefqqeg South-Sudan 116 HEPATITIS-B NO 
+9483 Edphcxip Uhuobil South-Sudan 59 HIB YES 18-1-2019
+7394 Rbnsgvdfjoe Moplcjuekxc South-Sudan 108 TETANUS NO 
+7394 Rbnsgvdfjoe Moplcjuekxc South-Sudan 108 HEPATITIS-A NO 
+7228 Hmfpa Yulqkwx South-Sudan 66 MEASLES YES 16-11-2014
+7335 Fffewjdssigu Vpi South-Sudan 79 HEPATITIS-A YES 11-5-2006
+4321 Fgqlgbvfobd Zehru South-Sudan 21 TETANUS YES 5-8-2007
+796 Ufnxn Gwyghzacedbq South-Sudan 7 CHICKENPOX YES 13-2-2003
+2888 Igliiinqasg Yofhwvyfx South-Sudan 56 HIB YES 14-8-2007
+7386 Eulwyfa Gyaspij South-Sudan 87 CHICKENPOX NO 
+6304 Gquylvrp Kmjtefqqeg South-Sudan 116 HIB NO 
+2954 Didgpdc Bufach South-Sudan 85 TETANUS YES 15-10-2014
+774 Ljqym Puebidej South-Sudan 71 TETANUS YES 24-10-2008
+7513 Dahf Ywhzq South-Sudan 95 TETANUS NO 
+9004 Lisxpzpyolvu Wefbuyvfnx South-Sudan 38 HEPATITIS-A NO 
+7513 Dahf Ywhzq South-Sudan 95 FLU NO 
+7513 Dahf Ywhzq South-Sudan 95 TETANUS NO 
+1067 Sntckpv Lbjjre South-Sudan 116 MEASLES YES 1-8-2004
+7948 Enirneluwuqw Yyzmsbosrdco South-Sudan 90 HEPATITIS-B YES 23-9-2020
+7335 Fffewjdssigu Vpi South-Sudan 79 TETANUS YES 9-5-2000
+3604 Rcjxdq Tbpho South-Sudan 91 POLIO YES 14-7-2006
+8426 Spd Arijndsxz South-Sudan 24 FLU NO 
+3011 Rfegwjcdjzzv Pbl South-Sudan 45 POLIO NO 
+7386 Eulwyfa Gyaspij South-Sudan 87 TETANUS NO 
+7394 Rbnsgvdfjoe Moplcjuekxc South-Sudan 108 CHICKENPOX NO 
+3254 Adpgtuej Dxw South-Sudan 103 RUBELLA YES 26-12-2010
+6304 Gquylvrp Kmjtefqqeg South-Sudan 116 RUBELLA YES 11-6-2003
+7394 Rbnsgvdfjoe Moplcjuekxc South-Sudan 108 TETANUS NO 
+9004 Lisxpzpyolvu Wefbuyvfnx South-Sudan 38 MEASLES NO 
+7394 Rbnsgvdfjoe Moplcjuekxc South-Sudan 108 FLU YES 9-12-2019
+3011 Rfegwjcdjzzv Pbl South-Sudan 45 POLIO NO 
+8426 Spd Arijndsxz South-Sudan 24 RUBELLA NO 
+9004 Lisxpzpyolvu Wefbuyvfnx South-Sudan 38 HEPATITIS-B NO 
+9004 Lisxpzpyolvu Wefbuyvfnx South-Sudan 38 HEPATITIS-A YES 2-5-2012
+7497 Ommlw Vsojzm South-Sudan 84 TETANUS YES 17-4-2017
+9004 Lisxpzpyolvu Wefbuyvfnx South-Sudan 38 COVID-19 NO 
+9539 Icubjzkmoeqv Qxsoyl South-Sudan 87 TETANUS YES 24-1-2005
+9882 Mmfu Bihnhgqi South-Sudan 89 HEPATITIS-A NO 
+7497 Ommlw Vsojzm South-Sudan 84 TETANUS NO 
+9539 Icubjzkmoeqv Qxsoyl South-Sudan 87 CHICKENPOX NO 
+8784 Vicvxzhwf Tlocghjzltdi South-Sudan 16 CHICKENPOX NO 
+3604 Rcjxdq Tbpho South-Sudan 91 CHICKENPOX NO 
+5903 Ftxx Zmw South-Sudan 59 RUBELLA NO 
+7497 Ommlw Vsojzm South-Sudan 84 MEASLES YES 13-9-2013
+4236 Jvhiqoiokqr Qugakjzg South-Sudan 109 HIB NO 
+436 Sichvesltvqa Rvavjdbzbdfn South-Sudan 104 HEPATITIS-B YES 3-6-2002
+7948 Enirneluwuqw Yyzmsbosrdco South-Sudan 90 COVID-19 NO 
+2888 Igliiinqasg Yofhwvyfx South-Sudan 56 MEASLES YES 6-8-2015
+4321 Fgqlgbvfobd Zehru South-Sudan 21 TETANUS YES 2-6-2004
+9483 Edphcxip Uhuobil South-Sudan 59 HIB YES 18-7-2012
+9539 Icubjzkmoeqv Qxsoyl South-Sudan 87 HIB NO 
+7138 Planaknuol Sivei South-Sudan 43 HEPATITIS-A NO 
+9539 Icubjzkmoeqv Qxsoyl South-Sudan 87 POLIO NO 
+7228 Hmfpa Yulqkwx South-Sudan 66 HEPATITIS-A YES 5-6-2019
+4321 Fgqlgbvfobd Zehru South-Sudan 21 TETANUS NO 

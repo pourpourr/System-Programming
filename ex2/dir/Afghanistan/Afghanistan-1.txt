@@ -1,0 +1,60 @@
+
+5621 Tnxzo Qrpeqmj Afghanistan 102 HEPATITIS-A YES 26-7-2003
+5170 Amahgxskk Ramlzykbfde Afghanistan 98 MEASLES NO 
+2659 Fxaoynomz Cnm Afghanistan 114 HEPATITIS-A NO 
+3328 Kdqlld Yivumztyvpg Afghanistan 84 CHICKENPOX YES 16-1-2011
+2343 Qanxcmmenw Fbgyn Afghanistan 33 TETANUS YES 11-10-2011
+6455 Buoeuvhov Gzvfqv Afghanistan 12 HEPATITIS-A YES 14-6-2005
+2659 Fxaoynomz Cnm Afghanistan 114 TETANUS NO 
+7360 Ubxv Irxy Afghanistan 34 POLIO YES 26-7-2019
+3275 Migatzldjqy Yyt Afghanistan 69 HEPATITIS-A NO 
+7011 Fqdjesobf Ufjgfqsrb Afghanistan 74 RUBELLA NO 
+1182 Fhx Txoyyivonsbe Afghanistan 115 FLU NO 
+6455 Buoeuvhov Gzvfqv Afghanistan 12 HIB YES 15-12-2008
+2987 Rgfqz Tkrednsitl Afghanistan 62 MEASLES YES 11-4-2018
+314 Pfxwpn Ldxilnyhf Afghanistan 86 FLU NO 
+1740 Twddpfxqdbgh Wbrilqoddoe Afghanistan 26 HEPATITIS-B NO 
+1113 Aqqssqwwcsso Asgdehlgixn Afghanistan 19 MEASLES NO 
+8459 Zzckg Drbdkxnqjy Afghanistan 94 COVID-19 NO 
+1740 Twddpfxqdbgh Wbrilqoddoe Afghanistan 26 HEPATITIS-B NO 
+2386 Fnws Dso Afghanistan 13 HEPATITIS-B NO 
+7092 Azwmushkdo Bfaigfxtaty Afghanistan 111 CHICKENPOX YES 26-3-2016
+7092 Azwmushkdo Bfaigfxtaty Afghanistan 111 HIB YES 30-8-2018
+2343 Qanxcmmenw Fbgyn Afghanistan 33 TETANUS YES 22-5-2019
+2659 Fxaoynomz Cnm Afghanistan 114 FLU NO 
+3275 Migatzldjqy Yyt Afghanistan 69 HEPATITIS-B NO 
+6029 Yesqoxhr Zwe Afghanistan 84 MEASLES YES 23-12-2016
+1740 Twddpfxqdbgh Wbrilqoddoe Afghanistan 26 MEASLES NO 
+6029 Yesqoxhr Zwe Afghanistan 84 POLIO NO 
+7092 Azwmushkdo Bfaigfxtaty Afghanistan 111 COVID-19 YES 18-3-2001
+5170 Amahgxskk Ramlzykbfde Afghanistan 98 CHICKENPOX YES 9-2-2018
+2659 Fxaoynomz Cnm Afghanistan 114 MEASLES YES 26-1-2006
+1113 Aqqssqwwcsso Asgdehlgixn Afghanistan 19 CHICKENPOX NO 
+3328 Kdqlld Yivumztyvpg Afghanistan 84 RUBELLA NO 
+5621 Tnxzo Qrpeqmj Afghanistan 102 TETANUS NO 
+7011 Fqdjesobf Ufjgfqsrb Afghanistan 74 HEPATITIS-A YES 17-3-2019
+1740 Twddpfxqdbgh Wbrilqoddoe Afghanistan 26 HIB YES 15-3-2002
+2386 Fnws Dso Afghanistan 13 HEPATITIS-B NO 
+1740 Twddpfxqdbgh Wbrilqoddoe Afghanistan 26 POLIO YES 3-2-2004
+7092 Azwmushkdo Bfaigfxtaty Afghanistan 111 COVID-19 NO 
+1182 Fhx Txoyyivonsbe Afghanistan 115 POLIO YES 26-1-2008
+5621 Tnxzo Qrpeqmj Afghanistan 102 RUBELLA YES 23-12-2012
+6455 Buoeuvhov Gzvfqv Afghanistan 12 TETANUS YES 11-12-2019
+4507 Azargu Gbdzlkqdzbzb Afghanistan 114 HEPATITIS-A NO 
+1182 Fhx Txoyyivonsbe Afghanistan 115 TETANUS YES 9-2-2008
+8070 Hgdtnfn Ogv Afghanistan 44 HEPATITIS-A NO 
+1182 Fhx Txoyyivonsbe Afghanistan 115 TETANUS NO 
+1034 Naa Qnlxzcgwhz Afghanistan 116 TETANUS NO 
+8070 Hgdtnfn Ogv Afghanistan 44 HIB YES 14-9-2008
+2029 Qjhnmi Akjtvnx Afghanistan 67 HEPATITIS-B NO 
+1740 Twddpfxqdbgh Wbrilqoddoe Afghanistan 26 CHICKENPOX NO 
+6455 Buoeuvhov Gzvfqv Afghanistan 12 COVID-19 YES 19-8-2008
+1182 Fhx Txoyyivonsbe Afghanistan 115 RUBELLA YES 9-1-2012
+3275 Migatzldjqy Yyt Afghanistan 69 COVID-19 YES 15-11-2018
+1182 Fhx Txoyyivonsbe Afghanistan 115 FLU NO 
+2343 Qanxcmmenw Fbgyn Afghanistan 33 HIB NO 
+2343 Qanxcmmenw Fbgyn Afghanistan 33 HIB NO 
+314 Pfxwpn Ldxilnyhf Afghanistan 86 POLIO NO 
+2029 Qjhnmi Akjtvnx Afghanistan 67 HEPATITIS-A YES 25-9-2003
+1113 Aqqssqwwcsso Asgdehlgixn Afghanistan 19 FLU YES 8-6-2009
+2987 Rgfqz Tkrednsitl Afghanistan 62 FLU YES 6-3-2006

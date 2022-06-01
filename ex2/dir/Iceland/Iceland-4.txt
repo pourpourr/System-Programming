@@ -1,0 +1,47 @@
+
+4795 Urk Qux Iceland 68 HEPATITIS-B YES 10-8-2002
+164 Jlxkm Qfquckyrvza Iceland 54 FLU YES 8-8-2008
+6274 Fotjm Gvxe Iceland 112 HEPATITIS-A YES 30-9-2003
+7737 Iyhlkc Dzexxl Iceland 107 POLIO YES 12-2-2007
+5003 Zzh Upxwhngzany Iceland 53 CHICKENPOX NO 
+4845 Njeqsuqump Utsupjzcfd Iceland 11 HIB YES 1-10-2019
+8951 Lmecqnhgc Rpwslafzrc Iceland 3 HEPATITIS-B YES 5-10-2020
+5003 Zzh Upxwhngzany Iceland 53 HIB YES 20-7-2000
+3290 Qov Zdxulaubhes Iceland 103 RUBELLA NO 
+8127 Ituv Mfwaejvlswm Iceland 50 COVID-19 NO 
+4795 Urk Qux Iceland 68 HIB NO 
+8951 Lmecqnhgc Rpwslafzrc Iceland 3 HEPATITIS-B YES 14-2-2014
+6719 Uklodcuedsdt Wxf Iceland 63 HIB NO 
+5003 Zzh Upxwhngzany Iceland 53 RUBELLA YES 30-12-2003
+6719 Uklodcuedsdt Wxf Iceland 63 HEPATITIS-B YES 26-9-2017
+4795 Urk Qux Iceland 68 HEPATITIS-A NO 
+1217 Otnilucsblk Hbqnysq Iceland 114 FLU YES 21-2-2004
+4795 Urk Qux Iceland 68 COVID-19 YES 4-5-2004
+6274 Fotjm Gvxe Iceland 112 TETANUS NO 
+8102 Ibtx Iczv Iceland 45 HEPATITIS-B NO 
+4845 Njeqsuqump Utsupjzcfd Iceland 11 HEPATITIS-B YES 11-7-2010
+3571 Ybduvyawvs Ssppd Iceland 60 HIB NO 
+164 Jlxkm Qfquckyrvza Iceland 54 MEASLES NO 
+4420 Fvi Hywnng Iceland 115 HEPATITIS-B YES 5-1-2020
+164 Jlxkm Qfquckyrvza Iceland 54 HEPATITIS-A NO 
+4661 Ticagzfetfj Bduffta Iceland 40 MEASLES YES 20-6-2011
+5003 Zzh Upxwhngzany Iceland 53 HIB YES 1-6-2004
+3571 Ybduvyawvs Ssppd Iceland 60 CHICKENPOX NO 
+164 Jlxkm Qfquckyrvza Iceland 54 FLU NO 
+8054 Kemn Zmhdausxc Iceland 38 RUBELLA YES 3-11-2017
+8127 Ituv Mfwaejvlswm Iceland 50 COVID-19 NO 
+2404 Djuh Xhev Iceland 40 FLU YES 11-1-2010
+3290 Qov Zdxulaubhes Iceland 103 CHICKENPOX NO 
+5003 Zzh Upxwhngzany Iceland 53 RUBELLA NO 
+3602 Rbye Tktpoaqtqb Iceland 30 POLIO NO 
+3602 Rbye Tktpoaqtqb Iceland 30 HEPATITIS-B YES 19-5-2009
+1217 Otnilucsblk Hbqnysq Iceland 114 RUBELLA NO 
+4420 Fvi Hywnng Iceland 115 HEPATITIS-B YES 22-3-2010
+4391 Tjezmzknw Grqghpbooe Iceland 57 MEASLES YES 2-11-2016
+941 Wtbtfcvhrosg Zefdif Iceland 104 HIB YES 3-7-2002
+6274 Fotjm Gvxe Iceland 112 HEPATITIS-B YES 6-6-2013
+4845 Njeqsuqump Utsupjzcfd Iceland 11 RUBELLA NO 
+8127 Ituv Mfwaejvlswm Iceland 50 CHICKENPOX YES 7-8-2003
+7669 Cdafssm Fhimojxlk Iceland 9 CHICKENPOX NO 
+3571 Ybduvyawvs Ssppd Iceland 60 HIB NO 
+8951 Lmecqnhgc Rpwslafzrc Iceland 3 RUBELLA NO 

@@ -1,0 +1,50 @@
+
+8195 Mknxqhapyjkp Durf Gambia 88 HIB YES 22-2-2018
+5055 Ajh Jqjucozlxvaf Gambia 41 POLIO NO 
+6797 Rsj Jgfhgl Gambia 40 HEPATITIS-A YES 21-12-2017
+1832 Xtwc Tmatj Gambia 84 POLIO NO 
+2493 Dmbxadytvgu Etfqlncn Gambia 119 RUBELLA YES 23-4-2005
+5454 Wfhmgybra Ssjhnmorgcj Gambia 27 HEPATITIS-B NO 
+6758 Trw Dkgo Gambia 2 HEPATITIS-B YES 3-10-2020
+1446 Xehacc Kqntcouz Gambia 33 MEASLES NO 
+5753 Eznqluszaq Lyruejbpz Gambia 112 FLU NO 
+1329 Puon Qagg Gambia 88 HIB NO 
+5753 Eznqluszaq Lyruejbpz Gambia 112 COVID-19 YES 14-4-2008
+4053 Kajda Hsmuww Gambia 19 MEASLES NO 
+5753 Eznqluszaq Lyruejbpz Gambia 112 MEASLES YES 16-7-2009
+6797 Rsj Jgfhgl Gambia 40 CHICKENPOX YES 27-4-2000
+2493 Dmbxadytvgu Etfqlncn Gambia 119 POLIO NO 
+8195 Mknxqhapyjkp Durf Gambia 88 HIB NO 
+1329 Puon Qagg Gambia 88 HIB YES 5-12-2000
+1446 Xehacc Kqntcouz Gambia 33 TETANUS NO 
+4053 Kajda Hsmuww Gambia 19 HEPATITIS-A YES 18-11-2000
+172 Zalzakprohx Tegpnq Gambia 52 CHICKENPOX NO 
+5009 Zscxbsdivf Jnuwor Gambia 74 TETANUS YES 1-7-2019
+4301 Mlugxdjxet Kzdh Gambia 58 MEASLES YES 26-1-2016
+1003 Xbprfjxjljhm Yrvtfn Gambia 63 FLU NO 
+6758 Trw Dkgo Gambia 2 RUBELLA YES 21-2-2008
+1832 Xtwc Tmatj Gambia 84 HEPATITIS-B YES 30-2-2020
+1832 Xtwc Tmatj Gambia 84 HEPATITIS-A NO 
+2519 Ednwyaofuqzv Mog Gambia 46 TETANUS NO 
+2990 Chulwjxhg Dvxrfgivsgl Gambia 95 FLU YES 20-5-2016
+6758 Trw Dkgo Gambia 2 TETANUS NO 
+1832 Xtwc Tmatj Gambia 84 TETANUS YES 27-6-2014
+9582 Semnjamzscp Aibtlnfcuo Gambia 112 HIB YES 22-4-2009
+4053 Kajda Hsmuww Gambia 19 FLU NO 
+4262 Icxjexktn Vgszt Gambia 31 RUBELLA YES 10-1-2001
+8195 Mknxqhapyjkp Durf Gambia 88 TETANUS NO 
+8236 Duifty Jor Gambia 96 TETANUS YES 13-2-2018
+2990 Chulwjxhg Dvxrfgivsgl Gambia 95 FLU NO 
+1329 Puon Qagg Gambia 88 POLIO NO 
+5454 Wfhmgybra Ssjhnmorgcj Gambia 27 MEASLES NO 
+8236 Duifty Jor Gambia 96 CHICKENPOX NO 
+4053 Kajda Hsmuww Gambia 19 CHICKENPOX YES 4-2-2006
+8236 Duifty Jor Gambia 96 FLU YES 17-1-2013
+8236 Duifty Jor Gambia 96 MEASLES YES 10-5-2012
+4053 Kajda Hsmuww Gambia 19 HIB NO 
+4053 Kajda Hsmuww Gambia 19 RUBELLA YES 1-2-2002
+6041 Lxjfdwxe Okol Gambia 36 FLU NO 
+1832 Xtwc Tmatj Gambia 84 HEPATITIS-B NO 
+4461 Cgldkduwhe Zavnvsrsbyc Gambia 74 TETANUS YES 17-3-2013
+2990 Chulwjxhg Dvxrfgivsgl Gambia 95 HIB NO 
+172 Zalzakprohx Tegpnq Gambia 52 POLIO YES 20-6-2016

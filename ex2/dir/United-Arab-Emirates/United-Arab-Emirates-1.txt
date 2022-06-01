@@ -1,0 +1,36 @@
+
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 POLIO YES 2-6-2018
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 POLIO YES 22-6-2000
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 POLIO NO 
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 HEPATITIS-A YES 11-11-2019
+9707 Mmjoa Qolv United-Arab-Emirates 22 HEPATITIS-B NO 
+875 Tirvbm Bsgjn United-Arab-Emirates 67 MEASLES NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 POLIO NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 RUBELLA NO 
+5307 Fos Jzfcv United-Arab-Emirates 57 TETANUS YES 16-7-2018
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 FLU NO 
+2594 Raor Gyri United-Arab-Emirates 73 HIB NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 TETANUS NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 COVID-19 YES 20-11-2011
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 TETANUS YES 4-2-2014
+1093 Zecr Qdcp United-Arab-Emirates 55 TETANUS YES 10-1-2013
+875 Tirvbm Bsgjn United-Arab-Emirates 67 TETANUS YES 9-6-2002
+2594 Raor Gyri United-Arab-Emirates 73 COVID-19 NO 
+3489 Wdcuh Fgwftymmk United-Arab-Emirates 107 FLU YES 20-2-2010
+875 Tirvbm Bsgjn United-Arab-Emirates 67 TETANUS NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 HEPATITIS-A NO 
+8868 Cir Cap United-Arab-Emirates 74 HEPATITIS-B YES 6-5-2020
+9707 Mmjoa Qolv United-Arab-Emirates 22 TETANUS NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 FLU NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 FLU YES 21-2-2015
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 TETANUS YES 8-10-2017
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 FLU YES 13-9-2004
+9707 Mmjoa Qolv United-Arab-Emirates 22 CHICKENPOX YES 27-8-2018
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 HIB YES 24-4-2002
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 HEPATITIS-B NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 FLU YES 7-9-2012
+7020 Cew Tqkux United-Arab-Emirates 9 HIB YES 7-11-2004
+8868 Cir Cap United-Arab-Emirates 74 CHICKENPOX NO 
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 FLU NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 HEPATITIS-B YES 9-9-2009
+8868 Cir Cap United-Arab-Emirates 74 HEPATITIS-B NO 

@@ -1,0 +1,43 @@
+
+5161 Gimhkilm Nlnwyq Belarus 77 HEPATITIS-B NO 
+9205 Xpmo Abgdfimfr Belarus 42 HIB YES 5-5-2012
+8928 Yns Fkjqa Belarus 66 HIB NO 
+3498 Stqwbqlm Aldcc Belarus 40 CHICKENPOX YES 7-10-2017
+5161 Gimhkilm Nlnwyq Belarus 77 MEASLES YES 5-4-2008
+769 Hckwi Bqeuq Belarus 86 COVID-19 NO 
+8812 Chjf Lestxhn Belarus 31 MEASLES NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 FLU YES 25-11-2013
+769 Hckwi Bqeuq Belarus 86 HEPATITIS-B NO 
+9162 Faswsxugyy Dvnnikek Belarus 80 HIB YES 2-12-2016
+6453 Rzeacref Eywexjcgxeu Belarus 71 COVID-19 YES 30-3-2003
+3498 Stqwbqlm Aldcc Belarus 40 HEPATITIS-B NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 HIB NO 
+5846 Wpoedolhpq Mptpt Belarus 51 HEPATITIS-B YES 1-12-2001
+6453 Rzeacref Eywexjcgxeu Belarus 71 COVID-19 YES 19-4-2008
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 TETANUS YES 22-3-2012
+8812 Chjf Lestxhn Belarus 31 POLIO NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 FLU YES 25-8-2007
+9205 Xpmo Abgdfimfr Belarus 42 TETANUS NO 
+9205 Xpmo Abgdfimfr Belarus 42 MEASLES NO 
+8787 Eogyjfuhmpry Zserk Belarus 97 HIB NO 
+5161 Gimhkilm Nlnwyq Belarus 77 TETANUS YES 15-3-2019
+9162 Faswsxugyy Dvnnikek Belarus 80 POLIO YES 7-3-2009
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 TETANUS NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 TETANUS YES 10-4-2004
+8812 Chjf Lestxhn Belarus 31 CHICKENPOX YES 20-9-2002
+8787 Eogyjfuhmpry Zserk Belarus 97 HEPATITIS-A NO 
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 POLIO NO 
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 POLIO YES 18-6-2015
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 COVID-19 YES 9-4-2011
+8812 Chjf Lestxhn Belarus 31 FLU NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 CHICKENPOX YES 6-2-2011
+8787 Eogyjfuhmpry Zserk Belarus 97 HEPATITIS-B NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 COVID-19 YES 29-2-2000
+3498 Stqwbqlm Aldcc Belarus 40 CHICKENPOX YES 20-8-2001
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 HEPATITIS-A YES 20-8-2010
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 HEPATITIS-A NO 
+5846 Wpoedolhpq Mptpt Belarus 51 FLU NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 HIB NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 FLU NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 MEASLES YES 10-10-2019
+9615 Bpui Calcug Belarus 119 HEPATITIS-B YES 12-12-2016

@@ -1,0 +1,54 @@
+
+6179 Jvfkhrjcbz Zsqjrtxvozo Senegal 117 HIB NO 
+7771 Vdizgauqyze Uifwxxr Senegal 99 MEASLES YES 20-6-2014
+7430 Kxyqvf Zrhb Senegal 12 CHICKENPOX NO 
+2084 Huxd Mlqgxmiiyzko Senegal 54 HEPATITIS-A YES 13-3-2006
+3627 Eqlukmmvgvqq Blbohfdta Senegal 21 TETANUS NO 
+6179 Jvfkhrjcbz Zsqjrtxvozo Senegal 117 RUBELLA NO 
+2339 Mivljqqspf Xah Senegal 39 RUBELLA NO 
+2339 Mivljqqspf Xah Senegal 39 HIB YES 5-2-2008
+4411 Oaapgo Kjioibsclol Senegal 49 MEASLES NO 
+3961 Dlkidu Kqbm Senegal 105 FLU YES 30-1-2007
+3428 Qcufslk Jtjheac Senegal 79 CHICKENPOX YES 18-6-2006
+3627 Eqlukmmvgvqq Blbohfdta Senegal 21 MEASLES YES 11-7-2012
+265 Mqlg Otunbdayyts Senegal 115 HEPATITIS-A YES 26-11-2014
+1022 Lfpg Nkeycv Senegal 72 HEPATITIS-A YES 22-9-2000
+9951 Ufdpvcwztguz Lxymdftwqs Senegal 22 CHICKENPOX NO 
+4080 Pyvzy Pnb Senegal 91 HEPATITIS-B YES 25-4-2014
+1264 Axietkcyvs Kxxsxon Senegal 27 FLU NO 
+4411 Oaapgo Kjioibsclol Senegal 49 HIB YES 21-11-2012
+9951 Ufdpvcwztguz Lxymdftwqs Senegal 22 FLU NO 
+2216 Tvznju Xkb Senegal 28 POLIO NO 
+944 Klrebqcb Uzuh Senegal 106 COVID-19 YES 10-3-2004
+7430 Kxyqvf Zrhb Senegal 12 HIB YES 30-4-2011
+7430 Kxyqvf Zrhb Senegal 12 RUBELLA YES 30-8-2000
+4244 Qujv Zoagucb Senegal 82 HEPATITIS-A YES 23-5-2016
+3428 Qcufslk Jtjheac Senegal 79 TETANUS NO 
+4080 Pyvzy Pnb Senegal 91 HEPATITIS-B NO 
+7430 Kxyqvf Zrhb Senegal 12 HIB YES 20-2-2005
+3726 Swbmfoogtx Gaezpmweewlh Senegal 1 COVID-19 NO 
+265 Mqlg Otunbdayyts Senegal 115 HIB NO 
+2064 Mchlpjgahvfs Emwfhvauuhr Senegal 113 POLIO YES 9-2-2003
+3961 Dlkidu Kqbm Senegal 105 HEPATITIS-B NO 
+2064 Mchlpjgahvfs Emwfhvauuhr Senegal 113 HIB YES 11-9-2012
+7322 Xfibpvi Hyxdjcyiomwm Senegal 103 HIB NO 
+9951 Ufdpvcwztguz Lxymdftwqs Senegal 22 HEPATITIS-B YES 16-7-2006
+3627 Eqlukmmvgvqq Blbohfdta Senegal 21 CHICKENPOX YES 7-10-2005
+3726 Swbmfoogtx Gaezpmweewlh Senegal 1 HEPATITIS-B YES 20-9-2015
+7778 Jhtuaqenjsu Vdhodknj Senegal 29 CHICKENPOX YES 16-7-2013
+3726 Swbmfoogtx Gaezpmweewlh Senegal 1 HEPATITIS-B YES 22-3-2009
+2084 Huxd Mlqgxmiiyzko Senegal 54 COVID-19 NO 
+6179 Jvfkhrjcbz Zsqjrtxvozo Senegal 117 MEASLES NO 
+2339 Mivljqqspf Xah Senegal 39 POLIO YES 9-8-2017
+4244 Qujv Zoagucb Senegal 82 POLIO NO 
+6991 Xmvwzx Npvegpkxcej Senegal 103 MEASLES NO 
+2084 Huxd Mlqgxmiiyzko Senegal 54 POLIO YES 7-12-2012
+1533 Fqs Awyuxbvv Senegal 73 HEPATITIS-A NO 
+2216 Tvznju Xkb Senegal 28 RUBELLA NO 
+1264 Axietkcyvs Kxxsxon Senegal 27 TETANUS NO 
+7322 Xfibpvi Hyxdjcyiomwm Senegal 103 CHICKENPOX NO 
+7771 Vdizgauqyze Uifwxxr Senegal 99 COVID-19 YES 30-10-2001
+6991 Xmvwzx Npvegpkxcej Senegal 103 HEPATITIS-A YES 18-11-2011
+2064 Mchlpjgahvfs Emwfhvauuhr Senegal 113 HIB YES 26-10-2016
+654 Kwpwfa Fdaap Senegal 102 HIB NO 
+265 Mqlg Otunbdayyts Senegal 115 FLU NO 

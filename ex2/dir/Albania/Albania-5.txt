@@ -1,0 +1,41 @@
+
+4235 Olactvihyqu Meatb Albania 118 CHICKENPOX YES 20-5-2010
+1547 Hepprwm Dxpjomov Albania 57 HEPATITIS-B YES 8-1-2012
+6523 Iejvqg Qfh Albania 14 HEPATITIS-A YES 18-1-2008
+4982 Hxpqg Iooxuvwcyayk Albania 55 HIB NO 
+1606 Csbbnyypmxlz Dmger Albania 72 TETANUS YES 13-10-2017
+1606 Csbbnyypmxlz Dmger Albania 72 RUBELLA YES 25-9-2017
+1547 Hepprwm Dxpjomov Albania 57 MEASLES NO 
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 HEPATITIS-A NO 
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 COVID-19 NO 
+6523 Iejvqg Qfh Albania 14 MEASLES YES 15-11-2020
+3077 Osrpyidfx Bpjsv Albania 13 HEPATITIS-B YES 2-7-2020
+5595 Okrnhddm Ddaddlopzwu Albania 34 HEPATITIS-A YES 28-11-2006
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 COVID-19 NO 
+802 Bceh Bxmtnhhy Albania 15 FLU YES 19-6-2015
+3077 Osrpyidfx Bpjsv Albania 13 MEASLES NO 
+1547 Hepprwm Dxpjomov Albania 57 POLIO YES 5-1-2011
+802 Bceh Bxmtnhhy Albania 15 FLU YES 4-8-2017
+6523 Iejvqg Qfh Albania 14 COVID-19 NO 
+3077 Osrpyidfx Bpjsv Albania 13 HEPATITIS-A NO 
+5595 Okrnhddm Ddaddlopzwu Albania 34 TETANUS NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 CHICKENPOX NO 
+9917 Kxxh Uulfeuw Albania 44 HIB NO 
+7383 Jzor Navby Albania 2 FLU YES 27-5-2012
+1547 Hepprwm Dxpjomov Albania 57 HEPATITIS-B YES 24-4-2016
+7383 Jzor Navby Albania 2 TETANUS NO 
+2274 Qpkqnvs Xtx Albania 59 HEPATITIS-A YES 29-11-2001
+9917 Kxxh Uulfeuw Albania 44 CHICKENPOX YES 25-2-2012
+3077 Osrpyidfx Bpjsv Albania 13 FLU NO 
+8976 Orrtentiaxu Vqhlebuxy Albania 68 HEPATITIS-A NO 
+4235 Olactvihyqu Meatb Albania 118 POLIO NO 
+1547 Hepprwm Dxpjomov Albania 57 MEASLES YES 15-11-2014
+8976 Orrtentiaxu Vqhlebuxy Albania 68 FLU NO 
+6322 Ianujzz Ondbczxdwgz Albania 56 FLU YES 24-2-2011
+5940 Knjqvopt Cyavxge Albania 3 COVID-19 YES 25-1-2003
+5940 Knjqvopt Cyavxge Albania 3 MEASLES NO 
+2274 Qpkqnvs Xtx Albania 59 RUBELLA NO 
+2274 Qpkqnvs Xtx Albania 59 POLIO YES 25-11-2014
+8976 Orrtentiaxu Vqhlebuxy Albania 68 CHICKENPOX YES 3-9-2010
+3077 Osrpyidfx Bpjsv Albania 13 MEASLES NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 FLU YES 11-7-2017

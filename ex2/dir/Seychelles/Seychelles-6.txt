@@ -1,0 +1,51 @@
+
+1161 Lexu Yaq Seychelles 115 HIB NO 
+1307 Mexewzdb Bpogznr Seychelles 25 FLU NO 
+9465 Oti Neb Seychelles 19 TETANUS YES 28-12-2011
+2308 Mrsffzpwfpv Spwlhkva Seychelles 94 COVID-19 NO 
+2367 Bvxsi Mwrfp Seychelles 2 RUBELLA YES 5-3-2006
+8515 Rlhn Rhduil Seychelles 57 TETANUS YES 27-3-2002
+1161 Lexu Yaq Seychelles 115 HEPATITIS-B YES 26-6-2007
+1161 Lexu Yaq Seychelles 115 MEASLES NO 
+2163 Ehsggk Yrrsmnk Seychelles 54 MEASLES YES 13-6-2003
+3143 Pha Bhfbt Seychelles 36 HEPATITIS-A NO 
+3143 Pha Bhfbt Seychelles 36 HEPATITIS-A YES 25-8-2017
+1497 Tbiiv Sjggynde Seychelles 107 CHICKENPOX YES 3-5-2001
+1497 Tbiiv Sjggynde Seychelles 107 MEASLES YES 1-7-2004
+3143 Pha Bhfbt Seychelles 36 HIB NO 
+8515 Rlhn Rhduil Seychelles 57 TETANUS YES 2-2-2002
+8128 Svbvcjsvm Mvxalpg Seychelles 108 CHICKENPOX NO 
+4854 Piiqygtco Foebmqj Seychelles 97 CHICKENPOX YES 26-4-2016
+8128 Svbvcjsvm Mvxalpg Seychelles 108 HEPATITIS-A NO 
+9676 Sbikgtbdog Ypndj Seychelles 89 HIB YES 4-2-2015
+3143 Pha Bhfbt Seychelles 36 COVID-19 YES 18-9-2018
+7087 Gwu Mqslvkbefjee Seychelles 92 TETANUS NO 
+8128 Svbvcjsvm Mvxalpg Seychelles 108 HEPATITIS-B YES 14-11-2009
+7087 Gwu Mqslvkbefjee Seychelles 92 HEPATITIS-A YES 1-11-2015
+1506 Qtfcp Qopvgdskmiiw Seychelles 114 POLIO YES 9-10-2003
+8867 Ewrufb Wnbmqv Seychelles 56 COVID-19 NO 
+3600 Lypfrj Roebgbtmhyxy Seychelles 109 TETANUS YES 7-3-2020
+9676 Sbikgtbdog Ypndj Seychelles 89 COVID-19 NO 
+8128 Svbvcjsvm Mvxalpg Seychelles 108 HEPATITIS-A NO 
+4890 Bslgncmkq Bayp Seychelles 67 HEPATITIS-B YES 19-1-2007
+8820 Pnrnt Aplxtnd Seychelles 89 POLIO YES 14-5-2007
+8128 Svbvcjsvm Mvxalpg Seychelles 108 HEPATITIS-B NO 
+7087 Gwu Mqslvkbefjee Seychelles 92 CHICKENPOX NO 
+3143 Pha Bhfbt Seychelles 36 MEASLES YES 30-3-2015
+5343 Rqgyfyktur Ycpctkgmhf Seychelles 19 CHICKENPOX NO 
+685 Sbntyhkjieyx Wyyygdgcbf Seychelles 104 CHICKENPOX NO 
+1307 Mexewzdb Bpogznr Seychelles 25 CHICKENPOX YES 2-5-2018
+409 Mrkiw Dhfwix Seychelles 68 MEASLES NO 
+7087 Gwu Mqslvkbefjee Seychelles 92 HIB YES 23-1-2017
+2308 Mrsffzpwfpv Spwlhkva Seychelles 94 CHICKENPOX YES 20-7-2018
+1506 Qtfcp Qopvgdskmiiw Seychelles 114 MEASLES NO 
+2367 Bvxsi Mwrfp Seychelles 2 POLIO NO 
+8820 Pnrnt Aplxtnd Seychelles 89 TETANUS YES 4-8-2001
+2308 Mrsffzpwfpv Spwlhkva Seychelles 94 RUBELLA YES 26-6-2006
+9676 Sbikgtbdog Ypndj Seychelles 89 CHICKENPOX YES 7-9-2006
+409 Mrkiw Dhfwix Seychelles 68 POLIO YES 21-7-2019
+8602 Hlqzecvldk Mulrghhgyqd Seychelles 71 TETANUS NO 
+2163 Ehsggk Yrrsmnk Seychelles 54 HEPATITIS-A NO 
+685 Sbntyhkjieyx Wyyygdgcbf Seychelles 104 FLU NO 
+9676 Sbikgtbdog Ypndj Seychelles 89 HEPATITIS-B NO 
+8867 Ewrufb Wnbmqv Seychelles 56 COVID-19 YES 30-8-2013

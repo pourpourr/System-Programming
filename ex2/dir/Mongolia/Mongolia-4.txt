@@ -1,0 +1,42 @@
+
+6030 Itlkw Cegc Mongolia 102 HEPATITIS-A YES 1-11-2007
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 CHICKENPOX YES 24-6-2008
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 POLIO NO 
+5660 Pofcytzqan Vvfvm Mongolia 87 HIB NO 
+1485 Jdduem Zbuzccpodqcp Mongolia 59 HEPATITIS-A NO 
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 HIB YES 11-10-2010
+9106 Okbidx Wcosezxsskhb Mongolia 117 MEASLES YES 15-10-2004
+9106 Okbidx Wcosezxsskhb Mongolia 117 HIB NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 CHICKENPOX NO 
+1485 Jdduem Zbuzccpodqcp Mongolia 59 CHICKENPOX YES 16-12-2003
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 FLU NO 
+6030 Itlkw Cegc Mongolia 102 RUBELLA NO 
+718 Ccgbql Dwqaww Mongolia 40 HEPATITIS-B YES 3-3-2003
+5660 Pofcytzqan Vvfvm Mongolia 87 HEPATITIS-A YES 1-11-2020
+718 Ccgbql Dwqaww Mongolia 40 MEASLES NO 
+8798 Sxmovwhmo Cwppen Mongolia 70 MEASLES YES 28-1-2018
+1220 Nwqvsotaqpx Wqbk Mongolia 38 RUBELLA NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 RUBELLA YES 24-10-2010
+6030 Itlkw Cegc Mongolia 102 MEASLES NO 
+8798 Sxmovwhmo Cwppen Mongolia 70 TETANUS YES 27-12-2001
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 HEPATITIS-B NO 
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 RUBELLA YES 25-6-2003
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 COVID-19 YES 7-1-2008
+9106 Okbidx Wcosezxsskhb Mongolia 117 HEPATITIS-A NO 
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 HEPATITIS-A NO 
+1220 Nwqvsotaqpx Wqbk Mongolia 38 COVID-19 NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 COVID-19 NO 
+1220 Nwqvsotaqpx Wqbk Mongolia 38 HIB YES 20-9-2013
+2154 Mpe Vpkziqs Mongolia 109 HEPATITIS-A YES 21-12-2004
+9106 Okbidx Wcosezxsskhb Mongolia 117 HIB NO 
+1220 Nwqvsotaqpx Wqbk Mongolia 38 TETANUS YES 17-5-2001
+1147 Fzz Qbyq Mongolia 102 FLU YES 9-10-2012
+8798 Sxmovwhmo Cwppen Mongolia 70 MEASLES NO 
+299 Ugg Ubk Mongolia 82 HEPATITIS-A YES 16-7-2008
+2154 Mpe Vpkziqs Mongolia 109 HIB YES 12-12-2013
+9211 Lyfx Ibxcalwsr Mongolia 57 HEPATITIS-A NO 
+9106 Okbidx Wcosezxsskhb Mongolia 117 FLU YES 16-11-2012
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 HIB YES 6-2-2013
+1220 Nwqvsotaqpx Wqbk Mongolia 38 HEPATITIS-B YES 18-5-2016
+8798 Sxmovwhmo Cwppen Mongolia 70 POLIO NO 
+718 Ccgbql Dwqaww Mongolia 40 COVID-19 YES 23-6-2000

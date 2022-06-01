@@ -1,0 +1,43 @@
+
+1886 Rvfzpcqgym Vsjt Slovenia 64 HIB NO 
+8458 Wisho Zhooyoagt Slovenia 114 POLIO YES 2-8-2005
+9259 Mguyobub Thwbtjnb Slovenia 90 HIB NO 
+9097 Bavxcimj Gxrwvdd Slovenia 106 TETANUS YES 21-3-2017
+423 Rqlittkrbyi Vuytfl Slovenia 11 COVID-19 YES 21-5-2011
+9259 Mguyobub Thwbtjnb Slovenia 90 HIB YES 1-12-2015
+512 Ocxgh Twxht Slovenia 89 COVID-19 YES 12-10-2002
+1562 Wplebirswm Evqhfhq Slovenia 10 FLU YES 5-9-2004
+1886 Rvfzpcqgym Vsjt Slovenia 64 FLU YES 29-10-2002
+9259 Mguyobub Thwbtjnb Slovenia 90 FLU YES 16-2-2015
+8510 Jiixxul Dyqae Slovenia 2 COVID-19 YES 4-7-2016
+2403 Wfn Jntxnhxtbrr Slovenia 33 MEASLES NO 
+2698 Qbehxfyjy Oubcyug Slovenia 8 HIB NO 
+512 Ocxgh Twxht Slovenia 89 HIB YES 16-4-2003
+2692 Waqnes Oedktxa Slovenia 56 MEASLES YES 21-10-2000
+2692 Waqnes Oedktxa Slovenia 56 HIB YES 2-10-2008
+423 Rqlittkrbyi Vuytfl Slovenia 11 HEPATITIS-A YES 15-8-2002
+2403 Wfn Jntxnhxtbrr Slovenia 33 TETANUS NO 
+8510 Jiixxul Dyqae Slovenia 2 TETANUS YES 6-10-2010
+7476 Mkhxvxonf Odemzrrejam Slovenia 58 HIB YES 24-6-2004
+8510 Jiixxul Dyqae Slovenia 2 RUBELLA NO 
+756 Tvegdzt Vwf Slovenia 76 TETANUS NO 
+1562 Wplebirswm Evqhfhq Slovenia 10 POLIO NO 
+1775 Fvdwkbwpxccj Jfwufocio Slovenia 9 CHICKENPOX YES 18-10-2016
+3598 Aggz Pptodeodn Slovenia 13 MEASLES YES 12-3-2016
+8458 Wisho Zhooyoagt Slovenia 114 HEPATITIS-B YES 26-9-2011
+4433 Vwwwrtomfl Fuwcqdojim Slovenia 97 MEASLES NO 
+8458 Wisho Zhooyoagt Slovenia 114 CHICKENPOX YES 7-3-2010
+8458 Wisho Zhooyoagt Slovenia 114 FLU YES 27-5-2015
+4433 Vwwwrtomfl Fuwcqdojim Slovenia 97 RUBELLA NO 
+512 Ocxgh Twxht Slovenia 89 RUBELLA YES 14-6-2001
+8510 Jiixxul Dyqae Slovenia 2 TETANUS NO 
+8510 Jiixxul Dyqae Slovenia 2 POLIO YES 4-7-2016
+756 Tvegdzt Vwf Slovenia 76 TETANUS NO 
+423 Rqlittkrbyi Vuytfl Slovenia 11 MEASLES YES 3-8-2001
+9259 Mguyobub Thwbtjnb Slovenia 90 HIB NO 
+2692 Waqnes Oedktxa Slovenia 56 FLU YES 26-9-2013
+756 Tvegdzt Vwf Slovenia 76 HIB YES 25-1-2007
+1886 Rvfzpcqgym Vsjt Slovenia 64 HIB NO 
+9766 Bfigacxithbm Telicgiw Slovenia 29 TETANUS NO 
+756 Tvegdzt Vwf Slovenia 76 POLIO NO 
+2698 Qbehxfyjy Oubcyug Slovenia 8 HEPATITIS-B NO 

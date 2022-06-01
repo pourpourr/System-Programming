@@ -1,0 +1,54 @@
+
+2480 Mqp Pglcantkeyc France 8 COVID-19 YES 27-3-2001
+9009 Rrny Omwmzsjohrna France 75 POLIO YES 18-6-2005
+9904 Ahkyipinv Ufnvtmmqk France 41 HEPATITIS-B YES 28-7-2002
+8295 Ckjnuklidte Gdqnuhdkjl France 119 HEPATITIS-B NO 
+8513 Bolxhnf Kxzioq France 120 HEPATITIS-B YES 15-11-2013
+5472 Btapywtqmni Opanwuof France 25 COVID-19 YES 7-9-2010
+1277 Gyiouoglhw Obzktkl France 39 POLIO YES 8-10-2012
+5472 Btapywtqmni Opanwuof France 25 HEPATITIS-A YES 25-5-2020
+2480 Mqp Pglcantkeyc France 8 POLIO NO 
+5472 Btapywtqmni Opanwuof France 25 CHICKENPOX YES 2-10-2007
+3203 Vnflllc Lmqdntjrjmtq France 3 POLIO NO 
+9904 Ahkyipinv Ufnvtmmqk France 41 COVID-19 NO 
+4678 Gyeehprtrm Pddpof France 79 HEPATITIS-A NO 
+4678 Gyeehprtrm Pddpof France 79 HIB YES 19-5-2017
+9904 Ahkyipinv Ufnvtmmqk France 41 RUBELLA NO 
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 COVID-19 NO 
+2480 Mqp Pglcantkeyc France 8 POLIO YES 11-12-2014
+9904 Ahkyipinv Ufnvtmmqk France 41 POLIO NO 
+3361 Xgzf Ptpjqilfvxj France 4 RUBELLA NO 
+4723 Clahd Qnx France 19 HEPATITIS-A YES 3-6-2011
+1263 Cawssvxdptr Ogmb France 23 MEASLES NO 
+937 Msoojqhbnk Zdlwjubw France 77 POLIO YES 20-10-2005
+1096 Lanlsqopcy Hft France 86 TETANUS NO 
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 FLU YES 25-1-2006
+1096 Lanlsqopcy Hft France 86 FLU NO 
+1277 Gyiouoglhw Obzktkl France 39 HIB YES 27-1-2017
+2650 Emspo Ctotkvmoz France 30 HEPATITIS-B YES 26-9-2020
+8275 Fqbknagaa Hctyfslrz France 120 RUBELLA NO 
+1263 Cawssvxdptr Ogmb France 23 RUBELLA YES 3-10-2019
+4678 Gyeehprtrm Pddpof France 79 FLU YES 21-12-2000
+6160 Cvkb Dcqcnrdgf France 59 RUBELLA NO 
+2650 Emspo Ctotkvmoz France 30 COVID-19 NO 
+1263 Cawssvxdptr Ogmb France 23 MEASLES YES 20-8-2003
+3203 Vnflllc Lmqdntjrjmtq France 3 MEASLES NO 
+8295 Ckjnuklidte Gdqnuhdkjl France 119 COVID-19 YES 13-8-2017
+3203 Vnflllc Lmqdntjrjmtq France 3 HEPATITIS-B YES 11-4-2009
+9921 Tdphxi Keljfzidmhii France 110 MEASLES NO 
+1277 Gyiouoglhw Obzktkl France 39 HEPATITIS-B YES 13-11-2014
+3203 Vnflllc Lmqdntjrjmtq France 3 CHICKENPOX YES 4-9-2006
+4678 Gyeehprtrm Pddpof France 79 MEASLES NO 
+4723 Clahd Qnx France 19 TETANUS NO 
+1277 Gyiouoglhw Obzktkl France 39 CHICKENPOX YES 30-7-2009
+937 Msoojqhbnk Zdlwjubw France 77 TETANUS YES 1-6-2015
+2650 Emspo Ctotkvmoz France 30 MEASLES NO 
+937 Msoojqhbnk Zdlwjubw France 77 POLIO YES 3-6-2008
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 POLIO NO 
+2650 Emspo Ctotkvmoz France 30 COVID-19 NO 
+4723 Clahd Qnx France 19 HIB YES 12-7-2002
+9921 Tdphxi Keljfzidmhii France 110 POLIO NO 
+298 Lpi Smrtme France 68 COVID-19 NO 
+1818 Eqwzntd Vxaigzmfo France 88 MEASLES YES 24-8-2017
+7081 Ehedri Dbee France 61 CHICKENPOX YES 23-3-2010
+4723 Clahd Qnx France 19 FLU YES 21-8-2020

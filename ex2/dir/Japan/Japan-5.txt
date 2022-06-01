@@ -1,0 +1,55 @@
+
+5154 Nge Winigxx Japan 84 HIB NO 
+2353 Uosw Dzjnsoy Japan 70 MEASLES YES 6-12-2010
+1256 Sotvdt Pxrcfvzxdost Japan 113 HEPATITIS-A NO 
+8037 Slgrsvj Mohi Japan 61 POLIO YES 1-4-2019
+1256 Sotvdt Pxrcfvzxdost Japan 113 TETANUS YES 20-4-2001
+8037 Slgrsvj Mohi Japan 61 HIB YES 5-8-2000
+4407 Lite Uhqyliiolyp Japan 41 COVID-19 NO 
+7949 Iqoipy Skteiybqutq Japan 115 HEPATITIS-B NO 
+8091 Ujr Azslspzv Japan 13 POLIO NO 
+5052 Turfz Mets Japan 58 MEASLES NO 
+2353 Uosw Dzjnsoy Japan 70 CHICKENPOX YES 1-7-2015
+8171 Xyd Itsj Japan 51 RUBELLA YES 6-1-2009
+8091 Ujr Azslspzv Japan 13 RUBELLA YES 26-11-2019
+5267 Jswpbixkfnas Yjqbpbyadku Japan 19 CHICKENPOX NO 
+1256 Sotvdt Pxrcfvzxdost Japan 113 POLIO YES 16-1-2015
+8171 Xyd Itsj Japan 51 TETANUS YES 4-5-2014
+7539 Synomxulfuiy Ujswlckcv Japan 28 HEPATITIS-A NO 
+7949 Iqoipy Skteiybqutq Japan 115 HEPATITIS-B NO 
+5255 Auajcre Qginliwnbgw Japan 51 FLU NO 
+4407 Lite Uhqyliiolyp Japan 41 TETANUS YES 6-12-2007
+7539 Synomxulfuiy Ujswlckcv Japan 28 COVID-19 NO 
+5267 Jswpbixkfnas Yjqbpbyadku Japan 19 HEPATITIS-B YES 7-3-2017
+4942 Jgnlnuho Kibxi Japan 66 CHICKENPOX YES 29-12-2015
+597 Nscnr Wfwnbeikaj Japan 12 POLIO YES 20-3-2010
+2353 Uosw Dzjnsoy Japan 70 COVID-19 NO 
+5052 Turfz Mets Japan 58 CHICKENPOX NO 
+7534 Qolpfz Hiizgm Japan 8 POLIO NO 
+5052 Turfz Mets Japan 58 CHICKENPOX YES 6-1-2008
+5052 Turfz Mets Japan 58 TETANUS NO 
+1609 Dwihf Ukshybrbk Japan 56 CHICKENPOX YES 7-4-2013
+7534 Qolpfz Hiizgm Japan 8 MEASLES YES 18-1-2007
+4316 Hpma Lczosmtdmn Japan 30 COVID-19 NO 
+8878 Ynjgjwq Duiqzyzuprd Japan 2 TETANUS NO 
+5154 Nge Winigxx Japan 84 HEPATITIS-A YES 3-6-2016
+5255 Auajcre Qginliwnbgw Japan 51 HEPATITIS-B YES 8-2-2012
+4099 Elmu Xggrdtobw Japan 99 TETANUS YES 11-10-2013
+4099 Elmu Xggrdtobw Japan 99 CHICKENPOX YES 25-11-2020
+1256 Sotvdt Pxrcfvzxdost Japan 113 POLIO YES 27-3-2007
+1256 Sotvdt Pxrcfvzxdost Japan 113 COVID-19 NO 
+1256 Sotvdt Pxrcfvzxdost Japan 113 POLIO NO 
+597 Nscnr Wfwnbeikaj Japan 12 TETANUS NO 
+5052 Turfz Mets Japan 58 HEPATITIS-B YES 3-8-2020
+1491 Ffhixjam Afnh Japan 93 HEPATITIS-B YES 16-7-2009
+5267 Jswpbixkfnas Yjqbpbyadku Japan 19 HEPATITIS-A NO 
+2353 Uosw Dzjnsoy Japan 70 HEPATITIS-A YES 23-7-2000
+1256 Sotvdt Pxrcfvzxdost Japan 113 FLU NO 
+8171 Xyd Itsj Japan 51 HEPATITIS-B NO 
+4099 Elmu Xggrdtobw Japan 99 FLU YES 6-12-2020
+2353 Uosw Dzjnsoy Japan 70 POLIO NO 
+5255 Auajcre Qginliwnbgw Japan 51 POLIO NO 
+4099 Elmu Xggrdtobw Japan 99 HEPATITIS-B YES 1-6-2010
+7539 Synomxulfuiy Ujswlckcv Japan 28 HEPATITIS-B YES 15-3-2014
+9874 Bmkoz Fdst Japan 104 RUBELLA NO 
+1609 Dwihf Ukshybrbk Japan 56 TETANUS YES 23-12-2009

@@ -1,0 +1,53 @@
+
+4158 Hlftvsnfhwl Rzvrvp El-Salvador 3 CHICKENPOX NO 
+843 Misarq Jizpu El-Salvador 34 RUBELLA YES 21-4-2010
+6961 Crhmf Iycpjolzea El-Salvador 18 CHICKENPOX YES 28-4-2015
+7331 Dco Wshaiu El-Salvador 48 FLU NO 
+8874 Vjuknqjighq Xwetchkciq El-Salvador 26 RUBELLA NO 
+969 Muzmdmbv Kfdnjpsz El-Salvador 17 HEPATITIS-B NO 
+3871 Ktv Rzzfvbcozmry El-Salvador 56 HEPATITIS-B YES 17-10-2009
+843 Misarq Jizpu El-Salvador 34 POLIO NO 
+9903 Mrnqweqgp Bvbw El-Salvador 111 COVID-19 YES 4-4-2018
+6961 Crhmf Iycpjolzea El-Salvador 18 MEASLES NO 
+1768 Lovhuxsqbr Mxgblnvbzj El-Salvador 39 POLIO NO 
+9385 Rivyobkmxp Yhw El-Salvador 5 CHICKENPOX NO 
+1535 Sdpozyyfk Sflsdy El-Salvador 92 HEPATITIS-B NO 
+1535 Sdpozyyfk Sflsdy El-Salvador 92 MEASLES NO 
+8359 Sgwilr Vwqlt El-Salvador 53 CHICKENPOX NO 
+3871 Ktv Rzzfvbcozmry El-Salvador 56 TETANUS YES 1-11-2009
+1855 Mqrnposidt Otmpswveql El-Salvador 72 RUBELLA YES 15-1-2015
+9903 Mrnqweqgp Bvbw El-Salvador 111 MEASLES NO 
+220 Agso Xcl El-Salvador 26 TETANUS YES 18-9-2013
+9864 Toqlkp Zqalwbnjoanm El-Salvador 73 RUBELLA YES 26-12-2002
+9903 Mrnqweqgp Bvbw El-Salvador 111 CHICKENPOX YES 25-1-2009
+1698 Xmge Uia El-Salvador 6 HEPATITIS-B YES 7-1-2003
+8359 Sgwilr Vwqlt El-Salvador 53 COVID-19 NO 
+8359 Sgwilr Vwqlt El-Salvador 53 HEPATITIS-A YES 24-4-2006
+3791 Cvbbs Gxowtwp El-Salvador 11 HEPATITIS-B YES 17-6-2015
+1855 Mqrnposidt Otmpswveql El-Salvador 72 TETANUS NO 
+8850 Qgdfhbspjxd Sterlxdkim El-Salvador 81 RUBELLA NO 
+8359 Sgwilr Vwqlt El-Salvador 53 HIB NO 
+1768 Lovhuxsqbr Mxgblnvbzj El-Salvador 39 POLIO NO 
+8850 Qgdfhbspjxd Sterlxdkim El-Salvador 81 MEASLES NO 
+5113 Uvfhsj Wwtsqjc El-Salvador 88 MEASLES YES 9-4-2010
+1938 Ucwcxidqrxx Orkcbohjhu El-Salvador 88 HEPATITIS-B NO 
+6961 Crhmf Iycpjolzea El-Salvador 18 HIB NO 
+9385 Rivyobkmxp Yhw El-Salvador 5 COVID-19 NO 
+9903 Mrnqweqgp Bvbw El-Salvador 111 COVID-19 YES 11-8-2001
+8475 Xnrgkqd Awjqxuicn El-Salvador 59 RUBELLA YES 18-10-2007
+9903 Mrnqweqgp Bvbw El-Salvador 111 POLIO YES 16-3-2018
+1855 Mqrnposidt Otmpswveql El-Salvador 72 HIB YES 23-7-2017
+1768 Lovhuxsqbr Mxgblnvbzj El-Salvador 39 FLU YES 17-1-2008
+5113 Uvfhsj Wwtsqjc El-Salvador 88 FLU YES 22-3-2004
+969 Muzmdmbv Kfdnjpsz El-Salvador 17 RUBELLA NO 
+220 Agso Xcl El-Salvador 26 FLU NO 
+1855 Mqrnposidt Otmpswveql El-Salvador 72 FLU YES 23-10-2005
+1768 Lovhuxsqbr Mxgblnvbzj El-Salvador 39 FLU YES 9-1-2017
+3791 Cvbbs Gxowtwp El-Salvador 11 FLU YES 14-4-2009
+947 Nwdqkvlqo Ygciuabqxfz El-Salvador 81 FLU NO 
+1535 Sdpozyyfk Sflsdy El-Salvador 92 HIB YES 29-4-2013
+7084 Emhsvmd Zvyly El-Salvador 110 HEPATITIS-A YES 15-5-2005
+7331 Dco Wshaiu El-Salvador 48 COVID-19 NO 
+9385 Rivyobkmxp Yhw El-Salvador 5 HEPATITIS-A NO 
+1872 Gpjhlstucek Vovpwngiilcd El-Salvador 116 TETANUS NO 
+8806 Tmj Hkfznx El-Salvador 21 HIB YES 24-1-2012

@@ -1,0 +1,46 @@
+
+8940 Luxjyx Oaycksjhjfhn Germany 58 HEPATITIS-A YES 20-5-2018
+9867 Nxxpvnri Cbzdayjsvvg Germany 56 RUBELLA YES 7-8-2004
+6069 Kqqgb Mibedlf Germany 58 CHICKENPOX NO 
+5833 Mxdspmiho Jntjzlnm Germany 17 POLIO YES 14-9-2011
+9584 Sugllyvosv Equwfiuqgm Germany 93 FLU NO 
+569 Skgiqvsosab Bmcqyve Germany 113 CHICKENPOX YES 12-8-2017
+8940 Luxjyx Oaycksjhjfhn Germany 58 RUBELLA NO 
+9584 Sugllyvosv Equwfiuqgm Germany 93 TETANUS YES 8-9-2010
+5833 Mxdspmiho Jntjzlnm Germany 17 MEASLES NO 
+569 Skgiqvsosab Bmcqyve Germany 113 HEPATITIS-A YES 9-5-2001
+6751 Vnhdjlv Mgscguc Germany 71 TETANUS YES 1-6-2008
+569 Skgiqvsosab Bmcqyve Germany 113 FLU YES 10-12-2016
+5048 Oiqujj Whdhj Germany 6 POLIO YES 1-5-2014
+5048 Oiqujj Whdhj Germany 6 COVID-19 YES 18-8-2011
+7445 Kvylyzqtp Lcblthmc Germany 64 CHICKENPOX YES 9-11-2010
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 COVID-19 YES 11-9-2008
+6286 Ouztgh Hpa Germany 24 CHICKENPOX YES 22-5-2013
+5892 Cocrjritfw Ezmqckimla Germany 1 HEPATITIS-A YES 17-6-2016
+206 Wee Emz Germany 110 MEASLES NO 
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 HEPATITIS-A YES 4-7-2016
+7016 Tfrhxnu Lpoujsldv Germany 70 RUBELLA YES 16-9-2014
+2245 Ogsaqrtwhgb Cluce Germany 62 COVID-19 NO 
+270 Splt Juiewovb Germany 112 CHICKENPOX YES 28-6-2012
+5048 Oiqujj Whdhj Germany 6 POLIO NO 
+6751 Vnhdjlv Mgscguc Germany 71 MEASLES NO 
+4211 Xtgrvnu Tdadstxdo Germany 38 POLIO YES 12-5-2020
+5048 Oiqujj Whdhj Germany 6 CHICKENPOX NO 
+4211 Xtgrvnu Tdadstxdo Germany 38 COVID-19 YES 13-8-2012
+6034 Ulapui Zwf Germany 50 MEASLES YES 30-11-2020
+7445 Kvylyzqtp Lcblthmc Germany 64 TETANUS YES 4-3-2007
+2307 Tnkwtgl Vurkeccj Germany 81 HIB NO 
+5048 Oiqujj Whdhj Germany 6 HEPATITIS-B YES 23-6-2014
+2307 Tnkwtgl Vurkeccj Germany 81 HEPATITIS-A NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 POLIO NO 
+2245 Ogsaqrtwhgb Cluce Germany 62 RUBELLA YES 11-2-2009
+2245 Ogsaqrtwhgb Cluce Germany 62 CHICKENPOX YES 4-6-2010
+2307 Tnkwtgl Vurkeccj Germany 81 POLIO YES 27-12-2001
+9584 Sugllyvosv Equwfiuqgm Germany 93 POLIO NO 
+6751 Vnhdjlv Mgscguc Germany 71 FLU YES 20-1-2018
+8940 Luxjyx Oaycksjhjfhn Germany 58 CHICKENPOX YES 29-7-2014
+5048 Oiqujj Whdhj Germany 6 RUBELLA YES 11-9-2014
+5892 Cocrjritfw Ezmqckimla Germany 1 MEASLES NO 
+7445 Kvylyzqtp Lcblthmc Germany 64 CHICKENPOX YES 14-1-2007
+6286 Ouztgh Hpa Germany 24 HIB YES 21-5-2019
+7445 Kvylyzqtp Lcblthmc Germany 64 CHICKENPOX NO 

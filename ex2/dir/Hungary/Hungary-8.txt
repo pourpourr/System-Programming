@@ -1,0 +1,44 @@
+
+2904 Cvy Xthtgndvoxo Hungary 90 HEPATITIS-A NO 
+9121 Wce Yocmpbv Hungary 25 CHICKENPOX NO 
+7300 Khurrtp Bbnam Hungary 102 MEASLES NO 
+2725 Qnxmigmecot Litmieqo Hungary 53 HEPATITIS-A NO 
+7241 Ikqw Xjifwyeo Hungary 117 TETANUS YES 27-5-2005
+9962 Ogvmyblrvkl Lrbknir Hungary 99 HEPATITIS-A YES 1-7-2015
+2904 Cvy Xthtgndvoxo Hungary 90 HEPATITIS-B YES 1-6-2016
+9121 Wce Yocmpbv Hungary 25 RUBELLA NO 
+7720 Uvrrzj Qvkxskqkzu Hungary 68 RUBELLA YES 8-10-2017
+1722 Wvqlg Dwvf Hungary 43 CHICKENPOX NO 
+9121 Wce Yocmpbv Hungary 25 HEPATITIS-B NO 
+2073 Mghzznfwufwr Iswosxhpja Hungary 33 COVID-19 NO 
+1722 Wvqlg Dwvf Hungary 43 HIB YES 19-7-2019
+2073 Mghzznfwufwr Iswosxhpja Hungary 33 HEPATITIS-A NO 
+5821 Fuityujt Hspdu Hungary 13 FLU YES 22-10-2018
+2904 Cvy Xthtgndvoxo Hungary 90 FLU NO 
+9112 Jxhrtdzktki Amwdripmbgyq Hungary 55 HEPATITIS-B YES 11-5-2007
+5821 Fuityujt Hspdu Hungary 13 MEASLES NO 
+5821 Fuityujt Hspdu Hungary 13 RUBELLA NO 
+1028 Etyoszste Ejwmkemdcmca Hungary 7 CHICKENPOX NO 
+4833 Lyypqfttowth Pvz Hungary 117 HIB NO 
+9962 Ogvmyblrvkl Lrbknir Hungary 99 COVID-19 NO 
+7720 Uvrrzj Qvkxskqkzu Hungary 68 HIB NO 
+7300 Khurrtp Bbnam Hungary 102 MEASLES YES 28-9-2017
+5977 Kbfzlswzd Hoaczgcjm Hungary 32 CHICKENPOX YES 25-3-2004
+9112 Jxhrtdzktki Amwdripmbgyq Hungary 55 RUBELLA NO 
+7300 Khurrtp Bbnam Hungary 102 HEPATITIS-B NO 
+7720 Uvrrzj Qvkxskqkzu Hungary 68 COVID-19 NO 
+9112 Jxhrtdzktki Amwdripmbgyq Hungary 55 CHICKENPOX NO 
+2904 Cvy Xthtgndvoxo Hungary 90 TETANUS YES 27-2-2003
+2904 Cvy Xthtgndvoxo Hungary 90 CHICKENPOX YES 9-1-2005
+7241 Ikqw Xjifwyeo Hungary 117 COVID-19 YES 23-2-2012
+9878 Wjxgsrqv Qtlvaksddf Hungary 39 RUBELLA NO 
+9620 Kdlrenirr Jppfc Hungary 70 HIB NO 
+9878 Wjxgsrqv Qtlvaksddf Hungary 39 HIB YES 19-8-2007
+2725 Qnxmigmecot Litmieqo Hungary 53 CHICKENPOX YES 10-10-2011
+9962 Ogvmyblrvkl Lrbknir Hungary 99 HIB NO 
+7720 Uvrrzj Qvkxskqkzu Hungary 68 FLU NO 
+9112 Jxhrtdzktki Amwdripmbgyq Hungary 55 FLU YES 8-8-2002
+5821 Fuityujt Hspdu Hungary 13 HEPATITIS-B NO 
+9112 Jxhrtdzktki Amwdripmbgyq Hungary 55 HEPATITIS-B YES 17-9-2010
+9112 Jxhrtdzktki Amwdripmbgyq Hungary 55 HIB NO 
+9121 Wce Yocmpbv Hungary 25 MEASLES YES 11-1-2020

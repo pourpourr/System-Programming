@@ -1,0 +1,38 @@
+
+1624 Afq Cueopcfg Bangladesh 97 TETANUS YES 5-4-2020
+6395 Vcgho Wlrttodpijdz Bangladesh 40 MEASLES YES 6-5-2019
+1751 Gneyonjvp Uuioay Bangladesh 75 POLIO NO 
+2619 Gpdzomu Ograrhetx Bangladesh 84 TETANUS YES 18-5-2008
+1751 Gneyonjvp Uuioay Bangladesh 75 HEPATITIS-A NO 
+5124 Ymbhbos Eagajcuqozup Bangladesh 81 COVID-19 YES 11-10-2009
+9181 Alywpppoo Ijbwvrpmzcg Bangladesh 96 HEPATITIS-A YES 5-6-2004
+1565 Lwgjxxa Vruzl Bangladesh 116 HIB YES 4-12-2004
+8838 Htmimgyrey Mjmlzqyhd Bangladesh 72 HEPATITIS-A NO 
+8817 Jftndmxpjfci Hfytzhdgpohi Bangladesh 46 HEPATITIS-B NO 
+8838 Htmimgyrey Mjmlzqyhd Bangladesh 72 COVID-19 NO 
+8838 Htmimgyrey Mjmlzqyhd Bangladesh 72 HIB YES 11-9-2012
+7008 Sknbg Vuqyejdqol Bangladesh 21 CHICKENPOX YES 22-10-2010
+1565 Lwgjxxa Vruzl Bangladesh 116 HEPATITIS-A NO 
+4009 Gpc Ospsknfdok Bangladesh 33 HIB YES 16-5-2014
+2619 Gpdzomu Ograrhetx Bangladesh 84 MEASLES NO 
+4009 Gpc Ospsknfdok Bangladesh 33 MEASLES YES 25-7-2007
+3910 Wjwdatf Uqjyuj Bangladesh 115 RUBELLA YES 6-6-2009
+7955 Anegv Odkqw Bangladesh 92 HIB YES 2-4-2014
+6395 Vcgho Wlrttodpijdz Bangladesh 40 COVID-19 YES 30-12-2016
+7955 Anegv Odkqw Bangladesh 92 MEASLES NO 
+5124 Ymbhbos Eagajcuqozup Bangladesh 81 POLIO YES 1-2-2016
+9181 Alywpppoo Ijbwvrpmzcg Bangladesh 96 HEPATITIS-B YES 12-2-2003
+5124 Ymbhbos Eagajcuqozup Bangladesh 81 FLU YES 28-5-2013
+8817 Jftndmxpjfci Hfytzhdgpohi Bangladesh 46 POLIO YES 14-9-2016
+8838 Htmimgyrey Mjmlzqyhd Bangladesh 72 HEPATITIS-B YES 19-1-2013
+9300 Fmisublumayx Hbndsbphn Bangladesh 18 RUBELLA NO 
+78 Fibtn Zpyczeholq Bangladesh 49 FLU YES 25-7-2015
+5835 Zfjojwhkasif Atjv Bangladesh 4 FLU NO 
+9300 Fmisublumayx Hbndsbphn Bangladesh 18 FLU NO 
+1565 Lwgjxxa Vruzl Bangladesh 116 CHICKENPOX YES 11-4-2013
+2619 Gpdzomu Ograrhetx Bangladesh 84 HIB NO 
+78 Fibtn Zpyczeholq Bangladesh 49 HEPATITIS-A YES 23-11-2003
+5835 Zfjojwhkasif Atjv Bangladesh 4 HIB NO 
+8838 Htmimgyrey Mjmlzqyhd Bangladesh 72 FLU NO 
+4009 Gpc Ospsknfdok Bangladesh 33 COVID-19 NO 
+1187 Qcttagmkhv Hevd Bangladesh 101 RUBELLA NO 

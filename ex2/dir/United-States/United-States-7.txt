@@ -1,0 +1,41 @@
+
+8598 Oavjqybpwr Zaqkqve United-States 118 COVID-19 NO 
+296 Vnefper Danxkmlnsv United-States 27 POLIO YES 28-9-2006
+254 Mkqzx Bywe United-States 40 HIB NO 
+6268 Ivrl Hiqjzhacns United-States 49 HEPATITIS-B NO 
+9561 Ruw Uqbt United-States 57 COVID-19 YES 21-8-2013
+6268 Ivrl Hiqjzhacns United-States 49 RUBELLA YES 25-1-2013
+8212 Xod Ahtmhx United-States 85 RUBELLA NO 
+6268 Ivrl Hiqjzhacns United-States 49 HIB YES 24-4-2005
+8212 Xod Ahtmhx United-States 85 COVID-19 YES 4-10-2001
+6264 Wkph Jvhswcxxibmj United-States 118 CHICKENPOX YES 10-9-2012
+1432 Nmcdsqyjsrn Erfl United-States 81 CHICKENPOX YES 10-2-2020
+4511 Uro Wxfpvfmrbt United-States 110 FLU NO 
+254 Mkqzx Bywe United-States 40 HEPATITIS-B NO 
+9991 Twh Bek United-States 75 HIB YES 14-9-2010
+9561 Ruw Uqbt United-States 57 COVID-19 NO 
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 CHICKENPOX NO 
+9561 Ruw Uqbt United-States 57 TETANUS YES 19-11-2012
+8212 Xod Ahtmhx United-States 85 POLIO NO 
+6622 Msilpjqz Pltvcxdz United-States 87 COVID-19 NO 
+6268 Ivrl Hiqjzhacns United-States 49 HEPATITIS-B NO 
+9991 Twh Bek United-States 75 MEASLES NO 
+8212 Xod Ahtmhx United-States 85 COVID-19 YES 27-8-2014
+4192 Vlipszw Iwsmnuqqeirh United-States 119 CHICKENPOX NO 
+4192 Vlipszw Iwsmnuqqeirh United-States 119 HEPATITIS-A YES 22-4-2000
+254 Mkqzx Bywe United-States 40 POLIO YES 7-2-2004
+9561 Ruw Uqbt United-States 57 HEPATITIS-B NO 
+4511 Uro Wxfpvfmrbt United-States 110 FLU NO 
+8212 Xod Ahtmhx United-States 85 POLIO YES 24-1-2007
+8212 Xod Ahtmhx United-States 85 POLIO YES 18-11-2015
+6268 Ivrl Hiqjzhacns United-States 49 CHICKENPOX NO 
+296 Vnefper Danxkmlnsv United-States 27 HEPATITIS-B YES 11-6-2006
+9561 Ruw Uqbt United-States 57 HEPATITIS-B NO 
+7060 Lbzblbtkcal Jzbobt United-States 28 COVID-19 YES 25-7-2017
+9561 Ruw Uqbt United-States 57 CHICKENPOX NO 
+296 Vnefper Danxkmlnsv United-States 27 HEPATITIS-B NO 
+6264 Wkph Jvhswcxxibmj United-States 118 MEASLES NO 
+4453 Ozvi Dwjhanxqiwdx United-States 73 HIB YES 28-11-2010
+4453 Ozvi Dwjhanxqiwdx United-States 73 RUBELLA NO 
+8334 Zzsca Fqogtrpuzp United-States 70 HEPATITIS-A YES 25-5-2015
+6268 Ivrl Hiqjzhacns United-States 49 POLIO YES 1-10-2003

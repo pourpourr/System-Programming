@@ -1,0 +1,53 @@
+
+1977 Eyuppq Pqyboqjc Latvia 101 HEPATITIS-B NO 
+5975 Cpds Ypulb Latvia 92 HIB NO 
+1464 Ovgqprf Mjf Latvia 69 RUBELLA YES 2-10-2014
+1977 Eyuppq Pqyboqjc Latvia 101 COVID-19 NO 
+1464 Ovgqprf Mjf Latvia 69 FLU NO 
+2697 Rlszp Yepqt Latvia 13 FLU NO 
+456 Bwdpj Oilqittbbjy Latvia 82 TETANUS NO 
+2192 Repvjn Kifodvhk Latvia 2 FLU YES 29-8-2016
+8574 Ijm Cey Latvia 44 HIB NO 
+1944 Gen Vqtslep Latvia 34 POLIO NO 
+566 Bythkssqg Yfi Latvia 48 TETANUS NO 
+2697 Rlszp Yepqt Latvia 13 HEPATITIS-A NO 
+5535 Lrc Fktkucufiixw Latvia 43 HEPATITIS-B YES 23-7-2001
+8574 Ijm Cey Latvia 44 MEASLES NO 
+8108 Wlylga Vfytkjbblh Latvia 33 RUBELLA YES 19-12-2010
+6402 Efrjmhlvdey Motokzc Latvia 102 RUBELLA NO 
+9995 Ztdurrrtndpj Ymv Latvia 113 HEPATITIS-B NO 
+8766 Fdwnhyurmxu Pmyiulkfcm Latvia 119 FLU NO 
+538 Rbmuwjgre Yqjm Latvia 101 HEPATITIS-A YES 14-10-2015
+566 Bythkssqg Yfi Latvia 48 CHICKENPOX NO 
+456 Bwdpj Oilqittbbjy Latvia 82 MEASLES YES 18-6-2005
+3415 Lqloye Rgonchhcgw Latvia 109 HEPATITIS-B NO 
+538 Rbmuwjgre Yqjm Latvia 101 COVID-19 NO 
+8108 Wlylga Vfytkjbblh Latvia 33 HIB NO 
+1852 Qqnmpk Lkkrgixujye Latvia 27 RUBELLA YES 9-11-2017
+566 Bythkssqg Yfi Latvia 48 MEASLES YES 23-10-2008
+7242 Ahhslrwv Uwwv Latvia 68 HIB YES 29-10-2014
+5535 Lrc Fktkucufiixw Latvia 43 HEPATITIS-B NO 
+6362 Erkrocdpixp Mmkssh Latvia 42 RUBELLA YES 18-4-2002
+6362 Erkrocdpixp Mmkssh Latvia 42 CHICKENPOX YES 4-4-2012
+3843 Yintdr Itwqon Latvia 22 COVID-19 YES 2-2-2018
+1944 Gen Vqtslep Latvia 34 MEASLES YES 13-3-2013
+4909 Hdtvjoefsr Cdluzhpsq Latvia 7 HIB NO 
+8766 Fdwnhyurmxu Pmyiulkfcm Latvia 119 CHICKENPOX NO 
+5975 Cpds Ypulb Latvia 92 CHICKENPOX NO 
+2697 Rlszp Yepqt Latvia 13 POLIO YES 30-12-2006
+7370 Ekwdvb Mctohynwo Latvia 95 POLIO NO 
+5535 Lrc Fktkucufiixw Latvia 43 HIB NO 
+4909 Hdtvjoefsr Cdluzhpsq Latvia 7 TETANUS YES 13-4-2004
+4664 Ypgl Xpn Latvia 48 TETANUS NO 
+2192 Repvjn Kifodvhk Latvia 2 POLIO NO 
+6362 Erkrocdpixp Mmkssh Latvia 42 FLU NO 
+538 Rbmuwjgre Yqjm Latvia 101 MEASLES NO 
+538 Rbmuwjgre Yqjm Latvia 101 RUBELLA YES 17-12-2007
+6402 Efrjmhlvdey Motokzc Latvia 102 RUBELLA YES 13-9-2017
+456 Bwdpj Oilqittbbjy Latvia 82 HIB YES 14-7-2014
+2192 Repvjn Kifodvhk Latvia 2 HIB NO 
+1464 Ovgqprf Mjf Latvia 69 COVID-19 YES 20-12-2016
+8108 Wlylga Vfytkjbblh Latvia 33 RUBELLA YES 1-7-2019
+8766 Fdwnhyurmxu Pmyiulkfcm Latvia 119 POLIO YES 28-8-2001
+2192 Repvjn Kifodvhk Latvia 2 HEPATITIS-A YES 14-3-2015
+7242 Ahhslrwv Uwwv Latvia 68 MEASLES YES 23-12-2004

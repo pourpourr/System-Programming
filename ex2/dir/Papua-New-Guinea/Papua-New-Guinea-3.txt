@@ -1,0 +1,65 @@
+
+1990 Zneugifg Lqggae Papua-New-Guinea 84 HIB NO 
+8492 Ozhqpysh Orfpmqmet Papua-New-Guinea 79 HEPATITIS-B YES 18-10-2018
+842 Igehgmejhb Ddpyzwn Papua-New-Guinea 71 CHICKENPOX NO 
+8076 Gefdart Nsyvvhrtpo Papua-New-Guinea 41 COVID-19 YES 30-11-2011
+8583 Hvadog Ykwyzbq Papua-New-Guinea 69 TETANUS NO 
+7890 Wrnkjgx Fmgtzrfl Papua-New-Guinea 113 FLU NO 
+2465 Mqszvki Jgitxkhsmxn Papua-New-Guinea 95 TETANUS NO 
+8492 Ozhqpysh Orfpmqmet Papua-New-Guinea 79 HIB NO 
+9243 Iefxlmolz Arjvwdi Papua-New-Guinea 105 TETANUS NO 
+7177 Uza Qxy Papua-New-Guinea 77 COVID-19 YES 3-5-2001
+9449 Gpume Eyjbgsa Papua-New-Guinea 79 TETANUS NO 
+1990 Zneugifg Lqggae Papua-New-Guinea 84 HIB YES 16-9-2017
+1501 Zmznkbjdlqhc Vjrdbgluk Papua-New-Guinea 13 TETANUS NO 
+1501 Zmznkbjdlqhc Vjrdbgluk Papua-New-Guinea 13 POLIO NO 
+599 Dhicc Vmrf Papua-New-Guinea 53 MEASLES NO 
+599 Dhicc Vmrf Papua-New-Guinea 53 MEASLES YES 23-9-2018
+1747 Vuwu Jghorgacamda Papua-New-Guinea 24 COVID-19 NO 
+5526 Jxtgwth Yqs Papua-New-Guinea 46 FLU NO 
+9243 Iefxlmolz Arjvwdi Papua-New-Guinea 105 CHICKENPOX NO 
+1320 Rakdmrogtqcx Sir Papua-New-Guinea 38 COVID-19 NO 
+2465 Mqszvki Jgitxkhsmxn Papua-New-Guinea 95 CHICKENPOX YES 2-5-2005
+6634 Yhe Gum Papua-New-Guinea 103 HEPATITIS-B YES 28-1-2002
+6647 Bsmoxuhaer Vpuzdfi Papua-New-Guinea 25 CHICKENPOX YES 26-3-2012
+5526 Jxtgwth Yqs Papua-New-Guinea 46 POLIO NO 
+4246 Wdkwf Vkgfrdfjmd Papua-New-Guinea 80 MEASLES NO 
+5059 Oqic Ucgk Papua-New-Guinea 57 TETANUS YES 9-4-2003
+1640 Rmojf Otlsyybhx Papua-New-Guinea 36 HEPATITIS-A NO 
+2186 Oairzcsd Yztqpkzyibbw Papua-New-Guinea 18 CHICKENPOX NO 
+842 Igehgmejhb Ddpyzwn Papua-New-Guinea 71 FLU NO 
+3225 Eslnykjfb Abr Papua-New-Guinea 56 MEASLES YES 18-7-2020
+7890 Wrnkjgx Fmgtzrfl Papua-New-Guinea 113 HIB NO 
+6634 Yhe Gum Papua-New-Guinea 103 FLU NO 
+599 Dhicc Vmrf Papua-New-Guinea 53 HEPATITIS-A YES 24-11-2010
+2482 Gonm Cvqvkayevohh Papua-New-Guinea 83 HEPATITIS-B YES 13-10-2001
+8338 Tqsoi Vxaommp Papua-New-Guinea 4 HIB YES 16-6-2018
+599 Dhicc Vmrf Papua-New-Guinea 53 TETANUS YES 23-12-2016
+8076 Gefdart Nsyvvhrtpo Papua-New-Guinea 41 MEASLES YES 24-1-2018
+6341 Ghsqvtt Yiz Papua-New-Guinea 72 COVID-19 YES 4-4-2016
+7177 Uza Qxy Papua-New-Guinea 77 HEPATITIS-A NO 
+580 Goslaoug Syc Papua-New-Guinea 87 CHICKENPOX NO 
+2482 Gonm Cvqvkayevohh Papua-New-Guinea 83 COVID-19 YES 22-3-2010
+2482 Gonm Cvqvkayevohh Papua-New-Guinea 83 RUBELLA NO 
+8583 Hvadog Ykwyzbq Papua-New-Guinea 69 TETANUS YES 16-8-2000
+1990 Zneugifg Lqggae Papua-New-Guinea 84 CHICKENPOX YES 16-5-2008
+5526 Jxtgwth Yqs Papua-New-Guinea 46 CHICKENPOX YES 17-8-2020
+1640 Rmojf Otlsyybhx Papua-New-Guinea 36 MEASLES NO 
+6634 Yhe Gum Papua-New-Guinea 103 RUBELLA NO 
+5526 Jxtgwth Yqs Papua-New-Guinea 46 FLU YES 17-1-2015
+5059 Oqic Ucgk Papua-New-Guinea 57 POLIO NO 
+5526 Jxtgwth Yqs Papua-New-Guinea 46 TETANUS NO 
+1501 Zmznkbjdlqhc Vjrdbgluk Papua-New-Guinea 13 FLU YES 22-8-2012
+9243 Iefxlmolz Arjvwdi Papua-New-Guinea 105 MEASLES NO 
+4246 Wdkwf Vkgfrdfjmd Papua-New-Guinea 80 POLIO NO 
+1990 Zneugifg Lqggae Papua-New-Guinea 84 RUBELLA YES 7-6-2001
+1747 Vuwu Jghorgacamda Papua-New-Guinea 24 HEPATITIS-B NO 
+4070 Mumqqlq Ysotddc Papua-New-Guinea 92 HEPATITIS-B YES 16-11-2005
+1640 Rmojf Otlsyybhx Papua-New-Guinea 36 HEPATITIS-B YES 29-6-2006
+3225 Eslnykjfb Abr Papua-New-Guinea 56 RUBELLA NO 
+580 Goslaoug Syc Papua-New-Guinea 87 HIB NO 
+6634 Yhe Gum Papua-New-Guinea 103 HEPATITIS-B NO 
+1990 Zneugifg Lqggae Papua-New-Guinea 84 COVID-19 NO 
+5526 Jxtgwth Yqs Papua-New-Guinea 46 FLU NO 
+7177 Uza Qxy Papua-New-Guinea 77 RUBELLA NO 
+5526 Jxtgwth Yqs Papua-New-Guinea 46 FLU NO 

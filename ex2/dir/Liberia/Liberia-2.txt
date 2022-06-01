@@ -1,0 +1,67 @@
+
+1573 Elzgtvdibrj Vkp Liberia 67 RUBELLA YES 26-8-2019
+1647 Qigglp Kqjjztujgmt Liberia 52 HEPATITIS-B YES 1-6-2011
+39 Uutkdnq Atu Liberia 112 TETANUS YES 2-4-2020
+39 Uutkdnq Atu Liberia 112 COVID-19 NO 
+1647 Qigglp Kqjjztujgmt Liberia 52 HIB YES 6-10-2020
+8330 Sqvtupbzgoym Ihgeqty Liberia 5 MEASLES YES 25-12-2003
+8580 Lthiclneqna Mkrpwsnfikme Liberia 52 CHICKENPOX YES 13-3-2009
+1573 Elzgtvdibrj Vkp Liberia 67 COVID-19 NO 
+1647 Qigglp Kqjjztujgmt Liberia 52 POLIO YES 3-1-2008
+5832 Qvcuunr Zmdbwkfzrbkt Liberia 107 COVID-19 NO 
+7872 Ilkqwtb Kyafg Liberia 35 HEPATITIS-A NO 
+1133 Vzrbtypksi Imabcrkfgt Liberia 90 FLU NO 
+1854 Rzzh Pcl Liberia 40 RUBELLA YES 8-5-2020
+3461 Rolcjfnwparp Qioo Liberia 4 HIB NO 
+8253 Ldnjkgjboaz Yltj Liberia 45 CHICKENPOX YES 26-4-2000
+3760 Wakzqihwdvv Ttwvmnwug Liberia 21 COVID-19 NO 
+3760 Wakzqihwdvv Ttwvmnwug Liberia 21 TETANUS YES 1-8-2014
+1854 Rzzh Pcl Liberia 40 COVID-19 YES 28-11-2009
+5645 Wki Wcb Liberia 97 HEPATITIS-A NO 
+2157 Qucrilbxs Idj Liberia 66 COVID-19 YES 27-9-2015
+6084 Tfiewzmrgow Iyrhdbvmhza Liberia 32 MEASLES NO 
+1209 Kciurpeno Indjmiw Liberia 36 HEPATITIS-A YES 16-12-2005
+1854 Rzzh Pcl Liberia 40 CHICKENPOX YES 10-4-2014
+39 Uutkdnq Atu Liberia 112 HIB NO 
+1133 Vzrbtypksi Imabcrkfgt Liberia 90 HEPATITIS-A NO 
+3446 Ytntkcgy Mlnkxr Liberia 23 TETANUS YES 22-12-2001
+1209 Kciurpeno Indjmiw Liberia 36 HIB YES 30-11-2006
+2157 Qucrilbxs Idj Liberia 66 HIB YES 13-9-2003
+8330 Sqvtupbzgoym Ihgeqty Liberia 5 RUBELLA NO 
+1854 Rzzh Pcl Liberia 40 CHICKENPOX YES 3-10-2017
+2963 Ysycbmqdiv Dbkzgnu Liberia 110 HEPATITIS-B NO 
+5832 Qvcuunr Zmdbwkfzrbkt Liberia 107 CHICKENPOX NO 
+3461 Rolcjfnwparp Qioo Liberia 4 HIB NO 
+2963 Ysycbmqdiv Dbkzgnu Liberia 110 HIB NO 
+39 Uutkdnq Atu Liberia 112 CHICKENPOX NO 
+8580 Lthiclneqna Mkrpwsnfikme Liberia 52 CHICKENPOX YES 20-4-2020
+2963 Ysycbmqdiv Dbkzgnu Liberia 110 CHICKENPOX NO 
+8443 Dwugmizqak Iagnync Liberia 20 POLIO YES 10-5-2014
+1980 Pasmjlppx Vkidecpeg Liberia 80 POLIO YES 16-11-2009
+5292 Mpkuhfdivzjr Vhfihvfd Liberia 17 HEPATITIS-A YES 19-8-2006
+7872 Ilkqwtb Kyafg Liberia 35 TETANUS NO 
+1854 Rzzh Pcl Liberia 40 MEASLES YES 3-1-2003
+9055 Zqjylfwzltjg Lepbydmxlc Liberia 49 TETANUS NO 
+1133 Vzrbtypksi Imabcrkfgt Liberia 90 COVID-19 NO 
+1746 Nxg Evvldoz Liberia 87 MEASLES YES 15-1-2016
+2157 Qucrilbxs Idj Liberia 66 HEPATITIS-A NO 
+2963 Ysycbmqdiv Dbkzgnu Liberia 110 CHICKENPOX YES 10-9-2018
+6084 Tfiewzmrgow Iyrhdbvmhza Liberia 32 COVID-19 YES 7-5-2007
+9717 Jfrf Qukb Liberia 4 COVID-19 NO 
+1854 Rzzh Pcl Liberia 40 MEASLES YES 27-12-2008
+5292 Mpkuhfdivzjr Vhfihvfd Liberia 17 MEASLES NO 
+4665 Gmnndksna Lnekm Liberia 97 TETANUS YES 29-9-2005
+2166 Ndtmz Gvqcoiodiv Liberia 36 COVID-19 NO 
+5895 Ycpku Zatjkcb Liberia 86 POLIO NO 
+4665 Gmnndksna Lnekm Liberia 97 HEPATITIS-B NO 
+4349 Xlhzqc Mwasyvygfqeu Liberia 91 HEPATITIS-A YES 21-8-2017
+8101 Ljezarrhxvd Oswvoohqvcq Liberia 8 COVID-19 YES 20-4-2014
+5292 Mpkuhfdivzjr Vhfihvfd Liberia 17 CHICKENPOX YES 28-6-2017
+8253 Ldnjkgjboaz Yltj Liberia 45 COVID-19 YES 20-8-2013
+1854 Rzzh Pcl Liberia 40 HIB YES 9-8-2019
+9055 Zqjylfwzltjg Lepbydmxlc Liberia 49 HEPATITIS-B NO 
+5832 Qvcuunr Zmdbwkfzrbkt Liberia 107 HEPATITIS-A YES 8-2-2012
+2157 Qucrilbxs Idj Liberia 66 COVID-19 NO 
+6836 Sxeqam Tuytc Liberia 91 COVID-19 YES 5-5-2015
+1209 Kciurpeno Indjmiw Liberia 36 HEPATITIS-B YES 13-11-2001
+2963 Ysycbmqdiv Dbkzgnu Liberia 110 RUBELLA NO 

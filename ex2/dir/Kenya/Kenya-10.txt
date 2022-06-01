@@ -1,0 +1,61 @@
+
+2933 Qbwflcb Mzkst Kenya 56 FLU YES 18-3-2007
+6908 Svufwpxeg Ixpdhlbctc Kenya 82 CHICKENPOX YES 26-5-2018
+9475 Pvtw Rzciubojgas Kenya 14 HEPATITIS-B NO 
+9595 Gax Wmmwnd Kenya 48 HEPATITIS-B NO 
+249 Xxqgy Hyvpiaqiivm Kenya 22 RUBELLA NO 
+5109 Zxgutz Ibrgzuqcpr Kenya 111 COVID-19 YES 24-7-2007
+9598 Slubcvxsk Efjadqlehbt Kenya 71 POLIO YES 1-7-2009
+6908 Svufwpxeg Ixpdhlbctc Kenya 82 FLU NO 
+249 Xxqgy Hyvpiaqiivm Kenya 22 MEASLES NO 
+5109 Zxgutz Ibrgzuqcpr Kenya 111 HEPATITIS-B NO 
+7319 Oiogayx Ahtgssmby Kenya 12 RUBELLA YES 5-7-2009
+583 Jfb Qzceodqww Kenya 47 POLIO YES 10-3-2010
+445 Bvqjtdciwgwb Umk Kenya 72 COVID-19 YES 28-4-2012
+8779 Prisi Eigwdijv Kenya 43 RUBELLA YES 8-8-2001
+5109 Zxgutz Ibrgzuqcpr Kenya 111 HEPATITIS-A NO 
+1363 Wwcxr Ezucb Kenya 35 HEPATITIS-A NO 
+2933 Qbwflcb Mzkst Kenya 56 HEPATITIS-B NO 
+2209 Kzowzpvb Pqllxueyemp Kenya 86 RUBELLA YES 23-9-2007
+445 Bvqjtdciwgwb Umk Kenya 72 POLIO YES 27-9-2000
+149 Hicssutzk Uvbagxntgdpy Kenya 56 CHICKENPOX NO 
+4217 Wwypbahm Fkb Kenya 23 HIB NO 
+4217 Wwypbahm Fkb Kenya 23 HEPATITIS-B NO 
+572 Okazj Epxbgomuxpxl Kenya 53 MEASLES NO 
+9264 Wtnzn Tfbmwqckmwou Kenya 102 RUBELLA NO 
+8167 Babofxq Vtbhaizem Kenya 119 HEPATITIS-B YES 26-5-2010
+8167 Babofxq Vtbhaizem Kenya 119 HEPATITIS-B YES 12-12-2004
+445 Bvqjtdciwgwb Umk Kenya 72 HEPATITIS-B YES 2-11-2005
+9138 Uwzdejdb Hqhvfkn Kenya 56 MEASLES NO 
+6943 Uumpxgcsg Jrn Kenya 68 FLU YES 15-2-2013
+249 Xxqgy Hyvpiaqiivm Kenya 22 HEPATITIS-A YES 24-3-2020
+3883 Uhbczxx Sysugsdnolc Kenya 95 FLU NO 
+249 Xxqgy Hyvpiaqiivm Kenya 22 TETANUS NO 
+1390 Khjbj Oovztzlfw Kenya 16 HEPATITIS-B NO 
+5109 Zxgutz Ibrgzuqcpr Kenya 111 TETANUS YES 9-8-2005
+149 Hicssutzk Uvbagxntgdpy Kenya 56 RUBELLA NO 
+2209 Kzowzpvb Pqllxueyemp Kenya 86 HEPATITIS-B NO 
+1118 Utloqjzpja Zkegimyyebyq Kenya 72 POLIO YES 14-7-2003
+8167 Babofxq Vtbhaizem Kenya 119 COVID-19 NO 
+2933 Qbwflcb Mzkst Kenya 56 MEASLES YES 26-4-2018
+6943 Uumpxgcsg Jrn Kenya 68 TETANUS NO 
+5109 Zxgutz Ibrgzuqcpr Kenya 111 TETANUS NO 
+4432 Ywrucdgb Bjhkqfdu Kenya 30 HEPATITIS-A NO 
+1118 Utloqjzpja Zkegimyyebyq Kenya 72 POLIO YES 3-12-2013
+249 Xxqgy Hyvpiaqiivm Kenya 22 FLU YES 24-9-2012
+3883 Uhbczxx Sysugsdnolc Kenya 95 HEPATITIS-B YES 11-11-2020
+1363 Wwcxr Ezucb Kenya 35 HIB YES 25-4-2002
+6908 Svufwpxeg Ixpdhlbctc Kenya 82 TETANUS NO 
+445 Bvqjtdciwgwb Umk Kenya 72 FLU NO 
+1363 Wwcxr Ezucb Kenya 35 CHICKENPOX NO 
+1363 Wwcxr Ezucb Kenya 35 FLU YES 24-7-2008
+9138 Uwzdejdb Hqhvfkn Kenya 56 HEPATITIS-B NO 
+445 Bvqjtdciwgwb Umk Kenya 72 FLU NO 
+583 Jfb Qzceodqww Kenya 47 HEPATITIS-A NO 
+2209 Kzowzpvb Pqllxueyemp Kenya 86 HIB YES 22-7-2018
+4432 Ywrucdgb Bjhkqfdu Kenya 30 RUBELLA NO 
+8779 Prisi Eigwdijv Kenya 43 COVID-19 YES 3-11-2013
+4217 Wwypbahm Fkb Kenya 23 HEPATITIS-B NO 
+249 Xxqgy Hyvpiaqiivm Kenya 22 HIB NO 
+5109 Zxgutz Ibrgzuqcpr Kenya 111 HEPATITIS-B NO 
+9264 Wtnzn Tfbmwqckmwou Kenya 102 FLU NO 

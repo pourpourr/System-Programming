@@ -1,0 +1,49 @@
+
+2651 Fskovrhff Wvhfqx Guatemala 77 POLIO YES 14-2-2012
+5062 Pdmfor Vcygm Guatemala 34 MEASLES NO 
+5062 Pdmfor Vcygm Guatemala 34 FLU NO 
+9942 Olmmelirtfp Lkcntrpsqpu Guatemala 75 RUBELLA YES 3-8-2016
+137 Adizumtk Oqw Guatemala 46 POLIO NO 
+9942 Olmmelirtfp Lkcntrpsqpu Guatemala 75 TETANUS YES 13-10-2015
+5988 Tcmvoku Tibqxpho Guatemala 43 COVID-19 YES 13-5-2018
+9879 Vkm Pcfxwxqgzj Guatemala 47 COVID-19 NO 
+1181 Qrmkkwvhe Sdmdilkwjev Guatemala 6 HIB NO 
+4893 Agk Ihyqvoysdzf Guatemala 109 COVID-19 NO 
+7566 Kkpg Kcturo Guatemala 63 CHICKENPOX NO 
+6630 Zkim Xyrs Guatemala 49 RUBELLA NO 
+4531 Fjjvmfdtkqc Qwtkeqjfcke Guatemala 55 CHICKENPOX NO 
+2651 Fskovrhff Wvhfqx Guatemala 77 CHICKENPOX YES 30-5-2006
+4531 Fjjvmfdtkqc Qwtkeqjfcke Guatemala 55 RUBELLA NO 
+5062 Pdmfor Vcygm Guatemala 34 MEASLES YES 3-4-2005
+4372 Mwhrmfvvnm Tsrncahsa Guatemala 52 POLIO YES 27-12-2018
+6834 Lqohsfsbcf Vvxmiass Guatemala 22 POLIO YES 11-10-2005
+1181 Qrmkkwvhe Sdmdilkwjev Guatemala 6 MEASLES YES 19-1-2004
+1361 Ybkwlkyojtbs Rwcdjpocod Guatemala 53 POLIO YES 30-3-2000
+5193 Dti Qwenebfhs Guatemala 42 HEPATITIS-B NO 
+8848 Uvh Juenxqpsli Guatemala 5 TETANUS NO 
+5062 Pdmfor Vcygm Guatemala 34 HIB NO 
+5988 Tcmvoku Tibqxpho Guatemala 43 POLIO YES 12-5-2009
+6630 Zkim Xyrs Guatemala 49 FLU YES 18-4-2020
+6630 Zkim Xyrs Guatemala 49 TETANUS YES 14-1-2004
+8848 Uvh Juenxqpsli Guatemala 5 COVID-19 NO 
+1181 Qrmkkwvhe Sdmdilkwjev Guatemala 6 CHICKENPOX NO 
+7566 Kkpg Kcturo Guatemala 63 FLU YES 11-10-2018
+6834 Lqohsfsbcf Vvxmiass Guatemala 22 RUBELLA YES 19-11-2019
+5193 Dti Qwenebfhs Guatemala 42 HIB NO 
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 HEPATITIS-B YES 1-12-2001
+7027 Enfmryocx Fwtgwizrcxf Guatemala 24 COVID-19 YES 5-1-2006
+5988 Tcmvoku Tibqxpho Guatemala 43 FLU NO 
+4840 Tffzzriqb Ygwoo Guatemala 90 RUBELLA YES 1-5-2001
+8848 Uvh Juenxqpsli Guatemala 5 HIB YES 4-6-2002
+137 Adizumtk Oqw Guatemala 46 TETANUS NO 
+4893 Agk Ihyqvoysdzf Guatemala 109 HEPATITIS-B NO 
+5988 Tcmvoku Tibqxpho Guatemala 43 POLIO YES 21-4-2020
+6630 Zkim Xyrs Guatemala 49 TETANUS YES 29-7-2011
+2651 Fskovrhff Wvhfqx Guatemala 77 RUBELLA NO 
+2651 Fskovrhff Wvhfqx Guatemala 77 POLIO YES 16-4-2002
+4840 Tffzzriqb Ygwoo Guatemala 90 CHICKENPOX NO 
+6042 Yqsnfhpxpq Zgtfpremw Guatemala 44 HIB NO 
+6042 Yqsnfhpxpq Zgtfpremw Guatemala 44 HIB NO 
+4531 Fjjvmfdtkqc Qwtkeqjfcke Guatemala 55 CHICKENPOX NO 
+1227 Yefubkox Ozskcqfxjk Guatemala 105 MEASLES NO 
+9879 Vkm Pcfxwxqgzj Guatemala 47 POLIO NO 

@@ -1,0 +1,56 @@
+
+6877 Lgmwpbqsnct Tevjsk Mauritius 41 HEPATITIS-A YES 8-7-2002
+3550 Ypjmyrhxaptp Hpxkvhz Mauritius 52 RUBELLA YES 18-1-2012
+9641 Fxxwch Iqliaicwsso Mauritius 34 HEPATITIS-B YES 27-1-2013
+2175 Fdntoyykfx Kedurba Mauritius 54 TETANUS NO 
+7651 Qtpfcybgf Mgokphghwfji Mauritius 57 FLU NO 
+1380 Igyctxpplvvb Ytmnognjh Mauritius 8 HEPATITIS-A NO 
+9936 Tnz Karj Mauritius 102 HIB NO 
+1347 Vucqhrbwxhax Smhuxfgigpd Mauritius 106 HIB YES 13-5-2014
+8389 Npsawssd Hzma Mauritius 105 FLU NO 
+2175 Fdntoyykfx Kedurba Mauritius 54 COVID-19 YES 11-8-2015
+9641 Fxxwch Iqliaicwsso Mauritius 34 FLU YES 7-1-2003
+1347 Vucqhrbwxhax Smhuxfgigpd Mauritius 106 RUBELLA NO 
+28 Ipjtlxvk Apkfkyszup Mauritius 119 CHICKENPOX YES 1-9-2012
+4159 Smrfm Qzpre Mauritius 94 HIB NO 
+6456 Kzjpkpqsxptx Gqmswldzik Mauritius 9 CHICKENPOX YES 24-6-2005
+9123 Bgvn Ufagyvqaln Mauritius 96 POLIO NO 
+2175 Fdntoyykfx Kedurba Mauritius 54 POLIO NO 
+6808 Gfk Vtgiia Mauritius 29 RUBELLA NO 
+6456 Kzjpkpqsxptx Gqmswldzik Mauritius 9 HIB YES 17-9-2008
+9641 Fxxwch Iqliaicwsso Mauritius 34 MEASLES NO 
+2538 Pdssojorytx Zgtmtfchhw Mauritius 36 HIB YES 16-8-2016
+9454 Qdymzrztw Ivcvolocpcc Mauritius 74 COVID-19 YES 4-1-2011
+9123 Bgvn Ufagyvqaln Mauritius 96 HIB NO 
+493 Gkrdhp Gyfogy Mauritius 27 COVID-19 YES 7-6-2015
+9641 Fxxwch Iqliaicwsso Mauritius 34 MEASLES NO 
+9936 Tnz Karj Mauritius 102 HEPATITIS-A YES 2-10-2010
+6808 Gfk Vtgiia Mauritius 29 FLU NO 
+28 Ipjtlxvk Apkfkyszup Mauritius 119 TETANUS YES 30-12-2019
+1299 Jmivyej Mijulbm Mauritius 53 CHICKENPOX NO 
+4018 Flkjktqherba Yflluyil Mauritius 40 CHICKENPOX NO 
+6985 Fkk Puwkbuibztw Mauritius 19 TETANUS YES 1-2-2001
+6877 Lgmwpbqsnct Tevjsk Mauritius 41 HIB NO 
+9123 Bgvn Ufagyvqaln Mauritius 96 HEPATITIS-A NO 
+3550 Ypjmyrhxaptp Hpxkvhz Mauritius 52 HEPATITIS-B YES 6-12-2002
+2175 Fdntoyykfx Kedurba Mauritius 54 RUBELLA NO 
+9936 Tnz Karj Mauritius 102 HEPATITIS-A NO 
+9454 Qdymzrztw Ivcvolocpcc Mauritius 74 COVID-19 NO 
+9123 Bgvn Ufagyvqaln Mauritius 96 MEASLES NO 
+6582 Tohinxzsil Tmhersym Mauritius 96 HEPATITIS-B NO 
+6808 Gfk Vtgiia Mauritius 29 RUBELLA YES 4-9-2017
+28 Ipjtlxvk Apkfkyszup Mauritius 119 MEASLES NO 
+892 Xfrcpojqpl Ojbdo Mauritius 112 POLIO YES 19-10-2009
+9123 Bgvn Ufagyvqaln Mauritius 96 FLU YES 20-4-2018
+6582 Tohinxzsil Tmhersym Mauritius 96 RUBELLA NO 
+1347 Vucqhrbwxhax Smhuxfgigpd Mauritius 106 POLIO YES 6-8-2005
+4018 Flkjktqherba Yflluyil Mauritius 40 HEPATITIS-A NO 
+8389 Npsawssd Hzma Mauritius 105 POLIO NO 
+1380 Igyctxpplvvb Ytmnognjh Mauritius 8 HEPATITIS-A NO 
+9936 Tnz Karj Mauritius 102 TETANUS NO 
+28 Ipjtlxvk Apkfkyszup Mauritius 119 HEPATITIS-B YES 26-7-2004
+8389 Npsawssd Hzma Mauritius 105 HEPATITIS-B YES 15-4-2005
+4925 Lvpek Lwsbwmzgjq Mauritius 56 POLIO NO 
+2538 Pdssojorytx Zgtmtfchhw Mauritius 36 POLIO NO 
+4159 Smrfm Qzpre Mauritius 94 MEASLES YES 20-4-2008
+4066 Jnnwokvxeop Lkekwjniv Mauritius 68 CHICKENPOX YES 4-12-2005

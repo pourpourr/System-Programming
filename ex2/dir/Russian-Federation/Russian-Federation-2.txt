@@ -1,0 +1,39 @@
+
+1816 Noixpidocaoc Qzlhpdynsfrm Russian-Federation 41 CHICKENPOX NO 
+6561 Cjc Iwpwryfibk Russian-Federation 75 CHICKENPOX YES 14-10-2008
+8562 Enysvvqn Wwjfztsmtm Russian-Federation 60 COVID-19 YES 8-6-2014
+1960 Qcii Wqhcpulyz Russian-Federation 38 HIB NO 
+1873 Jydrellfodz Efpad Russian-Federation 55 RUBELLA NO 
+1816 Noixpidocaoc Qzlhpdynsfrm Russian-Federation 41 POLIO YES 7-11-2006
+1960 Qcii Wqhcpulyz Russian-Federation 38 POLIO YES 9-8-2002
+6682 Sokjjsmdm Imqsfuvcsri Russian-Federation 78 HIB YES 21-3-2011
+8952 Ojhtwexp Wmauamg Russian-Federation 96 HEPATITIS-B YES 2-5-2011
+1816 Noixpidocaoc Qzlhpdynsfrm Russian-Federation 41 MEASLES YES 2-9-2020
+8952 Ojhtwexp Wmauamg Russian-Federation 96 COVID-19 NO 
+7139 Zroki Hqkynwdc Russian-Federation 51 COVID-19 NO 
+9842 Jregnhhdmgj Nwibby Russian-Federation 108 CHICKENPOX NO 
+7037 Ccjrijqgtx Pjxa Russian-Federation 99 HEPATITIS-A YES 9-6-2004
+8562 Enysvvqn Wwjfztsmtm Russian-Federation 60 FLU YES 23-4-2011
+6682 Sokjjsmdm Imqsfuvcsri Russian-Federation 78 POLIO YES 30-4-2001
+7608 Npryzs Hjcbmjusn Russian-Federation 48 HEPATITIS-B NO 
+7037 Ccjrijqgtx Pjxa Russian-Federation 99 HEPATITIS-B YES 27-3-2003
+6561 Cjc Iwpwryfibk Russian-Federation 75 FLU NO 
+6561 Cjc Iwpwryfibk Russian-Federation 75 POLIO NO 
+3710 Ofnkuyhrp Hbhccahjcuca Russian-Federation 32 HEPATITIS-B YES 1-10-2012
+2765 Nlcyqk Cyyyclw Russian-Federation 45 CHICKENPOX NO 
+7139 Zroki Hqkynwdc Russian-Federation 51 CHICKENPOX NO 
+3710 Ofnkuyhrp Hbhccahjcuca Russian-Federation 32 FLU NO 
+6883 Qohybg Ryjqst Russian-Federation 93 FLU NO 
+1873 Jydrellfodz Efpad Russian-Federation 55 HEPATITIS-B NO 
+6087 Yvinw Bye Russian-Federation 91 HIB YES 23-2-2001
+9842 Jregnhhdmgj Nwibby Russian-Federation 108 FLU NO 
+2765 Nlcyqk Cyyyclw Russian-Federation 45 HIB NO 
+1873 Jydrellfodz Efpad Russian-Federation 55 FLU NO 
+2765 Nlcyqk Cyyyclw Russian-Federation 45 HEPATITIS-A YES 29-2-2014
+8562 Enysvvqn Wwjfztsmtm Russian-Federation 60 MEASLES YES 7-4-2005
+5057 Btv Kgc Russian-Federation 17 COVID-19 YES 5-12-2012
+7037 Ccjrijqgtx Pjxa Russian-Federation 99 TETANUS NO 
+8562 Enysvvqn Wwjfztsmtm Russian-Federation 60 POLIO NO 
+6561 Cjc Iwpwryfibk Russian-Federation 75 COVID-19 NO 
+6561 Cjc Iwpwryfibk Russian-Federation 75 TETANUS YES 28-9-2019
+775 Ymihnc Zlvnibrrgxsx Russian-Federation 97 CHICKENPOX YES 11-12-2009

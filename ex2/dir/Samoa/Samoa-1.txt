@@ -1,0 +1,43 @@
+
+5659 Rkikzfltw Fkxtkjhsl Samoa 30 FLU YES 8-1-2003
+5252 Exqunz Kjvrang Samoa 60 FLU NO 
+5499 Ylrpxmwhlvw Vdogmmhsy Samoa 13 MEASLES YES 29-2-2004
+5699 Iqvc Oodtmq Samoa 26 HEPATITIS-A YES 15-5-2020
+359 Cuf Gqgbfyrvar Samoa 70 RUBELLA NO 
+9572 Inn Cwfswkldhxgd Samoa 116 HEPATITIS-A YES 28-8-2020
+5499 Ylrpxmwhlvw Vdogmmhsy Samoa 13 HEPATITIS-B NO 
+5659 Rkikzfltw Fkxtkjhsl Samoa 30 RUBELLA YES 12-11-2013
+359 Cuf Gqgbfyrvar Samoa 70 RUBELLA YES 8-9-2016
+2150 Tezf Btpdxeis Samoa 50 CHICKENPOX NO 
+4086 Bavzcbrgvte Qooegsmzhk Samoa 22 MEASLES YES 7-10-2019
+3633 Upmjzo Qxqz Samoa 101 TETANUS NO 
+8084 Zpbyeuyl Kkofbr Samoa 35 COVID-19 NO 
+9572 Inn Cwfswkldhxgd Samoa 116 RUBELLA NO 
+8084 Zpbyeuyl Kkofbr Samoa 35 RUBELLA YES 22-8-2017
+3666 Hzajxa Yrkvxo Samoa 36 COVID-19 YES 29-2-2010
+4528 Rhmdkc Qivviizr Samoa 34 HEPATITIS-A NO 
+1143 Uovonicxpdt Roahdru Samoa 66 RUBELLA YES 1-4-2002
+5659 Rkikzfltw Fkxtkjhsl Samoa 30 MEASLES YES 13-10-2016
+3378 Vwjfacu Vzfgdhmz Samoa 52 CHICKENPOX NO 
+3633 Upmjzo Qxqz Samoa 101 HIB YES 8-3-2016
+3633 Upmjzo Qxqz Samoa 101 TETANUS YES 22-9-2009
+3666 Hzajxa Yrkvxo Samoa 36 HIB NO 
+3633 Upmjzo Qxqz Samoa 101 HIB NO 
+6831 Ixug Agsrumtl Samoa 49 COVID-19 YES 15-5-2020
+2150 Tezf Btpdxeis Samoa 50 HEPATITIS-B NO 
+3378 Vwjfacu Vzfgdhmz Samoa 52 MEASLES YES 16-2-2000
+4528 Rhmdkc Qivviizr Samoa 34 TETANUS YES 4-5-2003
+7681 Xjk Vcmshzgujqd Samoa 79 MEASLES NO 
+359 Cuf Gqgbfyrvar Samoa 70 RUBELLA NO 
+5252 Exqunz Kjvrang Samoa 60 COVID-19 YES 10-6-2010
+7681 Xjk Vcmshzgujqd Samoa 79 HEPATITIS-B YES 27-5-2017
+6831 Ixug Agsrumtl Samoa 49 HEPATITIS-B YES 18-10-2012
+3378 Vwjfacu Vzfgdhmz Samoa 52 TETANUS YES 21-11-2012
+4086 Bavzcbrgvte Qooegsmzhk Samoa 22 HEPATITIS-B YES 15-2-2003
+4752 Ubj Osshrxee Samoa 112 HEPATITIS-B NO 
+5252 Exqunz Kjvrang Samoa 60 HIB YES 17-1-2002
+5252 Exqunz Kjvrang Samoa 60 COVID-19 NO 
+9572 Inn Cwfswkldhxgd Samoa 116 MEASLES NO 
+9031 Qjkufgbvuc Rdkzrvdjj Samoa 93 TETANUS YES 18-3-2013
+9031 Qjkufgbvuc Rdkzrvdjj Samoa 93 COVID-19 NO 
+7403 Jxsdguqtthtp Ccqhrqhsh Samoa 35 RUBELLA YES 14-6-2018

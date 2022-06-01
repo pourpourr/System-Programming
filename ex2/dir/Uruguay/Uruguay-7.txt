@@ -1,0 +1,41 @@
+
+603 Fdonyj Kmrqfdwomqz Uruguay 26 HEPATITIS-A NO 
+4972 Enztjim Sksjkgf Uruguay 67 HEPATITIS-B NO 
+3653 Soimcuajtefn Yvvpwenc Uruguay 49 TETANUS YES 25-6-2002
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 HEPATITIS-A NO 
+7646 Pqtpyjup Yhprj Uruguay 118 RUBELLA NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 MEASLES YES 4-10-2014
+2753 Fwydoys Llizqct Uruguay 41 HEPATITIS-A YES 4-12-2003
+4972 Enztjim Sksjkgf Uruguay 67 TETANUS YES 1-2-2010
+3154 Tvlvtc Lnhq Uruguay 116 CHICKENPOX NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 HEPATITIS-A YES 4-12-2001
+9411 Lsehukzqs Ppwvb Uruguay 49 RUBELLA YES 21-2-2000
+3154 Tvlvtc Lnhq Uruguay 116 CHICKENPOX NO 
+2753 Fwydoys Llizqct Uruguay 41 POLIO NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 MEASLES NO 
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 COVID-19 NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 TETANUS YES 1-5-2020
+3491 Ravxxikmsmdt Msldv Uruguay 65 MEASLES YES 29-2-2011
+3491 Ravxxikmsmdt Msldv Uruguay 65 CHICKENPOX NO 
+9411 Lsehukzqs Ppwvb Uruguay 49 TETANUS YES 9-5-2003
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 POLIO YES 2-6-2007
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 HEPATITIS-A YES 27-4-2014
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 COVID-19 NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 HIB NO 
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 POLIO NO 
+3154 Tvlvtc Lnhq Uruguay 116 HEPATITIS-A NO 
+5613 Aja Nozapmlrtvjf Uruguay 17 HEPATITIS-A NO 
+603 Fdonyj Kmrqfdwomqz Uruguay 26 RUBELLA YES 11-11-2005
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 HIB NO 
+3154 Tvlvtc Lnhq Uruguay 116 RUBELLA YES 18-9-2002
+8752 Qffx Zvpzjrrgu Uruguay 27 FLU NO 
+2753 Fwydoys Llizqct Uruguay 41 MEASLES NO 
+3154 Tvlvtc Lnhq Uruguay 116 POLIO NO 
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 CHICKENPOX NO 
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 RUBELLA YES 1-6-2004
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 MEASLES YES 28-12-2003
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 RUBELLA NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 HEPATITIS-B YES 7-10-2016
+2114 Rga Zwti Uruguay 74 CHICKENPOX NO 
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 FLU NO 
+9411 Lsehukzqs Ppwvb Uruguay 49 FLU NO 

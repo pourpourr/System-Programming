@@ -1,0 +1,45 @@
+
+6286 Ouztgh Hpa Germany 24 HIB YES 6-6-2002
+5892 Cocrjritfw Ezmqckimla Germany 1 MEASLES NO 
+7303 Dsi Egwo Germany 70 POLIO YES 28-7-2007
+5048 Oiqujj Whdhj Germany 6 HEPATITIS-A NO 
+9867 Nxxpvnri Cbzdayjsvvg Germany 56 MEASLES NO 
+569 Skgiqvsosab Bmcqyve Germany 113 RUBELLA YES 28-9-2016
+8940 Luxjyx Oaycksjhjfhn Germany 58 COVID-19 YES 3-9-2008
+5524 Oybqavtyod Vujhml Germany 7 HIB YES 5-12-2011
+7443 Nbnykfoazrf Afozhaolu Germany 49 FLU NO 
+270 Splt Juiewovb Germany 112 COVID-19 YES 14-12-2012
+5524 Oybqavtyod Vujhml Germany 7 HEPATITIS-B NO 
+4211 Xtgrvnu Tdadstxdo Germany 38 POLIO YES 10-6-2014
+270 Splt Juiewovb Germany 112 HEPATITIS-B YES 2-11-2000
+9867 Nxxpvnri Cbzdayjsvvg Germany 56 RUBELLA YES 15-2-2002
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 HEPATITIS-B YES 27-7-2018
+206 Wee Emz Germany 110 CHICKENPOX YES 2-11-2011
+2245 Ogsaqrtwhgb Cluce Germany 62 RUBELLA NO 
+569 Skgiqvsosab Bmcqyve Germany 113 COVID-19 NO 
+569 Skgiqvsosab Bmcqyve Germany 113 COVID-19 YES 11-10-2019
+6751 Vnhdjlv Mgscguc Germany 71 HEPATITIS-B NO 
+6034 Ulapui Zwf Germany 50 RUBELLA YES 29-10-2012
+5048 Oiqujj Whdhj Germany 6 HIB NO 
+6069 Kqqgb Mibedlf Germany 58 TETANUS NO 
+206 Wee Emz Germany 110 MEASLES NO 
+2245 Ogsaqrtwhgb Cluce Germany 62 TETANUS YES 15-6-2012
+7016 Tfrhxnu Lpoujsldv Germany 70 HIB NO 
+6286 Ouztgh Hpa Germany 24 POLIO NO 
+270 Splt Juiewovb Germany 112 HEPATITIS-A NO 
+5048 Oiqujj Whdhj Germany 6 MEASLES NO 
+9867 Nxxpvnri Cbzdayjsvvg Germany 56 TETANUS NO 
+6034 Ulapui Zwf Germany 50 CHICKENPOX YES 18-10-2003
+7443 Nbnykfoazrf Afozhaolu Germany 49 HEPATITIS-B NO 
+4647 Puageaonlbfg Ljpejsozraw Germany 32 CHICKENPOX NO 
+7016 Tfrhxnu Lpoujsldv Germany 70 FLU NO 
+6286 Ouztgh Hpa Germany 24 POLIO NO 
+6069 Kqqgb Mibedlf Germany 58 HEPATITIS-B NO 
+5524 Oybqavtyod Vujhml Germany 7 COVID-19 NO 
+7016 Tfrhxnu Lpoujsldv Germany 70 COVID-19 YES 5-9-2013
+569 Skgiqvsosab Bmcqyve Germany 113 COVID-19 NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 POLIO YES 28-5-2013
+7445 Kvylyzqtp Lcblthmc Germany 64 RUBELLA YES 25-5-2004
+6751 Vnhdjlv Mgscguc Germany 71 COVID-19 YES 26-1-2015
+2307 Tnkwtgl Vurkeccj Germany 81 HEPATITIS-B NO 
+569 Skgiqvsosab Bmcqyve Germany 113 POLIO YES 3-3-2009

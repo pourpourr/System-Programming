@@ -1,0 +1,33 @@
+
+5296 Fetgjg Vefyqb Sweden 75 FLU YES 25-2-2001
+2854 Louabno Sshbceg Sweden 47 FLU YES 25-6-2012
+1617 Zaoxdkwcl Zyqzydaebyen Sweden 41 RUBELLA YES 12-3-2003
+5296 Fetgjg Vefyqb Sweden 75 MEASLES NO 
+7405 Bnmptqc Zdmue Sweden 32 CHICKENPOX YES 15-7-2020
+1617 Zaoxdkwcl Zyqzydaebyen Sweden 41 FLU YES 26-12-2019
+8357 Zcwalpguf Gbw Sweden 25 TETANUS NO 
+5296 Fetgjg Vefyqb Sweden 75 FLU YES 23-9-2012
+1617 Zaoxdkwcl Zyqzydaebyen Sweden 41 RUBELLA NO 
+7344 Pjwio Glutwchmd Sweden 22 COVID-19 NO 
+1257 Mqmk Ifxacn Sweden 68 RUBELLA NO 
+8357 Zcwalpguf Gbw Sweden 25 FLU NO 
+7344 Pjwio Glutwchmd Sweden 22 TETANUS NO 
+1617 Zaoxdkwcl Zyqzydaebyen Sweden 41 TETANUS YES 29-8-2018
+7344 Pjwio Glutwchmd Sweden 22 POLIO NO 
+8221 Svfrzjtvow Kazhf Sweden 113 POLIO YES 10-8-2013
+7405 Bnmptqc Zdmue Sweden 32 FLU NO 
+7905 Hkuieyxbkb Ixh Sweden 64 RUBELLA YES 12-7-2020
+4601 Ktcnkntherp Lvfwo Sweden 22 CHICKENPOX YES 17-7-2004
+9370 Zvqpglxmq Oknjjzz Sweden 62 RUBELLA YES 12-1-2002
+2854 Louabno Sshbceg Sweden 47 HEPATITIS-A NO 
+2854 Louabno Sshbceg Sweden 47 POLIO NO 
+1257 Mqmk Ifxacn Sweden 68 RUBELLA NO 
+1257 Mqmk Ifxacn Sweden 68 COVID-19 YES 16-2-2002
+7905 Hkuieyxbkb Ixh Sweden 64 RUBELLA YES 15-12-2004
+4613 Bjebutiey Qdmrefvcr Sweden 26 FLU NO 
+2988 Ditc Ucgsyhwe Sweden 72 HEPATITIS-B YES 7-1-2016
+9370 Zvqpglxmq Oknjjzz Sweden 62 FLU YES 21-8-2019
+7031 Bzzfnrb Hxwvmzqstl Sweden 39 HIB YES 24-9-2005
+4613 Bjebutiey Qdmrefvcr Sweden 26 HEPATITIS-A NO 
+7344 Pjwio Glutwchmd Sweden 22 POLIO YES 3-12-2003
+7405 Bnmptqc Zdmue Sweden 32 TETANUS NO 

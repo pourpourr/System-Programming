@@ -1,0 +1,58 @@
+
+2234 Dyosbnkylqy Vnh Andorra 30 HIB YES 12-5-2006
+9726 Jinipgdfiatx Zoietgkygbco Andorra 48 HEPATITIS-A NO 
+7339 Hbtxbrw Wfczbh Andorra 72 HIB NO 
+1808 Gencfwfhljhv Vztpfeqpbzgv Andorra 111 POLIO NO 
+1201 Makaygzujit Zzfjgxeof Andorra 63 COVID-19 YES 29-7-2002
+6128 Hqmxyzvrl Ylkyboqraij Andorra 28 MEASLES NO 
+5065 Ins Cnnr Andorra 1 COVID-19 YES 22-4-2007
+5065 Ins Cnnr Andorra 1 HEPATITIS-A YES 18-3-2015
+9726 Jinipgdfiatx Zoietgkygbco Andorra 48 TETANUS YES 19-3-2019
+5065 Ins Cnnr Andorra 1 MEASLES NO 
+5416 Mfhh Ofut Andorra 55 MEASLES NO 
+2381 Ujbnvhmxdo Yhnvngkw Andorra 91 HEPATITIS-A YES 30-5-2020
+5065 Ins Cnnr Andorra 1 RUBELLA NO 
+2234 Dyosbnkylqy Vnh Andorra 30 POLIO NO 
+1808 Gencfwfhljhv Vztpfeqpbzgv Andorra 111 HIB YES 28-4-2009
+9726 Jinipgdfiatx Zoietgkygbco Andorra 48 FLU YES 28-6-2012
+4367 Trmrxietw Glulgyjbzspm Andorra 1 TETANUS NO 
+506 Dpgrvggv Jjxyze Andorra 106 RUBELLA NO 
+506 Dpgrvggv Jjxyze Andorra 106 POLIO NO 
+1808 Gencfwfhljhv Vztpfeqpbzgv Andorra 111 HEPATITIS-B YES 5-10-2020
+1201 Makaygzujit Zzfjgxeof Andorra 63 FLU YES 24-3-2018
+5961 Iux Bktlybxz Andorra 115 POLIO NO 
+7965 Nmtm Yifqyhhgccn Andorra 114 HIB YES 8-4-2015
+9726 Jinipgdfiatx Zoietgkygbco Andorra 48 MEASLES NO 
+1808 Gencfwfhljhv Vztpfeqpbzgv Andorra 111 RUBELLA NO 
+3870 Ppihef Ewhrekvggwb Andorra 120 TETANUS NO 
+5416 Mfhh Ofut Andorra 55 HIB NO 
+1163 Dfllfxgoo Nixhzc Andorra 82 HEPATITIS-A YES 6-5-2005
+4259 Wgohsrdtv Urvkrwutgs Andorra 4 RUBELLA NO 
+1201 Makaygzujit Zzfjgxeof Andorra 63 HEPATITIS-B YES 2-12-2007
+4367 Trmrxietw Glulgyjbzspm Andorra 1 HEPATITIS-B YES 29-6-2009
+2317 Zccyvibyugyc Futwg Andorra 71 COVID-19 NO 
+8032 Czmoifwmck Sywbtmcpw Andorra 86 FLU NO 
+9726 Jinipgdfiatx Zoietgkygbco Andorra 48 FLU NO 
+8032 Czmoifwmck Sywbtmcpw Andorra 86 COVID-19 NO 
+311 Kmouzwl Boiqoyj Andorra 12 TETANUS YES 23-8-2011
+1201 Makaygzujit Zzfjgxeof Andorra 63 MEASLES YES 29-5-2014
+8532 Ivcykyr Seqenrps Andorra 81 MEASLES YES 12-9-2008
+5065 Ins Cnnr Andorra 1 HIB NO 
+5060 Ydo Gjyxfnuzhioa Andorra 91 MEASLES YES 21-2-2016
+7965 Nmtm Yifqyhhgccn Andorra 114 FLU YES 26-1-2008
+311 Kmouzwl Boiqoyj Andorra 12 COVID-19 NO 
+311 Kmouzwl Boiqoyj Andorra 12 HEPATITIS-B NO 
+364 Lcoqsgs Aoecklhte Andorra 59 FLU NO 
+6128 Hqmxyzvrl Ylkyboqraij Andorra 28 HEPATITIS-A YES 28-9-2013
+4259 Wgohsrdtv Urvkrwutgs Andorra 4 HEPATITIS-B YES 25-7-2017
+2234 Dyosbnkylqy Vnh Andorra 30 HIB NO 
+3479 Esva Peg Andorra 48 COVID-19 NO 
+1163 Dfllfxgoo Nixhzc Andorra 82 CHICKENPOX YES 3-12-2020
+1163 Dfllfxgoo Nixhzc Andorra 82 CHICKENPOX NO 
+5065 Ins Cnnr Andorra 1 COVID-19 NO 
+9726 Jinipgdfiatx Zoietgkygbco Andorra 48 HEPATITIS-B NO 
+6128 Hqmxyzvrl Ylkyboqraij Andorra 28 POLIO YES 5-10-2007
+8532 Ivcykyr Seqenrps Andorra 81 HIB YES 26-1-2005
+5060 Ydo Gjyxfnuzhioa Andorra 91 POLIO NO 
+6128 Hqmxyzvrl Ylkyboqraij Andorra 28 RUBELLA NO 
+8832 Rotnkcact Auxpzho Andorra 79 HIB NO 

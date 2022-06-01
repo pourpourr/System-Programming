@@ -1,0 +1,45 @@
+
+3737 Zla Reczdkjtyhl Algeria 43 TETANUS YES 21-4-2010
+1790 Xoxwhuarqpk Dqmbprlfpi Algeria 95 POLIO YES 2-9-2010
+9802 Guvjpstbrgo Pwcdqnc Algeria 10 HEPATITIS-A YES 5-12-2009
+976 Mwqwbq Kmmpnqowe Algeria 16 MEASLES NO 
+1222 Rpqj Rph Algeria 56 HIB YES 24-4-2008
+1222 Rpqj Rph Algeria 56 HEPATITIS-B YES 29-5-2010
+5164 Rfwekjvit Ofdt Algeria 42 RUBELLA YES 7-3-2012
+5164 Rfwekjvit Ofdt Algeria 42 HEPATITIS-B YES 28-11-2003
+5164 Rfwekjvit Ofdt Algeria 42 MEASLES YES 29-1-2019
+5015 Iibej Vaio Algeria 69 MEASLES NO 
+3737 Zla Reczdkjtyhl Algeria 43 HIB NO 
+1790 Xoxwhuarqpk Dqmbprlfpi Algeria 95 FLU YES 29-3-2007
+4402 Gwtntpzvs Hpwihtvfe Algeria 24 RUBELLA YES 5-12-2004
+5015 Iibej Vaio Algeria 69 CHICKENPOX NO 
+5015 Iibej Vaio Algeria 69 POLIO NO 
+4110 Zixnahhdlcbs Glrxtkss Algeria 87 CHICKENPOX NO 
+3737 Zla Reczdkjtyhl Algeria 43 CHICKENPOX YES 22-10-2019
+932 Qtdcstpgywu Qht Algeria 31 CHICKENPOX NO 
+4402 Gwtntpzvs Hpwihtvfe Algeria 24 TETANUS NO 
+932 Qtdcstpgywu Qht Algeria 31 POLIO NO 
+1790 Xoxwhuarqpk Dqmbprlfpi Algeria 95 HEPATITIS-A YES 30-1-2011
+3737 Zla Reczdkjtyhl Algeria 43 POLIO NO 
+5015 Iibej Vaio Algeria 69 POLIO NO 
+976 Mwqwbq Kmmpnqowe Algeria 16 MEASLES NO 
+1946 Emkgjfxvhx Ttoakv Algeria 89 CHICKENPOX YES 26-1-2011
+3033 Ouha Ejbfauv Algeria 77 CHICKENPOX YES 5-1-2005
+3737 Zla Reczdkjtyhl Algeria 43 CHICKENPOX YES 12-4-2014
+2613 Rbjxwguwq Hhwybjkt Algeria 86 CHICKENPOX NO 
+3737 Zla Reczdkjtyhl Algeria 43 RUBELLA NO 
+1633 Yzeeywkqcn Cwttc Algeria 70 POLIO YES 19-7-2019
+4960 Xcimsn Amftuhgi Algeria 12 MEASLES YES 29-3-2018
+1823 Lfzdbd Advwofqsd Algeria 67 HIB NO 
+3737 Zla Reczdkjtyhl Algeria 43 RUBELLA NO 
+9048 Vwrcg Dcyvrddnx Algeria 65 HEPATITIS-B YES 23-7-2014
+1946 Emkgjfxvhx Ttoakv Algeria 89 RUBELLA NO 
+1790 Xoxwhuarqpk Dqmbprlfpi Algeria 95 MEASLES YES 12-11-2015
+4960 Xcimsn Amftuhgi Algeria 12 HIB YES 15-6-2005
+4960 Xcimsn Amftuhgi Algeria 12 HEPATITIS-B YES 2-5-2015
+5015 Iibej Vaio Algeria 69 MEASLES NO 
+932 Qtdcstpgywu Qht Algeria 31 MEASLES YES 28-8-2003
+9048 Vwrcg Dcyvrddnx Algeria 65 HEPATITIS-A NO 
+1823 Lfzdbd Advwofqsd Algeria 67 HEPATITIS-A NO 
+932 Qtdcstpgywu Qht Algeria 31 CHICKENPOX NO 
+4960 Xcimsn Amftuhgi Algeria 12 COVID-19 NO 

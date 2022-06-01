@@ -1,0 +1,41 @@
+
+8058 Rqjlk Yxme Egypt 14 POLIO NO 
+6228 Pervz Yysiesh Egypt 92 CHICKENPOX YES 16-8-2012
+3928 Szikv Fgqifhfx Egypt 68 COVID-19 NO 
+7384 Fwu Djnplat Egypt 111 CHICKENPOX NO 
+66 Lvwiir Tvthjohupccb Egypt 4 HIB NO 
+1370 Vca Kmzdfbje Egypt 48 FLU NO 
+6928 Gamwqzxdjzh Qokuljape Egypt 9 HIB NO 
+2635 Hbewda Npnmh Egypt 30 COVID-19 YES 28-2-2013
+2905 Hpkfl Rwknufcq Egypt 35 POLIO NO 
+8058 Rqjlk Yxme Egypt 14 TETANUS NO 
+66 Lvwiir Tvthjohupccb Egypt 4 HIB NO 
+1370 Vca Kmzdfbje Egypt 48 POLIO NO 
+2311 Eaem Risnd Egypt 112 HEPATITIS-B NO 
+1370 Vca Kmzdfbje Egypt 48 HEPATITIS-A YES 11-7-2010
+4556 Yhohbsg Bycskoecme Egypt 83 COVID-19 NO 
+7351 Pmpisdajywb Qxupb Egypt 20 CHICKENPOX YES 10-12-2011
+2311 Eaem Risnd Egypt 112 HEPATITIS-B YES 15-7-2002
+1867 Ztpbfakbqgmt Ujsfc Egypt 84 HIB NO 
+2350 Qosmcfnonghs Bizx Egypt 112 COVID-19 YES 16-9-2012
+66 Lvwiir Tvthjohupccb Egypt 4 COVID-19 YES 30-3-2009
+1629 Zrojinjbkt Tomkirmp Egypt 51 RUBELLA NO 
+1370 Vca Kmzdfbje Egypt 48 CHICKENPOX NO 
+1370 Vca Kmzdfbje Egypt 48 MEASLES NO 
+6928 Gamwqzxdjzh Qokuljape Egypt 9 POLIO YES 8-4-2004
+2635 Hbewda Npnmh Egypt 30 FLU NO 
+4830 Qhjsb Tkjsife Egypt 3 CHICKENPOX NO 
+6228 Pervz Yysiesh Egypt 92 HIB NO 
+3928 Szikv Fgqifhfx Egypt 68 HEPATITIS-B YES 3-2-2003
+2635 Hbewda Npnmh Egypt 30 RUBELLA NO 
+7384 Fwu Djnplat Egypt 111 POLIO NO 
+8058 Rqjlk Yxme Egypt 14 POLIO NO 
+2350 Qosmcfnonghs Bizx Egypt 112 FLU NO 
+8801 Npa Bjw Egypt 25 COVID-19 NO 
+6228 Pervz Yysiesh Egypt 92 RUBELLA NO 
+8801 Npa Bjw Egypt 25 POLIO YES 7-5-2005
+343 Chhdkeh Ukzame Egypt 96 MEASLES YES 9-5-2019
+1370 Vca Kmzdfbje Egypt 48 HIB YES 1-12-2007
+6928 Gamwqzxdjzh Qokuljape Egypt 9 MEASLES NO 
+1370 Vca Kmzdfbje Egypt 48 FLU YES 13-4-2017
+2635 Hbewda Npnmh Egypt 30 HEPATITIS-A NO 

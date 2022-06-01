@@ -1,0 +1,44 @@
+
+2191 Wherdhfteudn Wvpnjusa Bulgaria 1 RUBELLA YES 7-9-2001
+4273 Ufderas Rotnxud Bulgaria 23 POLIO YES 16-3-2011
+8424 Ovvyysqj Xdmfbsigyq Bulgaria 7 FLU YES 20-7-2013
+3265 Qjmv Rrowvcjkloy Bulgaria 28 FLU NO 
+3265 Qjmv Rrowvcjkloy Bulgaria 28 POLIO NO 
+5336 Wjzasgkcu Ikxc Bulgaria 61 TETANUS YES 26-7-2007
+8146 Rentnathbuku Xnixuce Bulgaria 42 TETANUS YES 6-12-2007
+71 Qrdvs Jbnkhsvv Bulgaria 100 HEPATITIS-B NO 
+3079 Pwkitxvsq Avliybtgve Bulgaria 51 POLIO YES 3-5-2013
+3740 Iewoeq Ubacmzptztps Bulgaria 96 HEPATITIS-B NO 
+4273 Ufderas Rotnxud Bulgaria 23 CHICKENPOX NO 
+2369 Iwisflic Fpfmzn Bulgaria 83 FLU NO 
+9646 Ywke Awhvxoui Bulgaria 119 CHICKENPOX YES 10-11-2015
+8068 Mpap Kpafecww Bulgaria 66 HEPATITIS-A NO 
+8065 Bvojrujpq Qhafdqk Bulgaria 95 CHICKENPOX NO 
+9646 Ywke Awhvxoui Bulgaria 119 CHICKENPOX NO 
+5228 Xjbyfgn Deqppmzrqttq Bulgaria 70 HEPATITIS-A NO 
+5336 Wjzasgkcu Ikxc Bulgaria 61 CHICKENPOX YES 4-9-2008
+5721 Pkdm Iaphyhyzefgk Bulgaria 75 CHICKENPOX YES 27-9-2013
+4273 Ufderas Rotnxud Bulgaria 23 CHICKENPOX YES 7-3-2005
+8068 Mpap Kpafecww Bulgaria 66 TETANUS YES 26-10-2012
+9095 Jekayez Gwogxiyvrhq Bulgaria 65 RUBELLA YES 9-3-2004
+4328 Hjpprwckjl Njpgaqwlxl Bulgaria 75 HIB NO 
+2369 Iwisflic Fpfmzn Bulgaria 83 POLIO YES 6-5-2004
+7268 Xaaz Ejq Bulgaria 62 COVID-19 YES 6-12-2019
+5228 Xjbyfgn Deqppmzrqttq Bulgaria 70 HIB NO 
+8068 Mpap Kpafecww Bulgaria 66 POLIO NO 
+9646 Ywke Awhvxoui Bulgaria 119 COVID-19 YES 11-7-2016
+4735 Bvmumsaadea Otgixojiamqf Bulgaria 97 POLIO YES 30-10-2017
+8065 Bvojrujpq Qhafdqk Bulgaria 95 HEPATITIS-A YES 16-3-2011
+2191 Wherdhfteudn Wvpnjusa Bulgaria 1 RUBELLA NO 
+9646 Ywke Awhvxoui Bulgaria 119 FLU YES 2-5-2005
+5228 Xjbyfgn Deqppmzrqttq Bulgaria 70 POLIO NO 
+5228 Xjbyfgn Deqppmzrqttq Bulgaria 70 HIB NO 
+8068 Mpap Kpafecww Bulgaria 66 MEASLES NO 
+3079 Pwkitxvsq Avliybtgve Bulgaria 51 TETANUS YES 24-5-2018
+3265 Qjmv Rrowvcjkloy Bulgaria 28 HIB YES 16-5-2014
+3079 Pwkitxvsq Avliybtgve Bulgaria 51 CHICKENPOX NO 
+8954 Zwnrzchp Fwwbjzhbr Bulgaria 98 HEPATITIS-A NO 
+3079 Pwkitxvsq Avliybtgve Bulgaria 51 HEPATITIS-B NO 
+8954 Zwnrzchp Fwwbjzhbr Bulgaria 98 POLIO YES 12-4-2005
+8068 Mpap Kpafecww Bulgaria 66 COVID-19 NO 
+3265 Qjmv Rrowvcjkloy Bulgaria 28 TETANUS NO 

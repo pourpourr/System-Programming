@@ -1,0 +1,37 @@
+
+7955 Anegv Odkqw Bangladesh 92 HEPATITIS-A YES 6-7-2001
+7955 Anegv Odkqw Bangladesh 92 COVID-19 YES 8-3-2015
+1565 Lwgjxxa Vruzl Bangladesh 116 FLU NO 
+4009 Gpc Ospsknfdok Bangladesh 33 MEASLES NO 
+78 Fibtn Zpyczeholq Bangladesh 49 HEPATITIS-B NO 
+2619 Gpdzomu Ograrhetx Bangladesh 84 RUBELLA NO 
+78 Fibtn Zpyczeholq Bangladesh 49 MEASLES NO 
+9300 Fmisublumayx Hbndsbphn Bangladesh 18 HIB NO 
+9300 Fmisublumayx Hbndsbphn Bangladesh 18 HIB YES 13-4-2009
+1751 Gneyonjvp Uuioay Bangladesh 75 COVID-19 YES 23-10-2002
+8817 Jftndmxpjfci Hfytzhdgpohi Bangladesh 46 COVID-19 NO 
+1373 Zrlsbkun Elsgaevvpuo Bangladesh 55 FLU YES 1-4-2009
+2619 Gpdzomu Ograrhetx Bangladesh 84 RUBELLA YES 1-9-2014
+7955 Anegv Odkqw Bangladesh 92 HEPATITIS-A NO 
+1565 Lwgjxxa Vruzl Bangladesh 116 HIB NO 
+5835 Zfjojwhkasif Atjv Bangladesh 4 HEPATITIS-A NO 
+1187 Qcttagmkhv Hevd Bangladesh 101 RUBELLA YES 14-3-2020
+7955 Anegv Odkqw Bangladesh 92 FLU NO 
+4009 Gpc Ospsknfdok Bangladesh 33 CHICKENPOX NO 
+917 Wddwztucnsyg Yrucd Bangladesh 94 FLU NO 
+7955 Anegv Odkqw Bangladesh 92 COVID-19 NO 
+5124 Ymbhbos Eagajcuqozup Bangladesh 81 RUBELLA YES 29-10-2016
+9181 Alywpppoo Ijbwvrpmzcg Bangladesh 96 HIB NO 
+7955 Anegv Odkqw Bangladesh 92 HEPATITIS-A NO 
+4009 Gpc Ospsknfdok Bangladesh 33 TETANUS NO 
+1565 Lwgjxxa Vruzl Bangladesh 116 POLIO NO 
+1565 Lwgjxxa Vruzl Bangladesh 116 COVID-19 YES 16-10-2004
+917 Wddwztucnsyg Yrucd Bangladesh 94 CHICKENPOX YES 29-2-2004
+8817 Jftndmxpjfci Hfytzhdgpohi Bangladesh 46 COVID-19 NO 
+9300 Fmisublumayx Hbndsbphn Bangladesh 18 CHICKENPOX NO 
+5124 Ymbhbos Eagajcuqozup Bangladesh 81 CHICKENPOX YES 28-6-2015
+1751 Gneyonjvp Uuioay Bangladesh 75 FLU NO 
+5124 Ymbhbos Eagajcuqozup Bangladesh 81 POLIO YES 1-12-2012
+8838 Htmimgyrey Mjmlzqyhd Bangladesh 72 FLU NO 
+5835 Zfjojwhkasif Atjv Bangladesh 4 POLIO NO 
+7955 Anegv Odkqw Bangladesh 92 FLU YES 3-3-2010

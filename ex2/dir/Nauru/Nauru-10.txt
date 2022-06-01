@@ -1,0 +1,46 @@
+
+7925 Skwxecwn Xvhqpprnd Nauru 77 TETANUS NO 
+5856 Xerns Mlfjjksy Nauru 92 TETANUS NO 
+9575 Xnbxyvaycfrn Ospjflxlsrcx Nauru 10 CHICKENPOX NO 
+5247 Summe Bwqufqsbq Nauru 20 RUBELLA NO 
+1865 Mzfjwch Wmgzwvsix Nauru 22 MEASLES YES 23-2-2015
+9575 Xnbxyvaycfrn Ospjflxlsrcx Nauru 10 HIB YES 25-5-2007
+1813 Raqnlz Adae Nauru 26 TETANUS NO 
+4374 Xyszj Xzugqynqa Nauru 96 HEPATITIS-A NO 
+2717 Psa Gpqznjdvmnv Nauru 80 POLIO NO 
+4374 Xyszj Xzugqynqa Nauru 96 CHICKENPOX YES 3-8-2014
+1865 Mzfjwch Wmgzwvsix Nauru 22 COVID-19 YES 19-5-2001
+7925 Skwxecwn Xvhqpprnd Nauru 77 HIB NO 
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 POLIO NO 
+1192 Ecdjipd Kkmhq Nauru 49 HEPATITIS-A NO 
+924 Unsl Vkqoauojip Nauru 23 HEPATITIS-B NO 
+2717 Psa Gpqznjdvmnv Nauru 80 TETANUS NO 
+1249 Bdrirjstdszq Rvpeknczyw Nauru 88 HIB YES 2-2-2015
+6420 Ppmppgvrjl Skw Nauru 34 FLU NO 
+463 Cgg Rxnrqccqka Nauru 73 POLIO NO 
+1249 Bdrirjstdszq Rvpeknczyw Nauru 88 POLIO YES 4-12-2018
+1813 Raqnlz Adae Nauru 26 MEASLES YES 30-6-2007
+463 Cgg Rxnrqccqka Nauru 73 POLIO YES 27-11-2013
+2770 Xhfzhbktho Vkvjnwr Nauru 47 HEPATITIS-B NO 
+8861 Trjttldoacye Mlf Nauru 85 CHICKENPOX YES 11-11-2004
+8476 Bakpxp Asynpdwcckia Nauru 48 MEASLES YES 20-12-2006
+2770 Xhfzhbktho Vkvjnwr Nauru 47 RUBELLA YES 2-3-2017
+2770 Xhfzhbktho Vkvjnwr Nauru 47 CHICKENPOX YES 1-6-2001
+924 Unsl Vkqoauojip Nauru 23 FLU NO 
+6093 Ejwm Ztpqt Nauru 28 FLU NO 
+8476 Bakpxp Asynpdwcckia Nauru 48 FLU NO 
+9575 Xnbxyvaycfrn Ospjflxlsrcx Nauru 10 HEPATITIS-B NO 
+8476 Bakpxp Asynpdwcckia Nauru 48 HEPATITIS-A NO 
+1865 Mzfjwch Wmgzwvsix Nauru 22 RUBELLA YES 17-10-2013
+1249 Bdrirjstdszq Rvpeknczyw Nauru 88 HIB NO 
+463 Cgg Rxnrqccqka Nauru 73 TETANUS YES 30-4-2009
+2770 Xhfzhbktho Vkvjnwr Nauru 47 HIB YES 23-12-2013
+463 Cgg Rxnrqccqka Nauru 73 MEASLES NO 
+1813 Raqnlz Adae Nauru 26 MEASLES YES 19-9-2002
+924 Unsl Vkqoauojip Nauru 23 RUBELLA YES 11-8-2017
+8861 Trjttldoacye Mlf Nauru 85 RUBELLA YES 15-5-2016
+924 Unsl Vkqoauojip Nauru 23 RUBELLA NO 
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 FLU YES 18-10-2018
+6093 Ejwm Ztpqt Nauru 28 MEASLES YES 17-5-2000
+1813 Raqnlz Adae Nauru 26 HIB YES 27-5-2001
+5247 Summe Bwqufqsbq Nauru 20 POLIO YES 3-3-2017

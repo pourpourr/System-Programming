@@ -1,0 +1,43 @@
+
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 FLU NO 
+7575 Ojixegbckz Efozuvt Swaziland 22 MEASLES YES 25-6-2019
+1696 Iokerlud Dbxlmjlrop Swaziland 9 TETANUS NO 
+7575 Ojixegbckz Efozuvt Swaziland 22 CHICKENPOX YES 24-2-2011
+3756 Hmrhzebrq Djgit Swaziland 65 HEPATITIS-A YES 22-11-2014
+7957 Fdortm Hsaeufbswjbx Swaziland 98 MEASLES NO 
+4733 Qdv Tkfyoloqrzyw Swaziland 92 COVID-19 YES 27-2-2000
+2932 Qzdwodegy Enksukyoc Swaziland 96 HEPATITIS-A NO 
+7451 Nlvruyy Bhydbhqgsmgz Swaziland 88 TETANUS YES 26-1-2020
+1825 Ldf Zdofnhaz Swaziland 80 HEPATITIS-A YES 26-11-2006
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 HEPATITIS-A NO 
+8716 Lowhle Hkqha Swaziland 95 HEPATITIS-A NO 
+1825 Ldf Zdofnhaz Swaziland 80 COVID-19 YES 15-6-2018
+1696 Iokerlud Dbxlmjlrop Swaziland 9 CHICKENPOX NO 
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 MEASLES YES 7-1-2016
+2206 Mrcc Rpdtcgh Swaziland 119 TETANUS NO 
+2476 Tfvdbcdkpmfp Gvsjiycndz Swaziland 44 TETANUS YES 5-1-2005
+2989 Pyofcbr Kyefrjow Swaziland 92 HEPATITIS-A YES 13-12-2003
+2932 Qzdwodegy Enksukyoc Swaziland 96 COVID-19 YES 12-7-2007
+7670 Xyetazv Ogggkbqxea Swaziland 7 COVID-19 YES 27-11-2020
+8060 Xbcdaxnzw Teyxamygqi Swaziland 31 FLU YES 27-10-2017
+3488 Ddzsabqlvh Tpxlrmf Swaziland 54 POLIO YES 29-10-2017
+4733 Qdv Tkfyoloqrzyw Swaziland 92 COVID-19 YES 3-5-2017
+2206 Mrcc Rpdtcgh Swaziland 119 RUBELLA YES 27-2-2016
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 MEASLES YES 16-3-2015
+7451 Nlvruyy Bhydbhqgsmgz Swaziland 88 COVID-19 YES 24-7-2019
+2989 Pyofcbr Kyefrjow Swaziland 92 FLU NO 
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 HEPATITIS-B YES 6-9-2013
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 FLU YES 17-2-2012
+7670 Xyetazv Ogggkbqxea Swaziland 7 COVID-19 YES 7-11-2001
+2932 Qzdwodegy Enksukyoc Swaziland 96 MEASLES YES 20-4-2018
+7575 Ojixegbckz Efozuvt Swaziland 22 CHICKENPOX YES 19-9-2001
+4733 Qdv Tkfyoloqrzyw Swaziland 92 HEPATITIS-B NO 
+1696 Iokerlud Dbxlmjlrop Swaziland 9 HIB YES 27-5-2003
+2476 Tfvdbcdkpmfp Gvsjiycndz Swaziland 44 MEASLES YES 19-1-2012
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 HEPATITIS-B YES 4-9-2009
+3488 Ddzsabqlvh Tpxlrmf Swaziland 54 TETANUS NO 
+6651 Xsaddhij Pnvdbtkqu Swaziland 14 TETANUS NO 
+2989 Pyofcbr Kyefrjow Swaziland 92 HEPATITIS-B NO 
+7451 Nlvruyy Bhydbhqgsmgz Swaziland 88 POLIO NO 
+4733 Qdv Tkfyoloqrzyw Swaziland 92 RUBELLA YES 7-4-2002
+1696 Iokerlud Dbxlmjlrop Swaziland 9 HIB YES 14-12-2019

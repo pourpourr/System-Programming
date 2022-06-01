@@ -1,0 +1,47 @@
+
+8476 Bakpxp Asynpdwcckia Nauru 48 POLIO YES 3-1-2020
+463 Cgg Rxnrqccqka Nauru 73 MEASLES NO 
+9303 Cglyoaqc Dased Nauru 37 CHICKENPOX NO 
+1192 Ecdjipd Kkmhq Nauru 49 CHICKENPOX YES 14-4-2003
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 FLU YES 1-4-2013
+2717 Psa Gpqznjdvmnv Nauru 80 COVID-19 NO 
+9303 Cglyoaqc Dased Nauru 37 TETANUS NO 
+1189 Ienxhrbkqvr Vjy Nauru 95 FLU YES 12-6-2003
+6093 Ejwm Ztpqt Nauru 28 FLU NO 
+6420 Ppmppgvrjl Skw Nauru 34 POLIO NO 
+9303 Cglyoaqc Dased Nauru 37 POLIO NO 
+924 Unsl Vkqoauojip Nauru 23 MEASLES YES 19-11-2013
+5856 Xerns Mlfjjksy Nauru 92 HEPATITIS-B YES 30-2-2007
+9575 Xnbxyvaycfrn Ospjflxlsrcx Nauru 10 COVID-19 NO 
+1813 Raqnlz Adae Nauru 26 RUBELLA NO 
+1865 Mzfjwch Wmgzwvsix Nauru 22 COVID-19 NO 
+6420 Ppmppgvrjl Skw Nauru 34 COVID-19 NO 
+8861 Trjttldoacye Mlf Nauru 85 HIB YES 7-11-2013
+4188 Qiheu Rsfluqmknj Nauru 97 HIB YES 11-3-2015
+1813 Raqnlz Adae Nauru 26 HEPATITIS-B YES 14-10-2015
+9303 Cglyoaqc Dased Nauru 37 POLIO YES 26-2-2020
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 POLIO YES 7-1-2012
+9575 Xnbxyvaycfrn Ospjflxlsrcx Nauru 10 CHICKENPOX NO 
+5856 Xerns Mlfjjksy Nauru 92 TETANUS NO 
+8861 Trjttldoacye Mlf Nauru 85 FLU NO 
+9575 Xnbxyvaycfrn Ospjflxlsrcx Nauru 10 HEPATITIS-A NO 
+4374 Xyszj Xzugqynqa Nauru 96 TETANUS NO 
+541 Rwu Pghitp Nauru 6 POLIO NO 
+8476 Bakpxp Asynpdwcckia Nauru 48 RUBELLA YES 21-7-2001
+8476 Bakpxp Asynpdwcckia Nauru 48 CHICKENPOX YES 11-8-2009
+5247 Summe Bwqufqsbq Nauru 20 CHICKENPOX YES 26-2-2011
+6093 Ejwm Ztpqt Nauru 28 TETANUS NO 
+1249 Bdrirjstdszq Rvpeknczyw Nauru 88 MEASLES NO 
+4188 Qiheu Rsfluqmknj Nauru 97 MEASLES NO 
+5247 Summe Bwqufqsbq Nauru 20 RUBELLA NO 
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 CHICKENPOX YES 9-6-2020
+2717 Psa Gpqznjdvmnv Nauru 80 RUBELLA YES 1-2-2002
+9303 Cglyoaqc Dased Nauru 37 MEASLES YES 27-6-2000
+9575 Xnbxyvaycfrn Ospjflxlsrcx Nauru 10 FLU NO 
+1813 Raqnlz Adae Nauru 26 TETANUS NO 
+8476 Bakpxp Asynpdwcckia Nauru 48 CHICKENPOX NO 
+9167 Liwlwikqfe Kuoorsxmk Nauru 10 POLIO NO 
+2717 Psa Gpqznjdvmnv Nauru 80 HEPATITIS-A YES 10-5-2009
+5247 Summe Bwqufqsbq Nauru 20 HIB NO 
+8861 Trjttldoacye Mlf Nauru 85 TETANUS YES 10-10-2011
+463 Cgg Rxnrqccqka Nauru 73 MEASLES YES 28-4-2005

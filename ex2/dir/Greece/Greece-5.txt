@@ -1,0 +1,41 @@
+
+7557 Uomuxdhcl Ilvlfqmx Greece 80 TETANUS YES 2-5-2008
+2712 Zihfrzzxv Gqvatvwna Greece 23 RUBELLA YES 4-11-2006
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 FLU NO 
+3310 Bspgraiwuoe Heotn Greece 35 CHICKENPOX YES 4-1-2017
+4935 Vpdaz Ztyi Greece 44 MEASLES NO 
+5953 Wdqvo Vshzjehs Greece 3 POLIO NO 
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 HEPATITIS-B NO 
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 MEASLES YES 12-4-2011
+637 Qclpsvuia Hlc Greece 85 RUBELLA NO 
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 RUBELLA YES 14-4-2012
+6495 Hnlblfbazmqp Gfnlzl Greece 91 HEPATITIS-B NO 
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 RUBELLA YES 18-1-2006
+1454 Ydr Yzfsbu Greece 92 TETANUS YES 25-8-2008
+6863 Oapow Zmsujy Greece 75 POLIO NO 
+4935 Vpdaz Ztyi Greece 44 MEASLES YES 26-11-2006
+3310 Bspgraiwuoe Heotn Greece 35 TETANUS NO 
+7557 Uomuxdhcl Ilvlfqmx Greece 80 TETANUS YES 16-3-2016
+4966 Jrmcyvtb Wynq Greece 28 COVID-19 NO 
+4966 Jrmcyvtb Wynq Greece 28 CHICKENPOX YES 29-3-2006
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 COVID-19 YES 26-7-2012
+6495 Hnlblfbazmqp Gfnlzl Greece 91 MEASLES YES 5-1-2000
+1105 Baajhtqlwzf Wyw Greece 43 CHICKENPOX NO 
+2712 Zihfrzzxv Gqvatvwna Greece 23 FLU NO 
+653 Bdpuuj Clnv Greece 9 HEPATITIS-A NO 
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 MEASLES YES 29-10-2015
+8972 Mxgozs Tzawednj Greece 108 CHICKENPOX NO 
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 FLU NO 
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 RUBELLA YES 21-1-2006
+3938 Fwslzkvokm Osjjrru Greece 91 FLU NO 
+5953 Wdqvo Vshzjehs Greece 3 TETANUS NO 
+5813 Matjceeumrf Napatkw Greece 99 HEPATITIS-A YES 12-2-2014
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 HEPATITIS-A NO 
+3310 Bspgraiwuoe Heotn Greece 35 HEPATITIS-A YES 15-4-2001
+4935 Vpdaz Ztyi Greece 44 FLU NO 
+637 Qclpsvuia Hlc Greece 85 TETANUS NO 
+4935 Vpdaz Ztyi Greece 44 HIB YES 6-3-2013
+653 Bdpuuj Clnv Greece 9 MEASLES YES 7-5-2005
+4966 Jrmcyvtb Wynq Greece 28 HEPATITIS-B NO 
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 CHICKENPOX NO 
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 CHICKENPOX NO 

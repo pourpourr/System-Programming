@@ -1,0 +1,39 @@
+
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 TETANUS YES 23-12-2006
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 TETANUS YES 30-11-2018
+622 Rozpvup Qlae Central-African-Rep 74 HEPATITIS-B NO 
+9831 Gtw Acrotrcbccg Central-African-Rep 116 RUBELLA YES 20-4-2015
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 CHICKENPOX NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 MEASLES YES 19-7-2001
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 MEASLES NO 
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 MEASLES YES 15-3-2008
+584 Kvg Wawd Central-African-Rep 120 HEPATITIS-B YES 16-3-2014
+5024 Hrfiiuby Obn Central-African-Rep 52 CHICKENPOX NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 CHICKENPOX NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 TETANUS NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 FLU NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 FLU NO 
+9293 Cktc Qqqideyc Central-African-Rep 33 HEPATITIS-A YES 9-8-2016
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 RUBELLA YES 9-10-2006
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 HEPATITIS-A NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 CHICKENPOX YES 5-3-2015
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 HIB NO 
+584 Kvg Wawd Central-African-Rep 120 MEASLES YES 1-8-2011
+584 Kvg Wawd Central-African-Rep 120 HIB NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 TETANUS YES 24-8-2008
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 POLIO YES 3-5-2011
+4886 Niibwi Yktphnltga Central-African-Rep 43 MEASLES YES 9-6-2009
+2686 Afg Uktply Central-African-Rep 80 RUBELLA YES 8-10-2020
+4886 Niibwi Yktphnltga Central-African-Rep 43 FLU NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 MEASLES YES 29-3-2008
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 MEASLES YES 18-3-2006
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 FLU YES 7-7-2006
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 MEASLES NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 HIB YES 17-4-2000
+4886 Niibwi Yktphnltga Central-African-Rep 43 CHICKENPOX NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 TETANUS YES 2-5-2005
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 CHICKENPOX YES 9-10-2019
+452 Kzangqijp Oqbr Central-African-Rep 80 POLIO YES 27-8-2005
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 CHICKENPOX NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 COVID-19 NO 
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 HEPATITIS-B NO 

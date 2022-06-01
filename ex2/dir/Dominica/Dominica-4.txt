@@ -1,0 +1,61 @@
+
+8260 Wyihywv Vzc Dominica 15 FLU YES 19-1-2017
+4291 Ryxssj Yhtddnewf Dominica 77 POLIO YES 27-10-2002
+5162 Bbdb Lfqqs Dominica 39 FLU YES 9-1-2017
+2025 Bfvxe Jqennonuqmg Dominica 84 RUBELLA YES 18-9-2014
+5162 Bbdb Lfqqs Dominica 39 HEPATITIS-B NO 
+2025 Bfvxe Jqennonuqmg Dominica 84 COVID-19 YES 22-4-2008
+6417 Weakvwhiqtjg Xiuzxzeaxi Dominica 56 POLIO NO 
+6417 Weakvwhiqtjg Xiuzxzeaxi Dominica 56 MEASLES YES 26-2-2003
+3517 Lbvzkv Ifteyim Dominica 110 HEPATITIS-A YES 24-5-2013
+1848 Mpwgwwyq Eay Dominica 31 COVID-19 NO 
+8019 Cukehbbldzi Keu Dominica 77 FLU YES 28-3-2009
+1538 Ggkwguwmjbgu Lnl Dominica 24 FLU YES 10-9-2005
+8260 Wyihywv Vzc Dominica 15 TETANUS YES 19-5-2013
+7702 Wogn Fcsiqpszr Dominica 71 MEASLES YES 4-3-2009
+3071 Vnfco Yhmxwrc Dominica 57 RUBELLA YES 16-6-2007
+6821 Grq Bamhbpg Dominica 18 RUBELLA NO 
+4291 Ryxssj Yhtddnewf Dominica 77 FLU NO 
+7657 Mgaj Bkyzstiyp Dominica 53 MEASLES NO 
+7316 Htyva Ospd Dominica 118 HIB NO 
+7364 Lcfcytmj Yhytmprrzn Dominica 117 HEPATITIS-B NO 
+5162 Bbdb Lfqqs Dominica 39 HEPATITIS-A NO 
+9579 Nyksexnmg Sffdofv Dominica 94 CHICKENPOX NO 
+3812 Jrwagjlml Pdmtnxjveqw Dominica 104 MEASLES YES 13-3-2009
+7316 Htyva Ospd Dominica 118 COVID-19 YES 4-5-2014
+3517 Lbvzkv Ifteyim Dominica 110 FLU YES 27-10-2001
+1848 Mpwgwwyq Eay Dominica 31 HIB YES 26-4-2003
+7817 Btakxlyaldw Kqhl Dominica 57 COVID-19 YES 4-7-2012
+6450 Scemaqdnn Kwguozylmrah Dominica 104 MEASLES NO 
+4015 Pgvmuyay Obrbymidapkn Dominica 50 HEPATITIS-A YES 15-4-2002
+5312 Igjrvhgja Dretz Dominica 57 COVID-19 NO 
+2695 Tagbbfsjaxjy Zpoly Dominica 63 CHICKENPOX YES 14-12-2014
+6821 Grq Bamhbpg Dominica 18 CHICKENPOX YES 30-4-2004
+2695 Tagbbfsjaxjy Zpoly Dominica 63 CHICKENPOX NO 
+9579 Nyksexnmg Sffdofv Dominica 94 HIB NO 
+7657 Mgaj Bkyzstiyp Dominica 53 MEASLES YES 24-2-2019
+203 Fuhxizbtmx Ckqarwhfzy Dominica 4 HEPATITIS-B YES 15-10-2013
+1538 Ggkwguwmjbgu Lnl Dominica 24 COVID-19 NO 
+8019 Cukehbbldzi Keu Dominica 77 COVID-19 NO 
+4291 Ryxssj Yhtddnewf Dominica 77 HEPATITIS-B NO 
+2025 Bfvxe Jqennonuqmg Dominica 84 RUBELLA YES 20-6-2003
+7316 Htyva Ospd Dominica 118 FLU YES 15-8-2000
+5312 Igjrvhgja Dretz Dominica 57 TETANUS YES 19-10-2019
+6417 Weakvwhiqtjg Xiuzxzeaxi Dominica 56 CHICKENPOX YES 25-9-2012
+7657 Mgaj Bkyzstiyp Dominica 53 TETANUS YES 15-5-2009
+5162 Bbdb Lfqqs Dominica 39 POLIO YES 3-5-2018
+9579 Nyksexnmg Sffdofv Dominica 94 HEPATITIS-B NO 
+8260 Wyihywv Vzc Dominica 15 POLIO NO 
+5312 Igjrvhgja Dretz Dominica 57 COVID-19 YES 24-11-2012
+1848 Mpwgwwyq Eay Dominica 31 FLU NO 
+1848 Mpwgwwyq Eay Dominica 31 MEASLES NO 
+9431 Htpistdook Cxmqpneq Dominica 59 TETANUS NO 
+1538 Ggkwguwmjbgu Lnl Dominica 24 COVID-19 YES 20-8-2013
+8260 Wyihywv Vzc Dominica 15 MEASLES NO 
+4291 Ryxssj Yhtddnewf Dominica 77 HIB YES 9-9-2007
+2695 Tagbbfsjaxjy Zpoly Dominica 63 HEPATITIS-A NO 
+1848 Mpwgwwyq Eay Dominica 31 POLIO YES 22-2-2010
+7657 Mgaj Bkyzstiyp Dominica 53 HEPATITIS-B YES 19-2-2014
+2695 Tagbbfsjaxjy Zpoly Dominica 63 RUBELLA YES 27-5-2010
+1848 Mpwgwwyq Eay Dominica 31 CHICKENPOX YES 22-4-2003
+7817 Btakxlyaldw Kqhl Dominica 57 HIB YES 16-6-2007

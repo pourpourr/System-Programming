@@ -1,0 +1,68 @@
+
+2802 Xrvpcolcr Jomsdakqnah Tanzania 117 TETANUS YES 29-8-2006
+1284 Vwxs Njnmqr Tanzania 101 TETANUS YES 30-7-2007
+6617 Wufmiz Ghdrxolpufk Tanzania 90 FLU NO 
+4219 Nvtlvnic Qyknewaow Tanzania 96 TETANUS NO 
+8327 Mhtdjenkao Vddurwqkdv Tanzania 83 COVID-19 YES 20-5-2000
+4378 Xyhswq Oqbxjpvay Tanzania 111 FLU YES 10-10-2010
+4793 Oxjrwdd Mfhtkcfemfwc Tanzania 41 TETANUS YES 22-4-2003
+26 Renty Rnawpsmcy Tanzania 70 HEPATITIS-B NO 
+4793 Oxjrwdd Mfhtkcfemfwc Tanzania 41 CHICKENPOX YES 24-11-2009
+2075 Jlkozlmbnl Rpnt Tanzania 58 POLIO NO 
+59 Rlaoykekesxh Usornlfmzj Tanzania 28 HIB YES 21-6-2004
+4378 Xyhswq Oqbxjpvay Tanzania 111 MEASLES NO 
+4219 Nvtlvnic Qyknewaow Tanzania 96 MEASLES NO 
+59 Rlaoykekesxh Usornlfmzj Tanzania 28 HIB NO 
+9495 Hxfbamj Intrktcesxp Tanzania 22 HEPATITIS-A NO 
+353 Fgeou Wfezaptwia Tanzania 102 MEASLES NO 
+1109 Hlnxerga Sdgtv Tanzania 63 COVID-19 NO 
+7548 Bzdorlqwdom Foikhe Tanzania 37 POLIO NO 
+9322 Yuhrh Wjssa Tanzania 73 POLIO YES 22-1-2017
+5559 Hqlz Srdlaorcgdd Tanzania 75 POLIO NO 
+1739 Izg Vgl Tanzania 26 COVID-19 NO 
+8136 Qaxumjgsn Crlia Tanzania 29 HEPATITIS-A NO 
+8136 Qaxumjgsn Crlia Tanzania 29 FLU NO 
+5315 Mjvu Nkwmdvcok Tanzania 28 HIB NO 
+6789 Vgnxb Bsnmxt Tanzania 54 COVID-19 NO 
+8327 Mhtdjenkao Vddurwqkdv Tanzania 83 HIB YES 15-5-2000
+7548 Bzdorlqwdom Foikhe Tanzania 37 HEPATITIS-B NO 
+4378 Xyhswq Oqbxjpvay Tanzania 111 HEPATITIS-B YES 18-1-2018
+9322 Yuhrh Wjssa Tanzania 73 HEPATITIS-A YES 16-8-2018
+4793 Oxjrwdd Mfhtkcfemfwc Tanzania 41 HEPATITIS-B YES 17-4-2015
+6789 Vgnxb Bsnmxt Tanzania 54 TETANUS YES 19-1-2000
+8971 Qbexdgk Vuhvz Tanzania 88 HEPATITIS-B YES 7-3-2010
+5718 Jzb Wtucvpr Tanzania 48 CHICKENPOX NO 
+6823 Pje Dqvqyglpaxhm Tanzania 47 COVID-19 YES 11-3-2001
+4297 Lbsucfnufmn Qrdqv Tanzania 21 COVID-19 NO 
+5176 Vlgofawucn Wszqsbfqf Tanzania 55 HIB YES 24-8-2002
+4378 Xyhswq Oqbxjpvay Tanzania 111 HEPATITIS-A NO 
+353 Fgeou Wfezaptwia Tanzania 102 MEASLES NO 
+5176 Vlgofawucn Wszqsbfqf Tanzania 55 HIB NO 
+4378 Xyhswq Oqbxjpvay Tanzania 111 CHICKENPOX NO 
+6823 Pje Dqvqyglpaxhm Tanzania 47 HEPATITIS-A NO 
+5315 Mjvu Nkwmdvcok Tanzania 28 TETANUS NO 
+4219 Nvtlvnic Qyknewaow Tanzania 96 COVID-19 NO 
+9322 Yuhrh Wjssa Tanzania 73 CHICKENPOX NO 
+6813 Bxkg Kfm Tanzania 3 CHICKENPOX YES 30-9-2001
+3897 Xhighyyu Bjcpdzoxse Tanzania 56 TETANUS NO 
+5718 Jzb Wtucvpr Tanzania 48 HEPATITIS-A NO 
+1844 Uany Oejsr Tanzania 44 COVID-19 NO 
+6813 Bxkg Kfm Tanzania 3 POLIO NO 
+5567 Ydcrmlt Ujbkumkiz Tanzania 114 MEASLES NO 
+9495 Hxfbamj Intrktcesxp Tanzania 22 FLU NO 
+5559 Hqlz Srdlaorcgdd Tanzania 75 RUBELLA YES 3-10-2003
+1844 Uany Oejsr Tanzania 44 COVID-19 NO 
+26 Renty Rnawpsmcy Tanzania 70 COVID-19 NO 
+3742 Ivcah Akdzsybuqnmy Tanzania 58 POLIO YES 19-3-2007
+353 Fgeou Wfezaptwia Tanzania 102 COVID-19 YES 24-1-2006
+1284 Vwxs Njnmqr Tanzania 101 COVID-19 NO 
+6813 Bxkg Kfm Tanzania 3 POLIO NO 
+8995 Mnscju Akdueyu Tanzania 34 COVID-19 NO 
+9495 Hxfbamj Intrktcesxp Tanzania 22 HIB NO 
+6789 Vgnxb Bsnmxt Tanzania 54 HEPATITIS-A NO 
+353 Fgeou Wfezaptwia Tanzania 102 HIB NO 
+2421 Upvgjcui Ofgilxywoin Tanzania 41 CHICKENPOX NO 
+4297 Lbsucfnufmn Qrdqv Tanzania 21 HEPATITIS-B NO 
+5559 Hqlz Srdlaorcgdd Tanzania 75 POLIO YES 28-12-2010
+9495 Hxfbamj Intrktcesxp Tanzania 22 MEASLES NO 
+26 Renty Rnawpsmcy Tanzania 70 MEASLES NO 

@@ -1,0 +1,60 @@
+
+8050 Ztwqd Rdtgxezmd Indonesia 78 MEASLES YES 15-5-2000
+6795 Syhkubse Thfk Indonesia 52 COVID-19 YES 7-7-2013
+1782 Eed Iaduzzzs Indonesia 118 MEASLES NO 
+2862 Wrnkhczof Xpckzsdruqzg Indonesia 67 CHICKENPOX YES 19-12-2010
+1799 Bfyoll Geydrt Indonesia 12 TETANUS YES 19-4-2015
+8050 Ztwqd Rdtgxezmd Indonesia 78 COVID-19 YES 25-2-2014
+6795 Syhkubse Thfk Indonesia 52 FLU NO 
+6700 Igaygv Hhlicpfkxse Indonesia 23 HIB NO 
+5735 Geuwr Jcuolzblf Indonesia 111 CHICKENPOX YES 25-2-2003
+8668 Cmwdru Upmptho Indonesia 35 HEPATITIS-B YES 12-4-2001
+7018 Gyxbogasrlyx Ktytbzlor Indonesia 99 TETANUS NO 
+4794 Xtj Hqemtnpx Indonesia 111 FLU NO 
+3868 Hik Bvhlx Indonesia 39 HEPATITIS-A NO 
+7573 Nhiwcguawg Jgqgwkw Indonesia 88 TETANUS NO 
+1782 Eed Iaduzzzs Indonesia 118 POLIO NO 
+2063 Jtdcgpra Xsnshgj Indonesia 114 HEPATITIS-B NO 
+1799 Bfyoll Geydrt Indonesia 12 MEASLES NO 
+7018 Gyxbogasrlyx Ktytbzlor Indonesia 99 POLIO NO 
+7018 Gyxbogasrlyx Ktytbzlor Indonesia 99 HEPATITIS-B NO 
+2283 Vyzggpyxxt Jwqdhn Indonesia 60 COVID-19 YES 22-1-2020
+6700 Igaygv Hhlicpfkxse Indonesia 23 CHICKENPOX YES 9-6-2004
+7018 Gyxbogasrlyx Ktytbzlor Indonesia 99 COVID-19 YES 15-3-2008
+8050 Ztwqd Rdtgxezmd Indonesia 78 HEPATITIS-B YES 29-6-2013
+2861 Pot Tkbozrdi Indonesia 37 COVID-19 YES 27-7-2011
+9849 Rnxsor Wtvxxe Indonesia 63 MEASLES NO 
+2063 Jtdcgpra Xsnshgj Indonesia 114 TETANUS NO 
+3868 Hik Bvhlx Indonesia 39 COVID-19 NO 
+1782 Eed Iaduzzzs Indonesia 118 HEPATITIS-B YES 10-9-2000
+2218 Yzw Dzafynut Indonesia 111 CHICKENPOX YES 26-9-2020
+9771 Bbdgyg Ydspyrmdiaz Indonesia 106 CHICKENPOX YES 7-3-2004
+2283 Vyzggpyxxt Jwqdhn Indonesia 60 FLU NO 
+1782 Eed Iaduzzzs Indonesia 118 MEASLES NO 
+4794 Xtj Hqemtnpx Indonesia 111 CHICKENPOX YES 21-4-2006
+5815 Sauugkhqmrd Eejdikdm Indonesia 23 HIB NO 
+1799 Bfyoll Geydrt Indonesia 12 RUBELLA NO 
+5815 Sauugkhqmrd Eejdikdm Indonesia 23 RUBELLA NO 
+4794 Xtj Hqemtnpx Indonesia 111 RUBELLA NO 
+7573 Nhiwcguawg Jgqgwkw Indonesia 88 CHICKENPOX YES 8-6-2014
+2671 Gwbwcuabfp Dkkhhw Indonesia 37 CHICKENPOX NO 
+2620 Dyxzadmll Wznwvp Indonesia 30 HEPATITIS-B YES 13-5-2016
+3880 Ktbhoc Mkgf Indonesia 116 CHICKENPOX NO 
+8050 Ztwqd Rdtgxezmd Indonesia 78 POLIO NO 
+1799 Bfyoll Geydrt Indonesia 12 CHICKENPOX NO 
+3868 Hik Bvhlx Indonesia 39 COVID-19 NO 
+1782 Eed Iaduzzzs Indonesia 118 MEASLES YES 7-1-2006
+8050 Ztwqd Rdtgxezmd Indonesia 78 RUBELLA YES 11-12-2011
+7573 Nhiwcguawg Jgqgwkw Indonesia 88 COVID-19 NO 
+8050 Ztwqd Rdtgxezmd Indonesia 78 RUBELLA NO 
+3868 Hik Bvhlx Indonesia 39 HEPATITIS-B NO 
+2862 Wrnkhczof Xpckzsdruqzg Indonesia 67 MEASLES NO 
+5815 Sauugkhqmrd Eejdikdm Indonesia 23 COVID-19 NO 
+5815 Sauugkhqmrd Eejdikdm Indonesia 23 CHICKENPOX YES 8-8-2005
+4794 Xtj Hqemtnpx Indonesia 111 FLU YES 15-11-2017
+3868 Hik Bvhlx Indonesia 39 FLU NO 
+2861 Pot Tkbozrdi Indonesia 37 TETANUS YES 21-2-2018
+7018 Gyxbogasrlyx Ktytbzlor Indonesia 99 HEPATITIS-A NO 
+3880 Ktbhoc Mkgf Indonesia 116 HEPATITIS-A NO 
+2620 Dyxzadmll Wznwvp Indonesia 30 HEPATITIS-B NO 
+4794 Xtj Hqemtnpx Indonesia 111 HEPATITIS-B YES 3-7-2003

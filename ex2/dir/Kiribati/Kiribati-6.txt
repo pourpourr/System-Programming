@@ -1,0 +1,53 @@
+
+7450 Rnhxvann Kvxhlkxl Kiribati 93 MEASLES YES 14-7-2007
+7467 Ddmpihgvnbmh Vga Kiribati 55 RUBELLA YES 28-9-2014
+6053 Vgolomxifhoa Npbfbnj Kiribati 100 TETANUS NO 
+5805 Inumgli Cdpsgmy Kiribati 54 POLIO NO 
+7450 Rnhxvann Kvxhlkxl Kiribati 93 HEPATITIS-B YES 11-12-2003
+8855 Aoeqnrqfots Donussj Kiribati 42 FLU YES 5-12-2006
+108 Bpnqrvwvbn Bopkfzfbw Kiribati 85 CHICKENPOX YES 5-10-2004
+8737 Hhqptd Pimkckuonwb Kiribati 84 RUBELLA YES 23-2-2005
+7467 Ddmpihgvnbmh Vga Kiribati 55 COVID-19 NO 
+7595 Tzx Qvzztk Kiribati 38 TETANUS NO 
+1734 Ywpogap Wdu Kiribati 52 FLU YES 14-1-2013
+38 Tozmf Eboz Kiribati 46 TETANUS NO 
+664 Cklruzvwls Rnifm Kiribati 24 CHICKENPOX YES 23-1-2006
+8855 Aoeqnrqfots Donussj Kiribati 42 CHICKENPOX NO 
+9345 Fpwjlnqmmrk Szbauorlhv Kiribati 79 POLIO YES 9-11-2015
+1734 Ywpogap Wdu Kiribati 52 TETANUS YES 25-1-2015
+2382 Xaamiwsxegz Tzihwmtio Kiribati 8 HEPATITIS-A YES 2-12-2004
+1878 Hdcadmvndxl Vmepiqe Kiribati 117 HIB YES 17-6-2016
+108 Bpnqrvwvbn Bopkfzfbw Kiribati 85 MEASLES NO 
+170 Aeg Lwy Kiribati 91 RUBELLA YES 25-3-2018
+170 Aeg Lwy Kiribati 91 HEPATITIS-B YES 15-12-2019
+2382 Xaamiwsxegz Tzihwmtio Kiribati 8 COVID-19 NO 
+770 Clrpjuu Xkroqjpe Kiribati 9 CHICKENPOX NO 
+8543 Yxgxhisniwz Kqmwjexg Kiribati 114 POLIO YES 28-4-2018
+664 Cklruzvwls Rnifm Kiribati 24 RUBELLA NO 
+7467 Ddmpihgvnbmh Vga Kiribati 55 HEPATITIS-B NO 
+8737 Hhqptd Pimkckuonwb Kiribati 84 POLIO YES 18-6-2016
+6565 Ndfhpn Mbhtk Kiribati 86 HEPATITIS-B YES 10-2-2004
+5805 Inumgli Cdpsgmy Kiribati 54 POLIO NO 
+770 Clrpjuu Xkroqjpe Kiribati 9 POLIO NO 
+7467 Ddmpihgvnbmh Vga Kiribati 55 HIB NO 
+664 Cklruzvwls Rnifm Kiribati 24 POLIO NO 
+108 Bpnqrvwvbn Bopkfzfbw Kiribati 85 RUBELLA NO 
+9345 Fpwjlnqmmrk Szbauorlhv Kiribati 79 COVID-19 NO 
+6613 Ulpurkvsfpps Diwa Kiribati 58 CHICKENPOX YES 21-12-2002
+108 Bpnqrvwvbn Bopkfzfbw Kiribati 85 HEPATITIS-B NO 
+7467 Ddmpihgvnbmh Vga Kiribati 55 HEPATITIS-B NO 
+2489 Deenozzc Sgtmbq Kiribati 97 FLU YES 25-6-2011
+108 Bpnqrvwvbn Bopkfzfbw Kiribati 85 COVID-19 YES 12-7-2018
+6565 Ndfhpn Mbhtk Kiribati 86 MEASLES YES 18-8-2019
+8855 Aoeqnrqfots Donussj Kiribati 42 HIB NO 
+7450 Rnhxvann Kvxhlkxl Kiribati 93 CHICKENPOX YES 11-7-2012
+5805 Inumgli Cdpsgmy Kiribati 54 POLIO YES 1-8-2005
+5805 Inumgli Cdpsgmy Kiribati 54 TETANUS NO 
+6733 Ugqhllygjd Wrpotvbxqyi Kiribati 28 FLU NO 
+2382 Xaamiwsxegz Tzihwmtio Kiribati 8 RUBELLA NO 
+9345 Fpwjlnqmmrk Szbauorlhv Kiribati 79 COVID-19 YES 14-6-2015
+108 Bpnqrvwvbn Bopkfzfbw Kiribati 85 RUBELLA YES 26-6-2014
+6053 Vgolomxifhoa Npbfbnj Kiribati 100 HEPATITIS-B NO 
+170 Aeg Lwy Kiribati 91 MEASLES NO 
+8855 Aoeqnrqfots Donussj Kiribati 42 HIB YES 3-3-2006
+1878 Hdcadmvndxl Vmepiqe Kiribati 117 HIB YES 1-5-2020

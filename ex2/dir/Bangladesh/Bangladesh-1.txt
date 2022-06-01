@@ -1,0 +1,38 @@
+
+8817 Jftndmxpjfci Hfytzhdgpohi Bangladesh 46 FLU YES 30-12-2013
+1751 Gneyonjvp Uuioay Bangladesh 75 MEASLES YES 1-10-2012
+8838 Htmimgyrey Mjmlzqyhd Bangladesh 72 POLIO YES 16-12-2016
+2619 Gpdzomu Ograrhetx Bangladesh 84 HEPATITIS-B NO 
+7955 Anegv Odkqw Bangladesh 92 MEASLES YES 4-10-2005
+5835 Zfjojwhkasif Atjv Bangladesh 4 FLU YES 26-10-2013
+1565 Lwgjxxa Vruzl Bangladesh 116 TETANUS YES 12-1-2015
+1187 Qcttagmkhv Hevd Bangladesh 101 HIB NO 
+7955 Anegv Odkqw Bangladesh 92 CHICKENPOX NO 
+1565 Lwgjxxa Vruzl Bangladesh 116 CHICKENPOX YES 7-6-2005
+1373 Zrlsbkun Elsgaevvpuo Bangladesh 55 POLIO NO 
+4009 Gpc Ospsknfdok Bangladesh 33 POLIO NO 
+78 Fibtn Zpyczeholq Bangladesh 49 FLU NO 
+4009 Gpc Ospsknfdok Bangladesh 33 HEPATITIS-A NO 
+2619 Gpdzomu Ograrhetx Bangladesh 84 HIB NO 
+9181 Alywpppoo Ijbwvrpmzcg Bangladesh 96 COVID-19 YES 25-2-2005
+78 Fibtn Zpyczeholq Bangladesh 49 HEPATITIS-A NO 
+5835 Zfjojwhkasif Atjv Bangladesh 4 RUBELLA NO 
+9181 Alywpppoo Ijbwvrpmzcg Bangladesh 96 FLU YES 1-11-2009
+4009 Gpc Ospsknfdok Bangladesh 33 COVID-19 YES 15-1-2007
+1624 Afq Cueopcfg Bangladesh 97 TETANUS YES 30-5-2009
+4009 Gpc Ospsknfdok Bangladesh 33 COVID-19 YES 8-8-2014
+5835 Zfjojwhkasif Atjv Bangladesh 4 HIB NO 
+3910 Wjwdatf Uqjyuj Bangladesh 115 HEPATITIS-A NO 
+8817 Jftndmxpjfci Hfytzhdgpohi Bangladesh 46 MEASLES NO 
+2619 Gpdzomu Ograrhetx Bangladesh 84 HIB NO 
+9181 Alywpppoo Ijbwvrpmzcg Bangladesh 96 POLIO YES 25-11-2003
+5124 Ymbhbos Eagajcuqozup Bangladesh 81 HEPATITIS-A NO 
+1624 Afq Cueopcfg Bangladesh 97 TETANUS YES 19-1-2008
+1751 Gneyonjvp Uuioay Bangladesh 75 HEPATITIS-A YES 16-2-2020
+9181 Alywpppoo Ijbwvrpmzcg Bangladesh 96 HEPATITIS-A NO 
+2619 Gpdzomu Ograrhetx Bangladesh 84 HEPATITIS-B YES 14-4-2001
+2619 Gpdzomu Ograrhetx Bangladesh 84 HEPATITIS-A YES 13-11-2008
+1565 Lwgjxxa Vruzl Bangladesh 116 POLIO YES 29-11-2011
+78 Fibtn Zpyczeholq Bangladesh 49 FLU YES 29-3-2001
+1565 Lwgjxxa Vruzl Bangladesh 116 MEASLES YES 11-11-2014
+1751 Gneyonjvp Uuioay Bangladesh 75 HEPATITIS-B NO 

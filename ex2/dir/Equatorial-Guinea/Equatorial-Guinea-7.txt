@@ -1,0 +1,41 @@
+
+9201 Ixbhd Gliiesoczmax Equatorial-Guinea 12 COVID-19 YES 21-9-2006
+1193 Pocotkap Emdghd Equatorial-Guinea 2 HEPATITIS-B NO 
+9853 Qmvsvcfzo Sxwbvugh Equatorial-Guinea 79 HIB NO 
+5242 Izegonybi Mmsr Equatorial-Guinea 27 FLU NO 
+9853 Qmvsvcfzo Sxwbvugh Equatorial-Guinea 79 POLIO YES 12-6-2009
+2059 Dpspan Smgsbn Equatorial-Guinea 91 RUBELLA NO 
+1193 Pocotkap Emdghd Equatorial-Guinea 2 POLIO YES 5-5-2004
+174 Wkzduw Wzcnpf Equatorial-Guinea 41 HEPATITIS-B YES 30-2-2015
+1728 Ebnaet Hpdeursqqt Equatorial-Guinea 64 CHICKENPOX NO 
+9485 Jzizjvwref Vqu Equatorial-Guinea 78 HIB NO 
+2950 Udpuonbb Lqodlntfx Equatorial-Guinea 47 HIB NO 
+5242 Izegonybi Mmsr Equatorial-Guinea 27 CHICKENPOX NO 
+9201 Ixbhd Gliiesoczmax Equatorial-Guinea 12 COVID-19 NO 
+5242 Izegonybi Mmsr Equatorial-Guinea 27 HEPATITIS-A NO 
+9485 Jzizjvwref Vqu Equatorial-Guinea 78 COVID-19 NO 
+559 Xqgbv Upccuxlzi Equatorial-Guinea 68 COVID-19 YES 3-2-2011
+8613 Xhb Byiztyma Equatorial-Guinea 35 FLU YES 23-7-2017
+9215 Dhqfufwtq Fshaebhbap Equatorial-Guinea 53 POLIO NO 
+9485 Jzizjvwref Vqu Equatorial-Guinea 78 CHICKENPOX YES 17-10-2007
+174 Wkzduw Wzcnpf Equatorial-Guinea 41 FLU NO 
+9485 Jzizjvwref Vqu Equatorial-Guinea 78 HIB YES 4-3-2016
+7845 Pybefbfwuu Kijx Equatorial-Guinea 26 CHICKENPOX YES 29-11-2008
+5498 Xdmemvp Xxvnpnaihcz Equatorial-Guinea 69 TETANUS NO 
+9201 Ixbhd Gliiesoczmax Equatorial-Guinea 12 RUBELLA NO 
+559 Xqgbv Upccuxlzi Equatorial-Guinea 68 POLIO NO 
+559 Xqgbv Upccuxlzi Equatorial-Guinea 68 FLU NO 
+1728 Ebnaet Hpdeursqqt Equatorial-Guinea 64 MEASLES YES 21-2-2010
+5498 Xdmemvp Xxvnpnaihcz Equatorial-Guinea 69 HEPATITIS-A YES 11-4-2007
+8613 Xhb Byiztyma Equatorial-Guinea 35 FLU YES 17-12-2014
+8298 Xghkkbq Iqcstgzw Equatorial-Guinea 74 TETANUS NO 
+559 Xqgbv Upccuxlzi Equatorial-Guinea 68 MEASLES YES 14-4-2010
+2950 Udpuonbb Lqodlntfx Equatorial-Guinea 47 MEASLES YES 24-3-2013
+9169 Ocplveyvcfn Smgcotanfg Equatorial-Guinea 100 HEPATITIS-A NO 
+9201 Ixbhd Gliiesoczmax Equatorial-Guinea 12 TETANUS YES 1-9-2002
+6543 Deursae Aitxbklb Equatorial-Guinea 114 FLU NO 
+9215 Dhqfufwtq Fshaebhbap Equatorial-Guinea 53 TETANUS NO 
+8613 Xhb Byiztyma Equatorial-Guinea 35 HIB NO 
+2950 Udpuonbb Lqodlntfx Equatorial-Guinea 47 HEPATITIS-A YES 5-12-2019
+8298 Xghkkbq Iqcstgzw Equatorial-Guinea 74 CHICKENPOX YES 13-7-2015
+9853 Qmvsvcfzo Sxwbvugh Equatorial-Guinea 79 HIB YES 22-6-2017

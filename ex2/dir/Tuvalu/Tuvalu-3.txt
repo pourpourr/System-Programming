@@ -1,0 +1,40 @@
+
+3353 Htqhjflxr Ryef Tuvalu 60 HEPATITIS-A YES 22-8-2004
+5956 Eibz Ytwbjsgsuijf Tuvalu 69 HEPATITIS-B NO 
+8464 Oac Sbzw Tuvalu 43 HEPATITIS-A NO 
+9905 Cnxcxzmyhd Rfomyqv Tuvalu 115 CHICKENPOX YES 16-6-2004
+6007 Pvpjwkgtcebk Jotwnomiinr Tuvalu 71 POLIO YES 10-7-2008
+9905 Cnxcxzmyhd Rfomyqv Tuvalu 115 HEPATITIS-B YES 27-6-2000
+9905 Cnxcxzmyhd Rfomyqv Tuvalu 115 TETANUS NO 
+8464 Oac Sbzw Tuvalu 43 HEPATITIS-B YES 2-5-2000
+4750 Kyjlcwinvn Ypmtqwmjo Tuvalu 78 HIB YES 26-10-2013
+9905 Cnxcxzmyhd Rfomyqv Tuvalu 115 FLU YES 15-11-2016
+378 Ounls Gth Tuvalu 8 HIB NO 
+1495 Hncmtr Dsmkqufyx Tuvalu 65 CHICKENPOX NO 
+7024 Bznwbjjgrhzf Pigqsfxaby Tuvalu 32 HIB YES 1-8-2017
+3699 Rfzzc Pnwkdiu Tuvalu 67 FLU NO 
+378 Ounls Gth Tuvalu 8 TETANUS YES 12-1-2014
+8464 Oac Sbzw Tuvalu 43 CHICKENPOX YES 11-11-2007
+2838 Skbzgs Ksn Tuvalu 96 HEPATITIS-A YES 26-7-2013
+6007 Pvpjwkgtcebk Jotwnomiinr Tuvalu 71 HEPATITIS-B NO 
+3823 Agkfxp Fdjyexx Tuvalu 95 RUBELLA YES 12-4-2001
+1495 Hncmtr Dsmkqufyx Tuvalu 65 COVID-19 NO 
+2838 Skbzgs Ksn Tuvalu 96 HIB YES 2-10-2012
+4750 Kyjlcwinvn Ypmtqwmjo Tuvalu 78 HIB YES 3-8-2010
+5514 Ijowqwxresdb Nusu Tuvalu 10 HEPATITIS-A YES 9-7-2016
+378 Ounls Gth Tuvalu 8 FLU YES 20-7-2004
+8944 Brsxaz Inosghfp Tuvalu 49 POLIO YES 23-9-2008
+9671 Jcqvzmeon Udtnloi Tuvalu 77 COVID-19 YES 18-2-2005
+2838 Skbzgs Ksn Tuvalu 96 HIB NO 
+8464 Oac Sbzw Tuvalu 43 COVID-19 YES 18-12-2017
+4410 Osgrcjdrwvzy Yjbnpzyd Tuvalu 28 RUBELLA NO 
+9671 Jcqvzmeon Udtnloi Tuvalu 77 FLU YES 1-8-2020
+8464 Oac Sbzw Tuvalu 43 HEPATITIS-B YES 27-3-2004
+378 Ounls Gth Tuvalu 8 FLU YES 17-11-2017
+5956 Eibz Ytwbjsgsuijf Tuvalu 69 MEASLES NO 
+4750 Kyjlcwinvn Ypmtqwmjo Tuvalu 78 HEPATITIS-A NO 
+8464 Oac Sbzw Tuvalu 43 RUBELLA YES 26-9-2020
+5956 Eibz Ytwbjsgsuijf Tuvalu 69 COVID-19 NO 
+6007 Pvpjwkgtcebk Jotwnomiinr Tuvalu 71 FLU YES 18-11-2015
+3353 Htqhjflxr Ryef Tuvalu 60 HEPATITIS-B NO 
+378 Ounls Gth Tuvalu 8 COVID-19 YES 29-2-2013

@@ -1,0 +1,45 @@
+
+2191 Wherdhfteudn Wvpnjusa Bulgaria 1 HEPATITIS-B YES 3-4-2001
+9646 Ywke Awhvxoui Bulgaria 119 HEPATITIS-B NO 
+2369 Iwisflic Fpfmzn Bulgaria 83 CHICKENPOX YES 20-3-2003
+5710 Tlgqo Lmkc Bulgaria 23 HIB NO 
+5228 Xjbyfgn Deqppmzrqttq Bulgaria 70 HEPATITIS-A NO 
+8146 Rentnathbuku Xnixuce Bulgaria 42 POLIO YES 28-3-2011
+3079 Pwkitxvsq Avliybtgve Bulgaria 51 HIB NO 
+8954 Zwnrzchp Fwwbjzhbr Bulgaria 98 TETANUS NO 
+3265 Qjmv Rrowvcjkloy Bulgaria 28 CHICKENPOX YES 22-10-2013
+5336 Wjzasgkcu Ikxc Bulgaria 61 HEPATITIS-A YES 19-9-2000
+5710 Tlgqo Lmkc Bulgaria 23 MEASLES NO 
+8146 Rentnathbuku Xnixuce Bulgaria 42 TETANUS NO 
+8146 Rentnathbuku Xnixuce Bulgaria 42 FLU NO 
+8881 Vhbqdd Lhxqbukxpg Bulgaria 40 COVID-19 YES 16-7-2006
+3265 Qjmv Rrowvcjkloy Bulgaria 28 COVID-19 YES 16-5-2017
+3265 Qjmv Rrowvcjkloy Bulgaria 28 FLU NO 
+8068 Mpap Kpafecww Bulgaria 66 HEPATITIS-A YES 10-7-2018
+3740 Iewoeq Ubacmzptztps Bulgaria 96 CHICKENPOX YES 8-4-2002
+8881 Vhbqdd Lhxqbukxpg Bulgaria 40 TETANUS YES 22-2-2001
+6837 Mxyz Buszvmrvs Bulgaria 11 HEPATITIS-A YES 4-12-2016
+3265 Qjmv Rrowvcjkloy Bulgaria 28 RUBELLA NO 
+2191 Wherdhfteudn Wvpnjusa Bulgaria 1 CHICKENPOX YES 29-1-2020
+8065 Bvojrujpq Qhafdqk Bulgaria 95 HEPATITIS-B NO 
+3079 Pwkitxvsq Avliybtgve Bulgaria 51 HEPATITIS-B NO 
+5721 Pkdm Iaphyhyzefgk Bulgaria 75 TETANUS YES 27-12-2003
+4735 Bvmumsaadea Otgixojiamqf Bulgaria 97 CHICKENPOX YES 12-12-2006
+4273 Ufderas Rotnxud Bulgaria 23 RUBELLA NO 
+4735 Bvmumsaadea Otgixojiamqf Bulgaria 97 TETANUS NO 
+5336 Wjzasgkcu Ikxc Bulgaria 61 HIB NO 
+3265 Qjmv Rrowvcjkloy Bulgaria 28 TETANUS YES 9-5-2019
+3265 Qjmv Rrowvcjkloy Bulgaria 28 COVID-19 YES 27-3-2011
+2369 Iwisflic Fpfmzn Bulgaria 83 POLIO NO 
+71 Qrdvs Jbnkhsvv Bulgaria 100 FLU NO 
+7268 Xaaz Ejq Bulgaria 62 MEASLES YES 11-8-2008
+9646 Ywke Awhvxoui Bulgaria 119 FLU YES 1-4-2015
+8146 Rentnathbuku Xnixuce Bulgaria 42 CHICKENPOX NO 
+9095 Jekayez Gwogxiyvrhq Bulgaria 65 FLU YES 11-3-2004
+71 Qrdvs Jbnkhsvv Bulgaria 100 CHICKENPOX YES 3-9-2015
+8954 Zwnrzchp Fwwbjzhbr Bulgaria 98 CHICKENPOX YES 8-8-2017
+5721 Pkdm Iaphyhyzefgk Bulgaria 75 FLU YES 10-3-2009
+3740 Iewoeq Ubacmzptztps Bulgaria 96 MEASLES YES 16-2-2010
+4273 Ufderas Rotnxud Bulgaria 23 FLU NO 
+5336 Wjzasgkcu Ikxc Bulgaria 61 FLU YES 1-1-2001
+8146 Rentnathbuku Xnixuce Bulgaria 42 HIB YES 1-9-2004

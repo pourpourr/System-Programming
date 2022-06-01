@@ -1,0 +1,41 @@
+
+8334 Zzsca Fqogtrpuzp United-States 70 HIB YES 3-11-2009
+6622 Msilpjqz Pltvcxdz United-States 87 RUBELLA NO 
+4192 Vlipszw Iwsmnuqqeirh United-States 119 POLIO NO 
+1791 Ioq Gphqvzmnf United-States 39 HIB YES 18-2-2003
+6622 Msilpjqz Pltvcxdz United-States 87 HEPATITIS-A YES 18-10-2001
+8212 Xod Ahtmhx United-States 85 POLIO NO 
+4192 Vlipszw Iwsmnuqqeirh United-States 119 COVID-19 NO 
+7060 Lbzblbtkcal Jzbobt United-States 28 TETANUS NO 
+4453 Ozvi Dwjhanxqiwdx United-States 73 POLIO NO 
+8334 Zzsca Fqogtrpuzp United-States 70 TETANUS NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 HEPATITIS-B YES 2-4-2016
+4453 Ozvi Dwjhanxqiwdx United-States 73 CHICKENPOX YES 10-2-2020
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 TETANUS NO 
+6268 Ivrl Hiqjzhacns United-States 49 MEASLES NO 
+9561 Ruw Uqbt United-States 57 TETANUS NO 
+4397 Hafyyengesxh Ijghoknodc United-States 45 CHICKENPOX NO 
+7060 Lbzblbtkcal Jzbobt United-States 28 COVID-19 YES 2-2-2012
+6268 Ivrl Hiqjzhacns United-States 49 COVID-19 YES 7-12-2004
+1432 Nmcdsqyjsrn Erfl United-States 81 MEASLES YES 27-9-2009
+8334 Zzsca Fqogtrpuzp United-States 70 CHICKENPOX YES 7-2-2019
+1791 Ioq Gphqvzmnf United-States 39 TETANUS NO 
+5544 Dzarhjahqw Vibrjoa United-States 108 POLIO YES 18-11-2017
+5544 Dzarhjahqw Vibrjoa United-States 108 MEASLES NO 
+6264 Wkph Jvhswcxxibmj United-States 118 HEPATITIS-B NO 
+4453 Ozvi Dwjhanxqiwdx United-States 73 FLU NO 
+4511 Uro Wxfpvfmrbt United-States 110 COVID-19 NO 
+254 Mkqzx Bywe United-States 40 CHICKENPOX NO 
+9991 Twh Bek United-States 75 HIB NO 
+296 Vnefper Danxkmlnsv United-States 27 HIB YES 14-11-2004
+5544 Dzarhjahqw Vibrjoa United-States 108 HEPATITIS-B YES 28-2-2015
+1432 Nmcdsqyjsrn Erfl United-States 81 CHICKENPOX YES 20-4-2005
+6268 Ivrl Hiqjzhacns United-States 49 HEPATITIS-A NO 
+8334 Zzsca Fqogtrpuzp United-States 70 HEPATITIS-A NO 
+6264 Wkph Jvhswcxxibmj United-States 118 MEASLES NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 FLU YES 3-3-2004
+1432 Nmcdsqyjsrn Erfl United-States 81 HIB NO 
+8334 Zzsca Fqogtrpuzp United-States 70 HEPATITIS-A NO 
+8212 Xod Ahtmhx United-States 85 HEPATITIS-B YES 14-3-2016
+9561 Ruw Uqbt United-States 57 MEASLES YES 4-3-2003
+7678 Qqlfqs Uli United-States 39 RUBELLA YES 29-10-2008

@@ -1,0 +1,46 @@
+
+6751 Vnhdjlv Mgscguc Germany 71 COVID-19 YES 9-3-2014
+7445 Kvylyzqtp Lcblthmc Germany 64 TETANUS YES 10-11-2011
+6034 Ulapui Zwf Germany 50 MEASLES YES 14-12-2013
+9584 Sugllyvosv Equwfiuqgm Germany 93 HEPATITIS-A YES 7-7-2011
+2307 Tnkwtgl Vurkeccj Germany 81 HEPATITIS-B YES 21-4-2013
+7445 Kvylyzqtp Lcblthmc Germany 64 HEPATITIS-A NO 
+4647 Puageaonlbfg Ljpejsozraw Germany 32 TETANUS NO 
+6034 Ulapui Zwf Germany 50 FLU NO 
+5833 Mxdspmiho Jntjzlnm Germany 17 MEASLES NO 
+7443 Nbnykfoazrf Afozhaolu Germany 49 HIB NO 
+7016 Tfrhxnu Lpoujsldv Germany 70 FLU NO 
+387 Uujflpvdxx Uelgkqbazlzg Germany 21 MEASLES NO 
+2245 Ogsaqrtwhgb Cluce Germany 62 MEASLES YES 12-11-2017
+569 Skgiqvsosab Bmcqyve Germany 113 HEPATITIS-A NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 HIB NO 
+2307 Tnkwtgl Vurkeccj Germany 81 HEPATITIS-B NO 
+206 Wee Emz Germany 110 POLIO NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 HEPATITIS-B NO 
+6751 Vnhdjlv Mgscguc Germany 71 RUBELLA YES 15-7-2002
+4211 Xtgrvnu Tdadstxdo Germany 38 COVID-19 YES 14-3-2002
+7016 Tfrhxnu Lpoujsldv Germany 70 HEPATITIS-B NO 
+206 Wee Emz Germany 110 TETANUS YES 15-6-2007
+5833 Mxdspmiho Jntjzlnm Germany 17 MEASLES YES 18-8-2013
+569 Skgiqvsosab Bmcqyve Germany 113 CHICKENPOX NO 
+2307 Tnkwtgl Vurkeccj Germany 81 POLIO NO 
+2307 Tnkwtgl Vurkeccj Germany 81 RUBELLA YES 13-1-2001
+6286 Ouztgh Hpa Germany 24 POLIO YES 25-6-2010
+5048 Oiqujj Whdhj Germany 6 POLIO YES 7-1-2016
+5833 Mxdspmiho Jntjzlnm Germany 17 POLIO YES 4-12-2004
+5833 Mxdspmiho Jntjzlnm Germany 17 POLIO NO 
+8940 Luxjyx Oaycksjhjfhn Germany 58 MEASLES NO 
+7443 Nbnykfoazrf Afozhaolu Germany 49 TETANUS YES 25-5-2011
+5833 Mxdspmiho Jntjzlnm Germany 17 TETANUS YES 25-10-2009
+5048 Oiqujj Whdhj Germany 6 RUBELLA NO 
+6751 Vnhdjlv Mgscguc Germany 71 HEPATITIS-A NO 
+5048 Oiqujj Whdhj Germany 6 HEPATITIS-A NO 
+7443 Nbnykfoazrf Afozhaolu Germany 49 TETANUS YES 4-3-2004
+4211 Xtgrvnu Tdadstxdo Germany 38 TETANUS YES 1-7-2003
+7443 Nbnykfoazrf Afozhaolu Germany 49 RUBELLA NO 
+5892 Cocrjritfw Ezmqckimla Germany 1 COVID-19 YES 29-12-2000
+5048 Oiqujj Whdhj Germany 6 FLU YES 16-11-2002
+6286 Ouztgh Hpa Germany 24 CHICKENPOX NO 
+7016 Tfrhxnu Lpoujsldv Germany 70 FLU NO 
+9867 Nxxpvnri Cbzdayjsvvg Germany 56 COVID-19 YES 20-8-2004
+6069 Kqqgb Mibedlf Germany 58 MEASLES YES 10-3-2010

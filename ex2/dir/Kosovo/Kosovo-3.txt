@@ -1,0 +1,39 @@
+
+9901 Bcvba Rmauwh Kosovo 36 COVID-19 NO 
+624 Bzfszhfg Ulpznrhqmfu Kosovo 11 HIB YES 14-1-2012
+9901 Bcvba Rmauwh Kosovo 36 RUBELLA YES 15-7-2005
+7067 Gehvwlbvl Nnfk Kosovo 25 MEASLES YES 13-12-2006
+9935 Bwookdecl Owagmtop Kosovo 66 TETANUS YES 13-2-2012
+5868 Slrzvmumulj Vjra Kosovo 99 CHICKENPOX YES 20-2-2009
+9901 Bcvba Rmauwh Kosovo 36 FLU NO 
+3360 Ulj Wgmnlsbzez Kosovo 16 CHICKENPOX YES 16-10-2012
+9901 Bcvba Rmauwh Kosovo 36 TETANUS YES 19-9-2020
+2653 Vtuivckt Kkb Kosovo 84 HEPATITIS-B NO 
+1885 Hlfyffbxa Ija Kosovo 13 FLU NO 
+3360 Ulj Wgmnlsbzez Kosovo 16 CHICKENPOX NO 
+3448 Qjwpucyjrh Ezh Kosovo 80 FLU YES 10-5-2016
+9935 Bwookdecl Owagmtop Kosovo 66 POLIO NO 
+9935 Bwookdecl Owagmtop Kosovo 66 TETANUS NO 
+8978 Cclyjkvqa Jwuyokl Kosovo 94 COVID-19 NO 
+446 Tix Icakreg Kosovo 68 MEASLES YES 19-1-2012
+5868 Slrzvmumulj Vjra Kosovo 99 COVID-19 NO 
+8978 Cclyjkvqa Jwuyokl Kosovo 94 TETANUS NO 
+2653 Vtuivckt Kkb Kosovo 84 RUBELLA YES 12-8-2018
+624 Bzfszhfg Ulpznrhqmfu Kosovo 11 COVID-19 YES 23-2-2004
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 HEPATITIS-B YES 30-6-2011
+987 Mbroajwdlk Gpnnfshtyei Kosovo 116 HEPATITIS-B YES 8-8-2007
+8974 Zdtkmen Rzmisqzgi Kosovo 13 HEPATITIS-B YES 16-1-2004
+7067 Gehvwlbvl Nnfk Kosovo 25 CHICKENPOX NO 
+7738 Frctfqncoa Ismqcufusotp Kosovo 69 TETANUS NO 
+446 Tix Icakreg Kosovo 68 TETANUS NO 
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 RUBELLA YES 30-5-2001
+2532 Mguoovsv Wndjegpmagxq Kosovo 108 RUBELLA YES 26-9-2015
+7067 Gehvwlbvl Nnfk Kosovo 25 RUBELLA NO 
+7067 Gehvwlbvl Nnfk Kosovo 25 RUBELLA NO 
+987 Mbroajwdlk Gpnnfshtyei Kosovo 116 TETANUS NO 
+2532 Mguoovsv Wndjegpmagxq Kosovo 108 MEASLES YES 17-4-2015
+987 Mbroajwdlk Gpnnfshtyei Kosovo 116 MEASLES NO 
+8978 Cclyjkvqa Jwuyokl Kosovo 94 MEASLES NO 
+7067 Gehvwlbvl Nnfk Kosovo 25 POLIO NO 
+7738 Frctfqncoa Ismqcufusotp Kosovo 69 COVID-19 YES 2-5-2020
+446 Tix Icakreg Kosovo 68 HEPATITIS-A YES 23-9-2014

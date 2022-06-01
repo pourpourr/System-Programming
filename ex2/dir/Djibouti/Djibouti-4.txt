@@ -1,0 +1,64 @@
+
+6596 Tubdbtufv Cvkfgigkhx Djibouti 80 COVID-19 NO 
+4443 Jpzijjlx Tigvwy Djibouti 54 TETANUS NO 
+435 Aqshvwa Nzkyf Djibouti 100 MEASLES NO 
+2823 Emyfudqg Dhy Djibouti 38 COVID-19 NO 
+2823 Emyfudqg Dhy Djibouti 38 COVID-19 YES 17-1-2013
+6339 Msycs Wdqtddxk Djibouti 120 RUBELLA NO 
+4366 Bfkhtt Ebympr Djibouti 99 TETANUS YES 16-1-2000
+3741 Orewbuwgze Iushjpwm Djibouti 96 HEPATITIS-A YES 15-3-2004
+4193 Lljo Ngli Djibouti 64 TETANUS NO 
+1679 Kfrzpnjqrjcb Yfpjvj Djibouti 120 CHICKENPOX YES 6-9-2015
+4366 Bfkhtt Ebympr Djibouti 99 HIB NO 
+4193 Lljo Ngli Djibouti 64 TETANUS YES 30-8-2017
+4871 Tmzkcb Cckmwk Djibouti 60 HEPATITIS-B NO 
+6081 Krqc Jsknoewfcx Djibouti 40 RUBELLA YES 30-4-2009
+4088 Htr Yamdpzkznoh Djibouti 22 HEPATITIS-B NO 
+3741 Orewbuwgze Iushjpwm Djibouti 96 HEPATITIS-B NO 
+7436 Oji Vfjrz Djibouti 34 COVID-19 NO 
+6081 Krqc Jsknoewfcx Djibouti 40 HEPATITIS-B NO 
+5311 Ekgudqqx Xyjjsecvba Djibouti 28 CHICKENPOX YES 5-1-2000
+1679 Kfrzpnjqrjcb Yfpjvj Djibouti 120 MEASLES NO 
+3741 Orewbuwgze Iushjpwm Djibouti 96 FLU NO 
+8387 Jitcvlpuln Cdh Djibouti 60 HEPATITIS-A YES 18-8-2003
+3741 Orewbuwgze Iushjpwm Djibouti 96 HEPATITIS-A YES 18-8-2006
+719 Zlbkwsjyqsra Feccoikcl Djibouti 94 TETANUS YES 11-6-2009
+4210 Xkeliamklfqn Ecbwawvawjs Djibouti 82 CHICKENPOX NO 
+1128 Ljiv Wvxfdou Djibouti 22 POLIO NO 
+1670 Lnxjyxgysgn Uafpauzsbfyn Djibouti 57 MEASLES YES 26-1-2012
+4871 Tmzkcb Cckmwk Djibouti 60 MEASLES NO 
+1128 Ljiv Wvxfdou Djibouti 22 FLU NO 
+7436 Oji Vfjrz Djibouti 34 FLU YES 12-8-2003
+1679 Kfrzpnjqrjcb Yfpjvj Djibouti 120 HIB NO 
+4443 Jpzijjlx Tigvwy Djibouti 54 POLIO YES 28-1-2017
+2018 Jpxvirvwtrie Azbrmaocv Djibouti 1 TETANUS NO 
+1128 Ljiv Wvxfdou Djibouti 22 TETANUS NO 
+8727 Cecvmvw Zvvhpnbefo Djibouti 92 COVID-19 NO 
+2823 Emyfudqg Dhy Djibouti 38 MEASLES NO 
+1679 Kfrzpnjqrjcb Yfpjvj Djibouti 120 FLU NO 
+719 Zlbkwsjyqsra Feccoikcl Djibouti 94 HEPATITIS-B YES 12-5-2000
+4088 Htr Yamdpzkznoh Djibouti 22 RUBELLA YES 22-1-2016
+435 Aqshvwa Nzkyf Djibouti 100 CHICKENPOX YES 9-12-2011
+1679 Kfrzpnjqrjcb Yfpjvj Djibouti 120 HEPATITIS-B YES 2-7-2008
+6596 Tubdbtufv Cvkfgigkhx Djibouti 80 MEASLES YES 26-8-2020
+1679 Kfrzpnjqrjcb Yfpjvj Djibouti 120 COVID-19 YES 22-12-2008
+4443 Jpzijjlx Tigvwy Djibouti 54 POLIO YES 7-9-2019
+6293 Tbjdkuz Cqvi Djibouti 80 FLU NO 
+5311 Ekgudqqx Xyjjsecvba Djibouti 28 HEPATITIS-B YES 10-5-2002
+1820 Dxh Rlryfo Djibouti 20 TETANUS YES 1-11-2011
+4443 Jpzijjlx Tigvwy Djibouti 54 CHICKENPOX YES 7-2-2006
+1128 Ljiv Wvxfdou Djibouti 22 RUBELLA YES 22-3-2020
+4088 Htr Yamdpzkznoh Djibouti 22 RUBELLA YES 15-3-2007
+2018 Jpxvirvwtrie Azbrmaocv Djibouti 1 HEPATITIS-B YES 19-8-2018
+6339 Msycs Wdqtddxk Djibouti 120 CHICKENPOX YES 11-2-2008
+444 Udraxaoqg Tygncsb Djibouti 104 POLIO YES 17-7-2019
+9280 Ewldmib Wpbi Djibouti 52 CHICKENPOX NO 
+6293 Tbjdkuz Cqvi Djibouti 80 HEPATITIS-B NO 
+6339 Msycs Wdqtddxk Djibouti 120 TETANUS YES 9-5-2006
+1670 Lnxjyxgysgn Uafpauzsbfyn Djibouti 57 CHICKENPOX YES 14-1-2000
+2089 Vkaitx Qrgxlvunoi Djibouti 49 CHICKENPOX NO 
+8592 Cfgzuolnrcrt Spwhg Djibouti 117 HIB YES 26-1-2016
+2823 Emyfudqg Dhy Djibouti 38 COVID-19 YES 1-6-2001
+8387 Jitcvlpuln Cdh Djibouti 60 CHICKENPOX YES 13-9-2018
+6081 Krqc Jsknoewfcx Djibouti 40 COVID-19 NO 
+6541 Qxcantsk Ljsskxvq Djibouti 56 HEPATITIS-B YES 15-6-2011

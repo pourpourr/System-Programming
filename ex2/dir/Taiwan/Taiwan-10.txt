@@ -1,0 +1,49 @@
+
+2124 Bfaenmyfhukb Gij Taiwan 112 HIB NO 
+6259 Mzpmafbejso Xoabihd Taiwan 50 RUBELLA YES 6-10-2016
+355 Qkahzwjmtupm Tejcrhocj Taiwan 59 HEPATITIS-B YES 8-12-2001
+6259 Mzpmafbejso Xoabihd Taiwan 50 CHICKENPOX YES 28-2-2007
+355 Qkahzwjmtupm Tejcrhocj Taiwan 59 CHICKENPOX YES 19-8-2011
+1328 Eexipdea Hmxuoloqzvii Taiwan 79 MEASLES NO 
+1827 Qcqiiurvx Hbfxrisgh Taiwan 107 TETANUS NO 
+4243 Diujlft Onzzcjqofvn Taiwan 97 RUBELLA NO 
+3463 Brbjdqla Abrbkxuulcj Taiwan 108 TETANUS NO 
+355 Qkahzwjmtupm Tejcrhocj Taiwan 59 TETANUS YES 22-5-2016
+20 Kqkenue Gddeh Taiwan 54 HIB NO 
+4906 Wtcqv Dtq Taiwan 104 RUBELLA NO 
+4243 Diujlft Onzzcjqofvn Taiwan 97 COVID-19 NO 
+7679 Zxlfbktgld Hkqwfewsifp Taiwan 24 HEPATITIS-A NO 
+7679 Zxlfbktgld Hkqwfewsifp Taiwan 24 COVID-19 NO 
+4689 Ujbfpzmyf Ujbgydw Taiwan 14 TETANUS NO 
+250 Bucntpssaych Tfbght Taiwan 119 MEASLES NO 
+4243 Diujlft Onzzcjqofvn Taiwan 97 COVID-19 YES 27-5-2015
+612 Gddkitxgwzx Nryzmvtnwojz Taiwan 69 TETANUS YES 10-2-2009
+9659 Dtcvmswt Ojlctbvoomxk Taiwan 24 RUBELLA YES 23-11-2011
+20 Kqkenue Gddeh Taiwan 54 HIB YES 16-4-2019
+9659 Dtcvmswt Ojlctbvoomxk Taiwan 24 RUBELLA NO 
+9659 Dtcvmswt Ojlctbvoomxk Taiwan 24 RUBELLA YES 13-1-2010
+20 Kqkenue Gddeh Taiwan 54 RUBELLA YES 14-1-2012
+1460 Bxtsgrjyffw Drwxwjbuavt Taiwan 106 HIB NO 
+4243 Diujlft Onzzcjqofvn Taiwan 97 CHICKENPOX NO 
+5282 Jcb Oixdf Taiwan 115 RUBELLA YES 4-8-2017
+5282 Jcb Oixdf Taiwan 115 FLU NO 
+3463 Brbjdqla Abrbkxuulcj Taiwan 108 POLIO YES 12-7-2003
+6259 Mzpmafbejso Xoabihd Taiwan 50 POLIO YES 24-3-2019
+9530 Uvsklj Uan Taiwan 74 HEPATITIS-A YES 30-10-2003
+3463 Brbjdqla Abrbkxuulcj Taiwan 108 FLU NO 
+1328 Eexipdea Hmxuoloqzvii Taiwan 79 FLU NO 
+6882 Fnxskrhasio Vzjzyhckdxj Taiwan 15 HIB YES 11-2-2005
+1328 Eexipdea Hmxuoloqzvii Taiwan 79 HEPATITIS-A YES 11-5-2002
+355 Qkahzwjmtupm Tejcrhocj Taiwan 59 MEASLES NO 
+6354 Plckicxcq Yjskdfrrd Taiwan 46 HEPATITIS-B YES 25-8-2010
+6354 Plckicxcq Yjskdfrrd Taiwan 46 FLU YES 1-8-2009
+9530 Uvsklj Uan Taiwan 74 CHICKENPOX NO 
+612 Gddkitxgwzx Nryzmvtnwojz Taiwan 69 HEPATITIS-B NO 
+2124 Bfaenmyfhukb Gij Taiwan 112 HEPATITIS-B NO 
+250 Bucntpssaych Tfbght Taiwan 119 POLIO NO 
+4906 Wtcqv Dtq Taiwan 104 HEPATITIS-B YES 20-9-2020
+1827 Qcqiiurvx Hbfxrisgh Taiwan 107 RUBELLA YES 25-4-2016
+6882 Fnxskrhasio Vzjzyhckdxj Taiwan 15 HEPATITIS-B YES 14-5-2003
+2124 Bfaenmyfhukb Gij Taiwan 112 RUBELLA NO 
+4243 Diujlft Onzzcjqofvn Taiwan 97 POLIO YES 30-2-2014
+2124 Bfaenmyfhukb Gij Taiwan 112 HEPATITIS-B NO 

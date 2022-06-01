@@ -1,0 +1,46 @@
+
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 MEASLES NO 
+5112 Gvicjv Uzcl Burundi 9 RUBELLA YES 25-3-2014
+8147 Ldbky Fltadhghzxa Burundi 92 CHICKENPOX NO 
+7755 Yhev Uje Burundi 7 TETANUS NO 
+2011 Jzsu Mzbihfecld Burundi 2 POLIO NO 
+6568 Cogkxavvxp Gtgmnhul Burundi 6 MEASLES NO 
+6568 Cogkxavvxp Gtgmnhul Burundi 6 TETANUS NO 
+2850 Qzrq Ybwg Burundi 71 MEASLES YES 21-8-2006
+1341 Nxfuqwsc Plicqqoa Burundi 4 POLIO YES 23-11-2000
+7052 Yviymh Angsgsxoank Burundi 110 COVID-19 NO 
+2685 Kafksdkiputw Mpew Burundi 82 FLU NO 
+2062 Egxlmwngd Buhjwkgnzc Burundi 43 COVID-19 NO 
+5112 Gvicjv Uzcl Burundi 9 POLIO YES 28-4-2005
+9213 Ewevdul Tzbrmaltkbl Burundi 99 MEASLES YES 2-8-2012
+6568 Cogkxavvxp Gtgmnhul Burundi 6 FLU YES 26-1-2010
+7052 Yviymh Angsgsxoank Burundi 110 HIB NO 
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 FLU NO 
+9213 Ewevdul Tzbrmaltkbl Burundi 99 HEPATITIS-B NO 
+3024 Ngtqzbqninil Bkeovfstcmdz Burundi 91 CHICKENPOX YES 27-4-2006
+2850 Qzrq Ybwg Burundi 71 HEPATITIS-A NO 
+1341 Nxfuqwsc Plicqqoa Burundi 4 FLU NO 
+9208 Cvho Nsgjykqulmk Burundi 92 RUBELLA YES 19-6-2012
+9223 Wrnidqxvp Ercsqgibm Burundi 103 COVID-19 NO 
+9624 Shnmpltxgpei Tmah Burundi 34 CHICKENPOX NO 
+9624 Shnmpltxgpei Tmah Burundi 34 RUBELLA NO 
+1341 Nxfuqwsc Plicqqoa Burundi 4 HIB YES 12-12-2016
+9208 Cvho Nsgjykqulmk Burundi 92 CHICKENPOX NO 
+2011 Jzsu Mzbihfecld Burundi 2 HEPATITIS-B YES 12-12-2011
+9747 Najr Pmfdpvctz Burundi 102 COVID-19 YES 30-3-2017
+8721 Ztxdypyio Xqqtqaw Burundi 97 HEPATITIS-B YES 12-4-2019
+239 Lgk Toi Burundi 102 RUBELLA NO 
+7755 Yhev Uje Burundi 7 HEPATITIS-A NO 
+7052 Yviymh Angsgsxoank Burundi 110 HEPATITIS-A NO 
+9208 Cvho Nsgjykqulmk Burundi 92 POLIO NO 
+9980 Cqetjvqy Xxbulpli Burundi 82 FLU NO 
+9223 Wrnidqxvp Ercsqgibm Burundi 103 RUBELLA YES 7-10-2017
+9980 Cqetjvqy Xxbulpli Burundi 82 FLU YES 7-4-2001
+7755 Yhev Uje Burundi 7 RUBELLA NO 
+9624 Shnmpltxgpei Tmah Burundi 34 RUBELLA NO 
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 CHICKENPOX NO 
+9208 Cvho Nsgjykqulmk Burundi 92 HEPATITIS-A YES 30-10-2007
+1341 Nxfuqwsc Plicqqoa Burundi 4 COVID-19 NO 
+6414 Yguiedvmpkgt Njeanmwxnzo Burundi 66 MEASLES YES 3-11-2017
+2062 Egxlmwngd Buhjwkgnzc Burundi 43 TETANUS NO 
+9980 Cqetjvqy Xxbulpli Burundi 82 HEPATITIS-B YES 13-3-2001

@@ -1,0 +1,41 @@
+
+1105 Baajhtqlwzf Wyw Greece 43 COVID-19 NO 
+8972 Mxgozs Tzawednj Greece 108 COVID-19 YES 10-5-2013
+6495 Hnlblfbazmqp Gfnlzl Greece 91 HEPATITIS-B YES 8-11-2009
+4044 Buigsr Htnuhertnjzi Greece 112 MEASLES YES 30-4-2002
+213 Skrvcouvmnv Miwbdouh Greece 57 POLIO NO 
+6863 Oapow Zmsujy Greece 75 POLIO NO 
+8972 Mxgozs Tzawednj Greece 108 MEASLES YES 11-9-2001
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 HEPATITIS-A YES 23-8-2005
+3938 Fwslzkvokm Osjjrru Greece 91 HEPATITIS-B NO 
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 TETANUS YES 11-11-2015
+6495 Hnlblfbazmqp Gfnlzl Greece 91 TETANUS YES 23-2-2005
+637 Qclpsvuia Hlc Greece 85 TETANUS YES 22-2-2015
+653 Bdpuuj Clnv Greece 9 FLU YES 25-5-2014
+7557 Uomuxdhcl Ilvlfqmx Greece 80 HIB YES 29-7-2019
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 CHICKENPOX YES 23-9-2019
+5813 Matjceeumrf Napatkw Greece 99 COVID-19 NO 
+5813 Matjceeumrf Napatkw Greece 99 TETANUS NO 
+4044 Buigsr Htnuhertnjzi Greece 112 HIB YES 12-12-2010
+4966 Jrmcyvtb Wynq Greece 28 HEPATITIS-B YES 9-8-2003
+5953 Wdqvo Vshzjehs Greece 3 COVID-19 NO 
+213 Skrvcouvmnv Miwbdouh Greece 57 CHICKENPOX YES 8-8-2008
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 HEPATITIS-A NO 
+1105 Baajhtqlwzf Wyw Greece 43 TETANUS YES 29-12-2015
+3310 Bspgraiwuoe Heotn Greece 35 FLU YES 15-12-2000
+1454 Ydr Yzfsbu Greece 92 FLU NO 
+3938 Fwslzkvokm Osjjrru Greece 91 COVID-19 NO 
+213 Skrvcouvmnv Miwbdouh Greece 57 HEPATITIS-B YES 26-8-2005
+6495 Hnlblfbazmqp Gfnlzl Greece 91 HIB YES 22-9-2006
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 MEASLES YES 17-5-2014
+8972 Mxgozs Tzawednj Greece 108 CHICKENPOX NO 
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 MEASLES NO 
+7557 Uomuxdhcl Ilvlfqmx Greece 80 HEPATITIS-A NO 
+3938 Fwslzkvokm Osjjrru Greece 91 CHICKENPOX YES 23-7-2001
+6495 Hnlblfbazmqp Gfnlzl Greece 91 CHICKENPOX YES 18-4-2010
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 RUBELLA NO 
+4935 Vpdaz Ztyi Greece 44 HEPATITIS-A NO 
+6863 Oapow Zmsujy Greece 75 HEPATITIS-A YES 6-11-2007
+637 Qclpsvuia Hlc Greece 85 HIB YES 21-4-2019
+637 Qclpsvuia Hlc Greece 85 RUBELLA NO 
+5813 Matjceeumrf Napatkw Greece 99 HEPATITIS-B NO 

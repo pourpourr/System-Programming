@@ -1,0 +1,61 @@
+
+7691 Vck Bxeu Micronesia 14 TETANUS YES 10-11-2014
+5195 Zakgeruaz Qoccvslvi Micronesia 4 HEPATITIS-B NO 
+919 Phgh Kcrfd Micronesia 115 CHICKENPOX YES 15-6-2002
+9374 Hknsepf Nljliihgiced Micronesia 89 HIB YES 8-7-2010
+6045 Vml Frktytbnjfg Micronesia 30 CHICKENPOX YES 7-6-2002
+7921 Bkakopihbeko Ahynji Micronesia 12 COVID-19 NO 
+5573 Xeyw Rjvdmsyan Micronesia 19 HIB NO 
+7323 Ycrlq Bcwmcse Micronesia 104 HEPATITIS-B NO 
+2746 Vsptxujvov Yshhwhltkzcw Micronesia 49 POLIO NO 
+2721 Ssyw Rjcrpiuzarxt Micronesia 105 TETANUS NO 
+5682 Ebciz Tsnerefz Micronesia 35 COVID-19 NO 
+5573 Xeyw Rjvdmsyan Micronesia 19 FLU YES 13-12-2013
+5682 Ebciz Tsnerefz Micronesia 35 HIB YES 29-6-2009
+2020 Nmeyyhmub Qwk Micronesia 59 HEPATITIS-A NO 
+2020 Nmeyyhmub Qwk Micronesia 59 HEPATITIS-B YES 7-8-2003
+3130 Xrahlm Jhvhohalbnwk Micronesia 29 MEASLES YES 24-7-2008
+2746 Vsptxujvov Yshhwhltkzcw Micronesia 49 HEPATITIS-A NO 
+1274 Sylmbawz Vbwrs Micronesia 110 POLIO YES 3-1-2018
+5682 Ebciz Tsnerefz Micronesia 35 RUBELLA NO 
+5682 Ebciz Tsnerefz Micronesia 35 MEASLES NO 
+9723 Iibrhb Rbesgkmgc Micronesia 18 HEPATITIS-A YES 18-11-2008
+1274 Sylmbawz Vbwrs Micronesia 110 HEPATITIS-B NO 
+5682 Ebciz Tsnerefz Micronesia 35 MEASLES NO 
+1274 Sylmbawz Vbwrs Micronesia 110 MEASLES YES 13-12-2017
+7323 Ycrlq Bcwmcse Micronesia 104 TETANUS NO 
+5195 Zakgeruaz Qoccvslvi Micronesia 4 CHICKENPOX YES 26-5-2019
+6628 Cauaxbvbj Cwa Micronesia 43 CHICKENPOX YES 19-2-2011
+2721 Ssyw Rjcrpiuzarxt Micronesia 105 MEASLES NO 
+7323 Ycrlq Bcwmcse Micronesia 104 CHICKENPOX YES 3-6-2010
+7691 Vck Bxeu Micronesia 14 FLU YES 7-4-2005
+9374 Hknsepf Nljliihgiced Micronesia 89 MEASLES NO 
+2502 Inxtjdfp Mazf Micronesia 64 FLU NO 
+7992 Qdhnduki Qelakzwbqn Micronesia 64 HEPATITIS-B YES 4-12-2003
+5682 Ebciz Tsnerefz Micronesia 35 POLIO YES 10-12-2011
+1484 Vnhyysc Yvnyss Micronesia 55 POLIO YES 29-5-2018
+7323 Ycrlq Bcwmcse Micronesia 104 HEPATITIS-B NO 
+1374 Dmpuhpaitqy Xop Micronesia 9 HEPATITIS-A NO 
+3278 Itdqcnnogego Rkjtlswlx Micronesia 78 TETANUS NO 
+2746 Vsptxujvov Yshhwhltkzcw Micronesia 49 COVID-19 NO 
+2020 Nmeyyhmub Qwk Micronesia 59 CHICKENPOX YES 6-3-2019
+9857 Ibsqflfuf Ymudrsf Micronesia 46 HEPATITIS-B NO 
+4875 Nnvidiwd Bmi Micronesia 11 HEPATITIS-A NO 
+8437 Fernca Qfyhlz Micronesia 52 CHICKENPOX NO 
+4875 Nnvidiwd Bmi Micronesia 11 POLIO YES 15-4-2004
+9857 Ibsqflfuf Ymudrsf Micronesia 46 RUBELLA YES 25-1-2012
+3130 Xrahlm Jhvhohalbnwk Micronesia 29 TETANUS NO 
+3278 Itdqcnnogego Rkjtlswlx Micronesia 78 RUBELLA NO 
+9857 Ibsqflfuf Ymudrsf Micronesia 46 MEASLES YES 15-4-2001
+3590 Xxm Eeakljyrnh Micronesia 45 TETANUS NO 
+4875 Nnvidiwd Bmi Micronesia 11 FLU YES 3-5-2010
+8437 Fernca Qfyhlz Micronesia 52 HIB NO 
+5573 Xeyw Rjvdmsyan Micronesia 19 CHICKENPOX NO 
+9723 Iibrhb Rbesgkmgc Micronesia 18 HEPATITIS-A YES 13-3-2020
+7323 Ycrlq Bcwmcse Micronesia 104 POLIO YES 3-8-2014
+9723 Iibrhb Rbesgkmgc Micronesia 18 RUBELLA YES 20-9-2012
+9374 Hknsepf Nljliihgiced Micronesia 89 FLU NO 
+7921 Bkakopihbeko Ahynji Micronesia 12 RUBELLA NO 
+919 Phgh Kcrfd Micronesia 115 TETANUS YES 18-10-2003
+7837 Bymvhok Cekuiwce Micronesia 30 COVID-19 NO 
+6628 Cauaxbvbj Cwa Micronesia 43 FLU NO 

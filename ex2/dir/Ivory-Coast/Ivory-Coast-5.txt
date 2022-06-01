@@ -1,0 +1,76 @@
+
+5395 Veallvtqloy Pqfennvpapcl Ivory-Coast 7 MEASLES YES 13-1-2016
+9623 Nbwl Youknuyqarfs Ivory-Coast 119 POLIO YES 12-3-2016
+6088 Wiew Okk Ivory-Coast 98 RUBELLA YES 1-4-2005
+8344 Jalnxmnntyqv Omjsnqj Ivory-Coast 109 POLIO YES 7-5-2008
+8875 Tlqlqbmnbe Qoz Ivory-Coast 62 RUBELLA NO 
+740 Vrtivcze Dlbfxzyr Ivory-Coast 44 TETANUS NO 
+992 Exhnq Aqazgmt Ivory-Coast 92 COVID-19 YES 7-1-2017
+992 Exhnq Aqazgmt Ivory-Coast 92 MEASLES NO 
+8344 Jalnxmnntyqv Omjsnqj Ivory-Coast 109 HEPATITIS-B NO 
+2312 Ysmgywo Rugjyel Ivory-Coast 92 MEASLES YES 28-3-2011
+8273 Ydt Tgzccfyy Ivory-Coast 41 POLIO NO 
+9177 Koz Mjhsujvgx Ivory-Coast 67 HEPATITIS-A NO 
+6299 Wwzvqxvik Foqxbwrmvh Ivory-Coast 80 CHICKENPOX YES 15-3-2004
+9177 Koz Mjhsujvgx Ivory-Coast 67 TETANUS YES 1-7-2008
+2705 Dknzkknd Rucfhbxbip Ivory-Coast 112 MEASLES YES 22-3-2001
+3227 Upcxol Pucgn Ivory-Coast 56 HEPATITIS-B NO 
+9177 Koz Mjhsujvgx Ivory-Coast 67 CHICKENPOX NO 
+9956 Ouasyzetiq Rpybxqrq Ivory-Coast 28 MEASLES YES 20-1-2001
+992 Exhnq Aqazgmt Ivory-Coast 92 MEASLES YES 5-12-2003
+7224 Nkfqjumonb Ujpuuckun Ivory-Coast 100 POLIO NO 
+540 Lmtanian Rmwqhtrje Ivory-Coast 28 HEPATITIS-B YES 25-8-2016
+8879 Llvgdlqwilw Gqkjcdkzc Ivory-Coast 64 POLIO NO 
+8021 Usyklk Inywh Ivory-Coast 30 POLIO NO 
+1711 Venezpjgif Njcqg Ivory-Coast 29 CHICKENPOX NO 
+9192 Tpxeat Nrlq Ivory-Coast 76 MEASLES YES 15-7-2007
+2394 Zqboevuuj Etiib Ivory-Coast 101 HIB NO 
+5395 Veallvtqloy Pqfennvpapcl Ivory-Coast 7 HEPATITIS-B NO 
+9956 Ouasyzetiq Rpybxqrq Ivory-Coast 28 POLIO YES 15-5-2012
+6088 Wiew Okk Ivory-Coast 98 FLU YES 27-9-2009
+1711 Venezpjgif Njcqg Ivory-Coast 29 MEASLES NO 
+5320 Owvjig Wgalikte Ivory-Coast 54 MEASLES NO 
+9623 Nbwl Youknuyqarfs Ivory-Coast 119 MEASLES NO 
+345 Klurvapmk Rivdrmxdoyb Ivory-Coast 58 RUBELLA YES 10-1-2002
+9192 Tpxeat Nrlq Ivory-Coast 76 HIB NO 
+8122 Uujv Jxpoqqwt Ivory-Coast 71 TETANUS NO 
+8021 Usyklk Inywh Ivory-Coast 30 FLU NO 
+8085 Gvekqj Iatlqm Ivory-Coast 113 HEPATITIS-A YES 18-10-2008
+6723 Qufynjygsr Bnlzdpiki Ivory-Coast 103 TETANUS YES 3-6-2020
+74 Uxouo Unvfcn Ivory-Coast 92 FLU NO 
+345 Klurvapmk Rivdrmxdoyb Ivory-Coast 58 RUBELLA YES 9-11-2019
+8085 Gvekqj Iatlqm Ivory-Coast 113 MEASLES NO 
+9683 Jhaaqqzytut Lamuozohreq Ivory-Coast 19 COVID-19 YES 3-4-2010
+1088 Ufdtud Ahjuoebxydi Ivory-Coast 62 HIB YES 17-7-2020
+8021 Usyklk Inywh Ivory-Coast 30 HEPATITIS-B YES 20-8-2005
+540 Lmtanian Rmwqhtrje Ivory-Coast 28 HIB YES 20-5-2009
+9177 Koz Mjhsujvgx Ivory-Coast 67 RUBELLA YES 12-9-2019
+8085 Gvekqj Iatlqm Ivory-Coast 113 HEPATITIS-B YES 20-3-2005
+540 Lmtanian Rmwqhtrje Ivory-Coast 28 HEPATITIS-A NO 
+1088 Ufdtud Ahjuoebxydi Ivory-Coast 62 HIB NO 
+1088 Ufdtud Ahjuoebxydi Ivory-Coast 62 TETANUS YES 9-12-2002
+2808 Coj Rqteq Ivory-Coast 114 HEPATITIS-A YES 3-2-2010
+8021 Usyklk Inywh Ivory-Coast 30 HEPATITIS-A NO 
+1966 Tdopfsxgeeoo Ibycxqlzok Ivory-Coast 59 FLU YES 16-3-2018
+9669 Daj Iujeddlyw Ivory-Coast 77 HEPATITIS-B NO 
+74 Uxouo Unvfcn Ivory-Coast 92 HEPATITIS-B NO 
+8273 Ydt Tgzccfyy Ivory-Coast 41 HEPATITIS-A NO 
+6299 Wwzvqxvik Foqxbwrmvh Ivory-Coast 80 HEPATITIS-A YES 10-6-2017
+2312 Ysmgywo Rugjyel Ivory-Coast 92 COVID-19 NO 
+6088 Wiew Okk Ivory-Coast 98 MEASLES YES 28-10-2008
+9956 Ouasyzetiq Rpybxqrq Ivory-Coast 28 COVID-19 YES 18-9-2020
+3331 Yxsirmbywf Uriho Ivory-Coast 76 TETANUS YES 3-12-2000
+9177 Koz Mjhsujvgx Ivory-Coast 67 FLU YES 13-9-2008
+1966 Tdopfsxgeeoo Ibycxqlzok Ivory-Coast 59 FLU YES 1-11-2009
+1966 Tdopfsxgeeoo Ibycxqlzok Ivory-Coast 59 POLIO NO 
+8344 Jalnxmnntyqv Omjsnqj Ivory-Coast 109 RUBELLA NO 
+7876 Hbkiiyjbyci Bfznit Ivory-Coast 84 MEASLES NO 
+9683 Jhaaqqzytut Lamuozohreq Ivory-Coast 19 MEASLES NO 
+540 Lmtanian Rmwqhtrje Ivory-Coast 28 CHICKENPOX NO 
+2705 Dknzkknd Rucfhbxbip Ivory-Coast 112 HEPATITIS-A NO 
+1088 Ufdtud Ahjuoebxydi Ivory-Coast 62 HEPATITIS-A YES 20-10-2020
+8085 Gvekqj Iatlqm Ivory-Coast 113 MEASLES NO 
+2394 Zqboevuuj Etiib Ivory-Coast 101 MEASLES NO 
+345 Klurvapmk Rivdrmxdoyb Ivory-Coast 58 POLIO YES 19-10-2008
+6299 Wwzvqxvik Foqxbwrmvh Ivory-Coast 80 FLU NO 
+7224 Nkfqjumonb Ujpuuckun Ivory-Coast 100 RUBELLA NO 

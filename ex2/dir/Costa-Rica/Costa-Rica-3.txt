@@ -1,0 +1,67 @@
+
+7527 Vizgcnlwa Vviqzdyc Costa-Rica 38 COVID-19 YES 7-4-2009
+5994 Ajphddhhfw Ifnmxgwwf Costa-Rica 82 COVID-19 NO 
+8648 Slvtk Yfdfuiqcgoev Costa-Rica 4 CHICKENPOX NO 
+2219 Vcomvdbjumk Tlzuaeypcasj Costa-Rica 41 RUBELLA YES 2-1-2008
+7004 Bxesvlfgiufc Rwipnguykyf Costa-Rica 102 HEPATITIS-B YES 19-10-2009
+3992 Uxyuobnmfwov Atuaiegcy Costa-Rica 98 RUBELLA NO 
+371 Cjzkga Ztcnznkdbnfy Costa-Rica 26 POLIO YES 22-12-2007
+4931 Mflay Qcmoc Costa-Rica 86 HEPATITIS-B NO 
+2956 Zxk Ymjzsiz Costa-Rica 58 MEASLES YES 24-4-2006
+4005 Cztggmd Lxwwmqgg Costa-Rica 71 POLIO YES 29-6-2001
+6861 Yvwcbjbsvx Adbknwacg Costa-Rica 58 HEPATITIS-B NO 
+7527 Vizgcnlwa Vviqzdyc Costa-Rica 38 MEASLES NO 
+8609 Bmmustnvlzcv Oglpffsdzfkk Costa-Rica 120 HIB NO 
+8648 Slvtk Yfdfuiqcgoev Costa-Rica 4 HIB NO 
+7952 Dmlqhhddvqpa Gswlhxqu Costa-Rica 104 HIB YES 13-2-2006
+4005 Cztggmd Lxwwmqgg Costa-Rica 71 TETANUS YES 23-3-2011
+5994 Ajphddhhfw Ifnmxgwwf Costa-Rica 82 TETANUS NO 
+5208 Xxzjwufbb Qcbswbd Costa-Rica 56 MEASLES NO 
+8053 Pumem Jhsxjcvgnhc Costa-Rica 75 HIB YES 5-10-2020
+5208 Xxzjwufbb Qcbswbd Costa-Rica 56 HEPATITIS-A YES 30-2-2018
+7952 Dmlqhhddvqpa Gswlhxqu Costa-Rica 104 MEASLES NO 
+371 Cjzkga Ztcnznkdbnfy Costa-Rica 26 HIB YES 19-9-2013
+9638 Llg Sdp Costa-Rica 11 MEASLES YES 3-3-2015
+4265 Extniizepymx Twvkobjuqfb Costa-Rica 113 RUBELLA YES 12-5-2003
+4098 Ahzef Roemcx Costa-Rica 10 MEASLES YES 22-3-2005
+8053 Pumem Jhsxjcvgnhc Costa-Rica 75 HIB NO 
+5208 Xxzjwufbb Qcbswbd Costa-Rica 56 TETANUS YES 19-3-2001
+2956 Zxk Ymjzsiz Costa-Rica 58 HIB YES 3-4-2020
+2549 Bxvodwoddg Nkgeklj Costa-Rica 16 MEASLES NO 
+3806 Edubxs Wna Costa-Rica 56 MEASLES YES 8-3-2004
+4931 Mflay Qcmoc Costa-Rica 86 POLIO YES 29-7-2017
+2956 Zxk Ymjzsiz Costa-Rica 58 HEPATITIS-B YES 24-7-2003
+5167 Xsaetnwoe Afhcsnhwy Costa-Rica 107 RUBELLA NO 
+482 Rwmw Pdbgpdn Costa-Rica 52 FLU YES 9-3-2016
+6227 Rhuasujcxd Jiowwcgr Costa-Rica 85 COVID-19 YES 22-12-2015
+7527 Vizgcnlwa Vviqzdyc Costa-Rica 38 HIB NO 
+7527 Vizgcnlwa Vviqzdyc Costa-Rica 38 COVID-19 YES 28-11-2013
+5167 Xsaetnwoe Afhcsnhwy Costa-Rica 107 POLIO NO 
+4931 Mflay Qcmoc Costa-Rica 86 POLIO NO 
+7518 Bbekjkwuz Vdwq Costa-Rica 26 POLIO NO 
+4931 Mflay Qcmoc Costa-Rica 86 COVID-19 YES 11-12-2003
+3992 Uxyuobnmfwov Atuaiegcy Costa-Rica 98 MEASLES NO 
+9638 Llg Sdp Costa-Rica 11 CHICKENPOX NO 
+2549 Bxvodwoddg Nkgeklj Costa-Rica 16 HEPATITIS-B NO 
+2130 Ukekkj Ruezpmz Costa-Rica 53 HEPATITIS-B YES 29-4-2005
+8665 Aqokxvk Gfmxkkmpxfw Costa-Rica 16 HEPATITIS-B NO 
+8648 Slvtk Yfdfuiqcgoev Costa-Rica 4 RUBELLA YES 20-10-2017
+8609 Bmmustnvlzcv Oglpffsdzfkk Costa-Rica 120 HEPATITIS-B NO 
+7511 Yccxgxpk Nhz Costa-Rica 101 TETANUS NO 
+9638 Llg Sdp Costa-Rica 11 RUBELLA YES 16-4-2015
+6861 Yvwcbjbsvx Adbknwacg Costa-Rica 58 RUBELLA NO 
+7511 Yccxgxpk Nhz Costa-Rica 101 HIB YES 24-5-2002
+6861 Yvwcbjbsvx Adbknwacg Costa-Rica 58 TETANUS YES 22-6-2008
+7511 Yccxgxpk Nhz Costa-Rica 101 CHICKENPOX YES 3-6-2018
+2549 Bxvodwoddg Nkgeklj Costa-Rica 16 TETANUS YES 3-10-2019
+4098 Ahzef Roemcx Costa-Rica 10 HIB YES 25-9-2013
+3806 Edubxs Wna Costa-Rica 56 HEPATITIS-A YES 1-10-2010
+2219 Vcomvdbjumk Tlzuaeypcasj Costa-Rica 41 FLU NO 
+5208 Xxzjwufbb Qcbswbd Costa-Rica 56 CHICKENPOX YES 11-1-2001
+2041 Vcqykuuoy Hyb Costa-Rica 114 COVID-19 YES 4-2-2000
+7511 Yccxgxpk Nhz Costa-Rica 101 HEPATITIS-B NO 
+5167 Xsaetnwoe Afhcsnhwy Costa-Rica 107 FLU NO 
+6227 Rhuasujcxd Jiowwcgr Costa-Rica 85 HEPATITIS-A YES 25-8-2003
+9638 Llg Sdp Costa-Rica 11 HEPATITIS-B NO 
+6934 Joeswvuzatg Xtomywxup Costa-Rica 54 POLIO YES 18-7-2018
+3806 Edubxs Wna Costa-Rica 56 TETANUS NO 

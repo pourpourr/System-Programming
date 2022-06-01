@@ -1,0 +1,39 @@
+
+9831 Gtw Acrotrcbccg Central-African-Rep 116 CHICKENPOX YES 22-5-2018
+452 Kzangqijp Oqbr Central-African-Rep 80 RUBELLA YES 28-4-2001
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 FLU NO 
+584 Kvg Wawd Central-African-Rep 120 HEPATITIS-B NO 
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 HEPATITIS-B NO 
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 HIB NO 
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 RUBELLA YES 19-11-2016
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 FLU NO 
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 HEPATITIS-B NO 
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 POLIO YES 7-1-2007
+9831 Gtw Acrotrcbccg Central-African-Rep 116 HEPATITIS-A NO 
+8585 Nfo Vjdqrohek Central-African-Rep 4 CHICKENPOX NO 
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 RUBELLA YES 22-7-2014
+9293 Cktc Qqqideyc Central-African-Rep 33 HEPATITIS-B YES 16-10-2007
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 HEPATITIS-A NO 
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 HIB YES 25-1-2003
+452 Kzangqijp Oqbr Central-African-Rep 80 HIB YES 21-8-2011
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 HEPATITIS-A YES 8-4-2012
+452 Kzangqijp Oqbr Central-African-Rep 80 COVID-19 YES 10-6-2006
+9293 Cktc Qqqideyc Central-African-Rep 33 MEASLES YES 27-3-2003
+9831 Gtw Acrotrcbccg Central-African-Rep 116 FLU NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HEPATITIS-A YES 15-11-2014
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 CHICKENPOX YES 13-5-2010
+452 Kzangqijp Oqbr Central-African-Rep 80 FLU NO 
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 MEASLES NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 RUBELLA NO 
+5024 Hrfiiuby Obn Central-African-Rep 52 COVID-19 YES 16-4-2019
+622 Rozpvup Qlae Central-African-Rep 74 HEPATITIS-A NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 HIB NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 HIB NO 
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 COVID-19 YES 27-8-2020
+452 Kzangqijp Oqbr Central-African-Rep 80 TETANUS NO 
+622 Rozpvup Qlae Central-African-Rep 74 HEPATITIS-B NO 
+452 Kzangqijp Oqbr Central-African-Rep 80 POLIO YES 15-4-2009
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HEPATITIS-A YES 26-4-2018
+452 Kzangqijp Oqbr Central-African-Rep 80 RUBELLA NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 MEASLES YES 16-4-2018
+584 Kvg Wawd Central-African-Rep 120 HEPATITIS-B YES 4-10-2010

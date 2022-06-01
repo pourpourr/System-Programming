@@ -1,0 +1,35 @@
+
+5307 Fos Jzfcv United-Arab-Emirates 57 HEPATITIS-B NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 RUBELLA YES 1-7-2012
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 MEASLES YES 9-6-2009
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 RUBELLA YES 2-9-2015
+7020 Cew Tqkux United-Arab-Emirates 9 RUBELLA NO 
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 TETANUS YES 21-10-2010
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 CHICKENPOX NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 TETANUS YES 26-3-2010
+1036 Oixgjort Iasnc United-Arab-Emirates 105 HEPATITIS-B YES 19-12-2000
+2594 Raor Gyri United-Arab-Emirates 73 POLIO NO 
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 POLIO YES 29-3-2012
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 TETANUS NO 
+2594 Raor Gyri United-Arab-Emirates 73 CHICKENPOX YES 9-2-2014
+7020 Cew Tqkux United-Arab-Emirates 9 POLIO NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 HIB YES 15-7-2016
+8868 Cir Cap United-Arab-Emirates 74 MEASLES YES 18-4-2011
+9707 Mmjoa Qolv United-Arab-Emirates 22 MEASLES YES 12-10-2007
+5307 Fos Jzfcv United-Arab-Emirates 57 CHICKENPOX NO 
+875 Tirvbm Bsgjn United-Arab-Emirates 67 FLU YES 14-4-2002
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 FLU NO 
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 CHICKENPOX YES 18-8-2012
+5307 Fos Jzfcv United-Arab-Emirates 57 HIB YES 28-3-2003
+1036 Oixgjort Iasnc United-Arab-Emirates 105 HIB NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 MEASLES NO 
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 TETANUS NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 HEPATITIS-B YES 21-12-2014
+5307 Fos Jzfcv United-Arab-Emirates 57 TETANUS NO 
+7020 Cew Tqkux United-Arab-Emirates 9 FLU NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 MEASLES NO 
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 HEPATITIS-B YES 9-6-2012
+2594 Raor Gyri United-Arab-Emirates 73 HEPATITIS-B YES 25-1-2008
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 POLIO YES 4-11-2007
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 HEPATITIS-B YES 17-6-2019
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 COVID-19 NO 

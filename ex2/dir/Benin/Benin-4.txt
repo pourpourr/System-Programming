@@ -1,0 +1,52 @@
+
+8184 Qmvrrlujd Iovl Benin 119 HEPATITIS-A NO 
+2921 Njo Iitgxs Benin 105 COVID-19 NO 
+7913 Jsx Stjjnibfo Benin 49 RUBELLA NO 
+3716 Xaxrqvnmmv Bxy Benin 117 COVID-19 YES 28-10-2020
+2034 Tnjbwyzwu Dbdvgxb Benin 52 POLIO NO 
+2921 Njo Iitgxs Benin 105 RUBELLA YES 21-4-2012
+2185 Zebjsuidcsyu Vpqodcwvtey Benin 61 HIB NO 
+3717 Ilgpfroqqotg Coev Benin 57 CHICKENPOX NO 
+4865 Jbzbnni Deu Benin 38 FLU NO 
+9350 Tlnbmnfbbba Vyvpquvojmr Benin 11 HEPATITIS-A NO 
+360 Graludhlpbw Cmmpvz Benin 47 COVID-19 YES 7-12-2008
+9216 Abfvuwkzggwa Qmugs Benin 30 HEPATITIS-A NO 
+2034 Tnjbwyzwu Dbdvgxb Benin 52 RUBELLA YES 19-9-2005
+7913 Jsx Stjjnibfo Benin 49 RUBELLA NO 
+4311 Gpuoxfxwcoo Vuwlcwwydzg Benin 22 HEPATITIS-B YES 7-9-2008
+8139 Itzwcuodlx Qwbvvmqxgzlq Benin 51 POLIO YES 3-11-2001
+4176 Ddbjcfeb Gpvoqbhevheb Benin 54 TETANUS YES 11-2-2014
+2921 Njo Iitgxs Benin 105 HEPATITIS-B YES 19-3-2003
+2616 Flft Xizxb Benin 40 MEASLES NO 
+336 Kzl Ldimsplasqr Benin 84 MEASLES NO 
+8894 Bwcklyon Vaacadvakmx Benin 68 POLIO NO 
+9367 Msck Ooi Benin 43 TETANUS NO 
+9996 Hygmexknsl Vuez Benin 117 POLIO YES 14-8-2019
+5651 Fdkkf Ltd Benin 13 HIB YES 30-8-2014
+9350 Tlnbmnfbbba Vyvpquvojmr Benin 11 TETANUS NO 
+5651 Fdkkf Ltd Benin 13 COVID-19 YES 21-11-2014
+8184 Qmvrrlujd Iovl Benin 119 HEPATITIS-A YES 25-12-2005
+9367 Msck Ooi Benin 43 FLU NO 
+5651 Fdkkf Ltd Benin 13 HEPATITIS-B NO 
+3717 Ilgpfroqqotg Coev Benin 57 TETANUS YES 28-3-2019
+2921 Njo Iitgxs Benin 105 RUBELLA NO 
+8184 Qmvrrlujd Iovl Benin 119 MEASLES NO 
+9216 Abfvuwkzggwa Qmugs Benin 30 HIB NO 
+9350 Tlnbmnfbbba Vyvpquvojmr Benin 11 COVID-19 NO 
+5651 Fdkkf Ltd Benin 13 CHICKENPOX YES 20-1-2018
+9350 Tlnbmnfbbba Vyvpquvojmr Benin 11 RUBELLA YES 5-2-2003
+2616 Flft Xizxb Benin 40 MEASLES NO 
+613 Vysfbv Zys Benin 18 HEPATITIS-A NO 
+360 Graludhlpbw Cmmpvz Benin 47 HEPATITIS-A YES 28-8-2003
+4311 Gpuoxfxwcoo Vuwlcwwydzg Benin 22 HIB YES 24-12-2011
+3716 Xaxrqvnmmv Bxy Benin 117 HEPATITIS-A NO 
+5651 Fdkkf Ltd Benin 13 MEASLES NO 
+8139 Itzwcuodlx Qwbvvmqxgzlq Benin 51 HIB NO 
+3716 Xaxrqvnmmv Bxy Benin 117 HEPATITIS-B NO 
+4176 Ddbjcfeb Gpvoqbhevheb Benin 54 COVID-19 YES 11-11-2004
+9367 Msck Ooi Benin 43 HEPATITIS-A YES 26-8-2008
+3716 Xaxrqvnmmv Bxy Benin 117 FLU NO 
+7913 Jsx Stjjnibfo Benin 49 MEASLES YES 12-2-2017
+4311 Gpuoxfxwcoo Vuwlcwwydzg Benin 22 MEASLES YES 25-6-2010
+3717 Ilgpfroqqotg Coev Benin 57 MEASLES NO 
+9996 Hygmexknsl Vuez Benin 117 FLU NO 

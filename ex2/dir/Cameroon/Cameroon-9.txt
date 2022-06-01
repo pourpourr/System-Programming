@@ -1,0 +1,57 @@
+
+8647 Qrszhqc Bxsntlplwn Cameroon 37 RUBELLA YES 8-11-2010
+7292 Ssjanr Tjmenh Cameroon 112 CHICKENPOX NO 
+3701 Sbiq Qwxgmtaus Cameroon 104 HEPATITIS-A YES 3-4-2020
+732 Xddljdjwi Qdyuisdgzfa Cameroon 76 TETANUS YES 14-4-2016
+1564 Nphwu Sffipjz Cameroon 11 RUBELLA YES 19-10-2002
+256 Jynq Gxuxizubberb Cameroon 109 RUBELLA NO 
+5978 Qhpduowedfuo Cxahzrbh Cameroon 115 FLU NO 
+5978 Qhpduowedfuo Cxahzrbh Cameroon 115 RUBELLA YES 16-9-2004
+200 Nrapdygren Qyxej Cameroon 85 TETANUS NO 
+7292 Ssjanr Tjmenh Cameroon 112 FLU YES 27-10-2020
+5295 Nvphl Sljidjvlx Cameroon 25 TETANUS NO 
+256 Jynq Gxuxizubberb Cameroon 109 POLIO NO 
+2313 Mzh Mrkh Cameroon 114 POLIO YES 14-10-2003
+6111 Zxryqgsyghus Kweiymyn Cameroon 39 CHICKENPOX YES 8-4-2007
+256 Jynq Gxuxizubberb Cameroon 109 RUBELLA NO 
+7815 Mwdfikzxrz Dbusgr Cameroon 111 POLIO YES 14-8-2007
+7019 Zxmspekchu Wfyq Cameroon 94 HEPATITIS-A YES 18-10-2003
+256 Jynq Gxuxizubberb Cameroon 109 TETANUS YES 12-6-2006
+263 Ltv Ctkjbxw Cameroon 38 TETANUS NO 
+7292 Ssjanr Tjmenh Cameroon 112 FLU YES 7-2-2020
+1743 Jkp Ukhg Cameroon 95 RUBELLA YES 27-6-2010
+520 Aaaqyue Kgoqzrisphkk Cameroon 15 TETANUS NO 
+6111 Zxryqgsyghus Kweiymyn Cameroon 39 RUBELLA NO 
+5295 Nvphl Sljidjvlx Cameroon 25 TETANUS YES 14-5-2018
+550 Upgjgqmsbwo Huqgong Cameroon 108 COVID-19 NO 
+5317 Ibzeozcl Zwadx Cameroon 18 HEPATITIS-B NO 
+6111 Zxryqgsyghus Kweiymyn Cameroon 39 MEASLES NO 
+7815 Mwdfikzxrz Dbusgr Cameroon 111 POLIO YES 6-10-2020
+520 Aaaqyue Kgoqzrisphkk Cameroon 15 FLU YES 11-2-2017
+3701 Sbiq Qwxgmtaus Cameroon 104 COVID-19 YES 18-12-2013
+732 Xddljdjwi Qdyuisdgzfa Cameroon 76 RUBELLA NO 
+3432 Urdx Nmt Cameroon 104 HIB NO 
+1564 Nphwu Sffipjz Cameroon 11 TETANUS NO 
+3701 Sbiq Qwxgmtaus Cameroon 104 HIB YES 27-11-2006
+2313 Mzh Mrkh Cameroon 114 HEPATITIS-B NO 
+7019 Zxmspekchu Wfyq Cameroon 94 COVID-19 NO 
+520 Aaaqyue Kgoqzrisphkk Cameroon 15 MEASLES YES 23-12-2010
+5317 Ibzeozcl Zwadx Cameroon 18 HEPATITIS-B NO 
+256 Jynq Gxuxizubberb Cameroon 109 COVID-19 YES 6-11-2012
+7019 Zxmspekchu Wfyq Cameroon 94 TETANUS YES 22-2-2012
+2313 Mzh Mrkh Cameroon 114 COVID-19 NO 
+9837 Vxwywa Sjyqbjvxgwkk Cameroon 22 COVID-19 YES 24-6-2000
+6111 Zxryqgsyghus Kweiymyn Cameroon 39 POLIO YES 25-3-2007
+1564 Nphwu Sffipjz Cameroon 11 POLIO YES 27-1-2001
+3432 Urdx Nmt Cameroon 104 TETANUS YES 30-8-2001
+263 Ltv Ctkjbxw Cameroon 38 MEASLES NO 
+5978 Qhpduowedfuo Cxahzrbh Cameroon 115 RUBELLA YES 24-10-2016
+3701 Sbiq Qwxgmtaus Cameroon 104 HEPATITIS-B YES 4-11-2020
+5295 Nvphl Sljidjvlx Cameroon 25 MEASLES NO 
+7292 Ssjanr Tjmenh Cameroon 112 COVID-19 YES 26-10-2014
+1743 Jkp Ukhg Cameroon 95 TETANUS YES 14-5-2006
+8647 Qrszhqc Bxsntlplwn Cameroon 37 FLU YES 6-3-2002
+256 Jynq Gxuxizubberb Cameroon 109 HIB YES 23-7-2007
+732 Xddljdjwi Qdyuisdgzfa Cameroon 76 HEPATITIS-B YES 22-2-2000
+5295 Nvphl Sljidjvlx Cameroon 25 FLU NO 
+7815 Mwdfikzxrz Dbusgr Cameroon 111 FLU NO 

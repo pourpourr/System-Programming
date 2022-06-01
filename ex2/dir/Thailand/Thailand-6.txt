@@ -1,0 +1,66 @@
+
+6130 Mydrwzvf Yclrepl Thailand 83 HIB YES 9-4-2009
+4675 Swicasiowbf Dpdjmmna Thailand 29 POLIO NO 
+7250 Cnajwiiedxil Lmyh Thailand 14 HIB YES 6-5-2012
+2402 Vtn Jyunyiyjan Thailand 36 FLU NO 
+6507 Zcrvbdyzzwwq Rkdravesszjw Thailand 60 CHICKENPOX NO 
+3094 Beghxp Uacwwec Thailand 112 TETANUS NO 
+6271 Ezgedbebmn Bjlbndzjkhlb Thailand 109 MEASLES NO 
+7250 Cnajwiiedxil Lmyh Thailand 14 COVID-19 YES 28-8-2014
+9583 Llwltnawt Okormskx Thailand 75 HIB NO 
+6021 Cchbpiranlkd Eznsenaepwx Thailand 39 RUBELLA NO 
+9550 Ixw Ncuqvvfmqye Thailand 118 POLIO NO 
+2958 Wrgahvl Yfvx Thailand 10 CHICKENPOX NO 
+2958 Wrgahvl Yfvx Thailand 10 COVID-19 NO 
+6130 Mydrwzvf Yclrepl Thailand 83 POLIO YES 5-8-2001
+5308 Fhgzo Ujfgzseaboab Thailand 55 HIB YES 6-7-2010
+5308 Fhgzo Ujfgzseaboab Thailand 55 TETANUS NO 
+6130 Mydrwzvf Yclrepl Thailand 83 HEPATITIS-B YES 26-12-2016
+4675 Swicasiowbf Dpdjmmna Thailand 29 COVID-19 NO 
+6761 Uzvsfyf Tqvpirt Thailand 120 TETANUS YES 17-6-2000
+3094 Beghxp Uacwwec Thailand 112 HEPATITIS-A YES 7-9-2018
+2958 Wrgahvl Yfvx Thailand 10 HEPATITIS-B NO 
+1770 Zhddnlwwn Vaudcxa Thailand 113 MEASLES NO 
+9550 Ixw Ncuqvvfmqye Thailand 118 HEPATITIS-A YES 23-6-2017
+1770 Zhddnlwwn Vaudcxa Thailand 113 HEPATITIS-A NO 
+2407 Kjrajpmquh Pmgqo Thailand 57 TETANUS NO 
+6967 Bcqgrgg Skjsjpnw Thailand 105 FLU NO 
+5364 Iyyxyia Sunzofdh Thailand 76 HIB YES 4-6-2001
+1770 Zhddnlwwn Vaudcxa Thailand 113 RUBELLA YES 19-1-2017
+6130 Mydrwzvf Yclrepl Thailand 83 RUBELLA YES 9-1-2014
+4415 Tyueria Illthcd Thailand 62 FLU YES 18-4-2003
+5364 Iyyxyia Sunzofdh Thailand 76 FLU YES 15-4-2013
+4675 Swicasiowbf Dpdjmmna Thailand 29 COVID-19 NO 
+6967 Bcqgrgg Skjsjpnw Thailand 105 HEPATITIS-A YES 21-9-2000
+5364 Iyyxyia Sunzofdh Thailand 76 COVID-19 NO 
+4019 Jycudle Mpfjepruu Thailand 22 POLIO YES 19-5-2005
+2402 Vtn Jyunyiyjan Thailand 36 HEPATITIS-A YES 30-12-2007
+9550 Ixw Ncuqvvfmqye Thailand 118 FLU NO 
+4223 Jpyoh Hhdeigl Thailand 68 HEPATITIS-A NO 
+6130 Mydrwzvf Yclrepl Thailand 83 COVID-19 YES 22-4-2020
+9550 Ixw Ncuqvvfmqye Thailand 118 HEPATITIS-A YES 13-6-2007
+2104 Dtvjnb Twhpqtjaf Thailand 38 HEPATITIS-B NO 
+3829 Yyfjrnnazioh Ejpggtca Thailand 82 POLIO YES 10-1-2015
+3829 Yyfjrnnazioh Ejpggtca Thailand 82 MEASLES YES 30-12-2001
+6507 Zcrvbdyzzwwq Rkdravesszjw Thailand 60 MEASLES YES 5-1-2014
+6761 Uzvsfyf Tqvpirt Thailand 120 FLU YES 27-1-2017
+6761 Uzvsfyf Tqvpirt Thailand 120 RUBELLA NO 
+4398 Ynty Xcxwfruotkyc Thailand 93 FLU NO 
+3094 Beghxp Uacwwec Thailand 112 CHICKENPOX YES 9-8-2012
+4398 Ynty Xcxwfruotkyc Thailand 93 COVID-19 NO 
+6761 Uzvsfyf Tqvpirt Thailand 120 FLU NO 
+2776 Bscnxzqxz Ehxct Thailand 33 CHICKENPOX YES 10-10-2008
+3766 Kfpzog Jthnntwsew Thailand 49 TETANUS NO 
+4019 Jycudle Mpfjepruu Thailand 22 FLU YES 22-1-2006
+4223 Jpyoh Hhdeigl Thailand 68 HEPATITIS-A NO 
+7118 Uuuq Frwlsmpy Thailand 43 COVID-19 YES 6-5-2020
+118 Mib Tmtkbyb Thailand 101 HIB YES 3-12-2003
+6021 Cchbpiranlkd Eznsenaepwx Thailand 39 CHICKENPOX NO 
+4415 Tyueria Illthcd Thailand 62 HIB NO 
+8239 Znl Mbrdlofduhcc Thailand 88 HIB NO 
+2776 Bscnxzqxz Ehxct Thailand 33 CHICKENPOX NO 
+3766 Kfpzog Jthnntwsew Thailand 49 HIB NO 
+2407 Kjrajpmquh Pmgqo Thailand 57 COVID-19 YES 28-8-2001
+6356 Gvdojd Hkvsggjyjhir Thailand 110 HIB YES 5-5-2015
+1463 Tzymfnz Qbddhex Thailand 54 TETANUS NO 
+1463 Tzymfnz Qbddhex Thailand 54 HEPATITIS-B YES 7-12-2016

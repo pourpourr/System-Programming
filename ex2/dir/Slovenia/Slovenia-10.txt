@@ -1,0 +1,43 @@
+
+2403 Wfn Jntxnhxtbrr Slovenia 33 HEPATITIS-A YES 5-9-2008
+756 Tvegdzt Vwf Slovenia 76 COVID-19 YES 16-1-2010
+423 Rqlittkrbyi Vuytfl Slovenia 11 HIB YES 21-11-2003
+2403 Wfn Jntxnhxtbrr Slovenia 33 HEPATITIS-B NO 
+2698 Qbehxfyjy Oubcyug Slovenia 8 POLIO NO 
+899 Rolvupny Nmqonjuxkbxk Slovenia 95 RUBELLA YES 1-11-2007
+9259 Mguyobub Thwbtjnb Slovenia 90 COVID-19 NO 
+9766 Bfigacxithbm Telicgiw Slovenia 29 HIB NO 
+1886 Rvfzpcqgym Vsjt Slovenia 64 HIB YES 1-10-2008
+1886 Rvfzpcqgym Vsjt Slovenia 64 HEPATITIS-B YES 7-9-2002
+1562 Wplebirswm Evqhfhq Slovenia 10 FLU YES 4-3-2002
+9766 Bfigacxithbm Telicgiw Slovenia 29 RUBELLA NO 
+4433 Vwwwrtomfl Fuwcqdojim Slovenia 97 POLIO NO 
+9259 Mguyobub Thwbtjnb Slovenia 90 FLU YES 23-8-2012
+8458 Wisho Zhooyoagt Slovenia 114 POLIO YES 28-10-2012
+4433 Vwwwrtomfl Fuwcqdojim Slovenia 97 TETANUS NO 
+899 Rolvupny Nmqonjuxkbxk Slovenia 95 HEPATITIS-A NO 
+4785 Qiucji Fletg Slovenia 40 TETANUS NO 
+9097 Bavxcimj Gxrwvdd Slovenia 106 MEASLES YES 1-9-2012
+4433 Vwwwrtomfl Fuwcqdojim Slovenia 97 TETANUS NO 
+899 Rolvupny Nmqonjuxkbxk Slovenia 95 COVID-19 YES 18-6-2017
+9766 Bfigacxithbm Telicgiw Slovenia 29 MEASLES NO 
+1886 Rvfzpcqgym Vsjt Slovenia 64 COVID-19 NO 
+423 Rqlittkrbyi Vuytfl Slovenia 11 HEPATITIS-A NO 
+4433 Vwwwrtomfl Fuwcqdojim Slovenia 97 COVID-19 NO 
+1562 Wplebirswm Evqhfhq Slovenia 10 FLU NO 
+8510 Jiixxul Dyqae Slovenia 2 COVID-19 YES 10-9-2000
+4785 Qiucji Fletg Slovenia 40 TETANUS YES 17-8-2001
+423 Rqlittkrbyi Vuytfl Slovenia 11 FLU YES 29-9-2002
+7476 Mkhxvxonf Odemzrrejam Slovenia 58 HEPATITIS-B NO 
+423 Rqlittkrbyi Vuytfl Slovenia 11 MEASLES YES 10-3-2007
+7476 Mkhxvxonf Odemzrrejam Slovenia 58 COVID-19 NO 
+8510 Jiixxul Dyqae Slovenia 2 FLU YES 10-1-2011
+2403 Wfn Jntxnhxtbrr Slovenia 33 HIB YES 5-9-2010
+2403 Wfn Jntxnhxtbrr Slovenia 33 COVID-19 NO 
+7476 Mkhxvxonf Odemzrrejam Slovenia 58 CHICKENPOX YES 26-9-2017
+2692 Waqnes Oedktxa Slovenia 56 FLU NO 
+4433 Vwwwrtomfl Fuwcqdojim Slovenia 97 HIB NO 
+4785 Qiucji Fletg Slovenia 40 HIB YES 25-9-2020
+8458 Wisho Zhooyoagt Slovenia 114 HEPATITIS-B NO 
+1562 Wplebirswm Evqhfhq Slovenia 10 RUBELLA NO 
+5338 Erjvygfqw Rxbtottc Slovenia 16 POLIO YES 18-6-2014

@@ -1,0 +1,28 @@
+
+1527 Ievbs Ohsygu Peru 12 RUBELLA YES 28-2-2002
+2741 Cpwslcrkbt Pjfoi Peru 11 HEPATITIS-B YES 28-5-2004
+1097 Amabthq Rrbgjj Peru 86 HEPATITIS-A NO 
+1527 Ievbs Ohsygu Peru 12 RUBELLA YES 10-3-2011
+3974 Nzf Zuvghihvh Peru 82 TETANUS YES 13-2-2020
+6718 Ptsbo Tajzalrrygnw Peru 83 RUBELLA YES 12-3-2016
+6444 Flheb Saehlmmhf Peru 10 RUBELLA NO 
+6718 Ptsbo Tajzalrrygnw Peru 83 COVID-19 NO 
+5401 Lmtowmvql Fjkng Peru 101 RUBELLA YES 26-1-2001
+1795 Palenzt Mxtxuq Peru 112 HIB YES 15-5-2004
+1240 Skrh Otnsihst Peru 16 POLIO NO 
+3974 Nzf Zuvghihvh Peru 82 CHICKENPOX YES 23-9-2010
+6718 Ptsbo Tajzalrrygnw Peru 83 POLIO NO 
+1240 Skrh Otnsihst Peru 16 HEPATITIS-B YES 23-4-2011
+6444 Flheb Saehlmmhf Peru 10 CHICKENPOX NO 
+3974 Nzf Zuvghihvh Peru 82 FLU YES 21-6-2006
+5401 Lmtowmvql Fjkng Peru 101 POLIO YES 24-8-2002
+2741 Cpwslcrkbt Pjfoi Peru 11 CHICKENPOX NO 
+1795 Palenzt Mxtxuq Peru 112 FLU YES 18-3-2015
+2741 Cpwslcrkbt Pjfoi Peru 11 POLIO NO 
+3974 Nzf Zuvghihvh Peru 82 HEPATITIS-A YES 11-2-2019
+5171 Tqofstj Cdwcv Peru 82 COVID-19 YES 30-9-2018
+3974 Nzf Zuvghihvh Peru 82 CHICKENPOX NO 
+5453 Dtdwbf Qkrsooawfvyh Peru 47 COVID-19 YES 24-3-2001
+5453 Dtdwbf Qkrsooawfvyh Peru 47 HEPATITIS-A YES 7-9-2000
+6718 Ptsbo Tajzalrrygnw Peru 83 COVID-19 NO 
+3974 Nzf Zuvghihvh Peru 82 POLIO YES 20-8-2007

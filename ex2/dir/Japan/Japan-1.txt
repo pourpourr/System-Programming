@@ -1,0 +1,55 @@
+
+8878 Ynjgjwq Duiqzyzuprd Japan 2 POLIO NO 
+4942 Jgnlnuho Kibxi Japan 66 FLU NO 
+4407 Lite Uhqyliiolyp Japan 41 HEPATITIS-A YES 3-4-2003
+9874 Bmkoz Fdst Japan 104 HIB YES 21-11-2013
+9874 Bmkoz Fdst Japan 104 MEASLES NO 
+7949 Iqoipy Skteiybqutq Japan 115 MEASLES NO 
+961 Ddpspmsngcd Aqmd Japan 45 MEASLES YES 25-5-2000
+8878 Ynjgjwq Duiqzyzuprd Japan 2 TETANUS YES 19-10-2012
+5154 Nge Winigxx Japan 84 FLU YES 21-5-2014
+8360 Ahcrbzjq Uttrq Japan 1 FLU YES 29-12-2015
+597 Nscnr Wfwnbeikaj Japan 12 RUBELLA NO 
+1256 Sotvdt Pxrcfvzxdost Japan 113 FLU NO 
+7539 Synomxulfuiy Ujswlckcv Japan 28 TETANUS NO 
+4407 Lite Uhqyliiolyp Japan 41 COVID-19 YES 16-2-2004
+4316 Hpma Lczosmtdmn Japan 30 HEPATITIS-B NO 
+8360 Ahcrbzjq Uttrq Japan 1 TETANUS YES 29-11-2008
+7539 Synomxulfuiy Ujswlckcv Japan 28 FLU YES 22-10-2001
+4099 Elmu Xggrdtobw Japan 99 POLIO YES 5-12-2017
+5052 Turfz Mets Japan 58 RUBELLA NO 
+8878 Ynjgjwq Duiqzyzuprd Japan 2 MEASLES YES 1-8-2012
+8171 Xyd Itsj Japan 51 POLIO YES 21-9-2016
+961 Ddpspmsngcd Aqmd Japan 45 TETANUS YES 29-4-2012
+7534 Qolpfz Hiizgm Japan 8 HEPATITIS-B YES 15-4-2004
+7534 Qolpfz Hiizgm Japan 8 FLU NO 
+597 Nscnr Wfwnbeikaj Japan 12 POLIO NO 
+8878 Ynjgjwq Duiqzyzuprd Japan 2 CHICKENPOX YES 5-4-2018
+5052 Turfz Mets Japan 58 CHICKENPOX NO 
+5267 Jswpbixkfnas Yjqbpbyadku Japan 19 HIB YES 25-1-2019
+5267 Jswpbixkfnas Yjqbpbyadku Japan 19 HIB NO 
+1256 Sotvdt Pxrcfvzxdost Japan 113 CHICKENPOX YES 3-1-2010
+4407 Lite Uhqyliiolyp Japan 41 HEPATITIS-B NO 
+8360 Ahcrbzjq Uttrq Japan 1 MEASLES YES 10-7-2009
+7729 Yqlsp Faqgyqpkpnia Japan 56 CHICKENPOX YES 29-2-2004
+4099 Elmu Xggrdtobw Japan 99 COVID-19 NO 
+961 Ddpspmsngcd Aqmd Japan 45 COVID-19 NO 
+5255 Auajcre Qginliwnbgw Japan 51 CHICKENPOX NO 
+2353 Uosw Dzjnsoy Japan 70 POLIO YES 24-9-2017
+1207 Eblgrlyuhcel Ipfvbivott Japan 92 FLU NO 
+8171 Xyd Itsj Japan 51 HEPATITIS-B NO 
+5154 Nge Winigxx Japan 84 CHICKENPOX YES 1-12-2004
+8878 Ynjgjwq Duiqzyzuprd Japan 2 TETANUS NO 
+8878 Ynjgjwq Duiqzyzuprd Japan 2 FLU YES 29-9-2020
+8091 Ujr Azslspzv Japan 13 RUBELLA YES 8-8-2020
+8171 Xyd Itsj Japan 51 MEASLES YES 13-7-2000
+8360 Ahcrbzjq Uttrq Japan 1 CHICKENPOX NO 
+5255 Auajcre Qginliwnbgw Japan 51 MEASLES NO 
+8037 Slgrsvj Mohi Japan 61 MEASLES YES 18-6-2004
+7949 Iqoipy Skteiybqutq Japan 115 MEASLES NO 
+7949 Iqoipy Skteiybqutq Japan 115 RUBELLA YES 14-11-2005
+1609 Dwihf Ukshybrbk Japan 56 COVID-19 YES 5-7-2000
+7729 Yqlsp Faqgyqpkpnia Japan 56 RUBELLA NO 
+2353 Uosw Dzjnsoy Japan 70 FLU NO 
+1256 Sotvdt Pxrcfvzxdost Japan 113 MEASLES NO 
+8037 Slgrsvj Mohi Japan 61 COVID-19 YES 18-1-2014

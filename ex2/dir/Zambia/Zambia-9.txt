@@ -1,0 +1,62 @@
+
+5600 Yffwfkrlisll Ulvmeuu Zambia 78 HEPATITIS-B NO 
+6112 Xzq Lfo Zambia 101 HEPATITIS-B NO 
+1620 Jifj Ckrsnllge Zambia 112 TETANUS NO 
+9297 Neg Jxonlmt Zambia 12 CHICKENPOX NO 
+4011 Uadncnly Duyijv Zambia 10 HEPATITIS-A NO 
+5324 Lti Inlu Zambia 58 RUBELLA YES 27-6-2014
+8380 Byttcmrbcquf Padwifclb Zambia 66 MEASLES NO 
+8380 Byttcmrbcquf Padwifclb Zambia 66 RUBELLA NO 
+9924 Nozw Eybaztdtwpqk Zambia 111 TETANUS NO 
+3351 Tchrjhvsrcyc Dzflhyrulxbt Zambia 84 POLIO YES 24-7-2012
+9297 Neg Jxonlmt Zambia 12 HIB YES 13-12-2009
+7402 Ekkyxmxs Chmfqg Zambia 37 HIB NO 
+9276 Bbicofazyum Tnkjeo Zambia 24 COVID-19 YES 9-6-2005
+876 Bsudmvjiqfi Dzgtcwreergz Zambia 34 CHICKENPOX NO 
+1620 Jifj Ckrsnllge Zambia 112 CHICKENPOX NO 
+4011 Uadncnly Duyijv Zambia 10 HEPATITIS-A NO 
+4011 Uadncnly Duyijv Zambia 10 CHICKENPOX NO 
+7847 Jakcx Qdyajdgbm Zambia 28 HEPATITIS-A YES 14-8-2003
+3351 Tchrjhvsrcyc Dzflhyrulxbt Zambia 84 HIB YES 27-5-2006
+4057 Ihwqeu Hyxbuuo Zambia 62 HEPATITIS-B NO 
+3351 Tchrjhvsrcyc Dzflhyrulxbt Zambia 84 COVID-19 YES 25-5-2007
+4971 Yqchgdyjy Puuzydrb Zambia 109 COVID-19 YES 19-3-2003
+9924 Nozw Eybaztdtwpqk Zambia 111 HEPATITIS-B YES 28-1-2001
+3321 Gofp Zziiipbwb Zambia 60 TETANUS NO 
+5324 Lti Inlu Zambia 58 HEPATITIS-A NO 
+3321 Gofp Zziiipbwb Zambia 60 HEPATITIS-A YES 6-4-2019
+6610 Lgmzvsxw Abnwybkgnpgq Zambia 80 RUBELLA YES 9-11-2014
+2419 Aau Mqakapfga Zambia 62 CHICKENPOX YES 29-1-2000
+7666 Wdjutdqhrkr Bykzk Zambia 30 POLIO YES 22-10-2005
+3311 Ldeswz Zgaabpmf Zambia 91 RUBELLA NO 
+7847 Jakcx Qdyajdgbm Zambia 28 COVID-19 NO 
+4971 Yqchgdyjy Puuzydrb Zambia 109 HEPATITIS-B YES 28-2-2002
+3534 Tivkhw Nuw Zambia 69 HIB NO 
+6610 Lgmzvsxw Abnwybkgnpgq Zambia 80 FLU NO 
+4971 Yqchgdyjy Puuzydrb Zambia 109 FLU NO 
+876 Bsudmvjiqfi Dzgtcwreergz Zambia 34 RUBELLA NO 
+1620 Jifj Ckrsnllge Zambia 112 CHICKENPOX YES 3-6-2020
+4389 Mnqzidyyddbc Aidpmduej Zambia 6 HEPATITIS-A YES 23-11-2000
+4155 Tpplx Ytznsrcf Zambia 10 CHICKENPOX NO 
+4389 Mnqzidyyddbc Aidpmduej Zambia 6 COVID-19 NO 
+9276 Bbicofazyum Tnkjeo Zambia 24 RUBELLA NO 
+9924 Nozw Eybaztdtwpqk Zambia 111 FLU YES 3-1-2009
+7666 Wdjutdqhrkr Bykzk Zambia 30 HEPATITIS-A YES 21-12-2006
+9963 Bqlw Zgrseknbdoei Zambia 74 CHICKENPOX YES 6-8-2009
+2419 Aau Mqakapfga Zambia 62 CHICKENPOX YES 13-5-2015
+4971 Yqchgdyjy Puuzydrb Zambia 109 TETANUS YES 1-7-2016
+9963 Bqlw Zgrseknbdoei Zambia 74 HEPATITIS-B NO 
+9297 Neg Jxonlmt Zambia 12 HEPATITIS-B YES 15-5-2009
+3534 Tivkhw Nuw Zambia 69 MEASLES NO 
+8380 Byttcmrbcquf Padwifclb Zambia 66 RUBELLA YES 30-7-2007
+1548 Mmcejw Exh Zambia 117 RUBELLA YES 14-5-2006
+6112 Xzq Lfo Zambia 101 FLU YES 4-6-2012
+3311 Ldeswz Zgaabpmf Zambia 91 TETANUS NO 
+9557 Gggz Pgnkhjp Zambia 92 COVID-19 NO 
+6112 Xzq Lfo Zambia 101 HIB NO 
+3311 Ldeswz Zgaabpmf Zambia 91 FLU NO 
+3321 Gofp Zziiipbwb Zambia 60 MEASLES NO 
+9276 Bbicofazyum Tnkjeo Zambia 24 HIB NO 
+5340 Wfyootc Jprlrwxdwcdw Zambia 66 FLU YES 15-7-2014
+4011 Uadncnly Duyijv Zambia 10 HEPATITIS-A YES 19-1-2013
+9963 Bqlw Zgrseknbdoei Zambia 74 POLIO NO 

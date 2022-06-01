@@ -1,0 +1,37 @@
+
+8533 Etwgdbwtdyo Dqysnziqeo Monaco 46 POLIO NO 
+1730 Myhpv Ctsmri Monaco 3 COVID-19 NO 
+5476 Cbxchd Rwfhl Monaco 83 HIB YES 15-8-2012
+5476 Cbxchd Rwfhl Monaco 83 HEPATITIS-A NO 
+1406 Uaeawztltl Fvzmoavzab Monaco 92 HEPATITIS-A YES 15-4-2019
+5476 Cbxchd Rwfhl Monaco 83 HEPATITIS-B YES 7-5-2009
+9151 Kzu Drfgyabybksb Monaco 4 HEPATITIS-B NO 
+8723 Uzt Ebxxzjsd Monaco 110 FLU NO 
+4640 Irwqrdai Cha Monaco 4 HEPATITIS-B NO 
+1342 Vbl Qobwly Monaco 55 TETANUS NO 
+8533 Etwgdbwtdyo Dqysnziqeo Monaco 46 TETANUS YES 16-5-2005
+1342 Vbl Qobwly Monaco 55 CHICKENPOX NO 
+5086 Bctzmolsbybg Zkoepdrl Monaco 45 CHICKENPOX YES 17-4-2000
+5476 Cbxchd Rwfhl Monaco 83 COVID-19 YES 16-9-2020
+4016 Uzghtchjmnc Fggaflcjge Monaco 24 POLIO NO 
+1196 Vvysw Sjxexvyfpsxu Monaco 91 RUBELLA NO 
+9151 Kzu Drfgyabybksb Monaco 4 HIB YES 16-3-2006
+4640 Irwqrdai Cha Monaco 4 COVID-19 YES 24-7-2020
+3577 Mwdni Awwbcos Monaco 110 HEPATITIS-B NO 
+7266 Nbpq Wusbmdoc Monaco 90 HIB YES 18-11-2007
+8222 Xhnkzp Hzosobnhujis Monaco 71 RUBELLA YES 8-10-2019
+8723 Uzt Ebxxzjsd Monaco 110 RUBELLA YES 10-2-2017
+1342 Vbl Qobwly Monaco 55 POLIO YES 18-3-2012
+1342 Vbl Qobwly Monaco 55 HEPATITIS-B YES 21-11-2010
+5476 Cbxchd Rwfhl Monaco 83 CHICKENPOX NO 
+8222 Xhnkzp Hzosobnhujis Monaco 71 POLIO NO 
+1703 Nbukeee Plierrebao Monaco 46 MEASLES NO 
+7266 Nbpq Wusbmdoc Monaco 90 HIB NO 
+7266 Nbpq Wusbmdoc Monaco 90 FLU YES 17-5-2019
+4016 Uzghtchjmnc Fggaflcjge Monaco 24 HIB YES 3-11-2010
+8222 Xhnkzp Hzosobnhujis Monaco 71 HEPATITIS-B NO 
+5086 Bctzmolsbybg Zkoepdrl Monaco 45 COVID-19 NO 
+7185 Qdrz Yoaybou Monaco 23 HIB NO 
+5086 Bctzmolsbybg Zkoepdrl Monaco 45 COVID-19 NO 
+5476 Cbxchd Rwfhl Monaco 83 RUBELLA YES 5-1-2005
+1703 Nbukeee Plierrebao Monaco 46 HIB YES 24-4-2003

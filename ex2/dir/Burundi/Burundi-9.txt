@@ -1,0 +1,46 @@
+
+9213 Ewevdul Tzbrmaltkbl Burundi 99 POLIO NO 
+239 Lgk Toi Burundi 102 HEPATITIS-B NO 
+3024 Ngtqzbqninil Bkeovfstcmdz Burundi 91 CHICKENPOX YES 4-3-2008
+2011 Jzsu Mzbihfecld Burundi 2 MEASLES YES 9-3-2015
+9624 Shnmpltxgpei Tmah Burundi 34 RUBELLA NO 
+422 Kmhxupp Tilbxycqwruw Burundi 106 CHICKENPOX YES 11-6-2006
+9223 Wrnidqxvp Ercsqgibm Burundi 103 POLIO NO 
+3024 Ngtqzbqninil Bkeovfstcmdz Burundi 91 COVID-19 NO 
+6414 Yguiedvmpkgt Njeanmwxnzo Burundi 66 HEPATITIS-A YES 5-8-2004
+8721 Ztxdypyio Xqqtqaw Burundi 97 HEPATITIS-A YES 23-8-2004
+1341 Nxfuqwsc Plicqqoa Burundi 4 POLIO YES 14-1-2005
+9624 Shnmpltxgpei Tmah Burundi 34 HEPATITIS-B NO 
+9747 Najr Pmfdpvctz Burundi 102 MEASLES NO 
+2685 Kafksdkiputw Mpew Burundi 82 MEASLES YES 26-8-2011
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 COVID-19 NO 
+9624 Shnmpltxgpei Tmah Burundi 34 RUBELLA YES 11-4-2011
+8147 Ldbky Fltadhghzxa Burundi 92 RUBELLA NO 
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 POLIO NO 
+9980 Cqetjvqy Xxbulpli Burundi 82 COVID-19 YES 1-2-2002
+9208 Cvho Nsgjykqulmk Burundi 92 CHICKENPOX YES 11-2-2007
+239 Lgk Toi Burundi 102 HEPATITIS-A NO 
+9213 Ewevdul Tzbrmaltkbl Burundi 99 HEPATITIS-B NO 
+9208 Cvho Nsgjykqulmk Burundi 92 FLU NO 
+2011 Jzsu Mzbihfecld Burundi 2 FLU YES 6-12-2008
+2999 Vjmgyrxpbc Yhe Burundi 61 MEASLES YES 29-8-2009
+422 Kmhxupp Tilbxycqwruw Burundi 106 COVID-19 YES 5-8-2000
+2062 Egxlmwngd Buhjwkgnzc Burundi 43 HIB YES 4-12-2008
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 POLIO YES 18-5-2004
+7755 Yhev Uje Burundi 7 HEPATITIS-B YES 15-1-2014
+9213 Ewevdul Tzbrmaltkbl Burundi 99 HIB NO 
+8721 Ztxdypyio Xqqtqaw Burundi 97 TETANUS NO 
+3024 Ngtqzbqninil Bkeovfstcmdz Burundi 91 HIB YES 1-7-2007
+8721 Ztxdypyio Xqqtqaw Burundi 97 CHICKENPOX YES 10-12-2010
+5074 Rwanf Qxcel Burundi 67 COVID-19 YES 17-7-2008
+422 Kmhxupp Tilbxycqwruw Burundi 106 POLIO YES 14-6-2008
+422 Kmhxupp Tilbxycqwruw Burundi 106 TETANUS NO 
+8721 Ztxdypyio Xqqtqaw Burundi 97 POLIO NO 
+9980 Cqetjvqy Xxbulpli Burundi 82 FLU YES 21-6-2005
+2846 Cyerltrkxf Ohqxcycrk Burundi 76 TETANUS YES 20-3-2010
+9624 Shnmpltxgpei Tmah Burundi 34 POLIO YES 7-11-2006
+2999 Vjmgyrxpbc Yhe Burundi 61 FLU YES 24-1-2004
+5112 Gvicjv Uzcl Burundi 9 RUBELLA YES 22-5-2016
+7755 Yhev Uje Burundi 7 FLU YES 18-3-2004
+2999 Vjmgyrxpbc Yhe Burundi 61 RUBELLA YES 11-4-2006
+6568 Cogkxavvxp Gtgmnhul Burundi 6 POLIO YES 1-10-2002

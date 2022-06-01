@@ -1,0 +1,55 @@
+
+6552 Vcfchqe Mnwua Oman 25 MEASLES NO 
+7227 Mbxlbtfky Ieftqsyqelk Oman 1 COVID-19 NO 
+6047 Cekhtrk Nawi Oman 14 HIB YES 16-4-2001
+3681 Prtby Cbzybykmno Oman 63 CHICKENPOX YES 21-8-2018
+5359 Dlgzyugxlfhx Bzqoz Oman 91 COVID-19 YES 11-9-2007
+3626 Bzk Vrxtnxobn Oman 10 TETANUS NO 
+6552 Vcfchqe Mnwua Oman 25 HEPATITIS-A YES 16-2-2003
+6047 Cekhtrk Nawi Oman 14 RUBELLA NO 
+3626 Bzk Vrxtnxobn Oman 10 POLIO NO 
+5359 Dlgzyugxlfhx Bzqoz Oman 91 COVID-19 NO 
+9810 Jcqdnsiz Grxaocgfv Oman 103 HEPATITIS-B NO 
+5359 Dlgzyugxlfhx Bzqoz Oman 91 TETANUS YES 14-12-2019
+7689 Xfbdeg Wnwlzrtrht Oman 24 MEASLES NO 
+7227 Mbxlbtfky Ieftqsyqelk Oman 1 TETANUS YES 14-3-2020
+4122 Lwi Xndkilztoc Oman 84 HIB NO 
+6935 Qmf Oyhaqpsxs Oman 105 HIB NO 
+3867 Ilca Sgqebleb Oman 7 FLU YES 13-9-2010
+3626 Bzk Vrxtnxobn Oman 10 POLIO NO 
+386 Ntd Lmvpzid Oman 47 MEASLES NO 
+3867 Ilca Sgqebleb Oman 7 CHICKENPOX NO 
+5020 Zanoyyoxxb Xmkfvsz Oman 117 HIB YES 9-2-2005
+8287 Oopaxgu Yov Oman 97 HEPATITIS-B NO 
+5139 Wsgejqgqaf Sftudbsmtpe Oman 35 CHICKENPOX NO 
+6357 Ttbpzsbss Gjtpc Oman 26 MEASLES NO 
+6047 Cekhtrk Nawi Oman 14 COVID-19 NO 
+3594 Ywvifg Cmzjrlkdbzk Oman 5 TETANUS YES 22-4-2016
+5385 Mndhkghagms Oxtxv Oman 96 COVID-19 YES 5-4-2020
+4122 Lwi Xndkilztoc Oman 84 POLIO NO 
+3054 Lkhphkrtuc Gzanxvlzn Oman 93 HEPATITIS-A YES 18-6-2002
+7689 Xfbdeg Wnwlzrtrht Oman 24 HEPATITIS-A NO 
+9810 Jcqdnsiz Grxaocgfv Oman 103 HEPATITIS-A NO 
+7376 Jixsujves Onbyn Oman 18 HEPATITIS-B NO 
+3867 Ilca Sgqebleb Oman 7 RUBELLA YES 1-12-2018
+9810 Jcqdnsiz Grxaocgfv Oman 103 HEPATITIS-B YES 20-5-2014
+5385 Mndhkghagms Oxtxv Oman 96 TETANUS YES 2-1-2001
+6110 Znxwfl Gvwupntqmww Oman 44 HEPATITIS-B NO 
+7376 Jixsujves Onbyn Oman 18 HEPATITIS-B NO 
+6110 Znxwfl Gvwupntqmww Oman 44 HEPATITIS-A YES 22-12-2015
+7689 Xfbdeg Wnwlzrtrht Oman 24 COVID-19 NO 
+3626 Bzk Vrxtnxobn Oman 10 POLIO NO 
+4122 Lwi Xndkilztoc Oman 84 HEPATITIS-B NO 
+1315 Gdhhdwiabp Scabny Oman 13 HIB NO 
+8287 Oopaxgu Yov Oman 97 HEPATITIS-A NO 
+9810 Jcqdnsiz Grxaocgfv Oman 103 TETANUS NO 
+3594 Ywvifg Cmzjrlkdbzk Oman 5 RUBELLA NO 
+5139 Wsgejqgqaf Sftudbsmtpe Oman 35 HEPATITIS-B NO 
+4476 Oapc Akxt Oman 45 CHICKENPOX NO 
+5020 Zanoyyoxxb Xmkfvsz Oman 117 COVID-19 YES 26-8-2013
+7376 Jixsujves Onbyn Oman 18 RUBELLA NO 
+4476 Oapc Akxt Oman 45 HEPATITIS-B YES 3-2-2004
+4476 Oapc Akxt Oman 45 MEASLES YES 4-8-2005
+5385 Mndhkghagms Oxtxv Oman 96 HEPATITIS-A YES 1-10-2005
+3182 Dypimgvwpaj Jkxufargzpj Oman 105 POLIO YES 24-3-2003
+3867 Ilca Sgqebleb Oman 7 HIB YES 16-4-2000

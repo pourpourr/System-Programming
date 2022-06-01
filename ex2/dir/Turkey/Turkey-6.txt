@@ -1,0 +1,41 @@
+
+1748 Silnfkuxt Pfmtlasbaz Turkey 102 TETANUS YES 22-11-2018
+6270 Wxccmzaz Oqsfoffm Turkey 21 POLIO YES 11-10-2018
+4533 Vwcjdqjir Spedxrzsi Turkey 39 MEASLES YES 29-7-2017
+1058 Vrikibndutyi Jklxpq Turkey 16 TETANUS NO 
+9227 Bsomyrmugo Cffxnodw Turkey 55 POLIO NO 
+7776 Ixxkrwun Wyaxyg Turkey 3 FLU NO 
+5288 Ckcxflvvpne Fsgxczlpwyno Turkey 104 POLIO YES 4-12-2013
+1214 Igbygkxlucom Yqyy Turkey 97 POLIO YES 15-3-2001
+1919 Xqzbgcj Saxhuw Turkey 111 HIB NO 
+4533 Vwcjdqjir Spedxrzsi Turkey 39 HEPATITIS-B YES 23-7-2000
+1058 Vrikibndutyi Jklxpq Turkey 16 HEPATITIS-B NO 
+8774 Iklhwrqp Jzi Turkey 65 HIB YES 10-12-2015
+1919 Xqzbgcj Saxhuw Turkey 111 TETANUS NO 
+332 Eotcdcer Sucgur Turkey 91 COVID-19 YES 3-4-2004
+6270 Wxccmzaz Oqsfoffm Turkey 21 POLIO YES 15-12-2004
+7776 Ixxkrwun Wyaxyg Turkey 3 HIB NO 
+4699 Sjeirskke Lxdrjuu Turkey 44 RUBELLA NO 
+1919 Xqzbgcj Saxhuw Turkey 111 RUBELLA NO 
+4533 Vwcjdqjir Spedxrzsi Turkey 39 MEASLES NO 
+1058 Vrikibndutyi Jklxpq Turkey 16 TETANUS YES 8-3-2013
+9227 Bsomyrmugo Cffxnodw Turkey 55 TETANUS NO 
+6270 Wxccmzaz Oqsfoffm Turkey 21 HEPATITIS-A NO 
+9393 Ayrvtthvfq Zojleeizcghh Turkey 28 MEASLES NO 
+1214 Igbygkxlucom Yqyy Turkey 97 FLU YES 23-2-2015
+2098 Ysmzurtms Kgcllttl Turkey 104 POLIO NO 
+1919 Xqzbgcj Saxhuw Turkey 111 TETANUS NO 
+5288 Ckcxflvvpne Fsgxczlpwyno Turkey 104 FLU NO 
+4699 Sjeirskke Lxdrjuu Turkey 44 CHICKENPOX NO 
+1919 Xqzbgcj Saxhuw Turkey 111 MEASLES YES 20-5-2008
+1748 Silnfkuxt Pfmtlasbaz Turkey 102 TETANUS NO 
+6270 Wxccmzaz Oqsfoffm Turkey 21 COVID-19 NO 
+615 Hmo Ykvw Turkey 110 MEASLES YES 26-8-2014
+4533 Vwcjdqjir Spedxrzsi Turkey 39 COVID-19 NO 
+5288 Ckcxflvvpne Fsgxczlpwyno Turkey 104 CHICKENPOX YES 23-9-2011
+4699 Sjeirskke Lxdrjuu Turkey 44 COVID-19 YES 27-8-2004
+1919 Xqzbgcj Saxhuw Turkey 111 HEPATITIS-B YES 8-7-2012
+1214 Igbygkxlucom Yqyy Turkey 97 POLIO NO 
+1748 Silnfkuxt Pfmtlasbaz Turkey 102 TETANUS YES 25-3-2000
+9227 Bsomyrmugo Cffxnodw Turkey 55 MEASLES NO 
+6270 Wxccmzaz Oqsfoffm Turkey 21 RUBELLA YES 28-4-2018

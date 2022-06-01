@@ -1,0 +1,49 @@
+
+5103 Rsiycclwcj Wgxytsa Paraguay 47 RUBELLA NO 
+1853 Lufbnxzkgg Wciolrwulkb Paraguay 98 MEASLES NO 
+3599 Dmodnloy Pacaqciqc Paraguay 94 POLIO NO 
+2554 Jqcmqiusx Ybdpohv Paraguay 2 HEPATITIS-A NO 
+115 Beidvqhcji Puxxbvcpsfu Paraguay 88 TETANUS NO 
+6006 Eqhbqrtktee Ngie Paraguay 40 HIB YES 9-6-2015
+652 Qlmnarhpd Jnihhszmp Paraguay 72 FLU YES 11-10-2006
+1732 Eidwrwlh Qqfkcaiz Paraguay 75 HIB NO 
+848 Tiqtgetdwh Fhfckkn Paraguay 53 HEPATITIS-A NO 
+2605 Upnyu Lfliv Paraguay 104 COVID-19 NO 
+2605 Upnyu Lfliv Paraguay 104 FLU NO 
+3199 Esxnpfidpl Sgppdxpky Paraguay 118 HEPATITIS-A NO 
+9443 Bxbonirmzs Qcf Paraguay 89 CHICKENPOX NO 
+1853 Lufbnxzkgg Wciolrwulkb Paraguay 98 TETANUS YES 17-9-2002
+1732 Eidwrwlh Qqfkcaiz Paraguay 75 COVID-19 NO 
+8537 Awbiehpek Guqjdq Paraguay 70 HIB NO 
+848 Tiqtgetdwh Fhfckkn Paraguay 53 POLIO YES 2-3-2017
+848 Tiqtgetdwh Fhfckkn Paraguay 53 HIB NO 
+2554 Jqcmqiusx Ybdpohv Paraguay 2 HEPATITIS-A NO 
+2554 Jqcmqiusx Ybdpohv Paraguay 2 CHICKENPOX NO 
+1853 Lufbnxzkgg Wciolrwulkb Paraguay 98 TETANUS NO 
+2605 Upnyu Lfliv Paraguay 104 COVID-19 YES 12-6-2008
+3748 Lgtoixwk Tav Paraguay 55 MEASLES YES 30-9-2005
+7674 Iazcy Uir Paraguay 104 POLIO YES 24-7-2009
+5876 Huboou Jbafynswanhm Paraguay 103 FLU YES 15-11-2017
+3946 Tqjtiwh Xsvvecouwyy Paraguay 60 CHICKENPOX YES 2-5-2004
+6697 Jvvqdkjvzsd Mksohxvsngwg Paraguay 84 HEPATITIS-A NO 
+6006 Eqhbqrtktee Ngie Paraguay 40 HIB YES 21-1-2001
+5029 Geatnmyv Kzprj Paraguay 69 RUBELLA NO 
+3199 Esxnpfidpl Sgppdxpky Paraguay 118 FLU NO 
+8537 Awbiehpek Guqjdq Paraguay 70 HEPATITIS-B YES 30-8-2020
+7674 Iazcy Uir Paraguay 104 COVID-19 NO 
+252 Armxjs Psxtlpwqvgr Paraguay 53 MEASLES YES 24-12-2013
+3199 Esxnpfidpl Sgppdxpky Paraguay 118 HIB NO 
+652 Qlmnarhpd Jnihhszmp Paraguay 72 CHICKENPOX YES 26-5-2020
+3946 Tqjtiwh Xsvvecouwyy Paraguay 60 HEPATITIS-A YES 14-7-2011
+1853 Lufbnxzkgg Wciolrwulkb Paraguay 98 CHICKENPOX YES 10-12-2003
+374 Iiyr Kbeycr Paraguay 89 HEPATITIS-A NO 
+3946 Tqjtiwh Xsvvecouwyy Paraguay 60 RUBELLA NO 
+374 Iiyr Kbeycr Paraguay 89 RUBELLA NO 
+115 Beidvqhcji Puxxbvcpsfu Paraguay 88 HEPATITIS-B NO 
+5103 Rsiycclwcj Wgxytsa Paraguay 47 CHICKENPOX NO 
+2554 Jqcmqiusx Ybdpohv Paraguay 2 RUBELLA YES 27-6-2003
+6697 Jvvqdkjvzsd Mksohxvsngwg Paraguay 84 TETANUS NO 
+9145 Hcegepkake Lqhrmoogdh Paraguay 97 POLIO NO 
+3199 Esxnpfidpl Sgppdxpky Paraguay 118 MEASLES YES 29-9-2019
+2605 Upnyu Lfliv Paraguay 104 FLU YES 10-7-2020
+5029 Geatnmyv Kzprj Paraguay 69 COVID-19 NO 

@@ -1,0 +1,55 @@
+
+3252 Ypeiyxcp Damsm Sudan 26 MEASLES NO 
+4499 Znvg Aqifjfw Sudan 71 HEPATITIS-B NO 
+886 Tpjnoudwktk Aolpayimxmks Sudan 22 POLIO NO 
+1076 Zafuqoptwy Nvqqasjeyz Sudan 72 RUBELLA YES 26-9-2016
+3370 Dvequlb Kgxhiqh Sudan 7 RUBELLA YES 19-5-2008
+487 Wrbe Sreqln Sudan 16 HEPATITIS-A NO 
+1712 Lakuessoz Qvclni Sudan 76 FLU NO 
+7549 Hijdibwu Vrs Sudan 27 HEPATITIS-B NO 
+8635 Yujmfqgddfk Oavp Sudan 92 POLIO NO 
+4499 Znvg Aqifjfw Sudan 71 HIB YES 25-4-2000
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 HEPATITIS-B NO 
+3931 Wseg Flz Sudan 113 POLIO YES 9-6-2008
+4499 Znvg Aqifjfw Sudan 71 TETANUS NO 
+1061 Roaavjfwfqyi Wqte Sudan 75 CHICKENPOX NO 
+3048 Xdxa Sdzksoqr Sudan 91 HEPATITIS-B NO 
+4819 Zlmmmtz Yza Sudan 103 HEPATITIS-B NO 
+4819 Zlmmmtz Yza Sudan 103 RUBELLA YES 21-3-2005
+6796 Edejemjxh Yqmtaextj Sudan 94 MEASLES YES 1-12-2010
+7549 Hijdibwu Vrs Sudan 27 HEPATITIS-B YES 3-8-2014
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 FLU NO 
+1875 Stj Tjxlzqiae Sudan 100 HEPATITIS-B NO 
+7874 Tgvufkppcyfv Wqlbjskhppxt Sudan 59 MEASLES YES 28-5-2009
+3379 Bbkicfup Dsj Sudan 68 FLU YES 7-2-2012
+886 Tpjnoudwktk Aolpayimxmks Sudan 22 HEPATITIS-B YES 10-5-2006
+4499 Znvg Aqifjfw Sudan 71 HEPATITIS-B NO 
+3252 Ypeiyxcp Damsm Sudan 26 HEPATITIS-B NO 
+3379 Bbkicfup Dsj Sudan 68 POLIO YES 20-7-2009
+4819 Zlmmmtz Yza Sudan 103 TETANUS NO 
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 MEASLES NO 
+7874 Tgvufkppcyfv Wqlbjskhppxt Sudan 59 FLU YES 25-5-2004
+1875 Stj Tjxlzqiae Sudan 100 MEASLES YES 2-4-2000
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 POLIO YES 1-10-2013
+1076 Zafuqoptwy Nvqqasjeyz Sudan 72 POLIO YES 30-3-2020
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 FLU YES 25-5-2018
+3252 Ypeiyxcp Damsm Sudan 26 HEPATITIS-A YES 8-11-2009
+1875 Stj Tjxlzqiae Sudan 100 HEPATITIS-A NO 
+3379 Bbkicfup Dsj Sudan 68 FLU YES 25-7-2005
+487 Wrbe Sreqln Sudan 16 POLIO NO 
+4499 Znvg Aqifjfw Sudan 71 CHICKENPOX NO 
+5011 Retgsf Zkrd Sudan 119 RUBELLA YES 16-7-2012
+7874 Tgvufkppcyfv Wqlbjskhppxt Sudan 59 COVID-19 YES 19-2-2018
+3370 Dvequlb Kgxhiqh Sudan 7 FLU NO 
+8403 Yxnziierdscl Qdpib Sudan 45 TETANUS YES 3-2-2010
+537 Uuh Iiuqtodxhwdm Sudan 2 HEPATITIS-B YES 24-9-2016
+1875 Stj Tjxlzqiae Sudan 100 POLIO YES 15-3-2013
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 COVID-19 YES 23-9-2009
+886 Tpjnoudwktk Aolpayimxmks Sudan 22 HEPATITIS-B NO 
+6796 Edejemjxh Yqmtaextj Sudan 94 MEASLES YES 10-10-2015
+5011 Retgsf Zkrd Sudan 119 HEPATITIS-B YES 18-7-2015
+1875 Stj Tjxlzqiae Sudan 100 RUBELLA YES 12-2-2012
+5928 Xskpmtyhlg Mhhleogr Sudan 32 FLU NO 
+6842 Pkwybgnp Meciqeiaci Sudan 53 HEPATITIS-A YES 11-7-2005
+2043 Ecxaeoepxrag Qrtzoiczm Sudan 108 HEPATITIS-A NO 
+8635 Yujmfqgddfk Oavp Sudan 92 HEPATITIS-A NO 

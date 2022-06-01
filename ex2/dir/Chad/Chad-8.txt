@@ -1,0 +1,41 @@
+
+7261 Nkrnb Tigfkilomwqh Chad 101 FLU NO 
+3384 Xrnu Wieu Chad 104 RUBELLA NO 
+5107 Vgiq Kataw Chad 56 COVID-19 YES 17-8-2020
+6983 Ujrhoor Tktyhkcq Chad 69 MEASLES YES 15-12-2002
+9000 Bixykggjgqyl Ttxbwrqtha Chad 79 COVID-19 NO 
+8839 Xibbk Nmcrljw Chad 11 MEASLES YES 10-3-2020
+9704 Miroow Soih Chad 34 FLU NO 
+3384 Xrnu Wieu Chad 104 POLIO NO 
+7261 Nkrnb Tigfkilomwqh Chad 101 TETANUS NO 
+9704 Miroow Soih Chad 34 HIB YES 3-10-2018
+8460 Vnzxxlnb Qoa Chad 25 TETANUS NO 
+3201 Guifkckxapbz Krmpdxkqbd Chad 71 RUBELLA NO 
+3217 Fjip Xaqgbnatvl Chad 59 HEPATITIS-B YES 19-7-2009
+4469 Dcwp Sgdwswo Chad 69 COVID-19 YES 9-9-2001
+3217 Fjip Xaqgbnatvl Chad 59 RUBELLA NO 
+7950 Kpq Qwrj Chad 108 HIB NO 
+8839 Xibbk Nmcrljw Chad 11 HEPATITIS-A YES 3-9-2015
+9704 Miroow Soih Chad 34 HEPATITIS-A NO 
+3217 Fjip Xaqgbnatvl Chad 59 MEASLES NO 
+6798 Nqkt Zzgpf Chad 12 TETANUS NO 
+3592 Ogpcpbrelw Boivfpflv Chad 117 TETANUS NO 
+9749 Uto Rfn Chad 69 HEPATITIS-A NO 
+5557 Oxphufitj Dlze Chad 38 CHICKENPOX YES 20-11-2019
+7244 Vjwtqmf Ayws Chad 26 RUBELLA YES 25-7-2003
+3217 Fjip Xaqgbnatvl Chad 59 TETANUS NO 
+5107 Vgiq Kataw Chad 56 FLU NO 
+3592 Ogpcpbrelw Boivfpflv Chad 117 FLU YES 10-10-2014
+6798 Nqkt Zzgpf Chad 12 MEASLES NO 
+9749 Uto Rfn Chad 69 FLU YES 13-5-2017
+7261 Nkrnb Tigfkilomwqh Chad 101 TETANUS YES 7-12-2004
+4469 Dcwp Sgdwswo Chad 69 HIB YES 29-9-2012
+5107 Vgiq Kataw Chad 56 HIB YES 19-8-2019
+3201 Guifkckxapbz Krmpdxkqbd Chad 71 HIB NO 
+5107 Vgiq Kataw Chad 56 FLU YES 8-8-2017
+7261 Nkrnb Tigfkilomwqh Chad 101 FLU YES 24-1-2005
+9704 Miroow Soih Chad 34 FLU NO 
+7950 Kpq Qwrj Chad 108 TETANUS YES 23-7-2004
+5557 Oxphufitj Dlze Chad 38 COVID-19 YES 29-10-2011
+5557 Oxphufitj Dlze Chad 38 POLIO NO 
+5557 Oxphufitj Dlze Chad 38 FLU YES 26-8-2016

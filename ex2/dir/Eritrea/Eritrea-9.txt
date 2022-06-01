@@ -1,0 +1,61 @@
+
+7683 Jeqztef Ybhdvpaz Eritrea 101 TETANUS YES 8-5-2009
+1822 Nxmyelagwv Alvynytrzk Eritrea 10 POLIO YES 4-9-2011
+9418 Rxxphbmbcy Qgdemkmjf Eritrea 90 HEPATITIS-B YES 15-2-2019
+2380 Wmtwksq Hiz Eritrea 70 CHICKENPOX YES 11-1-2007
+4841 Dejunfrv Sdypdidnveei Eritrea 55 POLIO NO 
+6246 Dwtkeycext Nzoklkfibpzg Eritrea 62 RUBELLA YES 19-1-2018
+7213 Vierkmxocxsu Zeiizifkp Eritrea 66 CHICKENPOX NO 
+5367 Swxjoq Tsvmmav Eritrea 26 RUBELLA YES 1-1-2011
+8014 Yzbtylwuh Eovtt Eritrea 72 HIB YES 14-5-2014
+5367 Swxjoq Tsvmmav Eritrea 26 FLU YES 5-12-2017
+3832 Qtbt Evzkdi Eritrea 107 MEASLES NO 
+7213 Vierkmxocxsu Zeiizifkp Eritrea 66 HEPATITIS-B NO 
+6246 Dwtkeycext Nzoklkfibpzg Eritrea 62 HEPATITIS-B YES 28-4-2009
+4841 Dejunfrv Sdypdidnveei Eritrea 55 CHICKENPOX NO 
+7140 Szxzgc Dvroevqid Eritrea 102 MEASLES YES 5-9-2020
+1982 Okjz Dfqnvmf Eritrea 38 COVID-19 NO 
+7213 Vierkmxocxsu Zeiizifkp Eritrea 66 CHICKENPOX NO 
+4393 Bbmwmqxiqqm Mwgujahfycs Eritrea 4 HEPATITIS-B YES 24-4-2011
+1928 Ftd Yliaujzn Eritrea 24 POLIO NO 
+2948 Jbwvcened Vazi Eritrea 12 HIB NO 
+3341 Djcisegkkfq Mtbejaoqmbpn Eritrea 14 RUBELLA YES 26-7-2010
+4393 Bbmwmqxiqqm Mwgujahfycs Eritrea 4 HEPATITIS-A YES 3-2-2011
+1982 Okjz Dfqnvmf Eritrea 38 HEPATITIS-B NO 
+2131 Czhfnk Boz Eritrea 111 HEPATITIS-B YES 25-12-2014
+9630 Akzjyhcbvqy Yxtn Eritrea 116 HIB NO 
+8014 Yzbtylwuh Eovtt Eritrea 72 RUBELLA YES 1-9-2008
+8092 Xdlyhb Jht Eritrea 35 FLU NO 
+6246 Dwtkeycext Nzoklkfibpzg Eritrea 62 HEPATITIS-A YES 25-6-2012
+3832 Qtbt Evzkdi Eritrea 107 HIB NO 
+7140 Szxzgc Dvroevqid Eritrea 102 COVID-19 NO 
+1982 Okjz Dfqnvmf Eritrea 38 HEPATITIS-A YES 29-9-2013
+984 Stgas Mnidjjgtq Eritrea 47 POLIO YES 28-12-2008
+5367 Swxjoq Tsvmmav Eritrea 26 HEPATITIS-B NO 
+6246 Dwtkeycext Nzoklkfibpzg Eritrea 62 HEPATITIS-B YES 20-7-2020
+7140 Szxzgc Dvroevqid Eritrea 102 TETANUS NO 
+7683 Jeqztef Ybhdvpaz Eritrea 101 COVID-19 NO 
+6246 Dwtkeycext Nzoklkfibpzg Eritrea 62 POLIO YES 23-10-2001
+8935 Cncx Qjwk Eritrea 75 RUBELLA NO 
+7683 Jeqztef Ybhdvpaz Eritrea 101 RUBELLA NO 
+9418 Rxxphbmbcy Qgdemkmjf Eritrea 90 FLU NO 
+8935 Cncx Qjwk Eritrea 75 COVID-19 YES 13-3-2001
+3341 Djcisegkkfq Mtbejaoqmbpn Eritrea 14 MEASLES YES 8-6-2010
+984 Stgas Mnidjjgtq Eritrea 47 HEPATITIS-A YES 6-2-2013
+1822 Nxmyelagwv Alvynytrzk Eritrea 10 MEASLES NO 
+8092 Xdlyhb Jht Eritrea 35 CHICKENPOX YES 22-4-2016
+5019 Thlvnzjmwdrx Xdovkpm Eritrea 93 MEASLES NO 
+2027 Bswnnlimpc Ipkee Eritrea 50 TETANUS NO 
+1822 Nxmyelagwv Alvynytrzk Eritrea 10 RUBELLA NO 
+2131 Czhfnk Boz Eritrea 111 MEASLES YES 17-6-2005
+2027 Bswnnlimpc Ipkee Eritrea 50 HEPATITIS-B YES 5-11-2015
+4446 Cmprjwhmdft Bxrkw Eritrea 72 HIB NO 
+5019 Thlvnzjmwdrx Xdovkpm Eritrea 93 HEPATITIS-A YES 30-4-2009
+5367 Swxjoq Tsvmmav Eritrea 26 FLU NO 
+4446 Cmprjwhmdft Bxrkw Eritrea 72 HEPATITIS-B YES 16-12-2013
+1928 Ftd Yliaujzn Eritrea 24 COVID-19 NO 
+4393 Bbmwmqxiqqm Mwgujahfycs Eritrea 4 RUBELLA NO 
+8014 Yzbtylwuh Eovtt Eritrea 72 COVID-19 NO 
+9203 Twjuxsojkorf Ewmrmo Eritrea 36 HIB YES 14-10-2011
+8014 Yzbtylwuh Eovtt Eritrea 72 MEASLES YES 16-7-2007
+7140 Szxzgc Dvroevqid Eritrea 102 TETANUS NO 

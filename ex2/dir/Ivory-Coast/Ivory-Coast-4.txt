@@ -1,0 +1,76 @@
+
+8122 Uujv Jxpoqqwt Ivory-Coast 71 POLIO NO 
+740 Vrtivcze Dlbfxzyr Ivory-Coast 44 MEASLES YES 20-7-2015
+1555 Ftlnqcgsig Tnzgnbgzsxwk Ivory-Coast 115 CHICKENPOX YES 6-8-2014
+345 Klurvapmk Rivdrmxdoyb Ivory-Coast 58 HIB NO 
+7224 Nkfqjumonb Ujpuuckun Ivory-Coast 100 TETANUS YES 17-5-2012
+5395 Veallvtqloy Pqfennvpapcl Ivory-Coast 7 RUBELLA NO 
+8273 Ydt Tgzccfyy Ivory-Coast 41 RUBELLA NO 
+5395 Veallvtqloy Pqfennvpapcl Ivory-Coast 7 RUBELLA NO 
+7224 Nkfqjumonb Ujpuuckun Ivory-Coast 100 COVID-19 NO 
+9192 Tpxeat Nrlq Ivory-Coast 76 RUBELLA YES 15-7-2016
+3331 Yxsirmbywf Uriho Ivory-Coast 76 MEASLES YES 27-7-2006
+8344 Jalnxmnntyqv Omjsnqj Ivory-Coast 109 RUBELLA YES 18-3-2012
+2394 Zqboevuuj Etiib Ivory-Coast 101 CHICKENPOX YES 10-3-2007
+2312 Ysmgywo Rugjyel Ivory-Coast 92 POLIO YES 16-12-2019
+1711 Venezpjgif Njcqg Ivory-Coast 29 TETANUS YES 4-9-2012
+989 Jevtlljtmt Ckjtn Ivory-Coast 34 HEPATITIS-A YES 7-9-2020
+2312 Ysmgywo Rugjyel Ivory-Coast 92 HEPATITIS-A NO 
+7876 Hbkiiyjbyci Bfznit Ivory-Coast 84 COVID-19 NO 
+8122 Uujv Jxpoqqwt Ivory-Coast 71 HEPATITIS-B NO 
+8344 Jalnxmnntyqv Omjsnqj Ivory-Coast 109 POLIO YES 28-4-2012
+8344 Jalnxmnntyqv Omjsnqj Ivory-Coast 109 POLIO NO 
+7224 Nkfqjumonb Ujpuuckun Ivory-Coast 100 CHICKENPOX NO 
+7224 Nkfqjumonb Ujpuuckun Ivory-Coast 100 HEPATITIS-B YES 13-7-2019
+992 Exhnq Aqazgmt Ivory-Coast 92 CHICKENPOX YES 29-12-2001
+8122 Uujv Jxpoqqwt Ivory-Coast 71 HEPATITIS-A YES 13-2-2007
+9177 Koz Mjhsujvgx Ivory-Coast 67 POLIO NO 
+9177 Koz Mjhsujvgx Ivory-Coast 67 COVID-19 YES 16-9-2009
+9177 Koz Mjhsujvgx Ivory-Coast 67 POLIO YES 23-4-2008
+3227 Upcxol Pucgn Ivory-Coast 56 FLU YES 14-12-2016
+5395 Veallvtqloy Pqfennvpapcl Ivory-Coast 7 HIB NO 
+1711 Venezpjgif Njcqg Ivory-Coast 29 HEPATITIS-B NO 
+8085 Gvekqj Iatlqm Ivory-Coast 113 CHICKENPOX NO 
+9683 Jhaaqqzytut Lamuozohreq Ivory-Coast 19 HEPATITIS-B YES 4-9-2017
+1711 Venezpjgif Njcqg Ivory-Coast 29 COVID-19 YES 4-9-2001
+1711 Venezpjgif Njcqg Ivory-Coast 29 HEPATITIS-A YES 10-1-2009
+9192 Tpxeat Nrlq Ivory-Coast 76 HEPATITIS-B NO 
+992 Exhnq Aqazgmt Ivory-Coast 92 HEPATITIS-A NO 
+3227 Upcxol Pucgn Ivory-Coast 56 FLU YES 20-4-2014
+5395 Veallvtqloy Pqfennvpapcl Ivory-Coast 7 MEASLES NO 
+9683 Jhaaqqzytut Lamuozohreq Ivory-Coast 19 FLU YES 6-6-2002
+9177 Koz Mjhsujvgx Ivory-Coast 67 TETANUS NO 
+8764 Ddall Vunvegatfztf Ivory-Coast 16 TETANUS NO 
+2312 Ysmgywo Rugjyel Ivory-Coast 92 RUBELLA YES 2-4-2008
+8021 Usyklk Inywh Ivory-Coast 30 TETANUS YES 13-8-2014
+3227 Upcxol Pucgn Ivory-Coast 56 TETANUS NO 
+4419 Xrbcznqp Lxzzd Ivory-Coast 64 FLU YES 8-5-2012
+9683 Jhaaqqzytut Lamuozohreq Ivory-Coast 19 POLIO YES 19-3-2010
+8021 Usyklk Inywh Ivory-Coast 30 CHICKENPOX YES 25-4-2007
+5395 Veallvtqloy Pqfennvpapcl Ivory-Coast 7 FLU YES 19-10-2001
+740 Vrtivcze Dlbfxzyr Ivory-Coast 44 POLIO YES 17-7-2006
+3331 Yxsirmbywf Uriho Ivory-Coast 76 POLIO NO 
+74 Uxouo Unvfcn Ivory-Coast 92 HEPATITIS-A NO 
+8085 Gvekqj Iatlqm Ivory-Coast 113 HIB YES 29-6-2008
+4419 Xrbcznqp Lxzzd Ivory-Coast 64 TETANUS NO 
+5320 Owvjig Wgalikte Ivory-Coast 54 CHICKENPOX NO 
+9956 Ouasyzetiq Rpybxqrq Ivory-Coast 28 COVID-19 YES 27-11-2003
+540 Lmtanian Rmwqhtrje Ivory-Coast 28 MEASLES YES 23-10-2004
+4419 Xrbcznqp Lxzzd Ivory-Coast 64 FLU NO 
+8879 Llvgdlqwilw Gqkjcdkzc Ivory-Coast 64 MEASLES YES 25-9-2020
+2705 Dknzkknd Rucfhbxbip Ivory-Coast 112 FLU NO 
+8764 Ddall Vunvegatfztf Ivory-Coast 16 CHICKENPOX NO 
+3227 Upcxol Pucgn Ivory-Coast 56 HIB NO 
+74 Uxouo Unvfcn Ivory-Coast 92 RUBELLA NO 
+9683 Jhaaqqzytut Lamuozohreq Ivory-Coast 19 POLIO YES 1-6-2017
+8085 Gvekqj Iatlqm Ivory-Coast 113 HEPATITIS-A NO 
+4419 Xrbcznqp Lxzzd Ivory-Coast 64 HIB YES 1-4-2007
+740 Vrtivcze Dlbfxzyr Ivory-Coast 44 RUBELLA YES 21-2-2000
+7876 Hbkiiyjbyci Bfznit Ivory-Coast 84 RUBELLA NO 
+989 Jevtlljtmt Ckjtn Ivory-Coast 34 RUBELLA NO 
+2394 Zqboevuuj Etiib Ivory-Coast 101 HEPATITIS-B NO 
+8122 Uujv Jxpoqqwt Ivory-Coast 71 HEPATITIS-B YES 29-7-2019
+989 Jevtlljtmt Ckjtn Ivory-Coast 34 CHICKENPOX NO 
+3331 Yxsirmbywf Uriho Ivory-Coast 76 MEASLES NO 
+2394 Zqboevuuj Etiib Ivory-Coast 101 HIB YES 4-11-2019
+7224 Nkfqjumonb Ujpuuckun Ivory-Coast 100 RUBELLA YES 14-8-2015

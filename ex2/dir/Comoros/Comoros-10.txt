@@ -1,0 +1,67 @@
+
+163 Qoj Yjgcl Comoros 102 POLIO YES 16-5-2020
+5390 Neym Kmmjjc Comoros 106 COVID-19 NO 
+6920 Qfdnvtna Rjnriyuxnty Comoros 109 HEPATITIS-A NO 
+1095 Tlwat Nczvzv Comoros 14 FLU YES 1-12-2009
+6920 Qfdnvtna Rjnriyuxnty Comoros 109 MEASLES YES 15-7-2006
+3805 Pxfu Ishjhcczsyao Comoros 118 RUBELLA YES 24-6-2006
+3915 Ipopjlhl Psowliqxbfio Comoros 26 MEASLES NO 
+4650 Fiomgflxes Swa Comoros 90 POLIO NO 
+7053 Vlgtfhqza Rfhnthn Comoros 84 FLU YES 3-4-2019
+3915 Ipopjlhl Psowliqxbfio Comoros 26 HIB YES 23-2-2020
+1039 Nwxctgm Yjorp Comoros 35 POLIO NO 
+3805 Pxfu Ishjhcczsyao Comoros 118 FLU YES 26-10-2000
+7400 Vwraeaapior Ekq Comoros 8 COVID-19 NO 
+5257 Lxioo Vsr Comoros 5 CHICKENPOX NO 
+1857 Gpvhapru Ufkphbtl Comoros 120 RUBELLA NO 
+3188 Bipvpmcncwe Mer Comoros 104 COVID-19 YES 9-2-2004
+1857 Gpvhapru Ufkphbtl Comoros 120 COVID-19 YES 24-1-2010
+3915 Ipopjlhl Psowliqxbfio Comoros 26 TETANUS NO 
+3493 Uhivfd Pqcoxvu Comoros 108 TETANUS YES 7-5-2013
+6743 Wbzejr Trz Comoros 63 FLU YES 5-1-2000
+7053 Vlgtfhqza Rfhnthn Comoros 84 HEPATITIS-B NO 
+1857 Gpvhapru Ufkphbtl Comoros 120 POLIO YES 5-11-2009
+3805 Pxfu Ishjhcczsyao Comoros 118 TETANUS YES 1-6-2016
+4365 Vkts Zljmdd Comoros 100 HIB NO 
+8753 Yqrgbyaby Likai Comoros 30 TETANUS YES 19-5-2020
+6600 Athjzghi Dyrimmzwcw Comoros 83 MEASLES NO 
+4365 Vkts Zljmdd Comoros 100 COVID-19 NO 
+6624 Gra Bgtrwey Comoros 42 POLIO NO 
+1857 Gpvhapru Ufkphbtl Comoros 120 HEPATITIS-B YES 29-11-2000
+1039 Nwxctgm Yjorp Comoros 35 COVID-19 NO 
+7062 Shrxptnlmxy Swzjihfruyi Comoros 81 HEPATITIS-A NO 
+8884 Aoaegkykjrz Kmikaoql Comoros 49 MEASLES YES 1-11-2003
+6743 Wbzejr Trz Comoros 63 RUBELLA NO 
+7296 Ovtblbftq Cxjq Comoros 4 FLU YES 4-8-2015
+7062 Shrxptnlmxy Swzjihfruyi Comoros 81 TETANUS NO 
+6600 Athjzghi Dyrimmzwcw Comoros 83 POLIO NO 
+163 Qoj Yjgcl Comoros 102 RUBELLA NO 
+3188 Bipvpmcncwe Mer Comoros 104 TETANUS YES 2-1-2003
+3915 Ipopjlhl Psowliqxbfio Comoros 26 COVID-19 NO 
+7062 Shrxptnlmxy Swzjihfruyi Comoros 81 POLIO NO 
+8149 Vapqulwgfi Cuyoljurw Comoros 45 CHICKENPOX YES 23-5-2020
+9314 Xgqymunqlm Wozsswwunsw Comoros 90 MEASLES NO 
+1095 Tlwat Nczvzv Comoros 14 CHICKENPOX YES 6-12-2006
+4365 Vkts Zljmdd Comoros 100 MEASLES YES 15-6-2012
+5257 Lxioo Vsr Comoros 5 POLIO NO 
+8973 Yhx Ikmnmrfx Comoros 4 HEPATITIS-A YES 3-9-2016
+585 Ddyaaqect Ghuuuyz Comoros 11 CHICKENPOX YES 16-12-2005
+5390 Neym Kmmjjc Comoros 106 COVID-19 YES 25-10-2019
+7296 Ovtblbftq Cxjq Comoros 4 RUBELLA YES 22-1-2002
+6743 Wbzejr Trz Comoros 63 RUBELLA NO 
+6624 Gra Bgtrwey Comoros 42 POLIO NO 
+1857 Gpvhapru Ufkphbtl Comoros 120 HEPATITIS-A NO 
+9314 Xgqymunqlm Wozsswwunsw Comoros 90 MEASLES NO 
+3493 Uhivfd Pqcoxvu Comoros 108 MEASLES NO 
+7062 Shrxptnlmxy Swzjihfruyi Comoros 81 POLIO NO 
+3805 Pxfu Ishjhcczsyao Comoros 118 TETANUS NO 
+1126 Iybw Bzyenijvxoou Comoros 43 RUBELLA YES 4-3-2011
+163 Qoj Yjgcl Comoros 102 FLU NO 
+9314 Xgqymunqlm Wozsswwunsw Comoros 90 POLIO YES 6-2-2015
+8149 Vapqulwgfi Cuyoljurw Comoros 45 RUBELLA YES 12-1-2002
+4746 Tylvleuo Hsj Comoros 34 RUBELLA YES 24-3-2008
+4365 Vkts Zljmdd Comoros 100 COVID-19 NO 
+1857 Gpvhapru Ufkphbtl Comoros 120 POLIO YES 22-5-2015
+576 Daq Nnxni Comoros 115 HIB YES 5-12-2008
+3188 Bipvpmcncwe Mer Comoros 104 FLU NO 
+4365 Vkts Zljmdd Comoros 100 MEASLES YES 9-2-2000

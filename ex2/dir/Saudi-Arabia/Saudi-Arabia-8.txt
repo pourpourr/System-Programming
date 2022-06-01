@@ -1,0 +1,53 @@
+
+2393 Njhiq Zxeylgla Saudi-Arabia 76 POLIO NO 
+6405 Cpdf Zem Saudi-Arabia 113 FLU NO 
+6677 Ctpoiu Hagwthwyzl Saudi-Arabia 118 COVID-19 YES 13-1-2008
+3734 Oyquwdyvcml Ybftotjiek Saudi-Arabia 59 POLIO YES 27-1-2004
+7620 Uag Mbtblenxarv Saudi-Arabia 97 HEPATITIS-B NO 
+2636 Yter Tgvnwljs Saudi-Arabia 61 HEPATITIS-A NO 
+5693 Bykjkbtzu Vilveairpajg Saudi-Arabia 71 COVID-19 YES 10-1-2008
+6405 Cpdf Zem Saudi-Arabia 113 POLIO NO 
+1055 Vxod Vsqvxxrbr Saudi-Arabia 44 RUBELLA YES 4-11-2019
+2969 Otjbvp Syjamkd Saudi-Arabia 14 MEASLES YES 3-7-2015
+8161 Orqdxhooxibx Icba Saudi-Arabia 85 HEPATITIS-B NO 
+5693 Bykjkbtzu Vilveairpajg Saudi-Arabia 71 FLU YES 26-10-2008
+7620 Uag Mbtblenxarv Saudi-Arabia 97 HEPATITIS-B YES 30-4-2018
+6677 Ctpoiu Hagwthwyzl Saudi-Arabia 118 RUBELLA YES 25-9-2009
+1914 Uitsa Utmzfuiylivf Saudi-Arabia 58 COVID-19 YES 15-8-2018
+955 Lwvqjy Qyssgf Saudi-Arabia 59 POLIO NO 
+2969 Otjbvp Syjamkd Saudi-Arabia 14 RUBELLA NO 
+7089 Wknpyafr Jtcitegttk Saudi-Arabia 88 RUBELLA YES 11-8-2010
+3786 Fmnuhh Rkcgtmncu Saudi-Arabia 98 COVID-19 YES 6-4-2020
+3786 Fmnuhh Rkcgtmncu Saudi-Arabia 98 HIB NO 
+6405 Cpdf Zem Saudi-Arabia 113 CHICKENPOX YES 12-10-2017
+2014 Nmi Rytoicflgpd Saudi-Arabia 20 COVID-19 NO 
+7907 Gnkydsctsal Gxllfxfcdts Saudi-Arabia 75 HEPATITIS-A NO 
+6926 Frfuu Ymrzpoeimpm Saudi-Arabia 40 HEPATITIS-B YES 21-12-2017
+3786 Fmnuhh Rkcgtmncu Saudi-Arabia 98 HEPATITIS-B NO 
+7907 Gnkydsctsal Gxllfxfcdts Saudi-Arabia 75 HEPATITIS-A NO 
+5693 Bykjkbtzu Vilveairpajg Saudi-Arabia 71 CHICKENPOX YES 10-4-2019
+6537 Svntoiefe Bkz Saudi-Arabia 106 POLIO NO 
+9381 Dpjgjru Vgfx Saudi-Arabia 80 HEPATITIS-A NO 
+3734 Oyquwdyvcml Ybftotjiek Saudi-Arabia 59 MEASLES YES 16-9-2005
+6926 Frfuu Ymrzpoeimpm Saudi-Arabia 40 COVID-19 YES 25-1-2004
+1414 Kax Wkngn Saudi-Arabia 96 HEPATITIS-A YES 21-12-2011
+5693 Bykjkbtzu Vilveairpajg Saudi-Arabia 71 CHICKENPOX YES 23-6-2019
+3786 Fmnuhh Rkcgtmncu Saudi-Arabia 98 HIB NO 
+2393 Njhiq Zxeylgla Saudi-Arabia 76 RUBELLA NO 
+7907 Gnkydsctsal Gxllfxfcdts Saudi-Arabia 75 HIB NO 
+8161 Orqdxhooxibx Icba Saudi-Arabia 85 HIB NO 
+6926 Frfuu Ymrzpoeimpm Saudi-Arabia 40 FLU YES 27-12-2008
+7907 Gnkydsctsal Gxllfxfcdts Saudi-Arabia 75 CHICKENPOX NO 
+5693 Bykjkbtzu Vilveairpajg Saudi-Arabia 71 HIB YES 22-10-2000
+8161 Orqdxhooxibx Icba Saudi-Arabia 85 COVID-19 YES 3-6-2010
+2446 Ruqwi Ettsh Saudi-Arabia 5 HEPATITIS-B NO 
+5104 Yuztylry Hckegnd Saudi-Arabia 74 FLU NO 
+1914 Uitsa Utmzfuiylivf Saudi-Arabia 58 MEASLES NO 
+5104 Yuztylry Hckegnd Saudi-Arabia 74 HEPATITIS-B YES 5-10-2020
+1650 Yvdpdnmlo Gyuimigs Saudi-Arabia 57 RUBELLA NO 
+3734 Oyquwdyvcml Ybftotjiek Saudi-Arabia 59 FLU YES 11-4-2002
+1055 Vxod Vsqvxxrbr Saudi-Arabia 44 HEPATITIS-A NO 
+955 Lwvqjy Qyssgf Saudi-Arabia 59 COVID-19 YES 9-10-2017
+3453 Zafqfpfjukfg Gmusndvxz Saudi-Arabia 2 HEPATITIS-A YES 5-10-2009
+2969 Otjbvp Syjamkd Saudi-Arabia 14 CHICKENPOX YES 12-10-2018
+7089 Wknpyafr Jtcitegttk Saudi-Arabia 88 POLIO YES 3-5-2009

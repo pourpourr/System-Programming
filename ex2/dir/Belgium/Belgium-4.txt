@@ -1,0 +1,44 @@
+
+3543 Yok Lyhenl Belgium 55 POLIO NO 
+4584 Vlj Oiz Belgium 26 HEPATITIS-A NO 
+5431 Wkrbrzwpnz Kedsmitxqrdi Belgium 112 FLU YES 16-1-2002
+4831 Xlpd Hloo Belgium 57 TETANUS YES 15-11-2014
+3133 Uzlkc Vbvjtsq Belgium 7 FLU NO 
+3543 Yok Lyhenl Belgium 55 HEPATITIS-A NO 
+8168 Ujvcrdjcpe Krar Belgium 53 HEPATITIS-A NO 
+8168 Ujvcrdjcpe Krar Belgium 53 CHICKENPOX NO 
+4725 Zajzwenl Qbbpfh Belgium 45 MEASLES YES 10-10-2014
+5857 Uolkrusjg Tgdddcwhahas Belgium 100 MEASLES NO 
+7418 Yxykyjicn Uwdczsqe Belgium 56 HEPATITIS-B NO 
+8987 Vxvtfow Cslzcow Belgium 25 CHICKENPOX NO 
+4584 Vlj Oiz Belgium 26 RUBELLA NO 
+8987 Vxvtfow Cslzcow Belgium 25 HEPATITIS-B YES 6-1-2011
+4725 Zajzwenl Qbbpfh Belgium 45 HEPATITIS-A YES 9-12-2015
+4584 Vlj Oiz Belgium 26 RUBELLA NO 
+6052 Xwua Geyenhi Belgium 73 HEPATITIS-B NO 
+7611 Nuoy Twdidxfhdnly Belgium 15 HIB NO 
+8168 Ujvcrdjcpe Krar Belgium 53 COVID-19 NO 
+8987 Vxvtfow Cslzcow Belgium 25 POLIO YES 12-6-2010
+1619 Pcexlktrw Hziqtyjc Belgium 86 CHICKENPOX YES 16-3-2003
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 HIB YES 28-6-2000
+8168 Ujvcrdjcpe Krar Belgium 53 HEPATITIS-A NO 
+6052 Xwua Geyenhi Belgium 73 COVID-19 NO 
+8987 Vxvtfow Cslzcow Belgium 25 POLIO NO 
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 HIB YES 14-2-2016
+3543 Yok Lyhenl Belgium 55 RUBELLA NO 
+5635 Kqbaobhingve Kzuweztvrrkz Belgium 104 TETANUS NO 
+6458 Rdjxbuyo Bbpjhccwmd Belgium 40 POLIO NO 
+6052 Xwua Geyenhi Belgium 73 MEASLES NO 
+1619 Pcexlktrw Hziqtyjc Belgium 86 POLIO YES 28-3-2008
+6458 Rdjxbuyo Bbpjhccwmd Belgium 40 HEPATITIS-B NO 
+7418 Yxykyjicn Uwdczsqe Belgium 56 COVID-19 YES 19-5-2012
+6052 Xwua Geyenhi Belgium 73 MEASLES YES 30-5-2003
+4584 Vlj Oiz Belgium 26 RUBELLA NO 
+952 Zdv Eexablgib Belgium 105 TETANUS NO 
+4831 Xlpd Hloo Belgium 57 HIB NO 
+3133 Uzlkc Vbvjtsq Belgium 7 HEPATITIS-B NO 
+3543 Yok Lyhenl Belgium 55 HEPATITIS-B YES 18-3-2016
+5635 Kqbaobhingve Kzuweztvrrkz Belgium 104 TETANUS YES 2-4-2000
+5431 Wkrbrzwpnz Kedsmitxqrdi Belgium 112 TETANUS YES 7-5-2007
+1459 Wmdfvk Oepppqyql Belgium 58 MEASLES NO 
+1619 Pcexlktrw Hziqtyjc Belgium 86 RUBELLA YES 1-3-2016

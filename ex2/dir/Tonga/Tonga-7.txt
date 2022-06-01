@@ -1,0 +1,62 @@
+
+4898 Kbx Dfuwbckkds Tonga 109 POLIO YES 27-10-2001
+330 Rvmuvg Oibfixf Tonga 74 COVID-19 NO 
+6106 Udmoyt Eczrsyfrkigq Tonga 103 COVID-19 NO 
+4206 Ciordpp Qjofmvlfkf Tonga 14 POLIO YES 16-7-2014
+6727 Atmzpxbq Rismsvs Tonga 72 COVID-19 YES 24-5-2008
+1517 Ktpmy Kcfmdfifg Tonga 2 RUBELLA YES 20-1-2010
+330 Rvmuvg Oibfixf Tonga 74 POLIO YES 7-12-2019
+6727 Atmzpxbq Rismsvs Tonga 72 HIB NO 
+5355 Iltksqi Mmdmxvq Tonga 64 CHICKENPOX YES 21-10-2002
+8539 Jnhz Czki Tonga 20 HIB NO 
+2633 Pjdojbtgixec Wiq Tonga 115 TETANUS NO 
+6106 Udmoyt Eczrsyfrkigq Tonga 103 RUBELLA NO 
+3679 Hudedukblghs Wwpqw Tonga 32 HIB NO 
+4898 Kbx Dfuwbckkds Tonga 109 RUBELLA YES 26-9-2017
+8191 Wpbmfzngwqe Gchxfmpgv Tonga 119 CHICKENPOX NO 
+9357 Yppohcogdoas Itva Tonga 11 CHICKENPOX NO 
+6635 Gipzt Zhxzcjake Tonga 21 MEASLES YES 29-1-2012
+4631 Sumufxky Gqdecchkkjw Tonga 114 TETANUS NO 
+5666 Efblqgedbtc Lmteyni Tonga 101 COVID-19 NO 
+17 Ptsz Unepz Tonga 81 HEPATITIS-B YES 12-6-2014
+7515 Fsvdyap Jwq Tonga 94 POLIO NO 
+7157 Rutcecruhy Blr Tonga 76 HIB NO 
+6727 Atmzpxbq Rismsvs Tonga 72 TETANUS NO 
+5355 Iltksqi Mmdmxvq Tonga 64 RUBELLA YES 13-2-2000
+2633 Pjdojbtgixec Wiq Tonga 115 HEPATITIS-A NO 
+9357 Yppohcogdoas Itva Tonga 11 COVID-19 YES 25-9-2008
+5764 Qjhnhi Ohsfh Tonga 12 MEASLES NO 
+330 Rvmuvg Oibfixf Tonga 74 RUBELLA YES 2-6-2018
+110 Zchpuamascp Dmcijjwb Tonga 93 HEPATITIS-A YES 27-4-2001
+2633 Pjdojbtgixec Wiq Tonga 115 FLU NO 
+9789 Kdekmu Atugyjgn Tonga 38 FLU NO 
+17 Ptsz Unepz Tonga 81 CHICKENPOX NO 
+8191 Wpbmfzngwqe Gchxfmpgv Tonga 119 COVID-19 NO 
+6635 Gipzt Zhxzcjake Tonga 21 RUBELLA YES 3-5-2009
+6769 Guyw Cwhp Tonga 77 POLIO NO 
+4082 Ssmxtbsgxd Exdvnzl Tonga 100 CHICKENPOX NO 
+2824 Xbpqyuaelpjs Roiitt Tonga 19 RUBELLA NO 
+6635 Gipzt Zhxzcjake Tonga 21 POLIO YES 23-7-2019
+4631 Sumufxky Gqdecchkkjw Tonga 114 MEASLES NO 
+2633 Pjdojbtgixec Wiq Tonga 115 HIB NO 
+4091 Jzphqua Swdutgreffin Tonga 65 HEPATITIS-A YES 16-6-2013
+9357 Yppohcogdoas Itva Tonga 11 HEPATITIS-B YES 28-10-2018
+2824 Xbpqyuaelpjs Roiitt Tonga 19 HEPATITIS-B YES 18-4-2007
+5666 Efblqgedbtc Lmteyni Tonga 101 COVID-19 YES 28-9-2018
+5666 Efblqgedbtc Lmteyni Tonga 101 HEPATITIS-A NO 
+6769 Guyw Cwhp Tonga 77 TETANUS NO 
+4082 Ssmxtbsgxd Exdvnzl Tonga 100 TETANUS YES 29-11-2004
+5666 Efblqgedbtc Lmteyni Tonga 101 TETANUS NO 
+5666 Efblqgedbtc Lmteyni Tonga 101 RUBELLA YES 29-2-2008
+1517 Ktpmy Kcfmdfifg Tonga 2 POLIO YES 12-3-2004
+4091 Jzphqua Swdutgreffin Tonga 65 HEPATITIS-B NO 
+6106 Udmoyt Eczrsyfrkigq Tonga 103 HEPATITIS-A YES 9-1-2013
+4082 Ssmxtbsgxd Exdvnzl Tonga 100 RUBELLA YES 9-6-2010
+1566 Tdbathnncjun Krrmugv Tonga 46 MEASLES YES 23-1-2015
+6635 Gipzt Zhxzcjake Tonga 21 TETANUS NO 
+4631 Sumufxky Gqdecchkkjw Tonga 114 CHICKENPOX NO 
+2824 Xbpqyuaelpjs Roiitt Tonga 19 HIB YES 21-2-2017
+6106 Udmoyt Eczrsyfrkigq Tonga 103 FLU NO 
+1517 Ktpmy Kcfmdfifg Tonga 2 RUBELLA NO 
+1517 Ktpmy Kcfmdfifg Tonga 2 HEPATITIS-A NO 
+4091 Jzphqua Swdutgreffin Tonga 65 RUBELLA YES 8-11-2016

@@ -1,0 +1,44 @@
+
+7418 Yxykyjicn Uwdczsqe Belgium 56 COVID-19 NO 
+8987 Vxvtfow Cslzcow Belgium 25 MEASLES YES 17-1-2001
+6052 Xwua Geyenhi Belgium 73 COVID-19 YES 5-6-2013
+3133 Uzlkc Vbvjtsq Belgium 7 COVID-19 NO 
+5857 Uolkrusjg Tgdddcwhahas Belgium 100 POLIO YES 20-8-2000
+3543 Yok Lyhenl Belgium 55 MEASLES YES 1-5-2004
+5857 Uolkrusjg Tgdddcwhahas Belgium 100 TETANUS YES 30-6-2001
+3543 Yok Lyhenl Belgium 55 CHICKENPOX NO 
+4584 Vlj Oiz Belgium 26 TETANUS YES 13-12-2013
+8168 Ujvcrdjcpe Krar Belgium 53 FLU NO 
+1619 Pcexlktrw Hziqtyjc Belgium 86 HIB YES 7-1-2017
+7611 Nuoy Twdidxfhdnly Belgium 15 COVID-19 YES 6-9-2015
+4831 Xlpd Hloo Belgium 57 TETANUS YES 22-7-2007
+6458 Rdjxbuyo Bbpjhccwmd Belgium 40 COVID-19 YES 23-2-2000
+6052 Xwua Geyenhi Belgium 73 POLIO NO 
+6458 Rdjxbuyo Bbpjhccwmd Belgium 40 HEPATITIS-A NO 
+7418 Yxykyjicn Uwdczsqe Belgium 56 RUBELLA YES 22-5-2006
+1459 Wmdfvk Oepppqyql Belgium 58 HIB NO 
+952 Zdv Eexablgib Belgium 105 HIB NO 
+952 Zdv Eexablgib Belgium 105 POLIO NO 
+8987 Vxvtfow Cslzcow Belgium 25 HEPATITIS-A NO 
+5431 Wkrbrzwpnz Kedsmitxqrdi Belgium 112 HEPATITIS-A NO 
+1619 Pcexlktrw Hziqtyjc Belgium 86 MEASLES YES 10-9-2007
+4831 Xlpd Hloo Belgium 57 TETANUS YES 20-2-2011
+4725 Zajzwenl Qbbpfh Belgium 45 HEPATITIS-B NO 
+4725 Zajzwenl Qbbpfh Belgium 45 HEPATITIS-B NO 
+3543 Yok Lyhenl Belgium 55 HEPATITIS-B NO 
+8987 Vxvtfow Cslzcow Belgium 25 POLIO YES 11-7-2001
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 RUBELLA YES 12-12-2014
+7611 Nuoy Twdidxfhdnly Belgium 15 TETANUS YES 4-11-2017
+8987 Vxvtfow Cslzcow Belgium 25 HEPATITIS-A YES 20-11-2016
+8168 Ujvcrdjcpe Krar Belgium 53 HEPATITIS-A NO 
+5857 Uolkrusjg Tgdddcwhahas Belgium 100 POLIO YES 20-6-2013
+4831 Xlpd Hloo Belgium 57 HEPATITIS-B NO 
+6458 Rdjxbuyo Bbpjhccwmd Belgium 40 FLU NO 
+4584 Vlj Oiz Belgium 26 POLIO NO 
+1459 Wmdfvk Oepppqyql Belgium 58 MEASLES NO 
+4584 Vlj Oiz Belgium 26 HEPATITIS-A NO 
+3543 Yok Lyhenl Belgium 55 POLIO YES 2-5-2010
+501 Qjuzaqcq Ccaokmlmrudc Belgium 33 RUBELLA YES 20-7-2003
+4584 Vlj Oiz Belgium 26 RUBELLA NO 
+8168 Ujvcrdjcpe Krar Belgium 53 RUBELLA NO 
+1619 Pcexlktrw Hziqtyjc Belgium 86 FLU NO 

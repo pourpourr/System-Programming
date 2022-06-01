@@ -1,0 +1,43 @@
+
+9919 Nuknsg Pxdwxkfji Solomon-Islands 6 COVID-19 YES 25-3-2003
+2571 Zbxoj Eotmeiwnizb Solomon-Islands 101 HIB YES 17-3-2010
+1910 Iid Oxjczin Solomon-Islands 46 RUBELLA YES 5-1-2020
+9488 Dqa Pkoxnxcvthy Solomon-Islands 120 HIB YES 15-2-2009
+8877 Gkahyplxhnnp Mzsew Solomon-Islands 7 RUBELLA YES 29-2-2003
+6944 Nbnpczdb Iguzlpi Solomon-Islands 51 COVID-19 NO 
+1330 Zyektdmmps Hjqezxso Solomon-Islands 106 CHICKENPOX NO 
+1330 Zyektdmmps Hjqezxso Solomon-Islands 106 MEASLES NO 
+5339 Kmmgacutajl Dqfczuk Solomon-Islands 81 COVID-19 NO 
+7895 Qvwplqy Zdcfu Solomon-Islands 104 COVID-19 NO 
+8994 Yvfponcwbgt Ebdggjgmfr Solomon-Islands 62 HEPATITIS-A NO 
+1910 Iid Oxjczin Solomon-Islands 46 HIB NO 
+5110 Weorvc Kvnumk Solomon-Islands 114 HIB NO 
+2571 Zbxoj Eotmeiwnizb Solomon-Islands 101 POLIO NO 
+6696 Edrc Efrdpqplux Solomon-Islands 7 RUBELLA YES 24-5-2013
+169 Oioyprynh Nhwgtoavqnw Solomon-Islands 107 HEPATITIS-B NO 
+5339 Kmmgacutajl Dqfczuk Solomon-Islands 81 HEPATITIS-B NO 
+85 Twj Pryfxhduhtu Solomon-Islands 110 RUBELLA NO 
+6696 Edrc Efrdpqplux Solomon-Islands 7 CHICKENPOX NO 
+5339 Kmmgacutajl Dqfczuk Solomon-Islands 81 RUBELLA NO 
+748 Dpafi Spxukoopzqf Solomon-Islands 98 HEPATITIS-A NO 
+169 Oioyprynh Nhwgtoavqnw Solomon-Islands 107 FLU NO 
+6696 Edrc Efrdpqplux Solomon-Islands 7 POLIO NO 
+1910 Iid Oxjczin Solomon-Islands 46 MEASLES NO 
+5110 Weorvc Kvnumk Solomon-Islands 114 POLIO NO 
+169 Oioyprynh Nhwgtoavqnw Solomon-Islands 107 MEASLES NO 
+8877 Gkahyplxhnnp Mzsew Solomon-Islands 7 HEPATITIS-A NO 
+85 Twj Pryfxhduhtu Solomon-Islands 110 CHICKENPOX NO 
+169 Oioyprynh Nhwgtoavqnw Solomon-Islands 107 CHICKENPOX NO 
+85 Twj Pryfxhduhtu Solomon-Islands 110 MEASLES YES 30-11-2020
+5934 Goflckpl Vlteqy Solomon-Islands 58 FLU YES 14-3-2014
+7324 Jaxhohvybw Ucfmdrwdgjwr Solomon-Islands 115 MEASLES YES 17-3-2014
+7324 Jaxhohvybw Ucfmdrwdgjwr Solomon-Islands 115 CHICKENPOX NO 
+9693 Sppnlaniwft Krvd Solomon-Islands 57 TETANUS NO 
+9693 Sppnlaniwft Krvd Solomon-Islands 57 HEPATITIS-A YES 12-11-2011
+5110 Weorvc Kvnumk Solomon-Islands 114 HEPATITIS-A YES 22-10-2006
+434 Fludamjj Mtxqo Solomon-Islands 98 POLIO YES 12-3-2004
+5339 Kmmgacutajl Dqfczuk Solomon-Islands 81 CHICKENPOX YES 16-7-2003
+5110 Weorvc Kvnumk Solomon-Islands 114 CHICKENPOX NO 
+7324 Jaxhohvybw Ucfmdrwdgjwr Solomon-Islands 115 MEASLES NO 
+9488 Dqa Pkoxnxcvthy Solomon-Islands 120 RUBELLA NO 
+434 Fludamjj Mtxqo Solomon-Islands 98 POLIO YES 12-6-2006

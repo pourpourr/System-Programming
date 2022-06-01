@@ -1,0 +1,47 @@
+
+9806 Axvdk Vcs Brunei 47 FLU NO 
+3684 Yusfwivhwod Vgtcae Brunei 115 POLIO NO 
+9153 Yapilz Plcjvwmtnw Brunei 30 POLIO YES 5-11-2017
+9806 Axvdk Vcs Brunei 47 CHICKENPOX YES 12-3-2014
+8907 Hajefwg Rqbekl Brunei 66 RUBELLA NO 
+8331 Dkzjtaxsk Rsq Brunei 101 TETANUS NO 
+831 Qhbva Wanusjrufd Brunei 72 HEPATITIS-A YES 3-1-2013
+1597 Uqxlho Neyfl Brunei 113 COVID-19 YES 21-11-2011
+379 Kpsf Dzbnu Brunei 31 FLU YES 17-4-2017
+9153 Yapilz Plcjvwmtnw Brunei 30 HEPATITIS-B YES 28-7-2002
+1945 Srapsqktppw Gcshsuuou Brunei 95 CHICKENPOX NO 
+3684 Yusfwivhwod Vgtcae Brunei 115 CHICKENPOX YES 11-2-2001
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 TETANUS YES 23-4-2001
+831 Qhbva Wanusjrufd Brunei 72 MEASLES NO 
+5337 Nlcc Hvautfxmj Brunei 3 HEPATITIS-A NO 
+2957 Ypdezz Adfldkhyyyb Brunei 68 CHICKENPOX YES 19-4-2000
+419 Fhznsehpol Xqukbvbgp Brunei 102 HIB NO 
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 COVID-19 NO 
+9806 Axvdk Vcs Brunei 47 FLU NO 
+3684 Yusfwivhwod Vgtcae Brunei 115 TETANUS YES 24-7-2006
+5393 Unxs Tfwgp Brunei 20 MEASLES NO 
+4346 Xkxijpnczl Ttlwqd Brunei 78 HEPATITIS-A YES 16-7-2020
+1597 Uqxlho Neyfl Brunei 113 FLU NO 
+9153 Yapilz Plcjvwmtnw Brunei 30 COVID-19 YES 21-3-2007
+5393 Unxs Tfwgp Brunei 20 POLIO YES 16-12-2010
+4346 Xkxijpnczl Ttlwqd Brunei 78 FLU YES 5-11-2001
+2957 Ypdezz Adfldkhyyyb Brunei 68 FLU YES 19-10-2007
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 TETANUS NO 
+6642 Mosvqqbem Yjqhy Brunei 97 TETANUS YES 30-10-2000
+4346 Xkxijpnczl Ttlwqd Brunei 78 CHICKENPOX YES 13-7-2000
+1945 Srapsqktppw Gcshsuuou Brunei 95 FLU NO 
+8331 Dkzjtaxsk Rsq Brunei 101 HEPATITIS-A NO 
+2957 Ypdezz Adfldkhyyyb Brunei 68 MEASLES NO 
+4076 Drjaalu Cjhzu Brunei 7 COVID-19 YES 2-6-2009
+7858 Blw Kkfrhivqkck Brunei 106 RUBELLA NO 
+1945 Srapsqktppw Gcshsuuou Brunei 95 POLIO YES 5-8-2000
+5337 Nlcc Hvautfxmj Brunei 3 COVID-19 NO 
+2957 Ypdezz Adfldkhyyyb Brunei 68 HEPATITIS-A NO 
+9934 Dmckhhedalu Tktodpbd Brunei 17 TETANUS YES 19-2-2000
+2957 Ypdezz Adfldkhyyyb Brunei 68 HEPATITIS-A YES 11-11-2018
+1945 Srapsqktppw Gcshsuuou Brunei 95 HEPATITIS-A YES 4-12-2016
+2957 Ypdezz Adfldkhyyyb Brunei 68 CHICKENPOX NO 
+419 Fhznsehpol Xqukbvbgp Brunei 102 FLU YES 10-9-2002
+1945 Srapsqktppw Gcshsuuou Brunei 95 FLU YES 26-6-2014
+1597 Uqxlho Neyfl Brunei 113 CHICKENPOX YES 14-11-2003
+831 Qhbva Wanusjrufd Brunei 72 HEPATITIS-A YES 9-3-2008

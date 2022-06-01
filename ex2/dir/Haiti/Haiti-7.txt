@@ -1,0 +1,40 @@
+
+8966 Srqrmtzgqqkg Jxvwvy Haiti 85 TETANUS YES 17-6-2003
+6005 Buyp Hbcdklnzitv Haiti 74 HIB NO 
+1598 Thyedprht Dnpsljyqk Haiti 119 FLU NO 
+9640 Kbgyagquhyj Nwhztflxnox Haiti 63 CHICKENPOX YES 11-1-2018
+4813 Rgpgqta Argq Haiti 42 HEPATITIS-A YES 3-9-2015
+8901 Kqzugi Dytfu Haiti 45 COVID-19 NO 
+6645 Jhoxlitw Ivvppvdcrg Haiti 10 HEPATITIS-B YES 17-6-2012
+8966 Srqrmtzgqqkg Jxvwvy Haiti 85 FLU YES 8-10-2016
+2583 Vmlklrkgjvxp Jxmepi Haiti 109 TETANUS NO 
+2583 Vmlklrkgjvxp Jxmepi Haiti 109 TETANUS YES 25-3-2009
+6005 Buyp Hbcdklnzitv Haiti 74 RUBELLA YES 18-7-2006
+8336 Jui Dmx Haiti 42 TETANUS NO 
+567 Cbe Hvq Haiti 12 HIB YES 2-2-2001
+2710 Eybbffbsydkq Ycpnd Haiti 81 CHICKENPOX NO 
+3588 Qmhjo Hcd Haiti 63 HEPATITIS-A NO 
+6323 Yfkzaij Fldxfxu Haiti 29 FLU YES 5-11-2006
+2495 Mesfpnzhxgyi Xqtdmch Haiti 49 HEPATITIS-B YES 28-4-2003
+565 Ughijgryyfg Uumxmlyd Haiti 50 POLIO YES 13-2-2000
+3588 Qmhjo Hcd Haiti 63 FLU YES 24-2-2001
+4813 Rgpgqta Argq Haiti 42 CHICKENPOX NO 
+2710 Eybbffbsydkq Ycpnd Haiti 81 MEASLES YES 21-9-2008
+2583 Vmlklrkgjvxp Jxmepi Haiti 109 POLIO NO 
+6485 Xseyu Yshjgyduusdk Haiti 42 RUBELLA NO 
+8901 Kqzugi Dytfu Haiti 45 TETANUS YES 26-10-2010
+3588 Qmhjo Hcd Haiti 63 HEPATITIS-A YES 12-7-2016
+2495 Mesfpnzhxgyi Xqtdmch Haiti 49 HEPATITIS-A NO 
+4813 Rgpgqta Argq Haiti 42 POLIO NO 
+4813 Rgpgqta Argq Haiti 42 FLU NO 
+2710 Eybbffbsydkq Ycpnd Haiti 81 HIB NO 
+2495 Mesfpnzhxgyi Xqtdmch Haiti 49 RUBELLA NO 
+4919 Gxt Cayofhmw Haiti 115 HEPATITIS-A YES 26-10-2004
+6005 Buyp Hbcdklnzitv Haiti 74 POLIO NO 
+4919 Gxt Cayofhmw Haiti 115 TETANUS YES 25-6-2006
+2710 Eybbffbsydkq Ycpnd Haiti 81 POLIO YES 28-1-2010
+565 Ughijgryyfg Uumxmlyd Haiti 50 FLU NO 
+4919 Gxt Cayofhmw Haiti 115 POLIO YES 25-5-2004
+7822 Cymxraq Bxyvful Haiti 9 CHICKENPOX NO 
+7822 Cymxraq Bxyvful Haiti 9 POLIO NO 
+9640 Kbgyagquhyj Nwhztflxnox Haiti 63 FLU NO 

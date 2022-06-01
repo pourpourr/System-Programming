@@ -1,0 +1,41 @@
+
+5813 Matjceeumrf Napatkw Greece 99 COVID-19 YES 9-5-2009
+9420 Ipmdtn Woysnmuu Greece 32 POLIO YES 25-7-2015
+1454 Ydr Yzfsbu Greece 92 TETANUS YES 12-3-2000
+1105 Baajhtqlwzf Wyw Greece 43 MEASLES NO 
+8972 Mxgozs Tzawednj Greece 108 CHICKENPOX NO 
+5953 Wdqvo Vshzjehs Greece 3 POLIO YES 22-12-2017
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 RUBELLA YES 7-5-2003
+6863 Oapow Zmsujy Greece 75 MEASLES YES 4-4-2006
+1454 Ydr Yzfsbu Greece 92 HEPATITIS-B NO 
+4935 Vpdaz Ztyi Greece 44 TETANUS YES 18-2-2013
+4935 Vpdaz Ztyi Greece 44 HEPATITIS-A YES 19-12-2012
+5953 Wdqvo Vshzjehs Greece 3 HEPATITIS-B NO 
+4935 Vpdaz Ztyi Greece 44 MEASLES NO 
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 HEPATITIS-B NO 
+5953 Wdqvo Vshzjehs Greece 3 RUBELLA YES 5-1-2017
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 POLIO YES 30-9-2018
+5813 Matjceeumrf Napatkw Greece 99 TETANUS YES 6-7-2012
+4966 Jrmcyvtb Wynq Greece 28 POLIO YES 21-5-2015
+2712 Zihfrzzxv Gqvatvwna Greece 23 MEASLES YES 24-8-2019
+5813 Matjceeumrf Napatkw Greece 99 MEASLES YES 16-5-2020
+213 Skrvcouvmnv Miwbdouh Greece 57 CHICKENPOX YES 22-5-2003
+637 Qclpsvuia Hlc Greece 85 TETANUS NO 
+2712 Zihfrzzxv Gqvatvwna Greece 23 FLU NO 
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 HEPATITIS-B YES 30-5-2008
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 HEPATITIS-A YES 6-4-2019
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 HEPATITIS-B YES 14-8-2020
+4966 Jrmcyvtb Wynq Greece 28 FLU YES 24-8-2020
+7613 Wudktddrwiz Epoaxqxqrjwx Greece 11 CHICKENPOX YES 24-7-2020
+2712 Zihfrzzxv Gqvatvwna Greece 23 RUBELLA YES 6-12-2016
+5953 Wdqvo Vshzjehs Greece 3 RUBELLA YES 14-9-2010
+4044 Buigsr Htnuhertnjzi Greece 112 HIB YES 27-6-2007
+5813 Matjceeumrf Napatkw Greece 99 HIB YES 8-7-2016
+9420 Ipmdtn Woysnmuu Greece 32 CHICKENPOX NO 
+5813 Matjceeumrf Napatkw Greece 99 HIB NO 
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 FLU NO 
+637 Qclpsvuia Hlc Greece 85 MEASLES YES 5-9-2020
+3310 Bspgraiwuoe Heotn Greece 35 POLIO YES 7-2-2019
+637 Qclpsvuia Hlc Greece 85 TETANUS YES 22-9-2010
+6495 Hnlblfbazmqp Gfnlzl Greece 91 HIB NO 
+4966 Jrmcyvtb Wynq Greece 28 RUBELLA YES 23-12-2018

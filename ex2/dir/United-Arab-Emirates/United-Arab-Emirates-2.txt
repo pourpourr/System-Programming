@@ -1,0 +1,36 @@
+
+9707 Mmjoa Qolv United-Arab-Emirates 22 POLIO YES 13-2-2001
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 HIB NO 
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 TETANUS YES 17-2-2005
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 FLU YES 26-8-2013
+7020 Cew Tqkux United-Arab-Emirates 9 CHICKENPOX NO 
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 HIB YES 22-6-2018
+3489 Wdcuh Fgwftymmk United-Arab-Emirates 107 FLU YES 17-3-2002
+8868 Cir Cap United-Arab-Emirates 74 CHICKENPOX YES 24-12-2017
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 RUBELLA NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 RUBELLA NO 
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 COVID-19 NO 
+3489 Wdcuh Fgwftymmk United-Arab-Emirates 107 COVID-19 YES 9-2-2001
+9707 Mmjoa Qolv United-Arab-Emirates 22 HEPATITIS-B NO 
+875 Tirvbm Bsgjn United-Arab-Emirates 67 TETANUS YES 14-12-2017
+8868 Cir Cap United-Arab-Emirates 74 HEPATITIS-B YES 1-12-2004
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 POLIO YES 4-9-2016
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 HEPATITIS-A YES 20-6-2015
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 MEASLES YES 25-5-2015
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 TETANUS NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 MEASLES YES 19-2-2000
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 HEPATITIS-A NO 
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 FLU NO 
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 HIB NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 HEPATITIS-B NO 
+3489 Wdcuh Fgwftymmk United-Arab-Emirates 107 HEPATITIS-B YES 22-11-2014
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 HEPATITIS-A YES 7-3-2008
+8868 Cir Cap United-Arab-Emirates 74 CHICKENPOX NO 
+5307 Fos Jzfcv United-Arab-Emirates 57 MEASLES NO 
+5307 Fos Jzfcv United-Arab-Emirates 57 MEASLES NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 HIB NO 
+8868 Cir Cap United-Arab-Emirates 74 COVID-19 NO 
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 MEASLES NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 HIB YES 29-4-2009
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 HEPATITIS-B NO 
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 COVID-19 YES 9-9-2011

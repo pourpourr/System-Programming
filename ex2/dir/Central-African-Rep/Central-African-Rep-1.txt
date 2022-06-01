@@ -1,0 +1,39 @@
+
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 HEPATITIS-B NO 
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 HIB NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 CHICKENPOX NO 
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 MEASLES YES 25-9-2003
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 MEASLES NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 FLU NO 
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 COVID-19 YES 26-8-2019
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 HIB NO 
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 POLIO NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 HIB NO 
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 MEASLES YES 22-10-2020
+8585 Nfo Vjdqrohek Central-African-Rep 4 HIB NO 
+2686 Afg Uktply Central-African-Rep 80 HEPATITIS-B YES 6-10-2015
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 HEPATITIS-B YES 13-4-2008
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 MEASLES NO 
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 POLIO NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 RUBELLA NO 
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 TETANUS NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 CHICKENPOX YES 23-11-2017
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 COVID-19 YES 16-7-2018
+584 Kvg Wawd Central-African-Rep 120 POLIO YES 12-9-2019
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 HIB NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HIB NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 MEASLES NO 
+9831 Gtw Acrotrcbccg Central-African-Rep 116 HIB YES 6-8-2010
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 CHICKENPOX NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 HEPATITIS-A YES 16-3-2005
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 POLIO NO 
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 HEPATITIS-A YES 12-7-2015
+452 Kzangqijp Oqbr Central-African-Rep 80 MEASLES YES 2-9-2018
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 MEASLES YES 24-11-2012
+4886 Niibwi Yktphnltga Central-African-Rep 43 MEASLES YES 30-11-2011
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 RUBELLA NO 
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 HEPATITIS-A NO 
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 FLU NO 
+622 Rozpvup Qlae Central-African-Rep 74 HEPATITIS-B NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 TETANUS NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 HIB NO 

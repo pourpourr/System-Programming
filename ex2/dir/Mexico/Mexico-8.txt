@@ -1,0 +1,40 @@
+
+120 Vimdsgo Kxpt Mexico 28 MEASLES YES 12-8-2000
+3923 Bxhp Cstbrg Mexico 42 HEPATITIS-B NO 
+2868 Alpyax Rintaddvhrtl Mexico 67 MEASLES YES 30-3-2002
+9287 Sqftocupr Esfjctcjvd Mexico 109 FLU NO 
+5751 Dptrir Dpic Mexico 11 FLU YES 17-5-2015
+1765 Jws Pvsd Mexico 114 MEASLES YES 28-3-2007
+120 Vimdsgo Kxpt Mexico 28 HEPATITIS-A YES 23-7-2018
+8190 Pymhi Ioy Mexico 27 HIB YES 13-5-2010
+9287 Sqftocupr Esfjctcjvd Mexico 109 COVID-19 YES 7-1-2012
+7850 Snqllvzg Lusb Mexico 10 CHICKENPOX YES 21-9-2020
+9287 Sqftocupr Esfjctcjvd Mexico 109 POLIO YES 5-10-2008
+1765 Jws Pvsd Mexico 114 COVID-19 YES 4-4-2009
+1765 Jws Pvsd Mexico 114 MEASLES NO 
+6443 Lyk Avg Mexico 72 MEASLES YES 15-1-2020
+1765 Jws Pvsd Mexico 114 HIB YES 7-4-2020
+2004 Czbym Sdwbgehureq Mexico 63 CHICKENPOX NO 
+8481 Jrsjrbrnjr Yxicwxdttjpd Mexico 25 FLU YES 2-12-2011
+1765 Jws Pvsd Mexico 114 MEASLES YES 19-8-2008
+1218 Djy Xjs Mexico 3 CHICKENPOX YES 2-1-2014
+7850 Snqllvzg Lusb Mexico 10 FLU YES 6-11-2005
+1892 Fgn Znfaf Mexico 19 HIB YES 16-12-2014
+2004 Czbym Sdwbgehureq Mexico 63 CHICKENPOX YES 2-10-2016
+8481 Jrsjrbrnjr Yxicwxdttjpd Mexico 25 HEPATITIS-A NO 
+6443 Lyk Avg Mexico 72 TETANUS YES 3-11-2017
+1765 Jws Pvsd Mexico 114 HIB NO 
+3574 Jqyknwaljw Zwxle Mexico 49 HEPATITIS-B NO 
+8190 Pymhi Ioy Mexico 27 CHICKENPOX NO 
+2004 Czbym Sdwbgehureq Mexico 63 HIB NO 
+3776 Uadnm Pkyaakdihg Mexico 20 RUBELLA YES 18-1-2011
+1218 Djy Xjs Mexico 3 COVID-19 YES 20-7-2015
+6298 Dyvnf Xkgkuscc Mexico 12 CHICKENPOX YES 23-10-2014
+9287 Sqftocupr Esfjctcjvd Mexico 109 CHICKENPOX NO 
+120 Vimdsgo Kxpt Mexico 28 FLU NO 
+1765 Jws Pvsd Mexico 114 HEPATITIS-B NO 
+1765 Jws Pvsd Mexico 114 TETANUS YES 28-1-2016
+6298 Dyvnf Xkgkuscc Mexico 12 HIB NO 
+5751 Dptrir Dpic Mexico 11 COVID-19 NO 
+1765 Jws Pvsd Mexico 114 POLIO NO 
+1892 Fgn Znfaf Mexico 19 TETANUS NO 

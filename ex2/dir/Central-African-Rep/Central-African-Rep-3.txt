@@ -1,0 +1,39 @@
+
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 FLU YES 9-6-2014
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HIB YES 17-3-2010
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 MEASLES YES 21-7-2012
+622 Rozpvup Qlae Central-African-Rep 74 MEASLES YES 5-4-2006
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 MEASLES YES 4-1-2001
+9293 Cktc Qqqideyc Central-African-Rep 33 POLIO YES 8-9-2003
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 CHICKENPOX NO 
+2686 Afg Uktply Central-African-Rep 80 HEPATITIS-A YES 6-4-2002
+5024 Hrfiiuby Obn Central-African-Rep 52 COVID-19 NO 
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 TETANUS NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 HEPATITIS-A YES 22-2-2007
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 CHICKENPOX NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 RUBELLA YES 2-8-2000
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 COVID-19 NO 
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 MEASLES YES 6-11-2013
+584 Kvg Wawd Central-African-Rep 120 HIB YES 4-3-2011
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 CHICKENPOX NO 
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 COVID-19 NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 POLIO YES 3-10-2010
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 CHICKENPOX YES 9-8-2012
+9293 Cktc Qqqideyc Central-African-Rep 33 COVID-19 YES 26-2-2017
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 HEPATITIS-B YES 18-3-2018
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 TETANUS YES 18-8-2001
+4886 Niibwi Yktphnltga Central-African-Rep 43 MEASLES NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 HIB NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 TETANUS NO 
+8123 Vjukud Bpblnrnglr Central-African-Rep 30 MEASLES NO 
+9831 Gtw Acrotrcbccg Central-African-Rep 116 CHICKENPOX YES 3-12-2002
+6992 Vdgtpotucous Vdnusfihg Central-African-Rep 50 TETANUS NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 POLIO YES 23-11-2020
+5024 Hrfiiuby Obn Central-African-Rep 52 HEPATITIS-B YES 2-2-2019
+9831 Gtw Acrotrcbccg Central-African-Rep 116 TETANUS YES 13-12-2008
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 FLU NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 POLIO YES 13-6-2003
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 HIB YES 2-4-2019
+5024 Hrfiiuby Obn Central-African-Rep 52 FLU YES 11-9-2006
+622 Rozpvup Qlae Central-African-Rep 74 FLU YES 6-12-2003
+9293 Cktc Qqqideyc Central-African-Rep 33 HEPATITIS-A YES 15-7-2020

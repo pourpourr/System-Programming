@@ -1,0 +1,56 @@
+
+3785 Rfmcjkrs Nmqri Mozambique 107 TETANUS NO 
+7026 Wixtyr Vmpkslujaxwt Mozambique 95 MEASLES YES 8-11-2018
+2226 Frueermgcrac Efrzrb Mozambique 73 RUBELLA NO 
+5245 Papqfa Jkgsvkqjhlvb Mozambique 51 HEPATITIS-B YES 20-5-2003
+2226 Frueermgcrac Efrzrb Mozambique 73 MEASLES YES 12-2-2005
+9537 Eushw Kcdiwywrzqsp Mozambique 68 POLIO YES 21-1-2015
+7801 Dbt Jlmvf Mozambique 17 RUBELLA YES 10-8-2001
+2265 Raepuzjixp Eqolfjn Mozambique 103 COVID-19 YES 29-4-2013
+2169 Tykwdfave Mopg Mozambique 17 COVID-19 YES 13-8-2008
+8780 Wzdvqnrmykn Ghrtqcnwosp Mozambique 59 RUBELLA YES 9-12-2013
+9559 Diiuasscslyx Qmoegy Mozambique 102 MEASLES YES 6-1-2019
+9371 Fhonryq Lpoktt Mozambique 25 COVID-19 YES 4-8-2015
+2226 Frueermgcrac Efrzrb Mozambique 73 HEPATITIS-B NO 
+9100 Vtb Uaskarl Mozambique 10 MEASLES NO 
+2265 Raepuzjixp Eqolfjn Mozambique 103 RUBELLA NO 
+9371 Fhonryq Lpoktt Mozambique 25 HEPATITIS-A YES 4-4-2010
+7635 Qaedvwc Armdlvdybope Mozambique 46 RUBELLA NO 
+1948 Jhcnauosb Ahfoijlz Mozambique 114 RUBELLA NO 
+5245 Papqfa Jkgsvkqjhlvb Mozambique 51 HEPATITIS-A YES 25-11-2010
+2169 Tykwdfave Mopg Mozambique 17 TETANUS YES 25-8-2001
+5493 Fcwwc Fcsorhd Mozambique 62 RUBELLA NO 
+3785 Rfmcjkrs Nmqri Mozambique 107 CHICKENPOX YES 26-1-2000
+2541 Cilqgxf Ypjwbdywklz Mozambique 27 TETANUS YES 23-2-2002
+3785 Rfmcjkrs Nmqri Mozambique 107 CHICKENPOX NO 
+7801 Dbt Jlmvf Mozambique 17 TETANUS NO 
+183 Hoith Enu Mozambique 82 COVID-19 YES 11-9-2003
+9677 Ulegnt Bxwfn Mozambique 37 POLIO YES 24-3-2013
+5493 Fcwwc Fcsorhd Mozambique 62 HIB NO 
+5072 Mhcl Pcp Mozambique 47 POLIO YES 15-12-2001
+1948 Jhcnauosb Ahfoijlz Mozambique 114 FLU YES 6-3-2018
+9075 Wopgd Ryne Mozambique 50 HEPATITIS-A YES 24-10-2013
+609 Ifjupd Qemgzsqcpheq Mozambique 33 CHICKENPOX NO 
+629 Iewbkgfpifxv Ukderxazvwm Mozambique 42 FLU NO 
+8688 Vilnsdxhhhse Byrhrj Mozambique 55 TETANUS NO 
+7026 Wixtyr Vmpkslujaxwt Mozambique 95 RUBELLA NO 
+5072 Mhcl Pcp Mozambique 47 FLU NO 
+9537 Eushw Kcdiwywrzqsp Mozambique 68 COVID-19 YES 12-4-2019
+9537 Eushw Kcdiwywrzqsp Mozambique 68 POLIO NO 
+2226 Frueermgcrac Efrzrb Mozambique 73 HIB NO 
+1948 Jhcnauosb Ahfoijlz Mozambique 114 FLU YES 22-7-2018
+2226 Frueermgcrac Efrzrb Mozambique 73 COVID-19 NO 
+9075 Wopgd Ryne Mozambique 50 FLU YES 10-9-2014
+7026 Wixtyr Vmpkslujaxwt Mozambique 95 HEPATITIS-B NO 
+1948 Jhcnauosb Ahfoijlz Mozambique 114 COVID-19 NO 
+3785 Rfmcjkrs Nmqri Mozambique 107 HEPATITIS-A YES 30-10-2002
+8160 Txhmom Amoenrhrdq Mozambique 67 FLU NO 
+9371 Fhonryq Lpoktt Mozambique 25 RUBELLA NO 
+5493 Fcwwc Fcsorhd Mozambique 62 TETANUS NO 
+9559 Diiuasscslyx Qmoegy Mozambique 102 HEPATITIS-A YES 25-10-2011
+609 Ifjupd Qemgzsqcpheq Mozambique 33 TETANUS NO 
+9075 Wopgd Ryne Mozambique 50 POLIO YES 7-11-2015
+3785 Rfmcjkrs Nmqri Mozambique 107 HEPATITIS-A YES 4-6-2009
+9100 Vtb Uaskarl Mozambique 10 CHICKENPOX NO 
+2169 Tykwdfave Mopg Mozambique 17 HEPATITIS-B NO 
+4948 Vvmuo Doqkzd Mozambique 14 HIB NO 

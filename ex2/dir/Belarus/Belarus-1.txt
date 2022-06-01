@@ -1,0 +1,44 @@
+
+8812 Chjf Lestxhn Belarus 31 FLU YES 21-1-2016
+6453 Rzeacref Eywexjcgxeu Belarus 71 HEPATITIS-B NO 
+9900 Wddlkpoebc Kkz Belarus 98 TETANUS YES 26-3-2018
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 RUBELLA YES 12-6-2011
+9205 Xpmo Abgdfimfr Belarus 42 TETANUS NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 HIB NO 
+5846 Wpoedolhpq Mptpt Belarus 51 HIB YES 10-10-2003
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 MEASLES NO 
+9205 Xpmo Abgdfimfr Belarus 42 RUBELLA YES 22-1-2008
+6453 Rzeacref Eywexjcgxeu Belarus 71 TETANUS NO 
+9900 Wddlkpoebc Kkz Belarus 98 RUBELLA NO 
+9162 Faswsxugyy Dvnnikek Belarus 80 MEASLES NO 
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 RUBELLA YES 4-10-2001
+5161 Gimhkilm Nlnwyq Belarus 77 POLIO YES 4-8-2003
+5846 Wpoedolhpq Mptpt Belarus 51 HEPATITIS-B NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 HEPATITIS-A NO 
+5846 Wpoedolhpq Mptpt Belarus 51 FLU NO 
+4804 Kocmwsms Qssbk Belarus 69 HIB NO 
+9900 Wddlkpoebc Kkz Belarus 98 MEASLES YES 2-1-2008
+9900 Wddlkpoebc Kkz Belarus 98 HEPATITIS-B NO 
+9162 Faswsxugyy Dvnnikek Belarus 80 FLU YES 17-7-2006
+9162 Faswsxugyy Dvnnikek Belarus 80 CHICKENPOX YES 18-7-2018
+8787 Eogyjfuhmpry Zserk Belarus 97 FLU YES 26-12-2017
+7947 Lajcza Tlpvlzznxda Belarus 115 HEPATITIS-A NO 
+9615 Bpui Calcug Belarus 119 HIB YES 26-8-2017
+8812 Chjf Lestxhn Belarus 31 FLU NO 
+8812 Chjf Lestxhn Belarus 31 TETANUS NO 
+8812 Chjf Lestxhn Belarus 31 COVID-19 NO 
+8812 Chjf Lestxhn Belarus 31 MEASLES YES 13-10-2006
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 MEASLES NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 CHICKENPOX NO 
+9205 Xpmo Abgdfimfr Belarus 42 COVID-19 NO 
+8787 Eogyjfuhmpry Zserk Belarus 97 HIB YES 7-9-2010
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 HEPATITIS-B NO 
+9900 Wddlkpoebc Kkz Belarus 98 HEPATITIS-B YES 28-12-2017
+5161 Gimhkilm Nlnwyq Belarus 77 CHICKENPOX YES 10-4-2017
+6305 Jjfb Xhnogqkzqbfb Belarus 8 HIB NO 
+7947 Lajcza Tlpvlzznxda Belarus 115 POLIO YES 29-12-2013
+9205 Xpmo Abgdfimfr Belarus 42 HEPATITIS-B NO 
+9900 Wddlkpoebc Kkz Belarus 98 TETANUS YES 4-11-2009
+9205 Xpmo Abgdfimfr Belarus 42 POLIO YES 10-7-2000
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 POLIO NO 
+8928 Yns Fkjqa Belarus 66 RUBELLA NO 

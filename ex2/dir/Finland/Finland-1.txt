@@ -1,0 +1,58 @@
+
+1657 Iqjp Ivsxbrwn Finland 104 HEPATITIS-A NO 
+9088 Ooavdtu Kutmd Finland 72 POLIO YES 4-8-2019
+5681 Ylxuh Mcsqn Finland 117 CHICKENPOX YES 23-6-2013
+1134 Vriumy Gfkyh Finland 66 MEASLES NO 
+1657 Iqjp Ivsxbrwn Finland 104 POLIO NO 
+5073 Wnf Lffrqkmf Finland 107 RUBELLA YES 22-11-2008
+7782 Obgm Mttj Finland 3 HEPATITIS-B NO 
+5073 Wnf Lffrqkmf Finland 107 HEPATITIS-A NO 
+3467 Fdft Jydfshvof Finland 111 HEPATITIS-A NO 
+9894 Dnvaxk Rlci Finland 51 POLIO NO 
+382 Zkjek Pxeju Finland 14 RUBELLA NO 
+2591 Wdbvvmoqmr Axk Finland 27 CHICKENPOX NO 
+6680 Cep Yxbhhs Finland 58 RUBELLA NO 
+9821 Ghjjijkmponk Ifnftrsgyqx Finland 58 FLU YES 22-3-2014
+2591 Wdbvvmoqmr Axk Finland 27 COVID-19 NO 
+1592 Ewjyt Kzh Finland 104 MEASLES YES 18-11-2015
+308 Jagezhyggiwo Xdst Finland 68 HIB NO 
+9821 Ghjjijkmponk Ifnftrsgyqx Finland 58 TETANUS YES 17-4-2017
+382 Zkjek Pxeju Finland 14 COVID-19 YES 27-4-2006
+1657 Iqjp Ivsxbrwn Finland 104 HIB YES 19-9-2014
+4981 Odywsoyflmt Cppz Finland 117 POLIO NO 
+7713 Azvrugy Cizk Finland 40 HIB NO 
+2591 Wdbvvmoqmr Axk Finland 27 COVID-19 YES 23-12-2000
+4981 Odywsoyflmt Cppz Finland 117 HIB NO 
+9821 Ghjjijkmponk Ifnftrsgyqx Finland 58 TETANUS YES 27-7-2008
+2591 Wdbvvmoqmr Axk Finland 27 MEASLES YES 18-5-2020
+9821 Ghjjijkmponk Ifnftrsgyqx Finland 58 FLU NO 
+9821 Ghjjijkmponk Ifnftrsgyqx Finland 58 RUBELLA YES 9-10-2010
+9482 Crdzuoqybr Fnvoe Finland 100 COVID-19 NO 
+3467 Fdft Jydfshvof Finland 111 HIB NO 
+9570 Vgsoishursr Pbxriplrgqh Finland 36 COVID-19 YES 9-5-2020
+2591 Wdbvvmoqmr Axk Finland 27 COVID-19 NO 
+9894 Dnvaxk Rlci Finland 51 HEPATITIS-A YES 28-1-2011
+1134 Vriumy Gfkyh Finland 66 POLIO YES 6-3-2012
+1134 Vriumy Gfkyh Finland 66 FLU NO 
+9482 Crdzuoqybr Fnvoe Finland 100 TETANUS YES 22-5-2013
+9088 Ooavdtu Kutmd Finland 72 HEPATITIS-A NO 
+4981 Odywsoyflmt Cppz Finland 117 POLIO YES 27-11-2016
+5681 Ylxuh Mcsqn Finland 117 HEPATITIS-A YES 12-7-2005
+731 Cwmdqof Zmu Finland 120 POLIO YES 10-8-2019
+7782 Obgm Mttj Finland 3 HIB YES 24-1-2014
+7713 Azvrugy Cizk Finland 40 MEASLES YES 15-9-2009
+308 Jagezhyggiwo Xdst Finland 68 CHICKENPOX NO 
+731 Cwmdqof Zmu Finland 120 CHICKENPOX YES 12-5-2003
+3467 Fdft Jydfshvof Finland 111 COVID-19 YES 19-2-2003
+9570 Vgsoishursr Pbxriplrgqh Finland 36 POLIO NO 
+1657 Iqjp Ivsxbrwn Finland 104 HIB YES 7-5-2020
+7366 Dobfar Fxr Finland 12 FLU YES 26-6-2002
+605 Pmlagk Kvmrexs Finland 38 MEASLES NO 
+9894 Dnvaxk Rlci Finland 51 MEASLES NO 
+2879 Ihmr Tzg Finland 100 HEPATITIS-A NO 
+3467 Fdft Jydfshvof Finland 111 COVID-19 YES 30-10-2005
+1657 Iqjp Ivsxbrwn Finland 104 HEPATITIS-A YES 3-10-2002
+9821 Ghjjijkmponk Ifnftrsgyqx Finland 58 COVID-19 NO 
+6680 Cep Yxbhhs Finland 58 POLIO YES 29-4-2004
+1839 Uhosk Zvjtzbtgbg Finland 21 CHICKENPOX YES 17-3-2010
+9894 Dnvaxk Rlci Finland 51 CHICKENPOX YES 22-1-2008

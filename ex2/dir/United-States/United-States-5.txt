@@ -1,0 +1,42 @@
+
+7678 Qqlfqs Uli United-States 39 HIB YES 24-6-2019
+254 Mkqzx Bywe United-States 40 HIB NO 
+8334 Zzsca Fqogtrpuzp United-States 70 TETANUS NO 
+6264 Wkph Jvhswcxxibmj United-States 118 MEASLES NO 
+4453 Ozvi Dwjhanxqiwdx United-States 73 HIB NO 
+1791 Ioq Gphqvzmnf United-States 39 RUBELLA YES 15-2-2006
+4453 Ozvi Dwjhanxqiwdx United-States 73 HIB NO 
+254 Mkqzx Bywe United-States 40 HEPATITIS-B YES 15-12-2015
+5544 Dzarhjahqw Vibrjoa United-States 108 CHICKENPOX NO 
+8598 Oavjqybpwr Zaqkqve United-States 118 RUBELLA NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 COVID-19 NO 
+4397 Hafyyengesxh Ijghoknodc United-States 45 POLIO NO 
+4453 Ozvi Dwjhanxqiwdx United-States 73 CHICKENPOX YES 10-5-2008
+9991 Twh Bek United-States 75 RUBELLA YES 19-5-2015
+8334 Zzsca Fqogtrpuzp United-States 70 MEASLES YES 12-9-2001
+9991 Twh Bek United-States 75 CHICKENPOX NO 
+6268 Ivrl Hiqjzhacns United-States 49 TETANUS YES 5-2-2003
+8334 Zzsca Fqogtrpuzp United-States 70 MEASLES YES 5-11-2019
+5544 Dzarhjahqw Vibrjoa United-States 108 MEASLES NO 
+9991 Twh Bek United-States 75 TETANUS NO 
+9991 Twh Bek United-States 75 HEPATITIS-A YES 5-4-2003
+8598 Oavjqybpwr Zaqkqve United-States 118 CHICKENPOX YES 17-6-2002
+6622 Msilpjqz Pltvcxdz United-States 87 RUBELLA NO 
+254 Mkqzx Bywe United-States 40 MEASLES YES 6-8-2000
+8212 Xod Ahtmhx United-States 85 TETANUS NO 
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 RUBELLA YES 18-1-2016
+4511 Uro Wxfpvfmrbt United-States 110 TETANUS NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 FLU YES 23-7-2008
+8334 Zzsca Fqogtrpuzp United-States 70 TETANUS NO 
+296 Vnefper Danxkmlnsv United-States 27 HEPATITIS-A NO 
+254 Mkqzx Bywe United-States 40 COVID-19 NO 
+296 Vnefper Danxkmlnsv United-States 27 POLIO YES 27-3-2016
+4453 Ozvi Dwjhanxqiwdx United-States 73 HEPATITIS-B NO 
+254 Mkqzx Bywe United-States 40 COVID-19 NO 
+8334 Zzsca Fqogtrpuzp United-States 70 HEPATITIS-A YES 13-2-2004
+9991 Twh Bek United-States 75 HEPATITIS-A YES 7-8-2017
+9561 Ruw Uqbt United-States 57 HEPATITIS-B YES 11-5-2003
+9561 Ruw Uqbt United-States 57 FLU NO 
+1791 Ioq Gphqvzmnf United-States 39 RUBELLA YES 18-1-2001
+4397 Hafyyengesxh Ijghoknodc United-States 45 HEPATITIS-A NO 
+8598 Oavjqybpwr Zaqkqve United-States 118 CHICKENPOX NO 

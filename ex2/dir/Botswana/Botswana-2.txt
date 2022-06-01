@@ -1,0 +1,70 @@
+
+3396 Cxpfpzu Eyowvuakor Botswana 112 HEPATITIS-B YES 24-7-2015
+5465 Jubnoc Vbkcmry Botswana 56 POLIO NO 
+279 Mger Wpwunlzvim Botswana 79 FLU YES 17-9-2001
+7740 Tnqaapjybyht Ynhf Botswana 97 FLU YES 17-3-2019
+9895 Wigxtzhutkbl Jvonqotmfe Botswana 48 POLIO NO 
+1542 Ssojsyd Btwh Botswana 88 TETANUS NO 
+3287 Tkc Iygbpsgqule Botswana 86 TETANUS NO 
+9937 Rajizvmice Bxmneoud Botswana 34 RUBELLA YES 6-9-2012
+3396 Cxpfpzu Eyowvuakor Botswana 112 COVID-19 NO 
+616 Uwfjw Hzgmnwcpnee Botswana 91 TETANUS NO 
+1437 Qal Gue Botswana 52 FLU YES 12-5-2011
+2371 Fkbxftgvj Zfxjbaa Botswana 20 MEASLES NO 
+4254 Wzwcjijnwby Nrqtg Botswana 38 MEASLES YES 18-9-2018
+4117 Zvrd Pwhbkfvvyzq Botswana 24 MEASLES NO 
+2759 Oblsitm Xlyf Botswana 57 COVID-19 YES 13-9-2016
+526 Ndpfwvfr Kpkndt Botswana 74 HEPATITIS-B YES 19-11-2017
+1542 Ssojsyd Btwh Botswana 88 HEPATITIS-B NO 
+1437 Qal Gue Botswana 52 HEPATITIS-B NO 
+8834 Pdbrgkuwnafz Hfffpmnl Botswana 106 RUBELLA YES 27-10-2016
+9209 Anznopqjpc Yybsrafig Botswana 68 HIB NO 
+3067 Uxohyl Cnbc Botswana 24 MEASLES YES 1-5-2003
+2371 Fkbxftgvj Zfxjbaa Botswana 20 HEPATITIS-B YES 7-4-2011
+3396 Cxpfpzu Eyowvuakor Botswana 112 HEPATITIS-B YES 1-8-2009
+2759 Oblsitm Xlyf Botswana 57 RUBELLA YES 6-3-2017
+9830 Crty Qjttn Botswana 112 RUBELLA YES 27-4-2015
+4242 Jvaxlowwa Eytgdhvgc Botswana 87 MEASLES NO 
+4242 Jvaxlowwa Eytgdhvgc Botswana 87 FLU NO 
+616 Uwfjw Hzgmnwcpnee Botswana 91 POLIO NO 
+4254 Wzwcjijnwby Nrqtg Botswana 38 HEPATITIS-A NO 
+2371 Fkbxftgvj Zfxjbaa Botswana 20 RUBELLA NO 
+1890 Lcaep Onedhhh Botswana 86 CHICKENPOX NO 
+1064 Doxbsw Yzvkjazxlper Botswana 114 CHICKENPOX NO 
+2413 Wizv Vplm Botswana 97 RUBELLA YES 21-9-2007
+526 Ndpfwvfr Kpkndt Botswana 74 HEPATITIS-A NO 
+7740 Tnqaapjybyht Ynhf Botswana 97 CHICKENPOX YES 7-12-2013
+8834 Pdbrgkuwnafz Hfffpmnl Botswana 106 CHICKENPOX YES 15-5-2020
+9440 Elztiqbuegei Bywzpauirkj Botswana 11 FLU YES 2-10-2016
+2759 Oblsitm Xlyf Botswana 57 RUBELLA NO 
+9440 Elztiqbuegei Bywzpauirkj Botswana 11 RUBELLA NO 
+526 Ndpfwvfr Kpkndt Botswana 74 HIB YES 6-1-2008
+1890 Lcaep Onedhhh Botswana 86 HEPATITIS-A YES 13-5-2011
+1223 Khzhjl Sjdnekfuyt Botswana 71 FLU NO 
+9937 Rajizvmice Bxmneoud Botswana 34 COVID-19 NO 
+9937 Rajizvmice Bxmneoud Botswana 34 CHICKENPOX YES 23-3-2011
+5443 Ewpfsrh Cfpymjf Botswana 74 TETANUS YES 21-9-2020
+1890 Lcaep Onedhhh Botswana 86 TETANUS NO 
+5443 Ewpfsrh Cfpymjf Botswana 74 TETANUS NO 
+2759 Oblsitm Xlyf Botswana 57 POLIO NO 
+931 Vsyn Ruu Botswana 36 CHICKENPOX YES 11-7-2007
+9895 Wigxtzhutkbl Jvonqotmfe Botswana 48 MEASLES YES 23-12-2000
+1890 Lcaep Onedhhh Botswana 86 FLU NO 
+3067 Uxohyl Cnbc Botswana 24 HEPATITIS-B NO 
+526 Ndpfwvfr Kpkndt Botswana 74 COVID-19 NO 
+9209 Anznopqjpc Yybsrafig Botswana 68 HIB NO 
+1803 Sclsynkf Vvx Botswana 16 FLU NO 
+9532 Xcslzyljsuag Ggmrlme Botswana 50 HEPATITIS-B YES 19-10-2007
+1437 Qal Gue Botswana 52 HEPATITIS-A YES 26-8-2018
+9209 Anznopqjpc Yybsrafig Botswana 68 MEASLES YES 8-2-2005
+8834 Pdbrgkuwnafz Hfffpmnl Botswana 106 CHICKENPOX YES 16-6-2017
+1223 Khzhjl Sjdnekfuyt Botswana 71 HIB YES 26-8-2017
+279 Mger Wpwunlzvim Botswana 79 HIB NO 
+9830 Crty Qjttn Botswana 112 HIB YES 13-11-2013
+279 Mger Wpwunlzvim Botswana 79 HIB YES 20-8-2007
+2371 Fkbxftgvj Zfxjbaa Botswana 20 HIB YES 18-7-2017
+9440 Elztiqbuegei Bywzpauirkj Botswana 11 MEASLES YES 23-1-2017
+9532 Xcslzyljsuag Ggmrlme Botswana 50 HIB YES 7-12-2019
+3067 Uxohyl Cnbc Botswana 24 POLIO NO 
+9830 Crty Qjttn Botswana 112 COVID-19 NO 
+4254 Wzwcjijnwby Nrqtg Botswana 38 RUBELLA YES 10-3-2008

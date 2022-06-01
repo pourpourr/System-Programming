@@ -1,0 +1,41 @@
+
+4192 Vlipszw Iwsmnuqqeirh United-States 119 TETANUS NO 
+7060 Lbzblbtkcal Jzbobt United-States 28 COVID-19 NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 POLIO YES 25-10-2007
+1432 Nmcdsqyjsrn Erfl United-States 81 POLIO YES 25-9-2013
+4453 Ozvi Dwjhanxqiwdx United-States 73 HIB NO 
+4453 Ozvi Dwjhanxqiwdx United-States 73 MEASLES NO 
+1791 Ioq Gphqvzmnf United-States 39 FLU YES 10-6-2004
+9991 Twh Bek United-States 75 FLU YES 4-10-2013
+1432 Nmcdsqyjsrn Erfl United-States 81 HEPATITIS-A YES 29-9-2018
+296 Vnefper Danxkmlnsv United-States 27 COVID-19 NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 HEPATITIS-B YES 29-11-2019
+5544 Dzarhjahqw Vibrjoa United-States 108 HEPATITIS-B YES 5-10-2011
+1791 Ioq Gphqvzmnf United-States 39 HEPATITIS-A YES 25-9-2013
+8598 Oavjqybpwr Zaqkqve United-States 118 RUBELLA YES 2-10-2012
+7678 Qqlfqs Uli United-States 39 FLU YES 10-1-2002
+1432 Nmcdsqyjsrn Erfl United-States 81 CHICKENPOX NO 
+7678 Qqlfqs Uli United-States 39 RUBELLA NO 
+6268 Ivrl Hiqjzhacns United-States 49 CHICKENPOX NO 
+9991 Twh Bek United-States 75 FLU NO 
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 HEPATITIS-A NO 
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 TETANUS YES 6-12-2001
+4397 Hafyyengesxh Ijghoknodc United-States 45 RUBELLA NO 
+9561 Ruw Uqbt United-States 57 FLU NO 
+8212 Xod Ahtmhx United-States 85 TETANUS NO 
+296 Vnefper Danxkmlnsv United-States 27 HIB YES 24-4-2014
+4453 Ozvi Dwjhanxqiwdx United-States 73 HIB YES 10-7-2009
+8212 Xod Ahtmhx United-States 85 COVID-19 NO 
+4511 Uro Wxfpvfmrbt United-States 110 CHICKENPOX NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 POLIO NO 
+9561 Ruw Uqbt United-States 57 HEPATITIS-A NO 
+1791 Ioq Gphqvzmnf United-States 39 POLIO YES 20-4-2020
+9991 Twh Bek United-States 75 HIB YES 23-8-2006
+4527 Ajsghlgmqbrd Oygibqpmmevt United-States 59 HEPATITIS-A YES 13-2-2020
+6622 Msilpjqz Pltvcxdz United-States 87 FLU YES 11-2-2016
+7060 Lbzblbtkcal Jzbobt United-States 28 MEASLES NO 
+1432 Nmcdsqyjsrn Erfl United-States 81 POLIO YES 19-6-2016
+6264 Wkph Jvhswcxxibmj United-States 118 POLIO YES 10-8-2015
+9561 Ruw Uqbt United-States 57 HEPATITIS-A NO 
+1791 Ioq Gphqvzmnf United-States 39 CHICKENPOX NO 
+296 Vnefper Danxkmlnsv United-States 27 COVID-19 YES 11-9-2002

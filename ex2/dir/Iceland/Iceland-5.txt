@@ -1,0 +1,47 @@
+
+4139 Uzcy Jecoum Iceland 100 CHICKENPOX NO 
+7737 Iyhlkc Dzexxl Iceland 107 TETANUS YES 7-11-2010
+8127 Ituv Mfwaejvlswm Iceland 50 FLU YES 17-6-2003
+8951 Lmecqnhgc Rpwslafzrc Iceland 3 HIB NO 
+941 Wtbtfcvhrosg Zefdif Iceland 104 TETANUS NO 
+3290 Qov Zdxulaubhes Iceland 103 COVID-19 NO 
+4139 Uzcy Jecoum Iceland 100 HIB NO 
+4391 Tjezmzknw Grqghpbooe Iceland 57 HEPATITIS-A YES 8-12-2010
+3602 Rbye Tktpoaqtqb Iceland 30 HEPATITIS-B YES 2-10-2020
+4845 Njeqsuqump Utsupjzcfd Iceland 11 HIB NO 
+3571 Ybduvyawvs Ssppd Iceland 60 TETANUS YES 7-6-2011
+3290 Qov Zdxulaubhes Iceland 103 FLU NO 
+7737 Iyhlkc Dzexxl Iceland 107 MEASLES YES 7-11-2012
+8127 Ituv Mfwaejvlswm Iceland 50 MEASLES NO 
+8054 Kemn Zmhdausxc Iceland 38 MEASLES YES 5-1-2008
+4139 Uzcy Jecoum Iceland 100 HIB NO 
+4420 Fvi Hywnng Iceland 115 HEPATITIS-A YES 22-2-2017
+9262 Nihngnc Pqu Iceland 81 HIB YES 2-7-2005
+8054 Kemn Zmhdausxc Iceland 38 HEPATITIS-A YES 2-9-2008
+1217 Otnilucsblk Hbqnysq Iceland 114 HEPATITIS-A NO 
+8127 Ituv Mfwaejvlswm Iceland 50 FLU NO 
+4795 Urk Qux Iceland 68 COVID-19 YES 26-2-2006
+7737 Iyhlkc Dzexxl Iceland 107 HEPATITIS-B NO 
+4661 Ticagzfetfj Bduffta Iceland 40 POLIO YES 12-12-2009
+164 Jlxkm Qfquckyrvza Iceland 54 HIB NO 
+6274 Fotjm Gvxe Iceland 112 MEASLES NO 
+4420 Fvi Hywnng Iceland 115 COVID-19 YES 10-1-2012
+8054 Kemn Zmhdausxc Iceland 38 FLU YES 18-8-2018
+8951 Lmecqnhgc Rpwslafzrc Iceland 3 CHICKENPOX NO 
+8054 Kemn Zmhdausxc Iceland 38 POLIO NO 
+3571 Ybduvyawvs Ssppd Iceland 60 POLIO NO 
+4420 Fvi Hywnng Iceland 115 POLIO YES 7-7-2017
+3571 Ybduvyawvs Ssppd Iceland 60 POLIO NO 
+4391 Tjezmzknw Grqghpbooe Iceland 57 RUBELLA YES 5-7-2020
+8054 Kemn Zmhdausxc Iceland 38 HIB YES 28-9-2013
+8127 Ituv Mfwaejvlswm Iceland 50 HEPATITIS-A YES 17-8-2000
+4391 Tjezmzknw Grqghpbooe Iceland 57 RUBELLA YES 10-1-2013
+7737 Iyhlkc Dzexxl Iceland 107 RUBELLA YES 5-5-2000
+4139 Uzcy Jecoum Iceland 100 TETANUS YES 2-6-2003
+8951 Lmecqnhgc Rpwslafzrc Iceland 3 POLIO NO 
+1217 Otnilucsblk Hbqnysq Iceland 114 POLIO NO 
+8102 Ibtx Iczv Iceland 45 MEASLES YES 16-8-2005
+7669 Cdafssm Fhimojxlk Iceland 9 MEASLES YES 9-10-2000
+4139 Uzcy Jecoum Iceland 100 RUBELLA YES 2-9-2015
+8102 Ibtx Iczv Iceland 45 HIB YES 12-7-2004
+4391 Tjezmzknw Grqghpbooe Iceland 57 FLU NO 

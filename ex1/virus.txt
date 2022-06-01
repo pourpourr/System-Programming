@@ -1,0 +1,9 @@
+covid-19
+SARS
+H1N1
+Cholera
+Ebola
+Influenza 
+Meningitis
+Monkeypox
+Plague

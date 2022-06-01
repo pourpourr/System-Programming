@@ -1,0 +1,57 @@
+
+5053 Wogndglboefc Ktfikgylnj Kyrgyzstan 30 FLU YES 25-11-2004
+9229 Tabgscp Hacgy Kyrgyzstan 41 POLIO NO 
+798 Wfmmfa Uzf Kyrgyzstan 117 TETANUS YES 15-6-2006
+5989 Nim Vcp Kyrgyzstan 29 HEPATITIS-A NO 
+4462 Njbuugbocnq Aqb Kyrgyzstan 5 RUBELLA YES 17-6-2017
+3771 Crtbhpzao Zqyelmdrxpkf Kyrgyzstan 87 CHICKENPOX NO 
+9229 Tabgscp Hacgy Kyrgyzstan 41 TETANUS YES 14-9-2010
+6580 Jcgsjhj Gdqqmca Kyrgyzstan 31 POLIO NO 
+8435 Dbvcbtcvld Bvs Kyrgyzstan 79 HIB YES 6-8-2003
+9893 Jnefzsyir Qzyubrtg Kyrgyzstan 113 FLU YES 3-2-2000
+9989 Outyfylrhg Gwdbviqs Kyrgyzstan 14 HEPATITIS-A NO 
+8957 Lax Qcjesjxk Kyrgyzstan 115 RUBELLA NO 
+800 Lyvicpqbbi Ptkkmgnw Kyrgyzstan 37 TETANUS NO 
+3155 Eggehxwrbbr Tzcwvcprcpg Kyrgyzstan 28 HIB NO 
+2233 Tsdxkv Utgkkpdex Kyrgyzstan 2 MEASLES NO 
+660 Ddx Icqlxi Kyrgyzstan 26 CHICKENPOX YES 12-5-2001
+800 Lyvicpqbbi Ptkkmgnw Kyrgyzstan 37 HIB YES 2-2-2001
+3771 Crtbhpzao Zqyelmdrxpkf Kyrgyzstan 87 HEPATITIS-B NO 
+3771 Crtbhpzao Zqyelmdrxpkf Kyrgyzstan 87 CHICKENPOX YES 26-5-2003
+4462 Njbuugbocnq Aqb Kyrgyzstan 5 MEASLES NO 
+404 Vcqsmqe Lcxnxjw Kyrgyzstan 32 POLIO YES 19-8-2011
+4462 Njbuugbocnq Aqb Kyrgyzstan 5 HEPATITIS-B YES 4-7-2010
+2233 Tsdxkv Utgkkpdex Kyrgyzstan 2 TETANUS NO 
+5989 Nim Vcp Kyrgyzstan 29 FLU YES 27-3-2020
+1276 Gxixd Bvsvrzjku Kyrgyzstan 89 MEASLES YES 7-7-2019
+8435 Dbvcbtcvld Bvs Kyrgyzstan 79 HEPATITIS-B YES 15-2-2016
+660 Ddx Icqlxi Kyrgyzstan 26 HEPATITIS-B YES 6-6-2009
+4462 Njbuugbocnq Aqb Kyrgyzstan 5 RUBELLA NO 
+2233 Tsdxkv Utgkkpdex Kyrgyzstan 2 COVID-19 NO 
+798 Wfmmfa Uzf Kyrgyzstan 117 POLIO YES 2-4-2005
+2152 Yaldkxxs Idz Kyrgyzstan 78 FLU NO 
+4462 Njbuugbocnq Aqb Kyrgyzstan 5 POLIO NO 
+8654 Dzrzwy Exbiow Kyrgyzstan 82 HEPATITIS-B YES 30-8-2012
+6580 Jcgsjhj Gdqqmca Kyrgyzstan 31 POLIO NO 
+8957 Lax Qcjesjxk Kyrgyzstan 115 FLU NO 
+3155 Eggehxwrbbr Tzcwvcprcpg Kyrgyzstan 28 POLIO NO 
+5989 Nim Vcp Kyrgyzstan 29 MEASLES NO 
+6580 Jcgsjhj Gdqqmca Kyrgyzstan 31 COVID-19 NO 
+404 Vcqsmqe Lcxnxjw Kyrgyzstan 32 FLU NO 
+404 Vcqsmqe Lcxnxjw Kyrgyzstan 32 POLIO YES 3-12-2004
+800 Lyvicpqbbi Ptkkmgnw Kyrgyzstan 37 HEPATITIS-A NO 
+8435 Dbvcbtcvld Bvs Kyrgyzstan 79 HEPATITIS-B YES 8-10-2015
+8654 Dzrzwy Exbiow Kyrgyzstan 82 HEPATITIS-B NO 
+3155 Eggehxwrbbr Tzcwvcprcpg Kyrgyzstan 28 HEPATITIS-B NO 
+404 Vcqsmqe Lcxnxjw Kyrgyzstan 32 POLIO YES 3-2-2018
+8654 Dzrzwy Exbiow Kyrgyzstan 82 MEASLES NO 
+3771 Crtbhpzao Zqyelmdrxpkf Kyrgyzstan 87 HEPATITIS-B NO 
+660 Ddx Icqlxi Kyrgyzstan 26 COVID-19 YES 25-3-2019
+660 Ddx Icqlxi Kyrgyzstan 26 POLIO YES 4-11-2004
+5989 Nim Vcp Kyrgyzstan 29 HIB NO 
+4462 Njbuugbocnq Aqb Kyrgyzstan 5 HIB NO 
+800 Lyvicpqbbi Ptkkmgnw Kyrgyzstan 37 TETANUS YES 7-2-2020
+8435 Dbvcbtcvld Bvs Kyrgyzstan 79 HEPATITIS-A NO 
+9989 Outyfylrhg Gwdbviqs Kyrgyzstan 14 HIB NO 
+9531 Xfphegkc Jqpavd Kyrgyzstan 66 FLU YES 13-7-2000
+4395 Qakyr Czufrycwik Kyrgyzstan 116 MEASLES YES 12-5-2017

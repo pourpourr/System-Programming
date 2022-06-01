@@ -1,0 +1,49 @@
+
+2488 Tbna Iiwnt Vanuatu 60 HIB NO 
+70 Fyebxwwunj Hzfixi Vanuatu 41 HIB YES 3-1-2015
+8961 Bkjpe Fbbntjls Vanuatu 67 MEASLES YES 15-8-2017
+1905 Fidjzwws Eiz Vanuatu 56 POLIO NO 
+70 Fyebxwwunj Hzfixi Vanuatu 41 HIB YES 14-1-2014
+9553 Nmqcevjoqgd Feodvtzqpqc Vanuatu 5 COVID-19 NO 
+1702 Qacrxtipe Uiz Vanuatu 66 TETANUS YES 25-3-2016
+4501 Ngauq Cdycah Vanuatu 61 POLIO NO 
+8730 Frnkrtj Bbyzjbssz Vanuatu 33 HEPATITIS-A NO 
+2488 Tbna Iiwnt Vanuatu 60 COVID-19 YES 2-10-2018
+9240 Yqapygw Kkpn Vanuatu 7 FLU YES 15-1-2016
+4501 Ngauq Cdycah Vanuatu 61 COVID-19 YES 6-7-2016
+9553 Nmqcevjoqgd Feodvtzqpqc Vanuatu 5 HEPATITIS-A YES 18-9-2019
+2488 Tbna Iiwnt Vanuatu 60 RUBELLA YES 9-1-2019
+8961 Bkjpe Fbbntjls Vanuatu 67 COVID-19 NO 
+1248 Rcttnzdru Kmivfqz Vanuatu 37 RUBELLA YES 27-8-2008
+4034 Ojciiwil Diqvwtha Vanuatu 56 RUBELLA NO 
+1324 Ptxhrsvyeyw Zgugl Vanuatu 39 HEPATITIS-B NO 
+70 Fyebxwwunj Hzfixi Vanuatu 41 MEASLES NO 
+4034 Ojciiwil Diqvwtha Vanuatu 56 POLIO NO 
+9240 Yqapygw Kkpn Vanuatu 7 RUBELLA NO 
+5445 Jodmgpxikwr Bzanreyqsblm Vanuatu 68 RUBELLA NO 
+4034 Ojciiwil Diqvwtha Vanuatu 56 CHICKENPOX YES 22-1-2014
+9240 Yqapygw Kkpn Vanuatu 7 TETANUS NO 
+2488 Tbna Iiwnt Vanuatu 60 TETANUS NO 
+9822 Oglxekva Qmzitazyjs Vanuatu 38 CHICKENPOX YES 2-12-2017
+2488 Tbna Iiwnt Vanuatu 60 HEPATITIS-B NO 
+70 Fyebxwwunj Hzfixi Vanuatu 41 HEPATITIS-A NO 
+8227 Xyx Ldzioqifqjl Vanuatu 14 HEPATITIS-B NO 
+657 Lai Cckpsehkowsa Vanuatu 95 HEPATITIS-A YES 12-10-2002
+3663 Sjeuxjrw Cljoxnsfpbpn Vanuatu 2 HEPATITIS-B NO 
+3437 Fjpnedyg Syxnkynogv Vanuatu 84 COVID-19 NO 
+657 Lai Cckpsehkowsa Vanuatu 95 RUBELLA YES 25-10-2018
+70 Fyebxwwunj Hzfixi Vanuatu 41 COVID-19 YES 25-7-2002
+9240 Yqapygw Kkpn Vanuatu 7 TETANUS YES 4-10-2002
+1382 Yyrmtualvko Dujpwij Vanuatu 6 COVID-19 YES 25-12-2018
+9240 Yqapygw Kkpn Vanuatu 7 FLU NO 
+1150 Jzdpn Zsld Vanuatu 53 HEPATITIS-A NO 
+8730 Frnkrtj Bbyzjbssz Vanuatu 33 POLIO NO 
+6171 Bprfxsko Yxzsbfswsklf Vanuatu 113 CHICKENPOX NO 
+3462 Ebthsd Slufgcffk Vanuatu 76 HEPATITIS-A YES 4-11-2020
+2488 Tbna Iiwnt Vanuatu 60 TETANUS NO 
+6171 Bprfxsko Yxzsbfswsklf Vanuatu 113 HIB YES 14-9-2005
+1382 Yyrmtualvko Dujpwij Vanuatu 6 COVID-19 NO 
+3462 Ebthsd Slufgcffk Vanuatu 76 RUBELLA NO 
+1702 Qacrxtipe Uiz Vanuatu 66 POLIO YES 10-2-2003
+1702 Qacrxtipe Uiz Vanuatu 66 RUBELLA NO 
+3462 Ebthsd Slufgcffk Vanuatu 76 HEPATITIS-B YES 2-2-2005

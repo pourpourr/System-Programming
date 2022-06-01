@@ -1,0 +1,46 @@
+
+3830 Yoxkhalj Ezmgjm Brunei 78 CHICKENPOX NO 
+419 Fhznsehpol Xqukbvbgp Brunei 102 RUBELLA YES 8-4-2001
+4346 Xkxijpnczl Ttlwqd Brunei 78 TETANUS NO 
+4076 Drjaalu Cjhzu Brunei 7 FLU YES 4-11-2014
+3830 Yoxkhalj Ezmgjm Brunei 78 HIB NO 
+7858 Blw Kkfrhivqkck Brunei 106 COVID-19 YES 7-3-2017
+9806 Axvdk Vcs Brunei 47 CHICKENPOX YES 20-1-2017
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 FLU YES 12-2-2020
+5337 Nlcc Hvautfxmj Brunei 3 CHICKENPOX YES 6-8-2019
+9806 Axvdk Vcs Brunei 47 HEPATITIS-B NO 
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 MEASLES NO 
+6642 Mosvqqbem Yjqhy Brunei 97 POLIO NO 
+6903 Fhty Ytghwbc Brunei 61 MEASLES YES 30-10-2007
+1945 Srapsqktppw Gcshsuuou Brunei 95 CHICKENPOX NO 
+9806 Axvdk Vcs Brunei 47 CHICKENPOX YES 17-10-2007
+1597 Uqxlho Neyfl Brunei 113 HEPATITIS-A YES 12-9-2019
+7858 Blw Kkfrhivqkck Brunei 106 RUBELLA YES 6-9-2004
+419 Fhznsehpol Xqukbvbgp Brunei 102 POLIO NO 
+6903 Fhty Ytghwbc Brunei 61 MEASLES NO 
+3684 Yusfwivhwod Vgtcae Brunei 115 MEASLES NO 
+5393 Unxs Tfwgp Brunei 20 POLIO NO 
+831 Qhbva Wanusjrufd Brunei 72 HEPATITIS-B YES 16-10-2019
+8331 Dkzjtaxsk Rsq Brunei 101 HEPATITIS-B NO 
+3909 Vsywe Oegtcabb Brunei 35 RUBELLA YES 3-1-2015
+5337 Nlcc Hvautfxmj Brunei 3 POLIO NO 
+5393 Unxs Tfwgp Brunei 20 HEPATITIS-A YES 29-5-2006
+7858 Blw Kkfrhivqkck Brunei 106 HIB YES 11-5-2017
+5393 Unxs Tfwgp Brunei 20 POLIO YES 30-7-2008
+5393 Unxs Tfwgp Brunei 20 HIB YES 14-2-2013
+1597 Uqxlho Neyfl Brunei 113 RUBELLA YES 11-7-2005
+5393 Unxs Tfwgp Brunei 20 MEASLES YES 13-7-2008
+379 Kpsf Dzbnu Brunei 31 HIB YES 26-3-2010
+419 Fhznsehpol Xqukbvbgp Brunei 102 POLIO NO 
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 FLU NO 
+7858 Blw Kkfrhivqkck Brunei 106 TETANUS YES 25-1-2007
+2957 Ypdezz Adfldkhyyyb Brunei 68 TETANUS NO 
+8331 Dkzjtaxsk Rsq Brunei 101 HEPATITIS-A YES 12-3-2016
+1597 Uqxlho Neyfl Brunei 113 MEASLES YES 12-8-2003
+7858 Blw Kkfrhivqkck Brunei 106 HIB YES 19-9-2013
+9153 Yapilz Plcjvwmtnw Brunei 30 HEPATITIS-B NO 
+3830 Yoxkhalj Ezmgjm Brunei 78 COVID-19 NO 
+8907 Hajefwg Rqbekl Brunei 66 HIB NO 
+7858 Blw Kkfrhivqkck Brunei 106 POLIO YES 16-10-2005
+3684 Yusfwivhwod Vgtcae Brunei 115 POLIO YES 26-2-2018
+8331 Dkzjtaxsk Rsq Brunei 101 TETANUS YES 5-11-2004

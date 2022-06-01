@@ -1,0 +1,79 @@
+
+7387 Pegcvwzafv Pawsw Guinea 27 POLIO YES 9-9-2014
+6099 Szyk Kfmb Guinea 13 COVID-19 NO 
+1761 Ukwalsg Fdi Guinea 10 MEASLES YES 10-2-2005
+4096 Cuoaxfsqii Pljuijbcciy Guinea 120 HEPATITIS-B NO 
+8912 Wzguipuh Iordfanpo Guinea 47 HIB YES 25-4-2019
+8912 Wzguipuh Iordfanpo Guinea 47 TETANUS YES 15-10-2005
+3665 Wlkhcxmtdr Kryzeh Guinea 44 FLU NO 
+304 Cwymr Drqefogc Guinea 48 MEASLES NO 
+1092 Tapvapffb Xfprrji Guinea 50 TETANUS YES 16-1-2011
+2556 Sqqetvjlarj Zycqzm Guinea 80 COVID-19 NO 
+808 Kexsujhb Uqmfwx Guinea 20 HIB NO 
+2235 Lqf Qamnoakpsfk Guinea 110 MEASLES NO 
+7387 Pegcvwzafv Pawsw Guinea 27 HEPATITIS-A YES 22-7-2012
+7387 Pegcvwzafv Pawsw Guinea 27 CHICKENPOX NO 
+4096 Cuoaxfsqii Pljuijbcciy Guinea 120 HIB NO 
+6346 Exgxmrl Mwrf Guinea 23 HIB NO 
+2556 Sqqetvjlarj Zycqzm Guinea 80 CHICKENPOX NO 
+2556 Sqqetvjlarj Zycqzm Guinea 80 FLU NO 
+9524 Mhk Aembynj Guinea 10 MEASLES NO 
+1761 Ukwalsg Fdi Guinea 10 FLU NO 
+8316 Ykojyipkma Sgbt Guinea 98 TETANUS NO 
+2464 Jhdeszmpel Yhpaqjkii Guinea 33 CHICKENPOX NO 
+8506 Kjubq Kiyx Guinea 9 MEASLES YES 20-4-2009
+1761 Ukwalsg Fdi Guinea 10 HEPATITIS-A NO 
+3949 Luyc Bguqeuiodbv Guinea 58 CHICKENPOX NO 
+4358 Ownggczffxsf Bjltyz Guinea 98 HEPATITIS-A NO 
+8467 Jjfzj Lsxrqbuvre Guinea 1 HIB NO 
+1761 Ukwalsg Fdi Guinea 10 RUBELLA NO 
+1761 Ukwalsg Fdi Guinea 10 RUBELLA NO 
+3949 Luyc Bguqeuiodbv Guinea 58 CHICKENPOX YES 7-4-2017
+4249 Ejp Yoxlnth Guinea 82 HIB NO 
+1092 Tapvapffb Xfprrji Guinea 50 RUBELLA NO 
+7017 Nmwci Tmc Guinea 34 POLIO NO 
+2556 Sqqetvjlarj Zycqzm Guinea 80 RUBELLA NO 
+7387 Pegcvwzafv Pawsw Guinea 27 HEPATITIS-A YES 16-12-2020
+8316 Ykojyipkma Sgbt Guinea 98 TETANUS YES 30-11-2005
+3308 Wxpgh Sqrfjmktwyw Guinea 80 FLU NO 
+2556 Sqqetvjlarj Zycqzm Guinea 80 COVID-19 NO 
+9524 Mhk Aembynj Guinea 10 HEPATITIS-A NO 
+3308 Wxpgh Sqrfjmktwyw Guinea 80 HIB YES 25-7-2020
+4290 Ugukmzp Qus Guinea 39 RUBELLA YES 24-5-2009
+1761 Ukwalsg Fdi Guinea 10 CHICKENPOX YES 2-11-2013
+8316 Ykojyipkma Sgbt Guinea 98 MEASLES NO 
+7387 Pegcvwzafv Pawsw Guinea 27 FLU NO 
+2744 Hfwuopxgwvcq Fcphwemnqu Guinea 60 RUBELLA NO 
+2354 Cry Lnfgpfiaun Guinea 2 HIB YES 18-10-2011
+1092 Tapvapffb Xfprrji Guinea 50 TETANUS YES 4-7-2020
+1151 Nyzpvapljw Kohkbhnil Guinea 49 MEASLES NO 
+5187 Zsk Dmfevfs Guinea 29 POLIO YES 10-9-2017
+8912 Wzguipuh Iordfanpo Guinea 47 POLIO NO 
+9691 Yiejh Obtpvrht Guinea 83 TETANUS NO 
+9524 Mhk Aembynj Guinea 10 COVID-19 NO 
+9691 Yiejh Obtpvrht Guinea 83 TETANUS YES 23-7-2004
+2799 Klaa Ciqkadtypfws Guinea 42 COVID-19 NO 
+6099 Szyk Kfmb Guinea 13 HIB NO 
+5187 Zsk Dmfevfs Guinea 29 FLU YES 10-1-2001
+7387 Pegcvwzafv Pawsw Guinea 27 HIB YES 7-9-2015
+8358 Ydcqumxr Flwwnwbhvw Guinea 40 COVID-19 NO 
+6346 Exgxmrl Mwrf Guinea 23 FLU NO 
+8506 Kjubq Kiyx Guinea 9 HIB NO 
+3665 Wlkhcxmtdr Kryzeh Guinea 44 HIB YES 28-12-2004
+3541 Ckarre Zrmv Guinea 50 POLIO YES 15-7-2015
+9691 Yiejh Obtpvrht Guinea 83 RUBELLA YES 22-1-2020
+304 Cwymr Drqefogc Guinea 48 HEPATITIS-B NO 
+1761 Ukwalsg Fdi Guinea 10 HIB NO 
+9691 Yiejh Obtpvrht Guinea 83 POLIO NO 
+7017 Nmwci Tmc Guinea 34 TETANUS NO 
+4290 Ugukmzp Qus Guinea 39 CHICKENPOX YES 21-8-2000
+4096 Cuoaxfsqii Pljuijbcciy Guinea 120 POLIO NO 
+1761 Ukwalsg Fdi Guinea 10 TETANUS YES 25-4-2006
+922 Eiyy Sbo Guinea 113 COVID-19 YES 8-12-2017
+8912 Wzguipuh Iordfanpo Guinea 47 HIB YES 27-2-2018
+9691 Yiejh Obtpvrht Guinea 83 MEASLES NO 
+6107 Wcoz Mjz Guinea 2 HEPATITIS-B YES 26-9-2009
+3665 Wlkhcxmtdr Kryzeh Guinea 44 COVID-19 YES 2-8-2006
+304 Cwymr Drqefogc Guinea 48 HEPATITIS-A NO 
+6099 Szyk Kfmb Guinea 13 COVID-19 YES 9-4-2000
+1092 Tapvapffb Xfprrji Guinea 50 TETANUS NO 

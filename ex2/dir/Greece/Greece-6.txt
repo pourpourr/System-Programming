@@ -1,0 +1,41 @@
+
+3938 Fwslzkvokm Osjjrru Greece 91 FLU YES 27-3-2014
+8972 Mxgozs Tzawednj Greece 108 FLU NO 
+2712 Zihfrzzxv Gqvatvwna Greece 23 TETANUS NO 
+6495 Hnlblfbazmqp Gfnlzl Greece 91 HEPATITIS-B YES 17-7-2002
+8972 Mxgozs Tzawednj Greece 108 COVID-19 YES 11-7-2003
+213 Skrvcouvmnv Miwbdouh Greece 57 MEASLES NO 
+3938 Fwslzkvokm Osjjrru Greece 91 HIB YES 7-10-2019
+4044 Buigsr Htnuhertnjzi Greece 112 COVID-19 NO 
+3938 Fwslzkvokm Osjjrru Greece 91 TETANUS YES 25-10-2014
+4044 Buigsr Htnuhertnjzi Greece 112 COVID-19 NO 
+9420 Ipmdtn Woysnmuu Greece 32 HEPATITIS-B NO 
+5953 Wdqvo Vshzjehs Greece 3 CHICKENPOX NO 
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 FLU YES 1-7-2018
+1454 Ydr Yzfsbu Greece 92 TETANUS YES 6-10-2020
+1454 Ydr Yzfsbu Greece 92 HEPATITIS-A YES 25-11-2008
+9420 Ipmdtn Woysnmuu Greece 32 COVID-19 NO 
+5813 Matjceeumrf Napatkw Greece 99 RUBELLA YES 26-5-2013
+4935 Vpdaz Ztyi Greece 44 FLU NO 
+3938 Fwslzkvokm Osjjrru Greece 91 TETANUS NO 
+4044 Buigsr Htnuhertnjzi Greece 112 HEPATITIS-A NO 
+1454 Ydr Yzfsbu Greece 92 COVID-19 YES 22-10-2020
+4935 Vpdaz Ztyi Greece 44 TETANUS NO 
+213 Skrvcouvmnv Miwbdouh Greece 57 CHICKENPOX YES 20-6-2017
+5953 Wdqvo Vshzjehs Greece 3 FLU NO 
+5953 Wdqvo Vshzjehs Greece 3 COVID-19 NO 
+5813 Matjceeumrf Napatkw Greece 99 MEASLES NO 
+637 Qclpsvuia Hlc Greece 85 COVID-19 NO 
+6863 Oapow Zmsujy Greece 75 FLU NO 
+3938 Fwslzkvokm Osjjrru Greece 91 HEPATITIS-B YES 30-6-2009
+3938 Fwslzkvokm Osjjrru Greece 91 HIB NO 
+5953 Wdqvo Vshzjehs Greece 3 TETANUS NO 
+6863 Oapow Zmsujy Greece 75 HEPATITIS-A NO 
+4935 Vpdaz Ztyi Greece 44 MEASLES YES 9-1-2013
+9420 Ipmdtn Woysnmuu Greece 32 MEASLES YES 8-3-2007
+1105 Baajhtqlwzf Wyw Greece 43 COVID-19 YES 6-8-2011
+4935 Vpdaz Ztyi Greece 44 HIB YES 5-9-2002
+2712 Zihfrzzxv Gqvatvwna Greece 23 CHICKENPOX NO 
+637 Qclpsvuia Hlc Greece 85 HIB NO 
+2712 Zihfrzzxv Gqvatvwna Greece 23 RUBELLA NO 
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 HEPATITIS-B YES 15-2-2004

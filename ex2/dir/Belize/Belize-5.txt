@@ -1,0 +1,44 @@
+
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 RUBELLA NO 
+2286 Luslauqhj Afce Belize 10 HEPATITIS-B NO 
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 HEPATITIS-B YES 19-8-2002
+873 Mcfkfdkd Ajubtuqyetz Belize 60 CHICKENPOX YES 24-7-2014
+7567 Cuqioeovo Jroiws Belize 17 HEPATITIS-A NO 
+3780 Kprrcnpfzb Dsqhqmurilc Belize 52 HEPATITIS-A NO 
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 POLIO YES 20-6-2012
+4930 Bakykgi Tlobmt Belize 118 POLIO NO 
+7923 Ctch Bfwynufsnim Belize 56 FLU YES 3-12-2020
+3395 Ymsnkpztk Ktmb Belize 20 RUBELLA NO 
+2286 Luslauqhj Afce Belize 10 HEPATITIS-B NO 
+867 Mzkyaq Tqoho Belize 23 CHICKENPOX YES 6-9-2011
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 TETANUS NO 
+7906 Bqtves Qetikxnespvd Belize 63 HIB NO 
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 HIB YES 24-1-2002
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 POLIO YES 23-8-2011
+9210 Movfpbtmoz Qbaeknwx Belize 31 FLU NO 
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 COVID-19 NO 
+7906 Bqtves Qetikxnespvd Belize 63 MEASLES NO 
+3780 Kprrcnpfzb Dsqhqmurilc Belize 52 COVID-19 YES 22-7-2009
+9210 Movfpbtmoz Qbaeknwx Belize 31 MEASLES NO 
+1668 Oqcffafj Ndgoz Belize 99 MEASLES YES 12-3-2000
+8695 Dhdn Jrshwiih Belize 75 POLIO NO 
+867 Mzkyaq Tqoho Belize 23 FLU NO 
+8695 Dhdn Jrshwiih Belize 75 TETANUS YES 19-9-2019
+873 Mcfkfdkd Ajubtuqyetz Belize 60 HIB NO 
+4930 Bakykgi Tlobmt Belize 118 TETANUS NO 
+2286 Luslauqhj Afce Belize 10 HIB NO 
+9210 Movfpbtmoz Qbaeknwx Belize 31 CHICKENPOX NO 
+7923 Ctch Bfwynufsnim Belize 56 MEASLES YES 2-1-2015
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 FLU YES 22-3-2014
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 FLU YES 25-12-2016
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 CHICKENPOX YES 19-1-2010
+9210 Movfpbtmoz Qbaeknwx Belize 31 RUBELLA NO 
+7923 Ctch Bfwynufsnim Belize 56 COVID-19 NO 
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 HIB YES 27-3-2009
+7906 Bqtves Qetikxnespvd Belize 63 TETANUS YES 10-3-2007
+1668 Oqcffafj Ndgoz Belize 99 FLU YES 12-12-2020
+2461 Ymzfswgkcupq Ocsqzsjjen Belize 80 HEPATITIS-A NO 
+4715 Mcevhdcqm Tdxmxuxfznoy Belize 2 RUBELLA NO 
+6577 Wkwlniiksafg Eqwotzenlddu Belize 53 COVID-19 NO 
+867 Mzkyaq Tqoho Belize 23 MEASLES NO 
+3780 Kprrcnpfzb Dsqhqmurilc Belize 52 POLIO NO 

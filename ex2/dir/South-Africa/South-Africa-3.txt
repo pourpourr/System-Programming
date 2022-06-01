@@ -1,0 +1,31 @@
+
+5214 Iqairpet Xjorgl South-Africa 44 HIB YES 14-6-2005
+7253 Foikdcvnwtm Aidpybpi South-Africa 105 POLIO YES 23-8-2011
+9600 Lsfdzpiiatx Tgtep South-Africa 1 FLU YES 13-6-2009
+5230 Bia Yzwtspv South-Africa 56 RUBELLA YES 30-3-2016
+7302 Ktdyv Qsuzgkxuppkz South-Africa 67 COVID-19 NO 
+9600 Lsfdzpiiatx Tgtep South-Africa 1 CHICKENPOX YES 13-8-2017
+7302 Ktdyv Qsuzgkxuppkz South-Africa 67 HEPATITIS-A YES 4-7-2011
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 FLU YES 14-1-2016
+9447 Nzonbomhr Que South-Africa 109 HEPATITIS-A YES 12-6-2002
+2926 Jvhcunlcro Pzrqxtxegoim South-Africa 92 COVID-19 NO 
+2926 Jvhcunlcro Pzrqxtxegoim South-Africa 92 HIB NO 
+6196 Tlrxweyps Odugt South-Africa 10 COVID-19 NO 
+4687 Ccxmmbjpbvv Fnyggxouh South-Africa 100 POLIO YES 6-6-2012
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 CHICKENPOX YES 23-1-2005
+5230 Bia Yzwtspv South-Africa 56 CHICKENPOX NO 
+8177 Rittcgpyj Itczkuosqzjp South-Africa 14 RUBELLA YES 28-5-2004
+8177 Rittcgpyj Itczkuosqzjp South-Africa 14 CHICKENPOX NO 
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 MEASLES NO 
+2782 Ywiijq Fmcsmccuv South-Africa 97 FLU YES 22-2-2012
+9070 Izoofckshwok Jgvt South-Africa 21 HEPATITIS-A NO 
+5214 Iqairpet Xjorgl South-Africa 44 HEPATITIS-A YES 27-11-2015
+7302 Ktdyv Qsuzgkxuppkz South-Africa 67 POLIO YES 14-2-2019
+5214 Iqairpet Xjorgl South-Africa 44 TETANUS NO 
+5230 Bia Yzwtspv South-Africa 56 TETANUS NO 
+2782 Ywiijq Fmcsmccuv South-Africa 97 FLU YES 4-2-2006
+7253 Foikdcvnwtm Aidpybpi South-Africa 105 CHICKENPOX NO 
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 CHICKENPOX YES 12-7-2001
+3618 Sjsjqxyeudk Sdaoi South-Africa 71 RUBELLA NO 
+5230 Bia Yzwtspv South-Africa 56 POLIO NO 
+9777 Cmizymdibmh Yzplwhcheogv South-Africa 36 HEPATITIS-B NO 

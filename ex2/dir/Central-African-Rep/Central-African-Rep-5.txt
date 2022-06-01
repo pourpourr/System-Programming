@@ -1,0 +1,39 @@
+
+622 Rozpvup Qlae Central-African-Rep 74 CHICKENPOX NO 
+2686 Afg Uktply Central-African-Rep 80 COVID-19 NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 FLU YES 2-5-2019
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 MEASLES NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 COVID-19 YES 20-9-2005
+622 Rozpvup Qlae Central-African-Rep 74 FLU NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 RUBELLA YES 22-3-2007
+622 Rozpvup Qlae Central-African-Rep 74 HEPATITIS-B YES 13-1-2009
+622 Rozpvup Qlae Central-African-Rep 74 CHICKENPOX YES 21-6-2016
+584 Kvg Wawd Central-African-Rep 120 POLIO NO 
+2686 Afg Uktply Central-African-Rep 80 COVID-19 NO 
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 HEPATITIS-A YES 27-11-2017
+2686 Afg Uktply Central-African-Rep 80 TETANUS NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 TETANUS NO 
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 FLU NO 
+5024 Hrfiiuby Obn Central-African-Rep 52 HIB NO 
+5615 Kiumgjlysdr Yknsswz Central-African-Rep 102 POLIO YES 3-9-2017
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 MEASLES NO 
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 MEASLES NO 
+5024 Hrfiiuby Obn Central-African-Rep 52 CHICKENPOX YES 23-7-2000
+9831 Gtw Acrotrcbccg Central-African-Rep 116 HEPATITIS-A YES 3-11-2019
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 COVID-19 NO 
+452 Kzangqijp Oqbr Central-African-Rep 80 HEPATITIS-A YES 2-1-2003
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 COVID-19 YES 26-4-2014
+9293 Cktc Qqqideyc Central-African-Rep 33 FLU YES 22-5-2017
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 MEASLES YES 4-2-2017
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 RUBELLA YES 4-10-2020
+452 Kzangqijp Oqbr Central-African-Rep 80 COVID-19 NO 
+2686 Afg Uktply Central-African-Rep 80 POLIO NO 
+9831 Gtw Acrotrcbccg Central-African-Rep 116 HEPATITIS-B YES 26-2-2011
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 MEASLES NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 CHICKENPOX YES 10-4-2015
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 TETANUS YES 25-12-2014
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 TETANUS YES 3-9-2002
+5024 Hrfiiuby Obn Central-African-Rep 52 MEASLES YES 8-2-2006
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 TETANUS YES 15-10-2017
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 HIB YES 7-9-2014
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 COVID-19 YES 8-9-2009

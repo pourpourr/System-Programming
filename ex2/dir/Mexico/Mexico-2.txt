@@ -1,0 +1,40 @@
+
+9074 Eos Pustqdyun Mexico 118 FLU NO 
+1892 Fgn Znfaf Mexico 19 MEASLES YES 14-1-2017
+6443 Lyk Avg Mexico 72 FLU NO 
+9074 Eos Pustqdyun Mexico 118 HEPATITIS-A YES 11-2-2019
+5751 Dptrir Dpic Mexico 11 HIB NO 
+4114 Yugzya Oqonp Mexico 8 POLIO NO 
+9287 Sqftocupr Esfjctcjvd Mexico 109 HEPATITIS-B YES 1-10-2004
+8481 Jrsjrbrnjr Yxicwxdttjpd Mexico 25 HIB NO 
+6298 Dyvnf Xkgkuscc Mexico 12 CHICKENPOX YES 20-12-2004
+9074 Eos Pustqdyun Mexico 118 HEPATITIS-A YES 1-5-2008
+1218 Djy Xjs Mexico 3 POLIO NO 
+1892 Fgn Znfaf Mexico 19 TETANUS NO 
+5751 Dptrir Dpic Mexico 11 HEPATITIS-A YES 20-3-2005
+120 Vimdsgo Kxpt Mexico 28 HEPATITIS-A YES 26-4-2015
+3923 Bxhp Cstbrg Mexico 42 CHICKENPOX NO 
+1218 Djy Xjs Mexico 3 CHICKENPOX YES 9-8-2005
+120 Vimdsgo Kxpt Mexico 28 POLIO YES 14-11-2010
+8481 Jrsjrbrnjr Yxicwxdttjpd Mexico 25 TETANUS YES 28-7-2002
+7850 Snqllvzg Lusb Mexico 10 CHICKENPOX NO 
+6298 Dyvnf Xkgkuscc Mexico 12 RUBELLA YES 16-9-2011
+1765 Jws Pvsd Mexico 114 HIB YES 3-11-2005
+9074 Eos Pustqdyun Mexico 118 HEPATITIS-B YES 23-5-2005
+2868 Alpyax Rintaddvhrtl Mexico 67 COVID-19 NO 
+2868 Alpyax Rintaddvhrtl Mexico 67 HEPATITIS-B YES 21-5-2003
+1218 Djy Xjs Mexico 3 FLU NO 
+3574 Jqyknwaljw Zwxle Mexico 49 RUBELLA NO 
+2868 Alpyax Rintaddvhrtl Mexico 67 POLIO YES 30-2-2018
+6443 Lyk Avg Mexico 72 TETANUS NO 
+2004 Czbym Sdwbgehureq Mexico 63 MEASLES NO 
+6443 Lyk Avg Mexico 72 FLU NO 
+1765 Jws Pvsd Mexico 114 COVID-19 NO 
+3776 Uadnm Pkyaakdihg Mexico 20 RUBELLA NO 
+1892 Fgn Znfaf Mexico 19 MEASLES NO 
+3776 Uadnm Pkyaakdihg Mexico 20 POLIO YES 26-1-2004
+8190 Pymhi Ioy Mexico 27 TETANUS NO 
+6298 Dyvnf Xkgkuscc Mexico 12 MEASLES NO 
+3776 Uadnm Pkyaakdihg Mexico 20 MEASLES YES 11-2-2019
+1892 Fgn Znfaf Mexico 19 HEPATITIS-A NO 
+2004 Czbym Sdwbgehureq Mexico 63 HEPATITIS-B YES 15-7-2007

@@ -1,0 +1,28 @@
+
+262 Xnxh Rjx Peru 17 TETANUS NO 
+1240 Skrh Otnsihst Peru 16 RUBELLA NO 
+1795 Palenzt Mxtxuq Peru 112 COVID-19 YES 21-3-2004
+1097 Amabthq Rrbgjj Peru 86 FLU NO 
+1240 Skrh Otnsihst Peru 16 HIB NO 
+3974 Nzf Zuvghihvh Peru 82 HEPATITIS-A NO 
+5401 Lmtowmvql Fjkng Peru 101 RUBELLA NO 
+262 Xnxh Rjx Peru 17 CHICKENPOX YES 21-2-2006
+1795 Palenzt Mxtxuq Peru 112 RUBELLA YES 2-5-2004
+6444 Flheb Saehlmmhf Peru 10 HEPATITIS-B NO 
+5171 Tqofstj Cdwcv Peru 82 MEASLES YES 8-3-2019
+5171 Tqofstj Cdwcv Peru 82 CHICKENPOX NO 
+1240 Skrh Otnsihst Peru 16 HEPATITIS-A YES 4-7-2003
+1795 Palenzt Mxtxuq Peru 112 CHICKENPOX YES 4-1-2015
+1097 Amabthq Rrbgjj Peru 86 HEPATITIS-B YES 5-7-2015
+262 Xnxh Rjx Peru 17 HIB NO 
+6718 Ptsbo Tajzalrrygnw Peru 83 HEPATITIS-A YES 14-10-2001
+5171 Tqofstj Cdwcv Peru 82 COVID-19 YES 18-11-2014
+262 Xnxh Rjx Peru 17 HEPATITIS-A NO 
+6444 Flheb Saehlmmhf Peru 10 HEPATITIS-A YES 7-8-2008
+5453 Dtdwbf Qkrsooawfvyh Peru 47 RUBELLA YES 10-9-2002
+2741 Cpwslcrkbt Pjfoi Peru 11 HIB NO 
+2741 Cpwslcrkbt Pjfoi Peru 11 HEPATITIS-A YES 7-7-2019
+1795 Palenzt Mxtxuq Peru 112 COVID-19 YES 27-1-2008
+5171 Tqofstj Cdwcv Peru 82 CHICKENPOX NO 
+5401 Lmtowmvql Fjkng Peru 101 HIB YES 28-4-2006
+2741 Cpwslcrkbt Pjfoi Peru 11 CHICKENPOX NO 

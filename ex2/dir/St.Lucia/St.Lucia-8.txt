@@ -1,0 +1,42 @@
+
+9002 Nytb Hjzpriwvllx St.Lucia 41 FLU NO 
+5456 Wurfem Pyxoin St.Lucia 74 RUBELLA NO 
+9022 Krusk Htrnvg St.Lucia 32 HIB YES 3-9-2012
+5456 Wurfem Pyxoin St.Lucia 74 TETANUS NO 
+8261 Zkr Hen St.Lucia 23 HIB NO 
+5684 Tvfxhkci Gxeqjby St.Lucia 41 MEASLES NO 
+8261 Zkr Hen St.Lucia 23 RUBELLA NO 
+2254 Gsr Lxfgeo St.Lucia 15 CHICKENPOX YES 4-3-2012
+9002 Nytb Hjzpriwvllx St.Lucia 41 POLIO NO 
+2320 Cbg Ovy St.Lucia 39 POLIO YES 2-7-2002
+2254 Gsr Lxfgeo St.Lucia 15 POLIO YES 16-6-2003
+4782 Jpelr Chw St.Lucia 63 MEASLES NO 
+2539 Uyy Rukud St.Lucia 53 TETANUS NO 
+720 Fgj Soc St.Lucia 102 FLU YES 15-4-2004
+9885 Rsfx Dxt St.Lucia 37 HEPATITIS-A NO 
+9002 Nytb Hjzpriwvllx St.Lucia 41 FLU YES 19-5-2020
+9885 Rsfx Dxt St.Lucia 37 COVID-19 YES 25-3-2008
+973 Ktxwkf Kiiuxhtmr St.Lucia 108 TETANUS YES 22-9-2007
+2254 Gsr Lxfgeo St.Lucia 15 FLU YES 10-11-2008
+2647 Mqmqmldj Tgp St.Lucia 37 HEPATITIS-A YES 3-3-2000
+2254 Gsr Lxfgeo St.Lucia 15 TETANUS NO 
+9002 Nytb Hjzpriwvllx St.Lucia 41 POLIO NO 
+9002 Nytb Hjzpriwvllx St.Lucia 41 HIB YES 13-10-2003
+9002 Nytb Hjzpriwvllx St.Lucia 41 CHICKENPOX NO 
+2320 Cbg Ovy St.Lucia 39 POLIO NO 
+2188 Auaectq Bjwnvu St.Lucia 20 HIB NO 
+4782 Jpelr Chw St.Lucia 63 HEPATITIS-A YES 29-5-2014
+5456 Wurfem Pyxoin St.Lucia 74 MEASLES YES 14-1-2009
+6404 Jgrlbxvtv Wiyqvavn St.Lucia 15 HIB NO 
+9885 Rsfx Dxt St.Lucia 37 HEPATITIS-B NO 
+9002 Nytb Hjzpriwvllx St.Lucia 41 FLU YES 23-8-2008
+9885 Rsfx Dxt St.Lucia 37 MEASLES YES 14-12-2017
+1116 Vncfhxajbt Fmeeft St.Lucia 70 RUBELLA NO 
+9931 Ucxe Nkmmdfvxvvzc St.Lucia 13 TETANUS NO 
+9002 Nytb Hjzpriwvllx St.Lucia 41 TETANUS YES 1-8-2008
+2188 Auaectq Bjwnvu St.Lucia 20 HEPATITIS-B YES 10-6-2018
+9002 Nytb Hjzpriwvllx St.Lucia 41 MEASLES YES 8-5-2009
+720 Fgj Soc St.Lucia 102 TETANUS NO 
+2539 Uyy Rukud St.Lucia 53 TETANUS NO 
+2647 Mqmqmldj Tgp St.Lucia 37 CHICKENPOX NO 
+9022 Krusk Htrnvg St.Lucia 32 COVID-19 YES 14-2-2014

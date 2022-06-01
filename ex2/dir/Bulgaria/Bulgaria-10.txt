@@ -1,0 +1,44 @@
+
+8146 Rentnathbuku Xnixuce Bulgaria 42 FLU NO 
+6837 Mxyz Buszvmrvs Bulgaria 11 POLIO NO 
+8065 Bvojrujpq Qhafdqk Bulgaria 95 POLIO NO 
+4328 Hjpprwckjl Njpgaqwlxl Bulgaria 75 POLIO NO 
+4328 Hjpprwckjl Njpgaqwlxl Bulgaria 75 RUBELLA YES 27-1-2012
+4735 Bvmumsaadea Otgixojiamqf Bulgaria 97 MEASLES YES 20-6-2015
+4273 Ufderas Rotnxud Bulgaria 23 POLIO YES 20-8-2004
+8424 Ovvyysqj Xdmfbsigyq Bulgaria 7 HEPATITIS-B YES 11-12-2016
+5710 Tlgqo Lmkc Bulgaria 23 COVID-19 NO 
+8065 Bvojrujpq Qhafdqk Bulgaria 95 COVID-19 YES 23-8-2006
+5336 Wjzasgkcu Ikxc Bulgaria 61 FLU YES 27-4-2010
+4735 Bvmumsaadea Otgixojiamqf Bulgaria 97 FLU YES 9-5-2002
+5336 Wjzasgkcu Ikxc Bulgaria 61 FLU NO 
+8065 Bvojrujpq Qhafdqk Bulgaria 95 RUBELLA YES 15-10-2020
+8068 Mpap Kpafecww Bulgaria 66 FLU NO 
+8146 Rentnathbuku Xnixuce Bulgaria 42 POLIO YES 20-11-2016
+5710 Tlgqo Lmkc Bulgaria 23 HEPATITIS-B NO 
+3265 Qjmv Rrowvcjkloy Bulgaria 28 TETANUS NO 
+8424 Ovvyysqj Xdmfbsigyq Bulgaria 7 RUBELLA NO 
+5721 Pkdm Iaphyhyzefgk Bulgaria 75 HEPATITIS-A NO 
+6837 Mxyz Buszvmrvs Bulgaria 11 TETANUS NO 
+5721 Pkdm Iaphyhyzefgk Bulgaria 75 COVID-19 YES 20-4-2001
+3740 Iewoeq Ubacmzptztps Bulgaria 96 HEPATITIS-A YES 15-10-2002
+8954 Zwnrzchp Fwwbjzhbr Bulgaria 98 MEASLES YES 16-12-2018
+2191 Wherdhfteudn Wvpnjusa Bulgaria 1 COVID-19 NO 
+4328 Hjpprwckjl Njpgaqwlxl Bulgaria 75 TETANUS NO 
+7268 Xaaz Ejq Bulgaria 62 POLIO YES 6-11-2016
+9646 Ywke Awhvxoui Bulgaria 119 HIB YES 5-1-2010
+9095 Jekayez Gwogxiyvrhq Bulgaria 65 POLIO NO 
+8954 Zwnrzchp Fwwbjzhbr Bulgaria 98 FLU NO 
+8424 Ovvyysqj Xdmfbsigyq Bulgaria 7 HEPATITIS-B NO 
+3265 Qjmv Rrowvcjkloy Bulgaria 28 HIB NO 
+8065 Bvojrujpq Qhafdqk Bulgaria 95 CHICKENPOX NO 
+8424 Ovvyysqj Xdmfbsigyq Bulgaria 7 RUBELLA NO 
+3079 Pwkitxvsq Avliybtgve Bulgaria 51 RUBELLA NO 
+8065 Bvojrujpq Qhafdqk Bulgaria 95 HEPATITIS-B YES 9-10-2005
+5336 Wjzasgkcu Ikxc Bulgaria 61 MEASLES NO 
+3740 Iewoeq Ubacmzptztps Bulgaria 96 MEASLES YES 2-5-2017
+8954 Zwnrzchp Fwwbjzhbr Bulgaria 98 HEPATITIS-B YES 19-12-2014
+3265 Qjmv Rrowvcjkloy Bulgaria 28 MEASLES NO 
+5710 Tlgqo Lmkc Bulgaria 23 FLU NO 
+9095 Jekayez Gwogxiyvrhq Bulgaria 65 HEPATITIS-A NO 
+3265 Qjmv Rrowvcjkloy Bulgaria 28 HIB NO 

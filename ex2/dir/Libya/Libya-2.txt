@@ -1,0 +1,56 @@
+
+7252 Alsr Tjvghj Libya 20 POLIO NO 
+313 Bmhajpvuge Wcopofz Libya 39 MEASLES NO 
+9757 Voctyuukgv Qagjgqa Libya 120 HIB NO 
+192 Cjyv Gocwvgz Libya 1 FLU YES 22-10-2016
+9757 Voctyuukgv Qagjgqa Libya 120 POLIO NO 
+5572 Vwcjculwpw Xhfymbnvvjza Libya 105 HEPATITIS-A NO 
+8479 Kwdo Rigck Libya 1 TETANUS YES 26-9-2009
+5572 Vwcjculwpw Xhfymbnvvjza Libya 105 RUBELLA YES 21-5-2015
+5235 Cdqwmzajatvc Nfbewkmju Libya 112 MEASLES NO 
+8530 Shkzkhdby Ioorumedkk Libya 73 HIB NO 
+5071 Xxhzohxw Eeckznwsh Libya 64 HEPATITIS-B NO 
+430 Bisyvkfu Zheg Libya 51 MEASLES NO 
+5106 Hia Jqlrnma Libya 35 TETANUS YES 12-12-2012
+4961 Hgedpjwhqxun Pyipcspm Libya 98 CHICKENPOX NO 
+192 Cjyv Gocwvgz Libya 1 HIB YES 26-10-2000
+3139 Jxgpd Ecs Libya 68 MEASLES YES 12-5-2018
+4961 Hgedpjwhqxun Pyipcspm Libya 98 COVID-19 YES 15-1-2006
+3139 Jxgpd Ecs Libya 68 CHICKENPOX NO 
+313 Bmhajpvuge Wcopofz Libya 39 HEPATITIS-B NO 
+2337 Hzfdh Hpkwnbahyhy Libya 62 FLU YES 8-8-2000
+3526 Yccc Gghrfpcgv Libya 113 HEPATITIS-A YES 6-7-2013
+2107 Jgq Fzduoyqu Libya 7 RUBELLA YES 8-12-2000
+5235 Cdqwmzajatvc Nfbewkmju Libya 112 CHICKENPOX NO 
+1850 Fjmzufi Flbbgb Libya 77 FLU YES 10-5-2010
+2924 Bhojbdmh Uvdtcnlsmw Libya 76 COVID-19 NO 
+313 Bmhajpvuge Wcopofz Libya 39 CHICKENPOX NO 
+2924 Bhojbdmh Uvdtcnlsmw Libya 76 CHICKENPOX NO 
+3625 Pbzufirffj Xytyvouln Libya 8 HEPATITIS-B YES 11-7-2005
+1065 Puramqoex Xmva Libya 96 RUBELLA NO 
+8530 Shkzkhdby Ioorumedkk Libya 73 POLIO NO 
+8479 Kwdo Rigck Libya 1 COVID-19 NO 
+1301 Uiz Edxckhotctdm Libya 36 HEPATITIS-B YES 14-9-2006
+8530 Shkzkhdby Ioorumedkk Libya 73 RUBELLA YES 14-9-2001
+192 Cjyv Gocwvgz Libya 1 HEPATITIS-B NO 
+7252 Alsr Tjvghj Libya 20 HEPATITIS-A YES 2-7-2014
+2171 Pmlwjbrwwy Okdeknpfgm Libya 22 HEPATITIS-A NO 
+7426 Libjfhlsyz Xshodsldzr Libya 104 HEPATITIS-A YES 18-10-2013
+497 Qbhtgtbjuync Kslydehgh Libya 83 RUBELLA YES 24-10-2000
+7426 Libjfhlsyz Xshodsldzr Libya 104 POLIO NO 
+5235 Cdqwmzajatvc Nfbewkmju Libya 112 MEASLES NO 
+2337 Hzfdh Hpkwnbahyhy Libya 62 RUBELLA NO 
+2337 Hzfdh Hpkwnbahyhy Libya 62 FLU NO 
+7426 Libjfhlsyz Xshodsldzr Libya 104 CHICKENPOX YES 14-10-2013
+430 Bisyvkfu Zheg Libya 51 POLIO YES 3-1-2019
+5572 Vwcjculwpw Xhfymbnvvjza Libya 105 HEPATITIS-B NO 
+5071 Xxhzohxw Eeckznwsh Libya 64 FLU NO 
+1065 Puramqoex Xmva Libya 96 COVID-19 NO 
+5235 Cdqwmzajatvc Nfbewkmju Libya 112 RUBELLA YES 10-11-2013
+1065 Puramqoex Xmva Libya 96 HEPATITIS-A YES 10-12-2017
+9757 Voctyuukgv Qagjgqa Libya 120 TETANUS YES 14-9-2000
+3625 Pbzufirffj Xytyvouln Libya 8 TETANUS NO 
+2337 Hzfdh Hpkwnbahyhy Libya 62 HEPATITIS-B NO 
+7252 Alsr Tjvghj Libya 20 HEPATITIS-A YES 25-2-2015
+497 Qbhtgtbjuync Kslydehgh Libya 83 POLIO NO 
+8479 Kwdo Rigck Libya 1 HIB YES 25-8-2004

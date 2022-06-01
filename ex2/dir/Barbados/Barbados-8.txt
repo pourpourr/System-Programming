@@ -1,0 +1,44 @@
+
+2551 Irnjsi Igiukp Barbados 73 TETANUS YES 16-11-2019
+2551 Irnjsi Igiukp Barbados 73 RUBELLA YES 8-4-2020
+2551 Irnjsi Igiukp Barbados 73 MEASLES YES 6-11-2015
+1490 Euwh Uwcjjhkuianx Barbados 104 RUBELLA NO 
+3864 Xxhckowhat Vayrlv Barbados 1 RUBELLA YES 29-11-2017
+317 Bspmojvqmvzr Cycpauz Barbados 21 HIB YES 25-3-2005
+2666 Vjoixvcpl Bolriliwfoq Barbados 81 HIB YES 2-3-2000
+1954 Qpndmhg Pltmrayrcx Barbados 17 MEASLES NO 
+1490 Euwh Uwcjjhkuianx Barbados 104 TETANUS YES 22-11-2010
+5484 Yhro Skyal Barbados 57 COVID-19 YES 12-2-2005
+5226 Wrzjk Culpef Barbados 37 RUBELLA YES 24-8-2001
+7417 Jjhmhtchw Unwxxbtjhrn Barbados 33 POLIO NO 
+531 Jkrtfnmdghg Jmpksujuno Barbados 6 FLU YES 5-2-2011
+564 Tiifxi Kyeuaovwh Barbados 103 TETANUS YES 22-8-2003
+1954 Qpndmhg Pltmrayrcx Barbados 17 CHICKENPOX NO 
+5226 Wrzjk Culpef Barbados 37 COVID-19 NO 
+531 Jkrtfnmdghg Jmpksujuno Barbados 6 HEPATITIS-A YES 13-10-2015
+3025 Tnhlcf Mxqzxrzvvei Barbados 79 FLU NO 
+5812 Njiikfmmacsl Gcday Barbados 46 POLIO NO 
+3864 Xxhckowhat Vayrlv Barbados 1 TETANUS NO 
+2584 Weacsxbjahjr Rtkihg Barbados 37 FLU YES 14-8-2009
+5291 Ikczkixu Reu Barbados 8 MEASLES NO 
+7840 Hakx Chdcqpzfu Barbados 28 POLIO YES 21-6-2020
+5812 Njiikfmmacsl Gcday Barbados 46 HEPATITIS-B YES 4-12-2018
+5291 Ikczkixu Reu Barbados 8 HEPATITIS-A NO 
+3864 Xxhckowhat Vayrlv Barbados 1 HIB YES 29-11-2013
+5291 Ikczkixu Reu Barbados 8 HEPATITIS-A NO 
+3864 Xxhckowhat Vayrlv Barbados 1 CHICKENPOX NO 
+3864 Xxhckowhat Vayrlv Barbados 1 HEPATITIS-B YES 10-3-2002
+531 Jkrtfnmdghg Jmpksujuno Barbados 6 MEASLES NO 
+317 Bspmojvqmvzr Cycpauz Barbados 21 HEPATITIS-A YES 4-6-2010
+411 Ggykwgz Czabmkkgo Barbados 110 HEPATITIS-A NO 
+3864 Xxhckowhat Vayrlv Barbados 1 MEASLES NO 
+2584 Weacsxbjahjr Rtkihg Barbados 37 HEPATITIS-B NO 
+2584 Weacsxbjahjr Rtkihg Barbados 37 POLIO NO 
+2673 Gfuf Bywl Barbados 100 HEPATITIS-B NO 
+3864 Xxhckowhat Vayrlv Barbados 1 HEPATITIS-A NO 
+7840 Hakx Chdcqpzfu Barbados 28 COVID-19 YES 28-10-2020
+411 Ggykwgz Czabmkkgo Barbados 110 FLU NO 
+7664 Fig Edryv Barbados 31 MEASLES NO 
+3864 Xxhckowhat Vayrlv Barbados 1 CHICKENPOX NO 
+1490 Euwh Uwcjjhkuianx Barbados 104 COVID-19 YES 24-5-2006
+564 Tiifxi Kyeuaovwh Barbados 103 HIB NO 

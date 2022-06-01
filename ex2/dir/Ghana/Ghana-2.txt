@@ -1,0 +1,59 @@
+
+1340 Nrq Vuiajpfe Ghana 79 POLIO NO 
+1586 Vkd Peuehcs Ghana 80 CHICKENPOX YES 22-2-2004
+4939 Lkdkadioiyi Jmebot Ghana 19 COVID-19 YES 22-12-2020
+4637 Kgbvjtafnwqf Sssjvn Ghana 8 HIB YES 7-9-2008
+3483 Beejhmgwx Vwxiwpj Ghana 57 MEASLES YES 13-2-2008
+7844 Fjyudae Dzyfcqmjkh Ghana 108 HIB YES 7-4-2000
+4654 Zrisywntdqr Keowk Ghana 69 RUBELLA NO 
+4939 Lkdkadioiyi Jmebot Ghana 19 HEPATITIS-A YES 23-5-2017
+5906 Dndfbpu Uyym Ghana 116 HEPATITIS-B YES 5-5-2011
+8984 Ejjkjbqnst Lwkrztdhk Ghana 30 HEPATITIS-A YES 19-6-2002
+5906 Dndfbpu Uyym Ghana 116 HIB NO 
+3483 Beejhmgwx Vwxiwpj Ghana 57 RUBELLA YES 19-9-2011
+4032 Wwfkzbzz Ingrm Ghana 51 COVID-19 YES 18-1-2018
+5433 Gaezhklvi Ymgvrrvoutl Ghana 62 RUBELLA YES 5-3-2018
+2851 Wfwmpd Wiizdygyn Ghana 48 TETANUS NO 
+6710 Gzscdvx Hvopci Ghana 26 HIB NO 
+6710 Gzscdvx Hvopci Ghana 26 CHICKENPOX YES 24-11-2017
+8320 Nhpqqgssdmjp Nzqpqbyvdot Ghana 43 HEPATITIS-A YES 4-3-2007
+3173 Qezwxfzkk Taxpzitwe Ghana 63 MEASLES YES 17-7-2013
+8194 Rmuiz Wrokinf Ghana 11 HEPATITIS-B YES 7-2-2006
+1146 Ujsduvx Xin Ghana 93 CHICKENPOX YES 15-8-2018
+5433 Gaezhklvi Ymgvrrvoutl Ghana 62 COVID-19 NO 
+4939 Lkdkadioiyi Jmebot Ghana 19 HEPATITIS-B YES 3-8-2019
+5748 Qictwhkikvfx Aygdetdgrk Ghana 69 FLU YES 17-5-2001
+1586 Vkd Peuehcs Ghana 80 COVID-19 YES 13-12-2014
+8194 Rmuiz Wrokinf Ghana 11 HEPATITIS-A NO 
+9170 Nbnmjhsv Yoobc Ghana 99 RUBELLA NO 
+5243 Ejlnovyamkpl Ldtgddvdhgcb Ghana 98 RUBELLA NO 
+2851 Wfwmpd Wiizdygyn Ghana 48 POLIO NO 
+3266 Tjzgfdmiyjm Xkolxk Ghana 21 CHICKENPOX NO 
+7844 Fjyudae Dzyfcqmjkh Ghana 108 POLIO YES 9-1-2020
+3266 Tjzgfdmiyjm Xkolxk Ghana 21 CHICKENPOX NO 
+5243 Ejlnovyamkpl Ldtgddvdhgcb Ghana 98 FLU YES 18-10-2014
+5915 Hileo Rkdqoajzjrq Ghana 27 RUBELLA NO 
+8320 Nhpqqgssdmjp Nzqpqbyvdot Ghana 43 HEPATITIS-B YES 14-11-2004
+8093 Tvybvpo Eta Ghana 114 FLU YES 14-7-2020
+3173 Qezwxfzkk Taxpzitwe Ghana 63 HEPATITIS-A NO 
+1146 Ujsduvx Xin Ghana 93 RUBELLA NO 
+1366 Mtniiwagt Zrbdle Ghana 90 MEASLES NO 
+8093 Tvybvpo Eta Ghana 114 TETANUS NO 
+2442 Znxn Easgfmyndw Ghana 44 TETANUS YES 12-2-2018
+4032 Wwfkzbzz Ingrm Ghana 51 TETANUS NO 
+1366 Mtniiwagt Zrbdle Ghana 90 COVID-19 YES 12-9-2002
+3628 Piplegdg Rkfmqaazzt Ghana 40 HEPATITIS-A YES 25-9-2013
+3266 Tjzgfdmiyjm Xkolxk Ghana 21 CHICKENPOX NO 
+3628 Piplegdg Rkfmqaazzt Ghana 40 COVID-19 YES 22-6-2019
+3173 Qezwxfzkk Taxpzitwe Ghana 63 MEASLES YES 26-3-2006
+1586 Vkd Peuehcs Ghana 80 TETANUS NO 
+4032 Wwfkzbzz Ingrm Ghana 51 MEASLES NO 
+1146 Ujsduvx Xin Ghana 93 POLIO NO 
+9170 Nbnmjhsv Yoobc Ghana 99 RUBELLA NO 
+4654 Zrisywntdqr Keowk Ghana 69 COVID-19 NO 
+5906 Dndfbpu Uyym Ghana 116 FLU NO 
+4654 Zrisywntdqr Keowk Ghana 69 HEPATITIS-B YES 7-1-2018
+8320 Nhpqqgssdmjp Nzqpqbyvdot Ghana 43 FLU YES 23-4-2019
+9170 Nbnmjhsv Yoobc Ghana 99 RUBELLA NO 
+8320 Nhpqqgssdmjp Nzqpqbyvdot Ghana 43 FLU NO 
+2851 Wfwmpd Wiizdygyn Ghana 48 RUBELLA NO 

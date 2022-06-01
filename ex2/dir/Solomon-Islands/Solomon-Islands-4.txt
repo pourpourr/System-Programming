@@ -1,0 +1,43 @@
+
+5934 Goflckpl Vlteqy Solomon-Islands 58 HEPATITIS-B YES 2-2-2002
+1388 Jxoudhdbwlw Olofygfh Solomon-Islands 12 HEPATITIS-A NO 
+9488 Dqa Pkoxnxcvthy Solomon-Islands 120 POLIO NO 
+1910 Iid Oxjczin Solomon-Islands 46 HEPATITIS-A YES 25-3-2013
+169 Oioyprynh Nhwgtoavqnw Solomon-Islands 107 POLIO YES 2-8-2019
+434 Fludamjj Mtxqo Solomon-Islands 98 FLU NO 
+8994 Yvfponcwbgt Ebdggjgmfr Solomon-Islands 62 FLU YES 1-6-2004
+1330 Zyektdmmps Hjqezxso Solomon-Islands 106 FLU YES 9-2-2009
+2571 Zbxoj Eotmeiwnizb Solomon-Islands 101 POLIO NO 
+1330 Zyektdmmps Hjqezxso Solomon-Islands 106 FLU YES 1-6-2016
+5934 Goflckpl Vlteqy Solomon-Islands 58 MEASLES YES 14-3-2015
+7324 Jaxhohvybw Ucfmdrwdgjwr Solomon-Islands 115 HIB NO 
+8994 Yvfponcwbgt Ebdggjgmfr Solomon-Islands 62 HEPATITIS-A YES 17-2-2015
+2571 Zbxoj Eotmeiwnizb Solomon-Islands 101 HIB NO 
+5934 Goflckpl Vlteqy Solomon-Islands 58 COVID-19 YES 16-11-2010
+6944 Nbnpczdb Iguzlpi Solomon-Islands 51 HIB NO 
+85 Twj Pryfxhduhtu Solomon-Islands 110 TETANUS YES 14-10-2006
+5339 Kmmgacutajl Dqfczuk Solomon-Islands 81 CHICKENPOX YES 29-6-2002
+1388 Jxoudhdbwlw Olofygfh Solomon-Islands 12 TETANUS YES 22-12-2002
+748 Dpafi Spxukoopzqf Solomon-Islands 98 POLIO YES 28-10-2007
+169 Oioyprynh Nhwgtoavqnw Solomon-Islands 107 POLIO YES 13-8-2009
+8877 Gkahyplxhnnp Mzsew Solomon-Islands 7 HEPATITIS-B NO 
+8994 Yvfponcwbgt Ebdggjgmfr Solomon-Islands 62 RUBELLA YES 18-11-2014
+6614 Tnrmwkwqnlwq Rrmq Solomon-Islands 25 MEASLES YES 10-4-2004
+8877 Gkahyplxhnnp Mzsew Solomon-Islands 7 FLU NO 
+9919 Nuknsg Pxdwxkfji Solomon-Islands 6 RUBELLA YES 14-6-2015
+5934 Goflckpl Vlteqy Solomon-Islands 58 CHICKENPOX NO 
+6944 Nbnpczdb Iguzlpi Solomon-Islands 51 HIB YES 5-10-2010
+8994 Yvfponcwbgt Ebdggjgmfr Solomon-Islands 62 POLIO NO 
+748 Dpafi Spxukoopzqf Solomon-Islands 98 MEASLES YES 19-5-2008
+2571 Zbxoj Eotmeiwnizb Solomon-Islands 101 TETANUS NO 
+169 Oioyprynh Nhwgtoavqnw Solomon-Islands 107 FLU YES 27-9-2005
+6944 Nbnpczdb Iguzlpi Solomon-Islands 51 COVID-19 NO 
+1330 Zyektdmmps Hjqezxso Solomon-Islands 106 TETANUS YES 4-9-2009
+1330 Zyektdmmps Hjqezxso Solomon-Islands 106 MEASLES YES 1-11-2006
+1388 Jxoudhdbwlw Olofygfh Solomon-Islands 12 HEPATITIS-A YES 10-3-2014
+1388 Jxoudhdbwlw Olofygfh Solomon-Islands 12 HEPATITIS-B YES 25-10-2012
+434 Fludamjj Mtxqo Solomon-Islands 98 MEASLES NO 
+6696 Edrc Efrdpqplux Solomon-Islands 7 HIB YES 5-10-2001
+6944 Nbnpczdb Iguzlpi Solomon-Islands 51 CHICKENPOX NO 
+1910 Iid Oxjczin Solomon-Islands 46 FLU YES 6-11-2002
+1388 Jxoudhdbwlw Olofygfh Solomon-Islands 12 HIB NO 

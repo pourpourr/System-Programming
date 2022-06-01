@@ -1,0 +1,36 @@
+
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 COVID-19 NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 POLIO YES 29-2-2004
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 TETANUS YES 26-4-2020
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 COVID-19 YES 11-4-2017
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 MEASLES YES 20-11-2017
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 POLIO YES 10-9-2005
+2594 Raor Gyri United-Arab-Emirates 73 RUBELLA NO 
+7020 Cew Tqkux United-Arab-Emirates 9 HIB YES 8-3-2020
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 CHICKENPOX YES 16-6-2013
+1093 Zecr Qdcp United-Arab-Emirates 55 TETANUS YES 21-6-2017
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 FLU YES 3-1-2007
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 COVID-19 NO 
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 HEPATITIS-A NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 TETANUS NO 
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 HEPATITIS-A YES 28-9-2019
+5307 Fos Jzfcv United-Arab-Emirates 57 RUBELLA YES 14-2-2012
+3489 Wdcuh Fgwftymmk United-Arab-Emirates 107 HEPATITIS-B NO 
+7020 Cew Tqkux United-Arab-Emirates 9 POLIO NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 POLIO NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 FLU YES 2-2-2002
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 RUBELLA NO 
+8868 Cir Cap United-Arab-Emirates 74 CHICKENPOX YES 2-2-2006
+6187 Nebzcmg Rutq United-Arab-Emirates 31 CHICKENPOX YES 23-2-2008
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 HEPATITIS-A YES 25-3-2020
+2594 Raor Gyri United-Arab-Emirates 73 HEPATITIS-A NO 
+9707 Mmjoa Qolv United-Arab-Emirates 22 RUBELLA NO 
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 CHICKENPOX NO 
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 RUBELLA YES 9-6-2000
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 HEPATITIS-A NO 
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 TETANUS NO 
+1093 Zecr Qdcp United-Arab-Emirates 55 FLU NO 
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 HEPATITIS-B YES 10-4-2004
+2594 Raor Gyri United-Arab-Emirates 73 MEASLES NO 
+6187 Nebzcmg Rutq United-Arab-Emirates 31 CHICKENPOX YES 16-9-2016
+7020 Cew Tqkux United-Arab-Emirates 9 MEASLES NO 

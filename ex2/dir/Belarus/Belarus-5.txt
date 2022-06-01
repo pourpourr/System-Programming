@@ -1,0 +1,44 @@
+
+8928 Yns Fkjqa Belarus 66 MEASLES NO 
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 HIB YES 10-5-2002
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 HEPATITIS-A YES 1-12-2003
+8928 Yns Fkjqa Belarus 66 TETANUS YES 10-2-2017
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 HEPATITIS-B NO 
+8787 Eogyjfuhmpry Zserk Belarus 97 CHICKENPOX YES 28-1-2016
+2456 Gqkbylikj Kmcwubyxkpb Belarus 99 HEPATITIS-A YES 27-7-2012
+9162 Faswsxugyy Dvnnikek Belarus 80 TETANUS YES 5-2-2005
+8812 Chjf Lestxhn Belarus 31 HEPATITIS-A NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 TETANUS NO 
+7947 Lajcza Tlpvlzznxda Belarus 115 CHICKENPOX YES 11-4-2015
+9615 Bpui Calcug Belarus 119 CHICKENPOX YES 15-4-2013
+769 Hckwi Bqeuq Belarus 86 CHICKENPOX NO 
+8787 Eogyjfuhmpry Zserk Belarus 97 COVID-19 NO 
+7947 Lajcza Tlpvlzznxda Belarus 115 HIB NO 
+1785 Bdfbuzuzr Djywipztxnp Belarus 115 HEPATITIS-B YES 10-12-2001
+9900 Wddlkpoebc Kkz Belarus 98 HEPATITIS-B YES 23-8-2003
+5161 Gimhkilm Nlnwyq Belarus 77 HEPATITIS-B YES 28-5-2005
+3498 Stqwbqlm Aldcc Belarus 40 HEPATITIS-A NO 
+9615 Bpui Calcug Belarus 119 HIB YES 25-2-2007
+9205 Xpmo Abgdfimfr Belarus 42 RUBELLA NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 TETANUS YES 6-7-2002
+7346 Mjmkuidyynd Fqczz Belarus 59 TETANUS NO 
+7346 Mjmkuidyynd Fqczz Belarus 59 HEPATITIS-B NO 
+8812 Chjf Lestxhn Belarus 31 HEPATITIS-A YES 24-11-2008
+769 Hckwi Bqeuq Belarus 86 TETANUS YES 27-2-2000
+5846 Wpoedolhpq Mptpt Belarus 51 CHICKENPOX NO 
+8928 Yns Fkjqa Belarus 66 HEPATITIS-A NO 
+3498 Stqwbqlm Aldcc Belarus 40 TETANUS NO 
+6453 Rzeacref Eywexjcgxeu Belarus 71 MEASLES YES 21-1-2005
+769 Hckwi Bqeuq Belarus 86 TETANUS YES 1-9-2014
+6453 Rzeacref Eywexjcgxeu Belarus 71 POLIO NO 
+769 Hckwi Bqeuq Belarus 86 TETANUS NO 
+5846 Wpoedolhpq Mptpt Belarus 51 TETANUS NO 
+3605 Xmw Vfrxggenr Belarus 94 COVID-19 NO 
+6305 Jjfb Xhnogqkzqbfb Belarus 8 MEASLES YES 5-6-2018
+7947 Lajcza Tlpvlzznxda Belarus 115 POLIO NO 
+3498 Stqwbqlm Aldcc Belarus 40 POLIO YES 9-2-2012
+2113 Dzxvqmhyd Rwjuaeocp Belarus 43 CHICKENPOX YES 11-11-2008
+3269 Cmrnzdhrfcpk Dzmfmdifk Belarus 83 POLIO YES 28-6-2013
+6453 Rzeacref Eywexjcgxeu Belarus 71 COVID-19 YES 23-6-2018
+6305 Jjfb Xhnogqkzqbfb Belarus 8 COVID-19 YES 20-9-2000
+8787 Eogyjfuhmpry Zserk Belarus 97 HIB YES 3-9-2013

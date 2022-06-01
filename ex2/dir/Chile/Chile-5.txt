@@ -1,0 +1,50 @@
+
+5371 Vpndddoitb Vtyjqmsy Chile 86 CHICKENPOX NO 
+1894 Wlhpzlo Zdal Chile 65 HEPATITIS-A NO 
+9765 Qob Qtrcin Chile 65 HEPATITIS-A YES 24-2-2011
+2481 Rujbic Daiehnwl Chile 100 MEASLES YES 9-3-2015
+5979 Uua Mqunidi Chile 28 POLIO YES 3-2-2017
+5371 Vpndddoitb Vtyjqmsy Chile 86 HIB YES 27-6-2009
+8964 Hpt Qhlzzctct Chile 34 RUBELLA NO 
+4742 Yjomcbtxef Zwpnevgav Chile 21 HEPATITIS-A YES 17-2-2005
+4355 Gmvrwfmmpfp Baqcxwcyweap Chile 44 FLU NO 
+9765 Qob Qtrcin Chile 65 HIB NO 
+1894 Wlhpzlo Zdal Chile 65 HEPATITIS-B YES 4-5-2017
+4742 Yjomcbtxef Zwpnevgav Chile 21 HEPATITIS-B YES 12-11-2017
+5979 Uua Mqunidi Chile 28 FLU YES 27-6-2006
+6611 Qdbyfwsv Qqazlq Chile 39 CHICKENPOX YES 29-12-2005
+5371 Vpndddoitb Vtyjqmsy Chile 86 HIB YES 22-10-2014
+6611 Qdbyfwsv Qqazlq Chile 39 TETANUS NO 
+6139 Sfmqac Tmsegbmxdif Chile 72 HIB NO 
+8964 Hpt Qhlzzctct Chile 34 MEASLES NO 
+4742 Yjomcbtxef Zwpnevgav Chile 21 COVID-19 NO 
+9765 Qob Qtrcin Chile 65 POLIO YES 6-5-2007
+5704 Zvkdzsjs Besjhnvicths Chile 86 HIB NO 
+6857 Mdhgnrco Rkgzmldcyx Chile 120 COVID-19 NO 
+4742 Yjomcbtxef Zwpnevgav Chile 21 CHICKENPOX YES 6-12-2000
+2481 Rujbic Daiehnwl Chile 100 MEASLES NO 
+5371 Vpndddoitb Vtyjqmsy Chile 86 POLIO YES 2-12-2003
+8964 Hpt Qhlzzctct Chile 34 COVID-19 NO 
+2481 Rujbic Daiehnwl Chile 100 CHICKENPOX NO 
+8964 Hpt Qhlzzctct Chile 34 FLU NO 
+6611 Qdbyfwsv Qqazlq Chile 39 RUBELLA YES 18-3-2005
+9765 Qob Qtrcin Chile 65 COVID-19 NO 
+9765 Qob Qtrcin Chile 65 HIB YES 27-3-2002
+4355 Gmvrwfmmpfp Baqcxwcyweap Chile 44 HIB NO 
+5371 Vpndddoitb Vtyjqmsy Chile 86 COVID-19 NO 
+1622 Xltpjbd Gxzglond Chile 88 FLU YES 12-5-2019
+8069 Owehkzpj Gpozqaulsd Chile 11 FLU YES 9-11-2002
+6139 Sfmqac Tmsegbmxdif Chile 72 HEPATITIS-A YES 5-10-2005
+4355 Gmvrwfmmpfp Baqcxwcyweap Chile 44 CHICKENPOX YES 16-7-2012
+4742 Yjomcbtxef Zwpnevgav Chile 21 HEPATITIS-A NO 
+3907 Lpnvsgymb Cgv Chile 34 HEPATITIS-B NO 
+8069 Owehkzpj Gpozqaulsd Chile 11 FLU YES 26-11-2000
+6139 Sfmqac Tmsegbmxdif Chile 72 FLU NO 
+1280 Lqqcytydzud Wgdhiigj Chile 66 HIB YES 30-4-2008
+1622 Xltpjbd Gxzglond Chile 88 FLU YES 13-4-2005
+4742 Yjomcbtxef Zwpnevgav Chile 21 RUBELLA NO 
+7919 Ksarmbvn Fnmcqglceqyg Chile 81 COVID-19 NO 
+9765 Qob Qtrcin Chile 65 MEASLES YES 24-11-2011
+5371 Vpndddoitb Vtyjqmsy Chile 86 RUBELLA NO 
+8964 Hpt Qhlzzctct Chile 34 HEPATITIS-A YES 21-9-2000
+6857 Mdhgnrco Rkgzmldcyx Chile 120 MEASLES NO 

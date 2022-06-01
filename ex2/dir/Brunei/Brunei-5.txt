@@ -1,0 +1,47 @@
+
+6903 Fhty Ytghwbc Brunei 61 FLU NO 
+1945 Srapsqktppw Gcshsuuou Brunei 95 MEASLES NO 
+4346 Xkxijpnczl Ttlwqd Brunei 78 MEASLES NO 
+6642 Mosvqqbem Yjqhy Brunei 97 TETANUS NO 
+5393 Unxs Tfwgp Brunei 20 HEPATITIS-A NO 
+8907 Hajefwg Rqbekl Brunei 66 RUBELLA YES 24-1-2007
+6903 Fhty Ytghwbc Brunei 61 COVID-19 YES 4-10-2002
+831 Qhbva Wanusjrufd Brunei 72 POLIO YES 6-5-2017
+1945 Srapsqktppw Gcshsuuou Brunei 95 RUBELLA YES 13-2-2006
+8907 Hajefwg Rqbekl Brunei 66 COVID-19 NO 
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 FLU NO 
+379 Kpsf Dzbnu Brunei 31 CHICKENPOX YES 23-5-2004
+831 Qhbva Wanusjrufd Brunei 72 TETANUS YES 24-4-2008
+5337 Nlcc Hvautfxmj Brunei 3 HEPATITIS-B YES 24-9-2017
+9806 Axvdk Vcs Brunei 47 COVID-19 YES 8-11-2006
+9934 Dmckhhedalu Tktodpbd Brunei 17 POLIO YES 6-9-2002
+831 Qhbva Wanusjrufd Brunei 72 HEPATITIS-A YES 12-8-2008
+5992 Nivk Qoci Brunei 111 HIB NO 
+1597 Uqxlho Neyfl Brunei 113 HEPATITIS-A YES 4-12-2009
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 CHICKENPOX YES 4-11-2003
+4076 Drjaalu Cjhzu Brunei 7 HEPATITIS-A YES 25-6-2016
+1945 Srapsqktppw Gcshsuuou Brunei 95 HEPATITIS-B YES 13-3-2015
+379 Kpsf Dzbnu Brunei 31 HEPATITIS-B YES 8-6-2001
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 HIB YES 16-7-2004
+9806 Axvdk Vcs Brunei 47 HEPATITIS-A NO 
+9806 Axvdk Vcs Brunei 47 POLIO NO 
+3909 Vsywe Oegtcabb Brunei 35 HIB YES 19-2-2008
+9934 Dmckhhedalu Tktodpbd Brunei 17 HEPATITIS-B YES 30-11-2014
+2957 Ypdezz Adfldkhyyyb Brunei 68 FLU NO 
+8907 Hajefwg Rqbekl Brunei 66 FLU NO 
+379 Kpsf Dzbnu Brunei 31 CHICKENPOX NO 
+8331 Dkzjtaxsk Rsq Brunei 101 POLIO YES 1-6-2016
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 HIB YES 7-4-2020
+419 Fhznsehpol Xqukbvbgp Brunei 102 COVID-19 YES 16-5-2015
+419 Fhznsehpol Xqukbvbgp Brunei 102 FLU YES 18-3-2010
+1945 Srapsqktppw Gcshsuuou Brunei 95 CHICKENPOX YES 19-4-2020
+1945 Srapsqktppw Gcshsuuou Brunei 95 FLU NO 
+5393 Unxs Tfwgp Brunei 20 TETANUS YES 21-12-2010
+2957 Ypdezz Adfldkhyyyb Brunei 68 RUBELLA NO 
+1945 Srapsqktppw Gcshsuuou Brunei 95 POLIO NO 
+419 Fhznsehpol Xqukbvbgp Brunei 102 POLIO NO 
+9153 Yapilz Plcjvwmtnw Brunei 30 CHICKENPOX NO 
+2957 Ypdezz Adfldkhyyyb Brunei 68 MEASLES YES 8-2-2014
+5393 Unxs Tfwgp Brunei 20 FLU NO 
+9153 Yapilz Plcjvwmtnw Brunei 30 TETANUS NO 
+5739 Yivqbqsncdln Haqrpjsjiyi Brunei 105 HIB YES 1-11-2008

@@ -1,0 +1,48 @@
+
+6804 Tvguezesekk Ewrarfbv Mali 16 HEPATITIS-B YES 6-7-2002
+9288 Uqsjzlrdssnr Oylj Mali 62 POLIO NO 
+8651 Qqwmmrpodev Nloxszai Mali 46 FLU YES 8-12-2019
+3518 Nzk Bhlnh Mali 74 COVID-19 YES 5-11-2003
+2919 Icnawnith Yscxooyfir Mali 37 HEPATITIS-A NO 
+82 Uyf Capgntrgoiv Mali 106 HIB NO 
+4447 Xfhcctdjoe Xlkfpptpomrm Mali 73 TETANUS YES 15-10-2003
+4421 Rvgk Khfgaufewejy Mali 116 POLIO NO 
+82 Uyf Capgntrgoiv Mali 106 RUBELLA NO 
+9288 Uqsjzlrdssnr Oylj Mali 62 HEPATITIS-A NO 
+1955 Ialq Zuet Mali 111 RUBELLA YES 25-7-2000
+2002 Ojpec Pidghfpkl Mali 48 MEASLES YES 25-6-2003
+3440 Iwixhk Dmpuijvwx Mali 99 CHICKENPOX NO 
+3518 Nzk Bhlnh Mali 74 POLIO YES 1-6-2003
+2002 Ojpec Pidghfpkl Mali 48 TETANUS NO 
+1689 Dqz Xudzfryd Mali 43 HEPATITIS-B NO 
+1358 Nen Yaflh Mali 30 CHICKENPOX NO 
+8685 Mhjpusdyggq Pfhwx Mali 61 HEPATITIS-B NO 
+3518 Nzk Bhlnh Mali 74 HEPATITIS-A YES 8-8-2002
+6804 Tvguezesekk Ewrarfbv Mali 16 FLU YES 27-8-2006
+9975 Nooxpbf Bgkxg Mali 44 HIB YES 10-8-2006
+1689 Dqz Xudzfryd Mali 43 HIB NO 
+6804 Tvguezesekk Ewrarfbv Mali 16 COVID-19 YES 30-6-2003
+4447 Xfhcctdjoe Xlkfpptpomrm Mali 73 COVID-19 YES 12-2-2013
+8651 Qqwmmrpodev Nloxszai Mali 46 HEPATITIS-B YES 28-2-2007
+9157 Avfqckfjin Bchxgkizfdqo Mali 17 COVID-19 YES 4-1-2020
+82 Uyf Capgntrgoiv Mali 106 HEPATITIS-B YES 4-3-2017
+2819 Hqnt Bycahfkvsh Mali 8 POLIO NO 
+4940 Cjaycjtl Ntikvzudqgk Mali 10 HEPATITIS-B NO 
+4759 Hdzinqfyz Kzvtovj Mali 87 RUBELLA NO 
+6804 Tvguezesekk Ewrarfbv Mali 16 MEASLES NO 
+82 Uyf Capgntrgoiv Mali 106 TETANUS NO 
+3440 Iwixhk Dmpuijvwx Mali 99 CHICKENPOX YES 3-12-2002
+2522 Ydoke Yawmdzdlmo Mali 50 HEPATITIS-A NO 
+2002 Ojpec Pidghfpkl Mali 48 RUBELLA NO 
+2643 Hqrczjxryew Pjizrhcpxr Mali 68 FLU NO 
+4940 Cjaycjtl Ntikvzudqgk Mali 10 CHICKENPOX YES 26-10-2007
+4759 Hdzinqfyz Kzvtovj Mali 87 COVID-19 YES 14-10-2019
+82 Uyf Capgntrgoiv Mali 106 FLU YES 13-6-2013
+9157 Avfqckfjin Bchxgkizfdqo Mali 17 HEPATITIS-B YES 26-7-2014
+2643 Hqrczjxryew Pjizrhcpxr Mali 68 HEPATITIS-B YES 30-8-2011
+2819 Hqnt Bycahfkvsh Mali 8 RUBELLA YES 15-7-2000
+6804 Tvguezesekk Ewrarfbv Mali 16 HEPATITIS-B YES 9-8-2002
+1955 Ialq Zuet Mali 111 POLIO YES 13-1-2015
+4447 Xfhcctdjoe Xlkfpptpomrm Mali 73 COVID-19 NO 
+4421 Rvgk Khfgaufewejy Mali 116 MEASLES NO 
+1708 Ymech Fuxxqlehvy Mali 76 POLIO NO 

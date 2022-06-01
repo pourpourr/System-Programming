@@ -1,0 +1,63 @@
+
+9361 Wdkgq Tim Palau 28 CHICKENPOX YES 22-1-2012
+9985 Dfmghlstil Txvjl Palau 86 TETANUS YES 17-6-2007
+2892 Xpczeedn Ubikhldl Palau 103 POLIO NO 
+9985 Dfmghlstil Txvjl Palau 86 POLIO YES 6-3-2018
+1124 Mcefhuelelgj Tkwpczxvdr Palau 81 TETANUS YES 13-5-2002
+3409 Lvkbwm Hzpu Palau 102 HEPATITIS-B YES 11-11-2013
+3409 Lvkbwm Hzpu Palau 102 CHICKENPOX NO 
+5279 Fdcqnqojcem Vdbtthgm Palau 94 CHICKENPOX YES 23-10-2006
+2292 Xlm Pwe Palau 7 CHICKENPOX YES 15-9-2018
+4041 Fxtnskmmrbct Jsf Palau 100 TETANUS YES 18-11-2004
+9361 Wdkgq Tim Palau 28 POLIO YES 26-3-2009
+5279 Fdcqnqojcem Vdbtthgm Palau 94 HEPATITIS-A YES 22-3-2015
+6424 Pnpvufgrp Dmikgdkmn Palau 91 FLU NO 
+9361 Wdkgq Tim Palau 28 HIB YES 6-2-2007
+3416 Htdaljhioo Ggigqztscy Palau 69 FLU YES 19-8-2008
+4588 Bnd Prbcuj Palau 29 COVID-19 NO 
+4599 Jxit Iggohefhunt Palau 44 RUBELLA NO 
+2292 Xlm Pwe Palau 7 FLU NO 
+3416 Htdaljhioo Ggigqztscy Palau 69 POLIO NO 
+4041 Fxtnskmmrbct Jsf Palau 100 FLU YES 11-8-2004
+1124 Mcefhuelelgj Tkwpczxvdr Palau 81 HEPATITIS-B NO 
+1124 Mcefhuelelgj Tkwpczxvdr Palau 81 MEASLES NO 
+4041 Fxtnskmmrbct Jsf Palau 100 FLU NO 
+6424 Pnpvufgrp Dmikgdkmn Palau 91 HEPATITIS-B YES 26-6-2005
+6145 Fzxiypymlf Owbceojnlb Palau 8 HEPATITIS-B YES 22-1-2002
+4588 Bnd Prbcuj Palau 29 HEPATITIS-A YES 25-11-2020
+4239 Mtryyvrihar Ojf Palau 83 HEPATITIS-B NO 
+3409 Lvkbwm Hzpu Palau 102 FLU NO 
+815 Pxad Cplcilebtr Palau 75 FLU YES 24-8-2006
+4588 Bnd Prbcuj Palau 29 POLIO YES 20-8-2007
+7871 Mfdmcfrbn Xipeazkap Palau 41 FLU YES 18-3-2010
+5939 Hedwvt Sgxrbrtae Palau 114 HEPATITIS-A YES 8-4-2006
+4599 Jxit Iggohefhunt Palau 44 MEASLES NO 
+3416 Htdaljhioo Ggigqztscy Palau 69 HIB NO 
+4012 Fbtoghgupsj Rqep Palau 32 FLU YES 30-11-2009
+6739 Jtjkampl Fptdzbt Palau 52 MEASLES YES 24-7-2004
+4239 Mtryyvrihar Ojf Palau 83 FLU NO 
+6145 Fzxiypymlf Owbceojnlb Palau 8 FLU YES 18-8-2003
+2390 Iuiynamjjmmb Esb Palau 75 HEPATITIS-B YES 25-6-2017
+1176 Zdsgzygp Wjc Palau 52 COVID-19 NO 
+5939 Hedwvt Sgxrbrtae Palau 114 RUBELLA YES 10-6-2001
+7772 Wazfe Asqnictshhit Palau 93 FLU YES 9-12-2003
+2390 Iuiynamjjmmb Esb Palau 75 FLU YES 23-4-2015
+2390 Iuiynamjjmmb Esb Palau 75 POLIO NO 
+2292 Xlm Pwe Palau 7 MEASLES NO 
+5939 Hedwvt Sgxrbrtae Palau 114 TETANUS NO 
+7772 Wazfe Asqnictshhit Palau 93 HIB YES 1-8-2004
+6739 Jtjkampl Fptdzbt Palau 52 HIB NO 
+2390 Iuiynamjjmmb Esb Palau 75 MEASLES NO 
+6306 Grlhbti Ternqv Palau 112 COVID-19 YES 2-12-2013
+3409 Lvkbwm Hzpu Palau 102 FLU NO 
+4599 Jxit Iggohefhunt Palau 44 HEPATITIS-A NO 
+2212 Lwfrhzcxi Dmaexy Palau 102 MEASLES YES 4-8-2010
+2892 Xpczeedn Ubikhldl Palau 103 HEPATITIS-A YES 9-12-2005
+7772 Wazfe Asqnictshhit Palau 93 CHICKENPOX NO 
+2292 Xlm Pwe Palau 7 COVID-19 NO 
+4239 Mtryyvrihar Ojf Palau 83 CHICKENPOX YES 3-5-2011
+2592 Flxu Wqckrh Palau 52 POLIO NO 
+9361 Wdkgq Tim Palau 28 MEASLES YES 24-3-2016
+5279 Fdcqnqojcem Vdbtthgm Palau 94 COVID-19 YES 25-3-2015
+3416 Htdaljhioo Ggigqztscy Palau 69 HIB NO 
+2292 Xlm Pwe Palau 7 TETANUS YES 4-1-2004

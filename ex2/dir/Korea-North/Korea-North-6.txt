@@ -1,0 +1,56 @@
+
+5030 Tbq Ffycgbifu Korea-North 31 RUBELLA YES 9-8-2004
+63 Nfcsqnjiq Jhpncmi Korea-North 34 MEASLES NO 
+1603 Mba Hfiipzv Korea-North 13 POLIO NO 
+4820 Qftwe Aiqe Korea-North 14 HEPATITIS-A YES 22-5-2003
+4046 Niezalqfmwmf Tyousaxkj Korea-North 58 RUBELLA YES 20-1-2008
+519 Ixcxnelrn Rjfm Korea-North 120 CHICKENPOX NO 
+2236 Geu Ueu Korea-North 71 MEASLES NO 
+4132 Ppzp Olhtmiramrf Korea-North 30 CHICKENPOX NO 
+4132 Ppzp Olhtmiramrf Korea-North 30 RUBELLA YES 8-12-2003
+2514 Rzlrbhtudoa Kbhbogsvboqn Korea-North 119 FLU YES 18-9-2007
+2236 Geu Ueu Korea-North 71 POLIO NO 
+7287 Pwjvatvlk Ifs Korea-North 10 HEPATITIS-B NO 
+1964 Annwvap Pfesotffabe Korea-North 69 MEASLES NO 
+1473 Hdqlqy Esebweih Korea-North 71 TETANUS NO 
+4046 Niezalqfmwmf Tyousaxkj Korea-North 58 COVID-19 NO 
+619 Wkwahydgwfu Kdtplp Korea-North 80 HIB NO 
+5969 Oan Polmvq Korea-North 72 MEASLES NO 
+5030 Tbq Ffycgbifu Korea-North 31 HIB NO 
+1665 Cesiareh Clrnnz Korea-North 117 HEPATITIS-B NO 
+6869 Ingmaalt Tvszwkwbt Korea-North 25 HEPATITIS-A NO 
+519 Ixcxnelrn Rjfm Korea-North 120 POLIO NO 
+4820 Qftwe Aiqe Korea-North 14 MEASLES YES 17-9-2013
+7287 Pwjvatvlk Ifs Korea-North 10 FLU NO 
+2514 Rzlrbhtudoa Kbhbogsvboqn Korea-North 119 FLU YES 22-10-2003
+1603 Mba Hfiipzv Korea-North 13 RUBELLA YES 18-9-2011
+4820 Qftwe Aiqe Korea-North 14 COVID-19 YES 8-6-2008
+8252 Qvjwpt Pxkcoujzopki Korea-North 8 HIB YES 19-4-2015
+6869 Ingmaalt Tvszwkwbt Korea-North 25 COVID-19 NO 
+2675 Aro Xikkcd Korea-North 101 TETANUS NO 
+1244 Ctzinbj Hhikju Korea-North 37 FLU NO 
+936 Dtwb Mcuaywtagqrw Korea-North 56 RUBELLA YES 23-3-2017
+2236 Geu Ueu Korea-North 71 TETANUS NO 
+1964 Annwvap Pfesotffabe Korea-North 69 COVID-19 YES 17-2-2008
+2486 Iiqtfzqxispt Fhboac Korea-North 53 TETANUS NO 
+519 Ixcxnelrn Rjfm Korea-North 120 MEASLES YES 15-12-2006
+6019 Iio Ssvsnedawkqd Korea-North 101 TETANUS YES 2-5-2016
+4820 Qftwe Aiqe Korea-North 14 TETANUS YES 2-4-2011
+619 Wkwahydgwfu Kdtplp Korea-North 80 RUBELLA NO 
+519 Ixcxnelrn Rjfm Korea-North 120 CHICKENPOX NO 
+2675 Aro Xikkcd Korea-North 101 HEPATITIS-A YES 13-7-2010
+3186 Xjlhmph Leoqejzk Korea-North 35 FLU NO 
+519 Ixcxnelrn Rjfm Korea-North 120 COVID-19 NO 
+1964 Annwvap Pfesotffabe Korea-North 69 FLU YES 8-3-2013
+2675 Aro Xikkcd Korea-North 101 FLU YES 2-8-2019
+2486 Iiqtfzqxispt Fhboac Korea-North 53 TETANUS NO 
+6869 Ingmaalt Tvszwkwbt Korea-North 25 HEPATITIS-B NO 
+7287 Pwjvatvlk Ifs Korea-North 10 HEPATITIS-B NO 
+619 Wkwahydgwfu Kdtplp Korea-North 80 MEASLES YES 19-12-2014
+4820 Qftwe Aiqe Korea-North 14 CHICKENPOX YES 10-7-2014
+1603 Mba Hfiipzv Korea-North 13 HEPATITIS-A YES 5-6-2005
+1665 Cesiareh Clrnnz Korea-North 117 COVID-19 YES 13-9-2012
+1473 Hdqlqy Esebweih Korea-North 71 COVID-19 YES 18-4-2002
+4820 Qftwe Aiqe Korea-North 14 COVID-19 NO 
+1603 Mba Hfiipzv Korea-North 13 HEPATITIS-A NO 
+5030 Tbq Ffycgbifu Korea-North 31 COVID-19 NO 

@@ -1,0 +1,48 @@
+
+1702 Qacrxtipe Uiz Vanuatu 66 POLIO YES 8-7-2017
+8961 Bkjpe Fbbntjls Vanuatu 67 HEPATITIS-A YES 23-5-2003
+7158 Yfafmb Qvqsoprgsbyo Vanuatu 67 COVID-19 NO 
+70 Fyebxwwunj Hzfixi Vanuatu 41 COVID-19 NO 
+9352 Hrbmzbfp Ysm Vanuatu 49 COVID-19 YES 19-5-2004
+3663 Sjeuxjrw Cljoxnsfpbpn Vanuatu 2 TETANUS NO 
+1150 Jzdpn Zsld Vanuatu 53 MEASLES NO 
+4034 Ojciiwil Diqvwtha Vanuatu 56 CHICKENPOX NO 
+3437 Fjpnedyg Syxnkynogv Vanuatu 84 FLU NO 
+657 Lai Cckpsehkowsa Vanuatu 95 HIB NO 
+8730 Frnkrtj Bbyzjbssz Vanuatu 33 POLIO NO 
+1382 Yyrmtualvko Dujpwij Vanuatu 6 POLIO YES 15-8-2014
+9553 Nmqcevjoqgd Feodvtzqpqc Vanuatu 5 TETANUS YES 25-6-2019
+1150 Jzdpn Zsld Vanuatu 53 HEPATITIS-A YES 29-3-2019
+9553 Nmqcevjoqgd Feodvtzqpqc Vanuatu 5 FLU YES 19-10-2004
+1493 Nncjzpbnv Djmbsiuzvvsm Vanuatu 71 COVID-19 YES 8-6-2004
+3663 Sjeuxjrw Cljoxnsfpbpn Vanuatu 2 RUBELLA NO 
+5445 Jodmgpxikwr Bzanreyqsblm Vanuatu 68 MEASLES NO 
+1905 Fidjzwws Eiz Vanuatu 56 POLIO YES 25-9-2017
+70 Fyebxwwunj Hzfixi Vanuatu 41 MEASLES NO 
+9352 Hrbmzbfp Ysm Vanuatu 49 POLIO YES 30-2-2006
+657 Lai Cckpsehkowsa Vanuatu 95 CHICKENPOX NO 
+3663 Sjeuxjrw Cljoxnsfpbpn Vanuatu 2 HIB NO 
+9352 Hrbmzbfp Ysm Vanuatu 49 MEASLES NO 
+5445 Jodmgpxikwr Bzanreyqsblm Vanuatu 68 HEPATITIS-A NO 
+9352 Hrbmzbfp Ysm Vanuatu 49 POLIO NO 
+3663 Sjeuxjrw Cljoxnsfpbpn Vanuatu 2 FLU YES 16-10-2000
+9240 Yqapygw Kkpn Vanuatu 7 TETANUS NO 
+3437 Fjpnedyg Syxnkynogv Vanuatu 84 POLIO YES 20-2-2014
+9822 Oglxekva Qmzitazyjs Vanuatu 38 HEPATITIS-B YES 20-2-2015
+3663 Sjeuxjrw Cljoxnsfpbpn Vanuatu 2 HEPATITIS-A NO 
+3663 Sjeuxjrw Cljoxnsfpbpn Vanuatu 2 RUBELLA NO 
+6171 Bprfxsko Yxzsbfswsklf Vanuatu 113 TETANUS YES 8-6-2016
+5445 Jodmgpxikwr Bzanreyqsblm Vanuatu 68 CHICKENPOX NO 
+2488 Tbna Iiwnt Vanuatu 60 TETANUS NO 
+9352 Hrbmzbfp Ysm Vanuatu 49 HEPATITIS-A YES 1-10-2016
+2488 Tbna Iiwnt Vanuatu 60 HIB YES 3-2-2008
+3462 Ebthsd Slufgcffk Vanuatu 76 FLU NO 
+5445 Jodmgpxikwr Bzanreyqsblm Vanuatu 68 HEPATITIS-B NO 
+9553 Nmqcevjoqgd Feodvtzqpqc Vanuatu 5 HIB YES 19-7-2013
+1150 Jzdpn Zsld Vanuatu 53 MEASLES YES 26-1-2006
+1905 Fidjzwws Eiz Vanuatu 56 MEASLES YES 28-10-2010
+2488 Tbna Iiwnt Vanuatu 60 HEPATITIS-A YES 12-2-2008
+6171 Bprfxsko Yxzsbfswsklf Vanuatu 113 CHICKENPOX NO 
+4034 Ojciiwil Diqvwtha Vanuatu 56 RUBELLA NO 
+6171 Bprfxsko Yxzsbfswsklf Vanuatu 113 FLU NO 
+7158 Yfafmb Qvqsoprgsbyo Vanuatu 67 HIB YES 3-7-2007

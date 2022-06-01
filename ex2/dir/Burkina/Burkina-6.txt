@@ -1,0 +1,59 @@
+
+3553 Zetvvgpy Jkyeortee Burkina 69 CHICKENPOX NO 
+3097 Vdaiahmxysa Fnmpmoi Burkina 17 RUBELLA NO 
+4288 Iet Cyzm Burkina 59 TETANUS YES 27-12-2007
+9617 Kihbpqivn Yohvba Burkina 102 RUBELLA NO 
+1553 Abal Xrngoehbnoi Burkina 39 HIB YES 23-3-2013
+9252 Kto Jzwucrfunn Burkina 11 POLIO YES 26-2-2006
+5369 Uldtfxjygqb Gjhfm Burkina 99 FLU YES 15-11-2006
+1353 Nxm Xenvokeclu Burkina 88 HEPATITIS-B NO 
+6385 Wcnrcu Swmeop Burkina 17 HEPATITIS-B NO 
+2238 Tkrsm Mvprxrk Burkina 60 HEPATITIS-A NO 
+7790 Twuqhhe Brq Burkina 45 HEPATITIS-A NO 
+9091 For Maxqugnsxebf Burkina 89 MEASLES NO 
+6385 Wcnrcu Swmeop Burkina 17 TETANUS NO 
+4288 Iet Cyzm Burkina 59 MEASLES NO 
+9137 Lhvp Obthkvslw Burkina 44 RUBELLA YES 2-1-2011
+9137 Lhvp Obthkvslw Burkina 44 HEPATITIS-B YES 8-3-2011
+1553 Abal Xrngoehbnoi Burkina 39 HEPATITIS-A YES 21-10-2001
+7954 Vvqfspukhn Axnugkbckll Burkina 106 TETANUS NO 
+6385 Wcnrcu Swmeop Burkina 17 TETANUS NO 
+5369 Uldtfxjygqb Gjhfm Burkina 99 MEASLES NO 
+3878 Omhqpog Buyie Burkina 21 COVID-19 YES 24-4-2008
+1194 Kgqh Ccpxowyon Burkina 97 CHICKENPOX YES 10-8-2015
+1191 Fcv Xkfv Burkina 3 HEPATITIS-A YES 9-11-2003
+7790 Twuqhhe Brq Burkina 45 FLU NO 
+53 Kbkng Zqaeunwitsgr Burkina 95 TETANUS NO 
+53 Kbkng Zqaeunwitsgr Burkina 95 POLIO NO 
+9137 Lhvp Obthkvslw Burkina 44 HIB YES 12-12-2016
+3129 Ynaithkab Pev Burkina 44 HEPATITIS-A NO 
+6587 Nfymqvmkvs Wepruuvpe Burkina 96 HEPATITIS-A YES 3-3-2007
+7490 Ngvjuflveae Zcrxiout Burkina 28 TETANUS YES 22-9-2011
+9617 Kihbpqivn Yohvba Burkina 102 CHICKENPOX NO 
+3878 Omhqpog Buyie Burkina 21 HEPATITIS-B NO 
+3097 Vdaiahmxysa Fnmpmoi Burkina 17 RUBELLA NO 
+1191 Fcv Xkfv Burkina 3 TETANUS NO 
+7478 Zkkkltdwb Jczemjsdr Burkina 82 FLU NO 
+3129 Ynaithkab Pev Burkina 44 CHICKENPOX NO 
+6587 Nfymqvmkvs Wepruuvpe Burkina 96 MEASLES YES 26-12-2008
+2091 Recrwerkpr Fayhcwzwcps Burkina 32 TETANUS YES 13-7-2005
+577 Khjzpmh Hbnwhokhghy Burkina 79 HEPATITIS-B YES 17-3-2013
+2238 Tkrsm Mvprxrk Burkina 60 HEPATITIS-A NO 
+8201 Ghxbjemsaos Zrft Burkina 50 CHICKENPOX YES 15-8-2011
+2398 Bisxsmfx Chusydalla Burkina 108 POLIO NO 
+7478 Zkkkltdwb Jczemjsdr Burkina 82 HIB NO 
+2398 Bisxsmfx Chusydalla Burkina 108 MEASLES YES 8-11-2013
+8201 Ghxbjemsaos Zrft Burkina 50 HEPATITIS-A YES 26-2-2009
+577 Khjzpmh Hbnwhokhghy Burkina 79 HEPATITIS-B YES 29-7-2009
+7478 Zkkkltdwb Jczemjsdr Burkina 82 HEPATITIS-B NO 
+3129 Ynaithkab Pev Burkina 44 COVID-19 YES 12-5-2018
+5369 Uldtfxjygqb Gjhfm Burkina 99 MEASLES YES 7-8-2019
+7478 Zkkkltdwb Jczemjsdr Burkina 82 FLU YES 2-11-2009
+7490 Ngvjuflveae Zcrxiout Burkina 28 RUBELLA YES 24-12-2019
+5369 Uldtfxjygqb Gjhfm Burkina 99 CHICKENPOX YES 10-9-2011
+8505 Imcnkxsyovu Novyggfborm Burkina 107 MEASLES NO 
+3878 Omhqpog Buyie Burkina 21 COVID-19 YES 20-11-2004
+7490 Ngvjuflveae Zcrxiout Burkina 28 TETANUS YES 23-6-2013
+1553 Abal Xrngoehbnoi Burkina 39 HEPATITIS-B YES 9-11-2002
+2792 Gzwqnyf Ilghhwwpchuf Burkina 7 HEPATITIS-B NO 
+53 Kbkng Zqaeunwitsgr Burkina 95 HEPATITIS-B NO 

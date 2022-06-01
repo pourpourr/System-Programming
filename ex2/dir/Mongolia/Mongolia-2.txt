@@ -1,0 +1,42 @@
+
+6030 Itlkw Cegc Mongolia 102 RUBELLA NO 
+1781 Phheyo Xmiff Mongolia 8 RUBELLA YES 23-2-2002
+9106 Okbidx Wcosezxsskhb Mongolia 117 HEPATITIS-A YES 20-7-2011
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 MEASLES YES 15-3-2000
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 TETANUS NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 POLIO YES 8-4-2010
+1147 Fzz Qbyq Mongolia 102 TETANUS NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 COVID-19 NO 
+9106 Okbidx Wcosezxsskhb Mongolia 117 HEPATITIS-B NO 
+6054 Wqcuuzfsvwoi Uovwlpbjmfkx Mongolia 61 HEPATITIS-A NO 
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 TETANUS NO 
+718 Ccgbql Dwqaww Mongolia 40 HIB NO 
+8798 Sxmovwhmo Cwppen Mongolia 70 COVID-19 YES 20-9-2016
+1781 Phheyo Xmiff Mongolia 8 COVID-19 YES 30-5-2007
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 HEPATITIS-A NO 
+1147 Fzz Qbyq Mongolia 102 COVID-19 YES 9-11-2007
+1781 Phheyo Xmiff Mongolia 8 RUBELLA YES 24-8-2005
+6030 Itlkw Cegc Mongolia 102 TETANUS YES 28-7-2008
+1220 Nwqvsotaqpx Wqbk Mongolia 38 HIB NO 
+1147 Fzz Qbyq Mongolia 102 HEPATITIS-A NO 
+1147 Fzz Qbyq Mongolia 102 HEPATITIS-A YES 10-8-2011
+299 Ugg Ubk Mongolia 82 RUBELLA NO 
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 COVID-19 YES 3-6-2002
+8798 Sxmovwhmo Cwppen Mongolia 70 HEPATITIS-B NO 
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 RUBELLA YES 4-7-2013
+6030 Itlkw Cegc Mongolia 102 HIB YES 17-12-2002
+861 Vggcaqf Mpcdwntlq Mongolia 68 POLIO YES 6-12-2008
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 HIB NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 HEPATITIS-B NO 
+9106 Okbidx Wcosezxsskhb Mongolia 117 HIB NO 
+2154 Mpe Vpkziqs Mongolia 109 TETANUS NO 
+2154 Mpe Vpkziqs Mongolia 109 HEPATITIS-A YES 24-7-2007
+8798 Sxmovwhmo Cwppen Mongolia 70 POLIO YES 7-2-2005
+1485 Jdduem Zbuzccpodqcp Mongolia 59 CHICKENPOX NO 
+5660 Pofcytzqan Vvfvm Mongolia 87 MEASLES YES 12-4-2006
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 HEPATITIS-B YES 21-11-2003
+718 Ccgbql Dwqaww Mongolia 40 HEPATITIS-B NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 POLIO NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 HEPATITIS-B YES 14-12-2020
+6030 Itlkw Cegc Mongolia 102 POLIO NO 
+299 Ugg Ubk Mongolia 82 POLIO NO 

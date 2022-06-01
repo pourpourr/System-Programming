@@ -1,0 +1,55 @@
+
+8454 Qrjozswgniom Mtpdkcvoeymw Bhutan 78 CHICKENPOX YES 16-7-2005
+7705 Tbkjxhe Ipuo Bhutan 23 COVID-19 NO 
+5665 Cmkgo Wemkwmdjvac Bhutan 114 HEPATITIS-A NO 
+5268 Yavlz Rqvhmb Bhutan 10 RUBELLA YES 21-9-2011
+9823 Zvdnvkwkwh Hfescbaoxxth Bhutan 98 POLIO YES 8-12-2008
+5470 Lvcfyxko Ucwc Bhutan 22 HIB YES 6-11-2009
+2672 Sbmakzhqnicx Zcxhnhrqffol Bhutan 52 HIB NO 
+9005 Hyqdykrszl Rglwdksxk Bhutan 27 MEASLES NO 
+8454 Qrjozswgniom Mtpdkcvoeymw Bhutan 78 FLU NO 
+4473 Qei Kqh Bhutan 114 FLU NO 
+8454 Qrjozswgniom Mtpdkcvoeymw Bhutan 78 COVID-19 NO 
+4473 Qei Kqh Bhutan 114 POLIO NO 
+4473 Qei Kqh Bhutan 114 HEPATITIS-B YES 28-11-2005
+5665 Cmkgo Wemkwmdjvac Bhutan 114 FLU YES 28-4-2011
+5470 Lvcfyxko Ucwc Bhutan 22 CHICKENPOX YES 28-8-2013
+8073 Ogbbx Pbixyw Bhutan 28 COVID-19 NO 
+4126 Lcatbhdnovl Rtqnp Bhutan 118 MEASLES YES 28-12-2014
+3613 Heawcdq Xtolwyzgika Bhutan 106 HEPATITIS-B YES 1-8-2007
+9005 Hyqdykrszl Rglwdksxk Bhutan 27 RUBELLA YES 2-5-2000
+191 Houuw Phmtuikqfsa Bhutan 45 FLU NO 
+7705 Tbkjxhe Ipuo Bhutan 23 RUBELLA NO 
+4955 Tvhbvjpwmy Fabxkxbg Bhutan 82 HIB YES 14-9-2004
+2672 Sbmakzhqnicx Zcxhnhrqffol Bhutan 52 RUBELLA NO 
+129 Vqndxqsoxiwl Wkgq Bhutan 72 FLU YES 12-2-2011
+9823 Zvdnvkwkwh Hfescbaoxxth Bhutan 98 MEASLES YES 16-7-2008
+2672 Sbmakzhqnicx Zcxhnhrqffol Bhutan 52 COVID-19 YES 4-1-2016
+3074 Fzsbglgtfg Fewejyy Bhutan 117 FLU NO 
+178 Bclpza Mipqvkijq Bhutan 61 RUBELLA YES 5-12-2009
+129 Vqndxqsoxiwl Wkgq Bhutan 72 HIB YES 24-5-2016
+4126 Lcatbhdnovl Rtqnp Bhutan 118 HIB NO 
+3613 Heawcdq Xtolwyzgika Bhutan 106 MEASLES NO 
+7455 Qsylmm Wlhpkcstwee Bhutan 4 MEASLES NO 
+9005 Hyqdykrszl Rglwdksxk Bhutan 27 TETANUS NO 
+9823 Zvdnvkwkwh Hfescbaoxxth Bhutan 98 HEPATITIS-B NO 
+178 Bclpza Mipqvkijq Bhutan 61 CHICKENPOX YES 17-7-2017
+8436 Jqyinkjqp Kfls Bhutan 13 MEASLES NO 
+4955 Tvhbvjpwmy Fabxkxbg Bhutan 82 FLU NO 
+8186 Jykyei Mwm Bhutan 93 HEPATITIS-B YES 9-6-2012
+178 Bclpza Mipqvkijq Bhutan 61 COVID-19 NO 
+178 Bclpza Mipqvkijq Bhutan 61 TETANUS YES 22-6-2015
+178 Bclpza Mipqvkijq Bhutan 61 HEPATITIS-A NO 
+4126 Lcatbhdnovl Rtqnp Bhutan 118 MEASLES NO 
+9032 Ijci Yoc Bhutan 90 MEASLES NO 
+9823 Zvdnvkwkwh Hfescbaoxxth Bhutan 98 MEASLES NO 
+3100 Bzwotyusoxq Ybqxyrcqd Bhutan 68 HEPATITIS-B NO 
+2672 Sbmakzhqnicx Zcxhnhrqffol Bhutan 52 HIB NO 
+8073 Ogbbx Pbixyw Bhutan 28 MEASLES NO 
+191 Houuw Phmtuikqfsa Bhutan 45 TETANUS YES 29-5-2020
+8073 Ogbbx Pbixyw Bhutan 28 HEPATITIS-B YES 8-8-2013
+3613 Heawcdq Xtolwyzgika Bhutan 106 POLIO NO 
+7705 Tbkjxhe Ipuo Bhutan 23 RUBELLA YES 29-12-2010
+8454 Qrjozswgniom Mtpdkcvoeymw Bhutan 78 FLU NO 
+9403 Twwjoxfcza Ikrlmlcmnw Bhutan 7 CHICKENPOX NO 
+7455 Qsylmm Wlhpkcstwee Bhutan 4 HEPATITIS-A YES 3-2-2012

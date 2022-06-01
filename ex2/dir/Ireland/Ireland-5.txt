@@ -1,0 +1,41 @@
+
+7163 Eadtkcpc Uaknocdyg Ireland 104 POLIO YES 6-12-2007
+2007 Laauwjcsoaj Aerf Ireland 13 MEASLES YES 3-11-2018
+7043 Iibcpcdsy Gyd Ireland 78 RUBELLA YES 5-12-2016
+2007 Laauwjcsoaj Aerf Ireland 13 TETANUS YES 5-3-2014
+7962 Wuwtrgfwgl Mfhblpbst Ireland 32 TETANUS YES 20-10-2012
+2780 Zuvyevem Twlhwzza Ireland 44 CHICKENPOX NO 
+4726 Wugzjd Odcfw Ireland 13 MEASLES NO 
+991 Cgtmxvx Lrpixfxyjvip Ireland 13 HEPATITIS-A NO 
+9222 Ozfacjhx Vuopoqenrw Ireland 60 HEPATITIS-B NO 
+8625 Jbkrkimnr Derf Ireland 2 POLIO NO 
+7733 Vijspul Cjdftram Ireland 48 HEPATITIS-A NO 
+3307 Spiaqb Cafwfs Ireland 62 COVID-19 YES 9-10-2001
+4726 Wugzjd Odcfw Ireland 13 RUBELLA NO 
+4627 Zsbozqnpmlbk Ybxtqiouprf Ireland 12 FLU NO 
+8306 Ghliswprifh Wvke Ireland 71 POLIO YES 22-10-2020
+6787 Rjigypyyytq Vycpdazs Ireland 46 HEPATITIS-B YES 10-9-2019
+8306 Ghliswprifh Wvke Ireland 71 HEPATITIS-B YES 4-11-2018
+8625 Jbkrkimnr Derf Ireland 2 HEPATITIS-B NO 
+7043 Iibcpcdsy Gyd Ireland 78 POLIO NO 
+2007 Laauwjcsoaj Aerf Ireland 13 TETANUS NO 
+7277 Kbtmzjewciln Ebh Ireland 120 POLIO NO 
+6787 Rjigypyyytq Vycpdazs Ireland 46 HEPATITIS-A YES 18-7-2017
+9222 Ozfacjhx Vuopoqenrw Ireland 60 CHICKENPOX NO 
+991 Cgtmxvx Lrpixfxyjvip Ireland 13 POLIO YES 17-7-2012
+8375 Narboxvbdxb Pmsfkx Ireland 78 MEASLES YES 4-7-2016
+3768 Ffobryiavy Qkfrrknhiq Ireland 26 POLIO YES 10-9-2000
+8625 Jbkrkimnr Derf Ireland 2 HEPATITIS-B YES 9-3-2012
+7389 Agattaiyx Dbbgumt Ireland 5 HIB YES 17-1-2002
+6787 Rjigypyyytq Vycpdazs Ireland 46 FLU YES 10-5-2004
+8375 Narboxvbdxb Pmsfkx Ireland 78 HIB NO 
+7163 Eadtkcpc Uaknocdyg Ireland 104 COVID-19 YES 22-1-2015
+991 Cgtmxvx Lrpixfxyjvip Ireland 13 COVID-19 NO 
+7962 Wuwtrgfwgl Mfhblpbst Ireland 32 FLU YES 29-4-2003
+7277 Kbtmzjewciln Ebh Ireland 120 HEPATITIS-A YES 27-12-2004
+8306 Ghliswprifh Wvke Ireland 71 HIB NO 
+7962 Wuwtrgfwgl Mfhblpbst Ireland 32 COVID-19 YES 6-5-2006
+9222 Ozfacjhx Vuopoqenrw Ireland 60 HIB YES 24-7-2012
+7163 Eadtkcpc Uaknocdyg Ireland 104 TETANUS YES 25-5-2009
+991 Cgtmxvx Lrpixfxyjvip Ireland 13 HIB NO 
+2780 Zuvyevem Twlhwzza Ireland 44 COVID-19 YES 12-3-2008

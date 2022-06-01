@@ -1,0 +1,56 @@
+
+2401 Ebzzyalw Lvy Gabon 114 COVID-19 NO 
+7866 Epy Vbnkyzu Gabon 104 HEPATITIS-B YES 5-1-2008
+212 Mhpqtkqom Nacxaa Gabon 14 HEPATITIS-A NO 
+212 Mhpqtkqom Nacxaa Gabon 14 COVID-19 YES 27-10-2017
+8636 Mebkgjpdh Sls Gabon 22 POLIO YES 15-4-2020
+2401 Ebzzyalw Lvy Gabon 114 CHICKENPOX YES 8-10-2011
+6921 Ropcmuebl Mzokpf Gabon 24 HEPATITIS-A YES 2-9-2004
+7362 Wxoqe Tmignrk Gabon 117 COVID-19 YES 29-9-2005
+7866 Epy Vbnkyzu Gabon 104 HIB YES 18-3-2018
+3721 Gxydxinvifyx Tjpcrarms Gabon 116 MEASLES NO 
+1132 Skweqrqi Xahmo Gabon 44 TETANUS NO 
+680 Ilbc Hsbfgptnkwkr Gabon 90 TETANUS NO 
+5403 Ctyy Mdommx Gabon 62 MEASLES YES 30-12-2006
+5912 Wnmaxgd Qghabys Gabon 38 CHICKENPOX YES 27-6-2019
+5770 Akheqp Njpynabpp Gabon 117 CHICKENPOX NO 
+2674 Vkqttd Kwmepbhemwu Gabon 60 COVID-19 NO 
+1132 Skweqrqi Xahmo Gabon 44 HEPATITIS-B NO 
+9422 Sxajuqzorrw Tljevqvuky Gabon 27 TETANUS NO 
+5770 Akheqp Njpynabpp Gabon 117 POLIO YES 17-10-2007
+2878 Hirawirlz Fswdz Gabon 60 TETANUS NO 
+7415 Joyu Vwf Gabon 25 HEPATITIS-B NO 
+7866 Epy Vbnkyzu Gabon 104 TETANUS NO 
+7922 Wpjaxf Ilz Gabon 23 CHICKENPOX YES 24-8-2012
+2674 Vkqttd Kwmepbhemwu Gabon 60 RUBELLA YES 23-6-2015
+8636 Mebkgjpdh Sls Gabon 22 CHICKENPOX YES 26-9-2018
+1132 Skweqrqi Xahmo Gabon 44 MEASLES NO 
+2401 Ebzzyalw Lvy Gabon 114 MEASLES YES 27-2-2018
+8523 Einlxauzy Wvjjmov Gabon 68 CHICKENPOX YES 15-3-2013
+2401 Ebzzyalw Lvy Gabon 114 HEPATITIS-B NO 
+7866 Epy Vbnkyzu Gabon 104 HEPATITIS-A YES 16-6-2016
+643 Kcbmbja Qhyeoh Gabon 2 RUBELLA NO 
+212 Mhpqtkqom Nacxaa Gabon 14 CHICKENPOX NO 
+7922 Wpjaxf Ilz Gabon 23 TETANUS YES 11-5-2005
+6886 Lbmoftm Sox Gabon 37 RUBELLA YES 2-8-2012
+2908 Gvu Nwwsgmf Gabon 6 HEPATITIS-B NO 
+7255 Pxwna Hrs Gabon 36 RUBELLA NO 
+7068 Twrt Imz Gabon 54 TETANUS YES 14-2-2005
+1200 Jidga Auiacjbe Gabon 91 HEPATITIS-B YES 8-5-2001
+7255 Pxwna Hrs Gabon 36 MEASLES NO 
+2674 Vkqttd Kwmepbhemwu Gabon 60 TETANUS NO 
+7922 Wpjaxf Ilz Gabon 23 COVID-19 NO 
+1132 Skweqrqi Xahmo Gabon 44 MEASLES YES 20-9-2008
+8636 Mebkgjpdh Sls Gabon 22 POLIO YES 28-5-2006
+8636 Mebkgjpdh Sls Gabon 22 POLIO NO 
+113 Zmwnvxd Xpmwetmwh Gabon 113 POLIO NO 
+7415 Joyu Vwf Gabon 25 POLIO NO 
+8636 Mebkgjpdh Sls Gabon 22 RUBELLA YES 8-12-2007
+5770 Akheqp Njpynabpp Gabon 117 COVID-19 NO 
+5912 Wnmaxgd Qghabys Gabon 38 HIB NO 
+6921 Ropcmuebl Mzokpf Gabon 24 POLIO NO 
+6886 Lbmoftm Sox Gabon 37 FLU YES 5-5-2004
+6886 Lbmoftm Sox Gabon 37 MEASLES YES 8-7-2015
+2908 Gvu Nwwsgmf Gabon 6 COVID-19 YES 14-5-2013
+7362 Wxoqe Tmignrk Gabon 117 TETANUS YES 13-4-2010
+2401 Ebzzyalw Lvy Gabon 114 FLU YES 18-3-2018

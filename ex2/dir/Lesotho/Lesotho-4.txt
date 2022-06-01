@@ -1,0 +1,38 @@
+
+9432 Doofpowsldq Ldhyapjzx Lesotho 60 HIB YES 25-7-2019
+1102 Amxpvapfq Tomeyad Lesotho 33 TETANUS YES 2-11-2000
+1102 Amxpvapfq Tomeyad Lesotho 33 MEASLES YES 12-7-2013
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 HEPATITIS-B YES 17-9-2016
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 RUBELLA NO 
+6131 Wvo Hhwagozolrc Lesotho 65 FLU YES 29-5-2015
+9117 Vzchwn Chhjaiutrjnq Lesotho 63 COVID-19 NO 
+7200 Lppgsitqwxnf Xwzik Lesotho 10 FLU NO 
+5056 Kwrqfyfvtv Nrkiceri Lesotho 73 POLIO YES 20-9-2005
+7121 Aaryoydn Ihvqdr Lesotho 71 FLU YES 15-9-2014
+1054 Qkkzdawrn Fvxrzxxkcyv Lesotho 7 POLIO YES 3-7-2006
+9432 Doofpowsldq Ldhyapjzx Lesotho 60 HEPATITIS-B NO 
+7200 Lppgsitqwxnf Xwzik Lesotho 10 RUBELLA NO 
+2055 Kvbxlnvjgduo Hrnoagwcbry Lesotho 57 HEPATITIS-B NO 
+813 Nzwmfqyrlr Ckjcimtmvnm Lesotho 21 CHICKENPOX YES 14-2-2000
+205 Dgroglf Tbstwjktkjin Lesotho 111 CHICKENPOX NO 
+1102 Amxpvapfq Tomeyad Lesotho 33 CHICKENPOX YES 30-7-2018
+9432 Doofpowsldq Ldhyapjzx Lesotho 60 TETANUS NO 
+813 Nzwmfqyrlr Ckjcimtmvnm Lesotho 21 MEASLES YES 23-1-2013
+9117 Vzchwn Chhjaiutrjnq Lesotho 63 CHICKENPOX YES 8-7-2014
+2055 Kvbxlnvjgduo Hrnoagwcbry Lesotho 57 MEASLES YES 7-9-2013
+5056 Kwrqfyfvtv Nrkiceri Lesotho 73 COVID-19 NO 
+7914 Wqywanxc Zymqiqjynl Lesotho 12 POLIO YES 21-7-2003
+7121 Aaryoydn Ihvqdr Lesotho 71 COVID-19 YES 23-4-2006
+8104 Apreqvnvvsng Zaniagxmhb Lesotho 21 FLU YES 7-4-2003
+5056 Kwrqfyfvtv Nrkiceri Lesotho 73 FLU NO 
+9432 Doofpowsldq Ldhyapjzx Lesotho 60 HEPATITIS-A YES 15-7-2013
+7121 Aaryoydn Ihvqdr Lesotho 71 FLU YES 6-3-2020
+813 Nzwmfqyrlr Ckjcimtmvnm Lesotho 21 COVID-19 YES 14-6-2009
+9432 Doofpowsldq Ldhyapjzx Lesotho 60 FLU NO 
+7914 Wqywanxc Zymqiqjynl Lesotho 12 HEPATITIS-B NO 
+3976 Eeijsh Flhujfzoyys Lesotho 74 HEPATITIS-A NO 
+6917 Tpmugw Zhbjfzm Lesotho 88 MEASLES NO 
+9111 Ayv Uuafrcirmoc Lesotho 110 TETANUS YES 3-3-2014
+357 Tpzuupklbtt Ogseky Lesotho 104 CHICKENPOX YES 21-12-2002
+1054 Qkkzdawrn Fvxrzxxkcyv Lesotho 7 HEPATITIS-A NO 
+6532 Ribtufomwgs Roxwcd Lesotho 119 CHICKENPOX YES 16-9-2001

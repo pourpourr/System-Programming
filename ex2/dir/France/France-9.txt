@@ -1,0 +1,54 @@
+
+7521 Gkoub Qrvcrpt France 14 POLIO NO 
+1818 Eqwzntd Vxaigzmfo France 88 POLIO NO 
+4723 Clahd Qnx France 19 HEPATITIS-B NO 
+1277 Gyiouoglhw Obzktkl France 39 CHICKENPOX YES 15-11-2020
+937 Msoojqhbnk Zdlwjubw France 77 TETANUS NO 
+1096 Lanlsqopcy Hft France 86 COVID-19 NO 
+1818 Eqwzntd Vxaigzmfo France 88 FLU NO 
+1096 Lanlsqopcy Hft France 86 COVID-19 NO 
+2480 Mqp Pglcantkeyc France 8 COVID-19 NO 
+4678 Gyeehprtrm Pddpof France 79 MEASLES NO 
+3649 Qrrdmmkycxs Olubigkewcmo France 6 FLU NO 
+1818 Eqwzntd Vxaigzmfo France 88 MEASLES NO 
+1263 Cawssvxdptr Ogmb France 23 RUBELLA NO 
+4723 Clahd Qnx France 19 POLIO YES 7-9-2003
+4723 Clahd Qnx France 19 TETANUS YES 6-7-2003
+1818 Eqwzntd Vxaigzmfo France 88 HEPATITIS-B NO 
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 COVID-19 NO 
+2480 Mqp Pglcantkeyc France 8 HEPATITIS-B YES 10-12-2003
+1096 Lanlsqopcy Hft France 86 CHICKENPOX YES 21-2-2010
+9904 Ahkyipinv Ufnvtmmqk France 41 MEASLES YES 2-4-2003
+1818 Eqwzntd Vxaigzmfo France 88 HIB NO 
+4678 Gyeehprtrm Pddpof France 79 CHICKENPOX YES 16-10-2009
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 HIB YES 5-3-2013
+484 Cvddvijsbdqh Xauexmugizaj France 87 HEPATITIS-B YES 15-10-2012
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 COVID-19 YES 12-1-2015
+8295 Ckjnuklidte Gdqnuhdkjl France 119 TETANUS YES 17-9-2011
+3649 Qrrdmmkycxs Olubigkewcmo France 6 HEPATITIS-A NO 
+298 Lpi Smrtme France 68 TETANUS YES 27-5-2011
+4723 Clahd Qnx France 19 HIB YES 7-5-2017
+3649 Qrrdmmkycxs Olubigkewcmo France 6 HIB YES 25-6-2017
+3361 Xgzf Ptpjqilfvxj France 4 RUBELLA NO 
+4678 Gyeehprtrm Pddpof France 79 TETANUS YES 6-8-2001
+3203 Vnflllc Lmqdntjrjmtq France 3 TETANUS YES 14-5-2017
+3203 Vnflllc Lmqdntjrjmtq France 3 MEASLES NO 
+9904 Ahkyipinv Ufnvtmmqk France 41 RUBELLA YES 1-12-2013
+6160 Cvkb Dcqcnrdgf France 59 HEPATITIS-A NO 
+1263 Cawssvxdptr Ogmb France 23 COVID-19 NO 
+1263 Cawssvxdptr Ogmb France 23 COVID-19 YES 24-12-2007
+2480 Mqp Pglcantkeyc France 8 POLIO YES 12-7-2012
+8513 Bolxhnf Kxzioq France 120 TETANUS NO 
+484 Cvddvijsbdqh Xauexmugizaj France 87 POLIO NO 
+7521 Gkoub Qrvcrpt France 14 CHICKENPOX NO 
+3361 Xgzf Ptpjqilfvxj France 4 FLU YES 2-12-2002
+3649 Qrrdmmkycxs Olubigkewcmo France 6 TETANUS NO 
+1277 Gyiouoglhw Obzktkl France 39 FLU YES 26-6-2020
+1096 Lanlsqopcy Hft France 86 RUBELLA YES 17-8-2016
+7841 Dyxja Twostb France 53 TETANUS YES 14-10-2002
+5472 Btapywtqmni Opanwuof France 25 FLU YES 29-8-2007
+4678 Gyeehprtrm Pddpof France 79 POLIO NO 
+9904 Ahkyipinv Ufnvtmmqk France 41 MEASLES NO 
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 MEASLES NO 
+3649 Qrrdmmkycxs Olubigkewcmo France 6 FLU YES 18-5-2016
+3889 Cuzsiraxkco Mcpvxtvtkbg France 9 COVID-19 YES 13-8-2014

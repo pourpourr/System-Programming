@@ -1,0 +1,52 @@
+
+9206 Fwbdoop Kdxqupi Namibia 64 POLIO YES 30-1-2013
+7115 Mwjnhi Ogktm Namibia 78 CHICKENPOX YES 11-5-2009
+5929 Iis Rtrpzizsmzzy Namibia 74 FLU YES 30-4-2017
+8669 Vmngbkuxmsky Ombwzwfwrx Namibia 37 HIB NO 
+8818 Pve Rwndfaz Namibia 93 HEPATITIS-A YES 18-12-2020
+8218 Wxmwadxa Ftwpkjrnxtx Namibia 38 COVID-19 NO 
+1819 Awnowh Mtgzadlrshwx Namibia 10 HIB YES 9-7-2012
+1819 Awnowh Mtgzadlrshwx Namibia 10 COVID-19 NO 
+7006 Xnqqm Jrxucn Namibia 24 HEPATITIS-A YES 2-11-2009
+8573 Wpwsegkgddci Ckkkq Namibia 77 TETANUS NO 
+3078 Wvfvtqvleia Yqsraoqebdu Namibia 15 HEPATITIS-B YES 10-10-2016
+8558 Camvnsw Vypqtpnwdwh Namibia 75 COVID-19 NO 
+195 Bujkle Jwwwq Namibia 13 HEPATITIS-A NO 
+2728 Tdmsv Dyh Namibia 115 RUBELLA NO 
+3551 Iakrewpvpldz Chhlwziaevua Namibia 90 MEASLES NO 
+1819 Awnowh Mtgzadlrshwx Namibia 10 HEPATITIS-A NO 
+8218 Wxmwadxa Ftwpkjrnxtx Namibia 38 HEPATITIS-A NO 
+4857 Tdvzpv Hlq Namibia 79 HEPATITIS-B NO 
+1819 Awnowh Mtgzadlrshwx Namibia 10 HEPATITIS-B YES 1-4-2002
+7006 Xnqqm Jrxucn Namibia 24 POLIO YES 6-1-2009
+7006 Xnqqm Jrxucn Namibia 24 RUBELLA NO 
+2829 Cwbghopgt Gmnmsolsv Namibia 4 FLU NO 
+2829 Cwbghopgt Gmnmsolsv Namibia 4 MEASLES NO 
+8818 Pve Rwndfaz Namibia 93 POLIO NO 
+1819 Awnowh Mtgzadlrshwx Namibia 10 TETANUS YES 29-12-2001
+195 Bujkle Jwwwq Namibia 13 RUBELLA NO 
+8558 Camvnsw Vypqtpnwdwh Namibia 75 POLIO NO 
+1819 Awnowh Mtgzadlrshwx Namibia 10 POLIO YES 10-8-2014
+5929 Iis Rtrpzizsmzzy Namibia 74 TETANUS NO 
+8573 Wpwsegkgddci Ckkkq Namibia 77 HIB NO 
+7128 Lhemeiakcime Hiupe Namibia 13 FLU NO 
+2728 Tdmsv Dyh Namibia 115 TETANUS YES 21-9-2004
+5929 Iis Rtrpzizsmzzy Namibia 74 RUBELLA YES 15-9-2002
+2728 Tdmsv Dyh Namibia 115 MEASLES YES 14-11-2007
+8573 Wpwsegkgddci Ckkkq Namibia 77 TETANUS NO 
+195 Bujkle Jwwwq Namibia 13 MEASLES NO 
+2829 Cwbghopgt Gmnmsolsv Namibia 4 HIB NO 
+3078 Wvfvtqvleia Yqsraoqebdu Namibia 15 CHICKENPOX YES 18-4-2018
+9656 Bma Zkox Namibia 120 HEPATITIS-B YES 23-9-2006
+9656 Bma Zkox Namibia 120 TETANUS NO 
+4857 Tdvzpv Hlq Namibia 79 FLU YES 13-10-2020
+8573 Wpwsegkgddci Ckkkq Namibia 77 COVID-19 NO 
+8818 Pve Rwndfaz Namibia 93 HEPATITIS-B NO 
+9206 Fwbdoop Kdxqupi Namibia 64 POLIO YES 19-2-2002
+9206 Fwbdoop Kdxqupi Namibia 64 TETANUS NO 
+3551 Iakrewpvpldz Chhlwziaevua Namibia 90 COVID-19 NO 
+8145 Etb Dyw Namibia 79 HEPATITIS-B YES 2-4-2020
+2787 Gpczurwx Llqqy Namibia 28 CHICKENPOX NO 
+7006 Xnqqm Jrxucn Namibia 24 RUBELLA YES 16-3-2009
+8573 Wpwsegkgddci Ckkkq Namibia 77 POLIO YES 23-9-2001
+195 Bujkle Jwwwq Namibia 13 HEPATITIS-B NO 

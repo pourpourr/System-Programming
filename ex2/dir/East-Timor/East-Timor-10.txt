@@ -1,0 +1,50 @@
+
+5405 Lpilsahgyvut Xzhzadrjkp East-Timor 40 HEPATITIS-B NO 
+5080 Fcch Ojufv East-Timor 117 HIB NO 
+4775 Gaedqe Xynducmyxuv East-Timor 14 MEASLES NO 
+1907 Jojnezfr Xpcjqzpdjza East-Timor 105 COVID-19 YES 22-7-2020
+4775 Gaedqe Xynducmyxuv East-Timor 14 MEASLES YES 9-1-2017
+5080 Fcch Ojufv East-Timor 117 POLIO YES 16-12-2017
+231 Qec Vzaqotjzdb East-Timor 39 RUBELLA YES 12-6-2014
+3371 Zfvwmu Smyh East-Timor 68 CHICKENPOX NO 
+1669 Vdidyfcux Rnijgidhyuts East-Timor 74 HEPATITIS-B NO 
+5080 Fcch Ojufv East-Timor 117 TETANUS NO 
+5080 Fcch Ojufv East-Timor 117 TETANUS YES 10-7-2009
+5080 Fcch Ojufv East-Timor 117 CHICKENPOX YES 13-12-2020
+6464 Dsykf Fmhnflvb East-Timor 85 COVID-19 NO 
+5080 Fcch Ojufv East-Timor 117 FLU NO 
+6959 Hhyqhj Dqiqdqlzgxv East-Timor 61 HIB NO 
+5405 Lpilsahgyvut Xzhzadrjkp East-Timor 40 FLU YES 8-4-2020
+6959 Hhyqhj Dqiqdqlzgxv East-Timor 61 POLIO NO 
+3504 Atrxgrfsd Enotlpj East-Timor 109 RUBELLA YES 24-7-2009
+5863 Yophzp Owt East-Timor 61 COVID-19 NO 
+390 Fpxjetrdnm Lbjdheybc East-Timor 120 RUBELLA NO 
+3504 Atrxgrfsd Enotlpj East-Timor 109 HEPATITIS-B YES 1-11-2018
+7440 Afmrlx Wvi East-Timor 24 FLU YES 21-12-2003
+1681 Qltnbetmdkrn Dwhoispbc East-Timor 65 COVID-19 YES 8-2-2008
+3504 Atrxgrfsd Enotlpj East-Timor 109 HIB NO 
+5405 Lpilsahgyvut Xzhzadrjkp East-Timor 40 FLU NO 
+2196 Elgi Kmku East-Timor 41 FLU NO 
+2310 Xuwyxrvk Osnofc East-Timor 35 CHICKENPOX NO 
+5863 Yophzp Owt East-Timor 61 RUBELLA NO 
+2246 Atljkbjd Yzzoinidxhan East-Timor 112 TETANUS NO 
+5080 Fcch Ojufv East-Timor 117 FLU NO 
+2196 Elgi Kmku East-Timor 41 COVID-19 YES 18-8-2018
+4775 Gaedqe Xynducmyxuv East-Timor 14 CHICKENPOX NO 
+8542 Vmacn Mrznbqvqhttg East-Timor 43 HIB YES 22-1-2003
+2634 Wruxydalife Unufcumu East-Timor 47 TETANUS NO 
+5405 Lpilsahgyvut Xzhzadrjkp East-Timor 40 HEPATITIS-B NO 
+3371 Zfvwmu Smyh East-Timor 68 TETANUS NO 
+1907 Jojnezfr Xpcjqzpdjza East-Timor 105 TETANUS YES 24-6-2003
+3371 Zfvwmu Smyh East-Timor 68 HEPATITIS-B YES 16-5-2018
+3371 Zfvwmu Smyh East-Timor 68 TETANUS NO 
+2196 Elgi Kmku East-Timor 41 POLIO YES 26-4-2002
+2196 Elgi Kmku East-Timor 41 HEPATITIS-A YES 27-10-2014
+2611 Ymub Ypggibc East-Timor 104 TETANUS YES 19-11-2001
+2246 Atljkbjd Yzzoinidxhan East-Timor 112 HEPATITIS-B YES 21-6-2000
+1907 Jojnezfr Xpcjqzpdjza East-Timor 105 CHICKENPOX YES 4-5-2012
+3371 Zfvwmu Smyh East-Timor 68 HEPATITIS-B NO 
+1681 Qltnbetmdkrn Dwhoispbc East-Timor 65 COVID-19 NO 
+4927 Ojgfy Qynlmy East-Timor 100 HEPATITIS-B NO 
+2634 Wruxydalife Unufcumu East-Timor 47 COVID-19 NO 
+1681 Qltnbetmdkrn Dwhoispbc East-Timor 65 COVID-19 NO 

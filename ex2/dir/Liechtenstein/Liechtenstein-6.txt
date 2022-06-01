@@ -1,0 +1,43 @@
+
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 HEPATITIS-A YES 12-1-2007
+7485 Wotqthwdrb Avqedpofh Liechtenstein 28 HEPATITIS-B YES 8-8-2011
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 HEPATITIS-B YES 20-6-2008
+7396 Nsl Fwyj Liechtenstein 2 MEASLES NO 
+7832 Dicc Kbfe Liechtenstein 13 HEPATITIS-B YES 4-7-2006
+2172 Rfvjou Ayawnoovrgx Liechtenstein 116 COVID-19 YES 28-2-2013
+606 Bvurpgjlnpv Hiavat Liechtenstein 83 MEASLES YES 23-12-2012
+1936 Suwpc Iazypyrahq Liechtenstein 103 COVID-19 YES 27-2-2008
+2172 Rfvjou Ayawnoovrgx Liechtenstein 116 RUBELLA NO 
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 HIB NO 
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 FLU NO 
+7485 Wotqthwdrb Avqedpofh Liechtenstein 28 HIB NO 
+4620 Akgl Neois Liechtenstein 34 POLIO NO 
+7396 Nsl Fwyj Liechtenstein 2 MEASLES YES 26-4-2012
+7485 Wotqthwdrb Avqedpofh Liechtenstein 28 FLU NO 
+2172 Rfvjou Ayawnoovrgx Liechtenstein 116 CHICKENPOX NO 
+7396 Nsl Fwyj Liechtenstein 2 POLIO NO 
+2172 Rfvjou Ayawnoovrgx Liechtenstein 116 CHICKENPOX YES 1-3-2008
+8702 Ehpdurwpiua Zbad Liechtenstein 116 COVID-19 NO 
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 HEPATITIS-B YES 11-6-2017
+9098 Xbxqincnyazy Sqvmesx Liechtenstein 68 CHICKENPOX YES 13-4-2005
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 HIB NO 
+194 Iopyntohbdb Lsuwfdyykd Liechtenstein 52 HIB NO 
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 FLU NO 
+2172 Rfvjou Ayawnoovrgx Liechtenstein 116 FLU NO 
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 RUBELLA NO 
+2428 Tcizhedis Wpn Liechtenstein 71 COVID-19 NO 
+606 Bvurpgjlnpv Hiavat Liechtenstein 83 HEPATITIS-A YES 28-2-2008
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 TETANUS NO 
+1713 Ivqxozwb Sdhvz Liechtenstein 25 RUBELLA NO 
+8702 Ehpdurwpiua Zbad Liechtenstein 116 COVID-19 YES 6-12-2015
+2962 Vitluyuro Zeloo Liechtenstein 2 COVID-19 NO 
+6819 Pczzapyz Czus Liechtenstein 119 POLIO YES 5-11-2005
+2657 Fqbowqb Dmemkq Liechtenstein 41 MEASLES YES 12-1-2009
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 MEASLES NO 
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 MEASLES YES 28-7-2019
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 TETANUS YES 27-11-2006
+7396 Nsl Fwyj Liechtenstein 2 CHICKENPOX YES 4-4-2012
+9098 Xbxqincnyazy Sqvmesx Liechtenstein 68 RUBELLA NO 
+8702 Ehpdurwpiua Zbad Liechtenstein 116 MEASLES NO 
+4620 Akgl Neois Liechtenstein 34 TETANUS NO 
+1936 Suwpc Iazypyrahq Liechtenstein 103 COVID-19 YES 5-6-2004

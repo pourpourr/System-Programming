@@ -1,0 +1,53 @@
+
+1400 Oeavffvpb Bzdabolre Guyana 80 POLIO YES 26-5-2012
+199 Qgyvgzdy Zdqtkpcmdcmo Guyana 74 RUBELLA YES 27-10-2007
+3387 Nadtasdy Lrkimet Guyana 9 RUBELLA NO 
+9360 Csgcaeoa Vzo Guyana 118 CHICKENPOX NO 
+1349 Tkvmt Dnurjtekjso Guyana 109 COVID-19 YES 20-8-2002
+6333 Bngirzk Pajzcxqcng Guyana 13 MEASLES NO 
+8736 Tpblyobcmtjp Cpunal Guyana 12 TETANUS YES 26-12-2003
+1923 Oxmdz Ghpft Guyana 44 FLU NO 
+8736 Tpblyobcmtjp Cpunal Guyana 12 MEASLES NO 
+4779 Jjakpy Ggqfkrheok Guyana 47 MEASLES NO 
+1349 Tkvmt Dnurjtekjso Guyana 109 MEASLES NO 
+5606 Jxead Pelmnzv Guyana 53 FLU YES 19-7-2001
+1993 Byyw Ucjmrqcsglpf Guyana 64 POLIO NO 
+3234 Avnvb Ued Guyana 79 RUBELLA YES 26-2-2013
+334 Rxdfvrzexien Vkcp Guyana 69 RUBELLA YES 24-8-2017
+7223 Nwflsd Gsizufailxt Guyana 67 HIB NO 
+147 Lzj Mvkkfz Guyana 99 CHICKENPOX NO 
+1349 Tkvmt Dnurjtekjso Guyana 109 CHICKENPOX YES 7-11-2020
+147 Lzj Mvkkfz Guyana 99 CHICKENPOX YES 6-2-2005
+4779 Jjakpy Ggqfkrheok Guyana 47 MEASLES YES 21-11-2018
+3387 Nadtasdy Lrkimet Guyana 9 MEASLES NO 
+5606 Jxead Pelmnzv Guyana 53 MEASLES NO 
+8942 Exnf Tmhflcqtzr Guyana 78 HEPATITIS-A NO 
+4817 Zejkc Nxb Guyana 37 HEPATITIS-B YES 16-8-2018
+1103 Nacu Aedlvwtcbntd Guyana 105 POLIO NO 
+9360 Csgcaeoa Vzo Guyana 118 HIB NO 
+334 Rxdfvrzexien Vkcp Guyana 69 HIB YES 9-3-2019
+9651 Irwyktcwi Bgmjifyxhi Guyana 82 FLU NO 
+3234 Avnvb Ued Guyana 79 RUBELLA NO 
+5606 Jxead Pelmnzv Guyana 53 HIB YES 20-12-2010
+334 Rxdfvrzexien Vkcp Guyana 69 FLU YES 27-11-2014
+4779 Jjakpy Ggqfkrheok Guyana 47 TETANUS YES 26-11-2000
+5606 Jxead Pelmnzv Guyana 53 HEPATITIS-A NO 
+1103 Nacu Aedlvwtcbntd Guyana 105 POLIO YES 15-9-2011
+3694 Coaawyezysvf Cgq Guyana 26 TETANUS NO 
+1923 Oxmdz Ghpft Guyana 44 POLIO YES 29-9-2002
+9651 Irwyktcwi Bgmjifyxhi Guyana 82 CHICKENPOX YES 26-2-2014
+7223 Nwflsd Gsizufailxt Guyana 67 MEASLES YES 20-2-2009
+9651 Irwyktcwi Bgmjifyxhi Guyana 82 FLU NO 
+1400 Oeavffvpb Bzdabolre Guyana 80 COVID-19 NO 
+334 Rxdfvrzexien Vkcp Guyana 69 COVID-19 YES 28-5-2017
+5898 Vxovdyjol Ylvncwlcoro Guyana 20 CHICKENPOX YES 25-8-2000
+1923 Oxmdz Ghpft Guyana 44 MEASLES NO 
+1993 Byyw Ucjmrqcsglpf Guyana 64 HEPATITIS-A YES 21-4-2007
+5606 Jxead Pelmnzv Guyana 53 HIB NO 
+147 Lzj Mvkkfz Guyana 99 CHICKENPOX YES 26-4-2003
+8942 Exnf Tmhflcqtzr Guyana 78 TETANUS YES 11-5-2006
+8942 Exnf Tmhflcqtzr Guyana 78 TETANUS NO 
+3234 Avnvb Ued Guyana 79 HEPATITIS-A YES 17-4-2012
+334 Rxdfvrzexien Vkcp Guyana 69 POLIO NO 
+3694 Coaawyezysvf Cgq Guyana 26 FLU YES 26-7-2018
+9360 Csgcaeoa Vzo Guyana 118 TETANUS NO 

@@ -1,0 +1,47 @@
+
+4455 Iqahd Vorfsrrz Norway 19 COVID-19 NO 
+6329 Wruom Bhm Norway 11 CHICKENPOX NO 
+492 Zwpo Qynynguyutn Norway 106 CHICKENPOX YES 21-12-2018
+5950 Vvolm Kkmkwhuhnbfh Norway 26 RUBELLA YES 30-8-2009
+6329 Wruom Bhm Norway 11 HIB NO 
+5259 Ijce Hsniqxrhrig Norway 58 RUBELLA YES 25-12-2007
+6226 Aeoxesxeljd Xaiwzm Norway 92 HEPATITIS-A YES 23-1-2006
+5259 Ijce Hsniqxrhrig Norway 58 POLIO YES 12-2-2007
+5547 Rljf Swjlzh Norway 68 POLIO YES 9-2-2009
+1593 Ybhxjovzvlkn Wwmueegdf Norway 57 HEPATITIS-A YES 7-12-2011
+556 Zfj Tdzurb Norway 19 FLU NO 
+8429 Oefkv Gcthunc Norway 76 POLIO YES 1-11-2017
+7946 Crdonvnfoy Wbtbfafkkne Norway 43 HEPATITIS-A YES 20-1-2000
+5547 Rljf Swjlzh Norway 68 HEPATITIS-B YES 19-10-2003
+2732 Jmoccyribaxh Tmgfjau Norway 85 CHICKENPOX NO 
+1435 Uvsg Lvvlfmv Norway 114 HEPATITIS-B NO 
+492 Zwpo Qynynguyutn Norway 106 HEPATITIS-A YES 6-7-2010
+8408 Mgogfp Auhzlpqxldb Norway 52 FLU YES 27-12-2016
+4307 Tkp Drofxkbne Norway 57 TETANUS YES 23-9-2015
+8408 Mgogfp Auhzlpqxldb Norway 52 HIB YES 28-11-2012
+5077 Yacmzrtwgu Znhgbgtzmn Norway 70 CHICKENPOX YES 19-11-2000
+4307 Tkp Drofxkbne Norway 57 HEPATITIS-A YES 7-6-2001
+5077 Yacmzrtwgu Znhgbgtzmn Norway 70 HEPATITIS-A NO 
+661 Qljv Pzlfegnuip Norway 99 HEPATITIS-B YES 2-11-2000
+492 Zwpo Qynynguyutn Norway 106 MEASLES YES 30-9-2008
+6329 Wruom Bhm Norway 11 HEPATITIS-A NO 
+4307 Tkp Drofxkbne Norway 57 POLIO NO 
+5077 Yacmzrtwgu Znhgbgtzmn Norway 70 POLIO YES 10-5-2020
+1593 Ybhxjovzvlkn Wwmueegdf Norway 57 HIB YES 8-6-2013
+556 Zfj Tdzurb Norway 19 POLIO YES 9-2-2018
+8429 Oefkv Gcthunc Norway 76 HIB NO 
+661 Qljv Pzlfegnuip Norway 99 RUBELLA NO 
+2322 Wobvwknjllzq Ybzr Norway 14 RUBELLA YES 12-6-2003
+5259 Ijce Hsniqxrhrig Norway 58 HEPATITIS-A YES 9-1-2019
+556 Zfj Tdzurb Norway 19 RUBELLA YES 22-8-2014
+4307 Tkp Drofxkbne Norway 57 FLU NO 
+2732 Jmoccyribaxh Tmgfjau Norway 85 HEPATITIS-A YES 5-9-2004
+6226 Aeoxesxeljd Xaiwzm Norway 92 TETANUS NO 
+5259 Ijce Hsniqxrhrig Norway 58 TETANUS YES 7-2-2014
+2732 Jmoccyribaxh Tmgfjau Norway 85 POLIO NO 
+661 Qljv Pzlfegnuip Norway 99 HEPATITIS-B NO 
+4307 Tkp Drofxkbne Norway 57 HIB YES 26-9-2013
+1435 Uvsg Lvvlfmv Norway 114 HEPATITIS-A YES 5-12-2014
+6226 Aeoxesxeljd Xaiwzm Norway 92 MEASLES NO 
+492 Zwpo Qynynguyutn Norway 106 COVID-19 YES 27-12-2014
+8429 Oefkv Gcthunc Norway 76 MEASLES NO 

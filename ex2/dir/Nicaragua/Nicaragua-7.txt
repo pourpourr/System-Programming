@@ -1,0 +1,61 @@
+
+602 Ntaogus Iqx Nicaragua 14 MEASLES NO 
+4172 Kksagufhhdub Jnhqya Nicaragua 95 HEPATITIS-A YES 23-12-2014
+9232 Srckvqq Tctk Nicaragua 115 HEPATITIS-A NO 
+3548 Tkhkk Irpuilrkjk Nicaragua 115 HIB YES 5-8-2001
+9336 Esfjq Nblttwgm Nicaragua 120 HEPATITIS-A YES 25-10-2014
+8200 Hovwpv Wqdmnlsj Nicaragua 4 FLU YES 25-12-2011
+3548 Tkhkk Irpuilrkjk Nicaragua 115 FLU NO 
+6462 Myesykqlqv Qomkzerccvkl Nicaragua 4 TETANUS NO 
+6462 Myesykqlqv Qomkzerccvkl Nicaragua 4 RUBELLA YES 22-8-2015
+8914 Bwfkrbpdvpi Vhhfahzpeqf Nicaragua 18 POLIO NO 
+8914 Bwfkrbpdvpi Vhhfahzpeqf Nicaragua 18 CHICKENPOX YES 20-2-2016
+9336 Esfjq Nblttwgm Nicaragua 120 TETANUS NO 
+8914 Bwfkrbpdvpi Vhhfahzpeqf Nicaragua 18 HEPATITIS-B YES 4-4-2013
+6240 Vuuwzimov Hvcobxtigwiv Nicaragua 82 CHICKENPOX YES 20-2-2017
+8446 Bgc Bgr Nicaragua 14 FLU YES 26-5-2003
+8200 Hovwpv Wqdmnlsj Nicaragua 4 FLU NO 
+6240 Vuuwzimov Hvcobxtigwiv Nicaragua 82 COVID-19 NO 
+863 Dflc Mhpcck Nicaragua 60 HIB NO 
+9173 Nljqik Fqvrhcz Nicaragua 108 POLIO NO 
+8200 Hovwpv Wqdmnlsj Nicaragua 4 HEPATITIS-B NO 
+6754 Ttriubbx Ptgpxnitwv Nicaragua 39 FLU NO 
+2330 Vpexikfaasi Fbkarrwu Nicaragua 33 RUBELLA NO 
+227 Fuikmvwzokr Xmxzrrk Nicaragua 10 MEASLES YES 4-5-2020
+9336 Esfjq Nblttwgm Nicaragua 120 HIB YES 3-2-2005
+9173 Nljqik Fqvrhcz Nicaragua 108 HEPATITIS-B YES 22-6-2015
+8446 Bgc Bgr Nicaragua 14 FLU YES 8-12-2007
+2241 Wozzey Yoz Nicaragua 61 HEPATITIS-B YES 30-1-2006
+6240 Vuuwzimov Hvcobxtigwiv Nicaragua 82 TETANUS YES 9-9-2009
+7334 Bqqusjt Tnpgpqsxkmq Nicaragua 31 TETANUS YES 30-8-2013
+7334 Bqqusjt Tnpgpqsxkmq Nicaragua 31 CHICKENPOX YES 17-7-2002
+765 Qtj Ckwfuybryk Nicaragua 96 MEASLES NO 
+9232 Srckvqq Tctk Nicaragua 115 HEPATITIS-A NO 
+9173 Nljqik Fqvrhcz Nicaragua 108 RUBELLA YES 16-11-2014
+3548 Tkhkk Irpuilrkjk Nicaragua 115 HEPATITIS-B NO 
+2241 Wozzey Yoz Nicaragua 61 HIB NO 
+9232 Srckvqq Tctk Nicaragua 115 COVID-19 YES 25-7-2016
+8575 Rifktukb Feceaput Nicaragua 92 MEASLES YES 2-9-2016
+8446 Bgc Bgr Nicaragua 14 HEPATITIS-B YES 2-5-2020
+3559 Lcbzwlhachxw Ccsuarwxlaa Nicaragua 103 MEASLES YES 3-8-2014
+2241 Wozzey Yoz Nicaragua 61 FLU YES 25-6-2007
+2580 Mmianufonjr Emriwaswodvp Nicaragua 8 RUBELLA NO 
+9173 Nljqik Fqvrhcz Nicaragua 108 RUBELLA YES 30-2-2014
+5004 Iosnqshl Zrwdmhxcx Nicaragua 100 HEPATITIS-B YES 27-11-2013
+6462 Myesykqlqv Qomkzerccvkl Nicaragua 4 POLIO NO 
+6462 Myesykqlqv Qomkzerccvkl Nicaragua 4 POLIO NO 
+2580 Mmianufonjr Emriwaswodvp Nicaragua 8 CHICKENPOX YES 8-10-2002
+2147 Tjmodvskkb Dizzh Nicaragua 16 POLIO YES 30-3-2013
+9173 Nljqik Fqvrhcz Nicaragua 108 FLU YES 7-4-2003
+1662 Gqmex Jokciazxrh Nicaragua 34 POLIO NO 
+8446 Bgc Bgr Nicaragua 14 TETANUS NO 
+8416 Dpuotccucj Plxak Nicaragua 118 HEPATITIS-A NO 
+863 Dflc Mhpcck Nicaragua 60 RUBELLA YES 19-4-2015
+5004 Iosnqshl Zrwdmhxcx Nicaragua 100 CHICKENPOX YES 29-3-2000
+227 Fuikmvwzokr Xmxzrrk Nicaragua 10 CHICKENPOX NO 
+3559 Lcbzwlhachxw Ccsuarwxlaa Nicaragua 103 HIB NO 
+8914 Bwfkrbpdvpi Vhhfahzpeqf Nicaragua 18 HIB YES 5-10-2015
+4172 Kksagufhhdub Jnhqya Nicaragua 95 FLU NO 
+3559 Lcbzwlhachxw Ccsuarwxlaa Nicaragua 103 FLU NO 
+6240 Vuuwzimov Hvcobxtigwiv Nicaragua 82 HIB NO 
+3559 Lcbzwlhachxw Ccsuarwxlaa Nicaragua 103 TETANUS NO 

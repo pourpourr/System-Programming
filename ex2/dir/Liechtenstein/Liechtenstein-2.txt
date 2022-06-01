@@ -1,0 +1,43 @@
+
+606 Bvurpgjlnpv Hiavat Liechtenstein 83 HEPATITIS-A YES 8-11-2004
+606 Bvurpgjlnpv Hiavat Liechtenstein 83 FLU NO 
+461 Zgyjpcqsomhq Ewopkymlrt Liechtenstein 102 CHICKENPOX YES 8-12-2014
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 HEPATITIS-A NO 
+6819 Pczzapyz Czus Liechtenstein 119 RUBELLA NO 
+2657 Fqbowqb Dmemkq Liechtenstein 41 FLU NO 
+7485 Wotqthwdrb Avqedpofh Liechtenstein 28 COVID-19 NO 
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 COVID-19 NO 
+9098 Xbxqincnyazy Sqvmesx Liechtenstein 68 POLIO YES 11-5-2015
+606 Bvurpgjlnpv Hiavat Liechtenstein 83 HEPATITIS-A YES 14-4-2005
+7832 Dicc Kbfe Liechtenstein 13 HEPATITIS-A YES 18-4-2012
+4620 Akgl Neois Liechtenstein 34 HEPATITIS-B NO 
+7396 Nsl Fwyj Liechtenstein 2 CHICKENPOX NO 
+9755 Yrxqmm Ziybjdvbyuq Liechtenstein 20 POLIO YES 1-8-2020
+9375 Xvoyvna Xhvqfqn Liechtenstein 40 CHICKENPOX YES 12-7-2003
+9098 Xbxqincnyazy Sqvmesx Liechtenstein 68 TETANUS NO 
+194 Iopyntohbdb Lsuwfdyykd Liechtenstein 52 HEPATITIS-A YES 6-3-2008
+8702 Ehpdurwpiua Zbad Liechtenstein 116 MEASLES YES 24-4-2002
+606 Bvurpgjlnpv Hiavat Liechtenstein 83 COVID-19 NO 
+194 Iopyntohbdb Lsuwfdyykd Liechtenstein 52 POLIO NO 
+2657 Fqbowqb Dmemkq Liechtenstein 41 MEASLES NO 
+2172 Rfvjou Ayawnoovrgx Liechtenstein 116 POLIO NO 
+461 Zgyjpcqsomhq Ewopkymlrt Liechtenstein 102 CHICKENPOX NO 
+194 Iopyntohbdb Lsuwfdyykd Liechtenstein 52 POLIO YES 10-9-2011
+8702 Ehpdurwpiua Zbad Liechtenstein 116 RUBELLA YES 3-1-2005
+9098 Xbxqincnyazy Sqvmesx Liechtenstein 68 FLU NO 
+6919 Txyybhobnj Lwauafbt Liechtenstein 83 HIB YES 21-9-2002
+7832 Dicc Kbfe Liechtenstein 13 FLU YES 15-3-2011
+7396 Nsl Fwyj Liechtenstein 2 MEASLES NO 
+2962 Vitluyuro Zeloo Liechtenstein 2 POLIO NO 
+9098 Xbxqincnyazy Sqvmesx Liechtenstein 68 HIB NO 
+7485 Wotqthwdrb Avqedpofh Liechtenstein 28 RUBELLA NO 
+1936 Suwpc Iazypyrahq Liechtenstein 103 CHICKENPOX YES 9-8-2017
+7832 Dicc Kbfe Liechtenstein 13 RUBELLA NO 
+7485 Wotqthwdrb Avqedpofh Liechtenstein 28 FLU NO 
+1713 Ivqxozwb Sdhvz Liechtenstein 25 FLU YES 1-8-2011
+1713 Ivqxozwb Sdhvz Liechtenstein 25 CHICKENPOX YES 13-3-2015
+1713 Ivqxozwb Sdhvz Liechtenstein 25 TETANUS NO 
+7832 Dicc Kbfe Liechtenstein 13 RUBELLA YES 16-9-2001
+606 Bvurpgjlnpv Hiavat Liechtenstein 83 HEPATITIS-B YES 17-6-2004
+8702 Ehpdurwpiua Zbad Liechtenstein 116 CHICKENPOX NO 
+6919 Txyybhobnj Lwauafbt Liechtenstein 83 TETANUS YES 3-4-2005

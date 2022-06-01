@@ -1,0 +1,35 @@
+
+4597 Tkia Nnucbpghe Cyprus 75 HEPATITIS-A NO 
+9618 Dwpowdygw Docvcahsxguh Cyprus 72 RUBELLA NO 
+4756 Rfqtyolh Vpuds Cyprus 77 MEASLES YES 20-8-2007
+6381 Lbuahwua Idejcld Cyprus 116 CHICKENPOX NO 
+5675 Ubjsu Imy Cyprus 32 POLIO YES 30-4-2002
+2028 Fzmoqrsgfrkj Otyontrzh Cyprus 14 COVID-19 YES 10-7-2015
+5326 Bzp Orbsrlcgj Cyprus 11 POLIO NO 
+767 Tigowvo Pzq Cyprus 32 MEASLES YES 12-12-2004
+2017 Safs Lsl Cyprus 64 TETANUS YES 30-8-2006
+9027 Gcrpisusk Gdvjhhqau Cyprus 50 POLIO NO 
+6381 Lbuahwua Idejcld Cyprus 116 CHICKENPOX YES 22-7-2019
+5675 Ubjsu Imy Cyprus 32 CHICKENPOX YES 20-10-2007
+5849 Irsrnkc Syx Cyprus 100 HEPATITIS-B NO 
+6381 Lbuahwua Idejcld Cyprus 116 FLU NO 
+5849 Irsrnkc Syx Cyprus 100 TETANUS NO 
+6381 Lbuahwua Idejcld Cyprus 116 TETANUS YES 5-4-2015
+7726 Zsoptbtpprn Wtpz Cyprus 68 TETANUS NO 
+6381 Lbuahwua Idejcld Cyprus 116 CHICKENPOX NO 
+4559 Ttmyqe Uyjkzbuuru Cyprus 56 COVID-19 YES 10-11-2004
+7028 Trtzjscrzqco Tgcswbnol Cyprus 30 FLU YES 20-9-2018
+5849 Irsrnkc Syx Cyprus 100 HEPATITIS-A YES 26-6-2006
+5675 Ubjsu Imy Cyprus 32 RUBELLA NO 
+6381 Lbuahwua Idejcld Cyprus 116 CHICKENPOX NO 
+6755 Idlwwnzby Blzdgvabic Cyprus 18 HEPATITIS-B YES 30-4-2015
+6381 Lbuahwua Idejcld Cyprus 116 POLIO YES 1-1-2007
+7375 Ugbeaarvlj Ser Cyprus 113 FLU YES 11-7-2020
+6314 Ymuj Vdtc Cyprus 5 CHICKENPOX YES 27-2-2012
+9618 Dwpowdygw Docvcahsxguh Cyprus 72 RUBELLA YES 11-4-2008
+7028 Trtzjscrzqco Tgcswbnol Cyprus 30 RUBELLA YES 3-7-2009
+4756 Rfqtyolh Vpuds Cyprus 77 RUBELLA YES 29-5-2010
+2028 Fzmoqrsgfrkj Otyontrzh Cyprus 14 CHICKENPOX NO 
+4597 Tkia Nnucbpghe Cyprus 75 RUBELLA YES 17-2-2003
+2017 Safs Lsl Cyprus 64 CHICKENPOX YES 12-5-2012
+2028 Fzmoqrsgfrkj Otyontrzh Cyprus 14 POLIO NO 

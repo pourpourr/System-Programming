@@ -1,0 +1,40 @@
+
+3112 Vlys Hwv Portugal 44 HEPATITIS-A NO 
+247 Stnmaqj Rdrvvd Portugal 102 HEPATITIS-B NO 
+6812 Ngvkunqzwqs Kzuofechaib Portugal 46 RUBELLA NO 
+5232 Xesa Qlzdwg Portugal 75 HEPATITIS-B NO 
+5232 Xesa Qlzdwg Portugal 75 HIB YES 7-3-2005
+5185 Hdbfgzowueq Giv Portugal 119 HEPATITIS-B NO 
+6454 Salkkaienrdd Kwroiwm Portugal 71 COVID-19 YES 2-7-2017
+8953 Kwhreozgf Swqa Portugal 37 COVID-19 NO 
+2315 Lkudfohlxbar Ldpebe Portugal 1 POLIO YES 11-5-2020
+9125 Wukizouljiqd Xqpstzqtohvj Portugal 89 RUBELLA NO 
+5102 Qyngrtismg Rywqhqhgaph Portugal 60 HEPATITIS-A YES 6-6-2004
+247 Stnmaqj Rdrvvd Portugal 102 HEPATITIS-A NO 
+5232 Xesa Qlzdwg Portugal 75 TETANUS YES 20-1-2005
+2315 Lkudfohlxbar Ldpebe Portugal 1 TETANUS YES 1-6-2019
+5102 Qyngrtismg Rywqhqhgaph Portugal 60 MEASLES YES 9-1-2014
+9366 Janyqknjpq Xow Portugal 88 POLIO NO 
+5250 Plerjo Cjpfsirhf Portugal 31 FLU YES 24-8-2016
+306 Rvcr Lxwywhx Portugal 107 RUBELLA NO 
+1579 Rns Qwhl Portugal 42 FLU NO 
+5232 Xesa Qlzdwg Portugal 75 TETANUS NO 
+1579 Rns Qwhl Portugal 42 FLU NO 
+8778 Uqnw Jngfopnmt Portugal 68 COVID-19 YES 14-6-2004
+8778 Uqnw Jngfopnmt Portugal 68 CHICKENPOX YES 24-11-2013
+306 Rvcr Lxwywhx Portugal 107 COVID-19 YES 14-10-2004
+247 Stnmaqj Rdrvvd Portugal 102 RUBELLA YES 27-4-2000
+3473 Qiydksf Xiwnedca Portugal 117 HEPATITIS-B YES 14-7-2006
+395 Wpdfbfei Hrrdeje Portugal 8 POLIO YES 23-9-2004
+6454 Salkkaienrdd Kwroiwm Portugal 71 MEASLES NO 
+306 Rvcr Lxwywhx Portugal 107 MEASLES NO 
+5232 Xesa Qlzdwg Portugal 75 RUBELLA NO 
+247 Stnmaqj Rdrvvd Portugal 102 MEASLES NO 
+3112 Vlys Hwv Portugal 44 MEASLES YES 20-11-2009
+5102 Qyngrtismg Rywqhqhgaph Portugal 60 COVID-19 YES 6-6-2014
+2315 Lkudfohlxbar Ldpebe Portugal 1 RUBELLA YES 16-6-2002
+1950 Raqsmyoq Vvnrazhvhi Portugal 120 POLIO NO 
+5232 Xesa Qlzdwg Portugal 75 POLIO YES 3-1-2011
+1950 Raqsmyoq Vvnrazhvhi Portugal 120 FLU YES 16-12-2014
+1950 Raqsmyoq Vvnrazhvhi Portugal 120 HIB YES 7-4-2019
+2315 Lkudfohlxbar Ldpebe Portugal 1 HEPATITIS-A NO 

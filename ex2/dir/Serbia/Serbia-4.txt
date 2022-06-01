@@ -1,0 +1,53 @@
+
+6732 Dncuadtt Iuigwuekiet Serbia 19 HEPATITIS-A NO 
+2220 Havmm Nunrw Serbia 9 CHICKENPOX YES 15-4-2001
+1967 Bpgp Imylvnn Serbia 77 HEPATITIS-A NO 
+1321 Yqnoygbbeyib Doimrh Serbia 75 HEPATITIS-B NO 
+8624 Krgvuklomyf Flce Serbia 102 POLIO NO 
+8916 Ejts Kngzyn Serbia 112 COVID-19 YES 28-6-2009
+8916 Ejts Kngzyn Serbia 112 FLU YES 21-3-2005
+3 Ihacifnvenqy Tvc Serbia 47 HEPATITIS-A YES 9-3-2015
+2220 Havmm Nunrw Serbia 9 MEASLES NO 
+3 Ihacifnvenqy Tvc Serbia 47 CHICKENPOX YES 20-4-2009
+3140 Awtqlowgiw Huvuvfna Serbia 29 CHICKENPOX YES 1-4-2014
+6732 Dncuadtt Iuigwuekiet Serbia 19 FLU NO 
+1046 Xfosnhjq Qytjakesnoo Serbia 114 MEASLES YES 11-7-2011
+1321 Yqnoygbbeyib Doimrh Serbia 75 MEASLES YES 27-10-2015
+1002 Cqszokpjo Kgrtgkh Serbia 77 CHICKENPOX YES 6-5-2000
+1381 Huznaqhtr Yyqpdbtn Serbia 28 POLIO YES 8-8-2016
+5090 Njncs Wrjyshpljt Serbia 12 COVID-19 YES 11-2-2002
+1321 Yqnoygbbeyib Doimrh Serbia 75 TETANUS NO 
+7051 Vdmmq Mhba Serbia 114 CHICKENPOX YES 25-3-2002
+1700 Lvixmscmqtv Ubzhswmsv Serbia 94 TETANUS NO 
+8916 Ejts Kngzyn Serbia 112 MEASLES YES 13-8-2000
+1381 Huznaqhtr Yyqpdbtn Serbia 28 POLIO NO 
+2220 Havmm Nunrw Serbia 9 HEPATITIS-A NO 
+4530 Lyzaz Bboti Serbia 68 MEASLES YES 2-3-2004
+1700 Lvixmscmqtv Ubzhswmsv Serbia 94 POLIO NO 
+7051 Vdmmq Mhba Serbia 114 MEASLES NO 
+3 Ihacifnvenqy Tvc Serbia 47 POLIO YES 3-7-2018
+1967 Bpgp Imylvnn Serbia 77 HEPATITIS-A YES 16-6-2016
+3 Ihacifnvenqy Tvc Serbia 47 HEPATITIS-A YES 20-12-2015
+568 Unnfngdzvvv Vbbjxepcmb Serbia 10 POLIO NO 
+1046 Xfosnhjq Qytjakesnoo Serbia 114 MEASLES NO 
+9508 Hfvwiwr Dxixpkej Serbia 6 HEPATITIS-B NO 
+1700 Lvixmscmqtv Ubzhswmsv Serbia 94 TETANUS NO 
+1002 Cqszokpjo Kgrtgkh Serbia 77 POLIO YES 28-8-2008
+5090 Njncs Wrjyshpljt Serbia 12 CHICKENPOX YES 5-5-2017
+8624 Krgvuklomyf Flce Serbia 102 FLU NO 
+6559 Lvdspgwzb Iepopaivikb Serbia 63 TETANUS YES 14-10-2010
+1321 Yqnoygbbeyib Doimrh Serbia 75 HIB YES 5-10-2018
+1700 Lvixmscmqtv Ubzhswmsv Serbia 94 HIB YES 6-9-2017
+1125 Pmdsdl Rnzfxf Serbia 36 COVID-19 YES 28-12-2002
+6559 Lvdspgwzb Iepopaivikb Serbia 63 COVID-19 NO 
+1002 Cqszokpjo Kgrtgkh Serbia 77 FLU NO 
+1046 Xfosnhjq Qytjakesnoo Serbia 114 COVID-19 NO 
+3140 Awtqlowgiw Huvuvfna Serbia 29 FLU YES 1-9-2009
+3 Ihacifnvenqy Tvc Serbia 47 MEASLES NO 
+1705 Cbvjuhrpzpt Nutibwqldb Serbia 118 RUBELLA NO 
+568 Unnfngdzvvv Vbbjxepcmb Serbia 10 TETANUS NO 
+6559 Lvdspgwzb Iepopaivikb Serbia 63 COVID-19 NO 
+1381 Huznaqhtr Yyqpdbtn Serbia 28 RUBELLA NO 
+1381 Huznaqhtr Yyqpdbtn Serbia 28 TETANUS YES 4-5-2006
+1705 Cbvjuhrpzpt Nutibwqldb Serbia 118 FLU NO 
+7051 Vdmmq Mhba Serbia 114 TETANUS NO 

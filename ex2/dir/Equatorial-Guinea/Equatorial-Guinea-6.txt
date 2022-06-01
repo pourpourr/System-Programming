@@ -1,0 +1,41 @@
+
+9485 Jzizjvwref Vqu Equatorial-Guinea 78 HEPATITIS-A NO 
+3617 Kaqeh Zemshgvwmsf Equatorial-Guinea 96 HIB YES 27-8-2013
+1728 Ebnaet Hpdeursqqt Equatorial-Guinea 64 COVID-19 NO 
+1728 Ebnaet Hpdeursqqt Equatorial-Guinea 64 POLIO NO 
+9169 Ocplveyvcfn Smgcotanfg Equatorial-Guinea 100 POLIO NO 
+5498 Xdmemvp Xxvnpnaihcz Equatorial-Guinea 69 RUBELLA NO 
+6971 Svgju Kgnv Equatorial-Guinea 48 FLU YES 6-5-2018
+559 Xqgbv Upccuxlzi Equatorial-Guinea 68 FLU NO 
+3727 Hgpzexb Fqeagzxsegjn Equatorial-Guinea 8 HIB NO 
+174 Wkzduw Wzcnpf Equatorial-Guinea 41 COVID-19 NO 
+174 Wkzduw Wzcnpf Equatorial-Guinea 41 HEPATITIS-A NO 
+704 Ofyiv Ttavjidkl Equatorial-Guinea 99 POLIO NO 
+3727 Hgpzexb Fqeagzxsegjn Equatorial-Guinea 8 TETANUS NO 
+8613 Xhb Byiztyma Equatorial-Guinea 35 FLU YES 18-9-2007
+3964 Uhzvnecrmol Dqzgwqwezla Equatorial-Guinea 36 COVID-19 NO 
+3964 Uhzvnecrmol Dqzgwqwezla Equatorial-Guinea 36 RUBELLA YES 22-5-2019
+9215 Dhqfufwtq Fshaebhbap Equatorial-Guinea 53 POLIO YES 22-12-2006
+7845 Pybefbfwuu Kijx Equatorial-Guinea 26 POLIO YES 9-3-2005
+174 Wkzduw Wzcnpf Equatorial-Guinea 41 TETANUS NO 
+8613 Xhb Byiztyma Equatorial-Guinea 35 HIB NO 
+9169 Ocplveyvcfn Smgcotanfg Equatorial-Guinea 100 HEPATITIS-A NO 
+9169 Ocplveyvcfn Smgcotanfg Equatorial-Guinea 100 HIB NO 
+3727 Hgpzexb Fqeagzxsegjn Equatorial-Guinea 8 HEPATITIS-B YES 28-5-2008
+9215 Dhqfufwtq Fshaebhbap Equatorial-Guinea 53 FLU NO 
+6971 Svgju Kgnv Equatorial-Guinea 48 CHICKENPOX YES 29-3-2017
+1376 Zwz Bdkrcoec Equatorial-Guinea 40 MEASLES NO 
+5242 Izegonybi Mmsr Equatorial-Guinea 27 CHICKENPOX NO 
+3617 Kaqeh Zemshgvwmsf Equatorial-Guinea 96 MEASLES NO 
+9853 Qmvsvcfzo Sxwbvugh Equatorial-Guinea 79 RUBELLA YES 22-7-2010
+9169 Ocplveyvcfn Smgcotanfg Equatorial-Guinea 100 FLU NO 
+1193 Pocotkap Emdghd Equatorial-Guinea 2 HIB YES 15-1-2012
+7845 Pybefbfwuu Kijx Equatorial-Guinea 26 TETANUS NO 
+1193 Pocotkap Emdghd Equatorial-Guinea 2 HEPATITIS-A NO 
+704 Ofyiv Ttavjidkl Equatorial-Guinea 99 MEASLES NO 
+5242 Izegonybi Mmsr Equatorial-Guinea 27 CHICKENPOX NO 
+1728 Ebnaet Hpdeursqqt Equatorial-Guinea 64 HIB NO 
+7845 Pybefbfwuu Kijx Equatorial-Guinea 26 TETANUS NO 
+9485 Jzizjvwref Vqu Equatorial-Guinea 78 HEPATITIS-B NO 
+1728 Ebnaet Hpdeursqqt Equatorial-Guinea 64 HEPATITIS-B YES 16-6-2009
+3727 Hgpzexb Fqeagzxsegjn Equatorial-Guinea 8 HEPATITIS-B YES 7-4-2020

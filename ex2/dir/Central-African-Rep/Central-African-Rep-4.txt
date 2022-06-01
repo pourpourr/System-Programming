@@ -1,0 +1,39 @@
+
+9293 Cktc Qqqideyc Central-African-Rep 33 RUBELLA YES 23-8-2003
+8585 Nfo Vjdqrohek Central-African-Rep 4 CHICKENPOX NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 CHICKENPOX NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 RUBELLA NO 
+584 Kvg Wawd Central-African-Rep 120 TETANUS NO 
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 MEASLES YES 13-1-2011
+4457 Hwkvzsluw Jxkvi Central-African-Rep 26 POLIO YES 8-3-2016
+8585 Nfo Vjdqrohek Central-African-Rep 4 FLU NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 CHICKENPOX NO 
+7243 Rcn Vpgiomdeonh Central-African-Rep 33 CHICKENPOX YES 21-2-2010
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 COVID-19 YES 5-10-2012
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 HIB YES 26-3-2020
+2686 Afg Uktply Central-African-Rep 80 HEPATITIS-A NO 
+4886 Niibwi Yktphnltga Central-African-Rep 43 FLU NO 
+5745 Ceu Jsanpkabutrf Central-African-Rep 1 FLU YES 20-1-2001
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 TETANUS NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 RUBELLA YES 16-2-2016
+5024 Hrfiiuby Obn Central-African-Rep 52 MEASLES YES 15-2-2014
+9293 Cktc Qqqideyc Central-African-Rep 33 POLIO NO 
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 TETANUS NO 
+9293 Cktc Qqqideyc Central-African-Rep 33 POLIO YES 13-1-2008
+584 Kvg Wawd Central-African-Rep 120 POLIO NO 
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 HIB NO 
+6689 Gpmvqll Qlaunxvqrp Central-African-Rep 27 RUBELLA YES 3-1-2010
+2686 Afg Uktply Central-African-Rep 80 RUBELLA NO 
+8585 Nfo Vjdqrohek Central-African-Rep 4 HEPATITIS-B YES 26-5-2010
+9293 Cktc Qqqideyc Central-African-Rep 33 TETANUS YES 15-9-2013
+5024 Hrfiiuby Obn Central-African-Rep 52 POLIO YES 28-3-2016
+6860 Oeqpnnjmiy Mjvrpj Central-African-Rep 34 FLU YES 10-6-2002
+584 Kvg Wawd Central-African-Rep 120 TETANUS YES 19-3-2012
+9831 Gtw Acrotrcbccg Central-African-Rep 116 CHICKENPOX NO 
+1037 Lunbjcvievp Cvsuucvwmrr Central-African-Rep 12 CHICKENPOX YES 21-9-2004
+1120 Imvitprf Omothogmwgfc Central-African-Rep 105 MEASLES NO 
+2686 Afg Uktply Central-African-Rep 80 MEASLES YES 28-12-2007
+622 Rozpvup Qlae Central-African-Rep 74 TETANUS YES 7-11-2002
+2686 Afg Uktply Central-African-Rep 80 TETANUS YES 17-2-2008
+622 Rozpvup Qlae Central-African-Rep 74 HIB YES 5-7-2010
+1687 Lfsyvfnqkvh Blpwf Central-African-Rep 67 MEASLES YES 23-9-2001

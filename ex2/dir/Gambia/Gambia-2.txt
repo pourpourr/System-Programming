@@ -1,0 +1,50 @@
+
+4262 Icxjexktn Vgszt Gambia 31 COVID-19 NO 
+8487 Uyvtjaf Vue Gambia 26 HIB NO 
+1832 Xtwc Tmatj Gambia 84 HIB YES 22-10-2007
+4301 Mlugxdjxet Kzdh Gambia 58 COVID-19 NO 
+6758 Trw Dkgo Gambia 2 MEASLES YES 12-10-2011
+8487 Uyvtjaf Vue Gambia 26 MEASLES YES 20-11-2013
+6041 Lxjfdwxe Okol Gambia 36 MEASLES YES 26-7-2007
+5454 Wfhmgybra Ssjhnmorgcj Gambia 27 MEASLES YES 12-4-2008
+5753 Eznqluszaq Lyruejbpz Gambia 112 HIB YES 6-7-2016
+4461 Cgldkduwhe Zavnvsrsbyc Gambia 74 HEPATITIS-A NO 
+8195 Mknxqhapyjkp Durf Gambia 88 MEASLES YES 13-12-2019
+5454 Wfhmgybra Ssjhnmorgcj Gambia 27 HEPATITIS-B NO 
+2519 Ednwyaofuqzv Mog Gambia 46 COVID-19 YES 9-1-2006
+2519 Ednwyaofuqzv Mog Gambia 46 COVID-19 YES 3-2-2011
+8195 Mknxqhapyjkp Durf Gambia 88 HEPATITIS-A NO 
+6041 Lxjfdwxe Okol Gambia 36 MEASLES NO 
+6758 Trw Dkgo Gambia 2 HEPATITIS-B YES 30-7-2017
+1446 Xehacc Kqntcouz Gambia 33 COVID-19 YES 13-6-2016
+2493 Dmbxadytvgu Etfqlncn Gambia 119 COVID-19 YES 14-1-2019
+1003 Xbprfjxjljhm Yrvtfn Gambia 63 RUBELLA NO 
+8487 Uyvtjaf Vue Gambia 26 HEPATITIS-B YES 15-10-2015
+2493 Dmbxadytvgu Etfqlncn Gambia 119 HEPATITIS-A YES 29-8-2012
+4053 Kajda Hsmuww Gambia 19 POLIO YES 27-5-2013
+172 Zalzakprohx Tegpnq Gambia 52 HEPATITIS-A NO 
+2519 Ednwyaofuqzv Mog Gambia 46 RUBELLA YES 8-4-2014
+1446 Xehacc Kqntcouz Gambia 33 HIB NO 
+8236 Duifty Jor Gambia 96 HIB YES 20-1-2004
+2990 Chulwjxhg Dvxrfgivsgl Gambia 95 RUBELLA NO 
+4262 Icxjexktn Vgszt Gambia 31 COVID-19 YES 25-1-2005
+8236 Duifty Jor Gambia 96 TETANUS YES 12-8-2005
+5009 Zscxbsdivf Jnuwor Gambia 74 MEASLES NO 
+172 Zalzakprohx Tegpnq Gambia 52 MEASLES YES 12-2-2003
+4262 Icxjexktn Vgszt Gambia 31 TETANUS YES 23-4-2012
+1329 Puon Qagg Gambia 88 MEASLES NO 
+1832 Xtwc Tmatj Gambia 84 RUBELLA YES 22-4-2020
+1446 Xehacc Kqntcouz Gambia 33 HEPATITIS-B YES 23-3-2019
+2493 Dmbxadytvgu Etfqlncn Gambia 119 MEASLES NO 
+6758 Trw Dkgo Gambia 2 CHICKENPOX NO 
+5055 Ajh Jqjucozlxvaf Gambia 41 HIB NO 
+9582 Semnjamzscp Aibtlnfcuo Gambia 112 CHICKENPOX YES 8-2-2020
+8487 Uyvtjaf Vue Gambia 26 COVID-19 NO 
+6758 Trw Dkgo Gambia 2 HEPATITIS-A NO 
+2990 Chulwjxhg Dvxrfgivsgl Gambia 95 TETANUS NO 
+9582 Semnjamzscp Aibtlnfcuo Gambia 112 HEPATITIS-A NO 
+4262 Icxjexktn Vgszt Gambia 31 HIB NO 
+4262 Icxjexktn Vgszt Gambia 31 HEPATITIS-A NO 
+5753 Eznqluszaq Lyruejbpz Gambia 112 COVID-19 YES 4-3-2003
+4053 Kajda Hsmuww Gambia 19 COVID-19 NO 
+5009 Zscxbsdivf Jnuwor Gambia 74 COVID-19 YES 16-9-2013

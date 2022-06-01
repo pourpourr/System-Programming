@@ -1,0 +1,49 @@
+
+926 Kjovmh Mbs United-Kingdom 17 POLIO YES 15-2-2010
+1304 Jdhzhskm Wdyyndyiwr United-Kingdom 46 HIB YES 27-9-2007
+8950 Vilsozgcvnfd Ezjjzdaqcdn United-Kingdom 76 TETANUS YES 12-10-2018
+926 Kjovmh Mbs United-Kingdom 17 TETANUS YES 29-11-2018
+6652 Wvngyvnl Vjjbexyqiexs United-Kingdom 96 HIB YES 1-7-2002
+8950 Vilsozgcvnfd Ezjjzdaqcdn United-Kingdom 76 HEPATITIS-A NO 
+6652 Wvngyvnl Vjjbexyqiexs United-Kingdom 96 MEASLES YES 23-8-2001
+8932 Ftjicrylkmjs Cqzxedgb United-Kingdom 37 RUBELLA NO 
+6652 Wvngyvnl Vjjbexyqiexs United-Kingdom 96 POLIO YES 15-6-2013
+8950 Vilsozgcvnfd Ezjjzdaqcdn United-Kingdom 76 HIB NO 
+707 Btbbz Itgt United-Kingdom 41 HEPATITIS-A NO 
+5238 Hgcpqjdwv Ibwergnyjmx United-Kingdom 42 COVID-19 YES 12-9-2014
+1304 Jdhzhskm Wdyyndyiwr United-Kingdom 46 CHICKENPOX YES 4-12-2018
+2466 Dkqdsadqb Jbifopjqlcnd United-Kingdom 118 HEPATITIS-A NO 
+4256 Ifxb Aesjlaue United-Kingdom 89 FLU NO 
+2662 Qbpcmvwfbyq Rnunrypuy United-Kingdom 73 COVID-19 NO 
+3650 Lvpqnaugaz Zlrarlfji United-Kingdom 40 HEPATITIS-B NO 
+7969 Rjabhsqr Pqoublwx United-Kingdom 113 RUBELLA YES 29-6-2018
+4256 Ifxb Aesjlaue United-Kingdom 89 HEPATITIS-B NO 
+9567 Iycorjtampc Mmeozhdrnh United-Kingdom 60 MEASLES YES 6-11-2005
+9567 Iycorjtampc Mmeozhdrnh United-Kingdom 60 MEASLES NO 
+8932 Ftjicrylkmjs Cqzxedgb United-Kingdom 37 HEPATITIS-A NO 
+5238 Hgcpqjdwv Ibwergnyjmx United-Kingdom 42 TETANUS NO 
+4256 Ifxb Aesjlaue United-Kingdom 89 MEASLES YES 2-4-2008
+3209 Qnutntqqqjvn Kjqnt United-Kingdom 116 POLIO YES 5-12-2003
+1304 Jdhzhskm Wdyyndyiwr United-Kingdom 46 HIB YES 13-11-2011
+6652 Wvngyvnl Vjjbexyqiexs United-Kingdom 96 RUBELLA YES 1-4-2018
+7969 Rjabhsqr Pqoublwx United-Kingdom 113 TETANUS YES 22-4-2002
+5233 Nqxjdm Dypvrbseuh United-Kingdom 61 COVID-19 YES 6-10-2020
+8932 Ftjicrylkmjs Cqzxedgb United-Kingdom 37 HEPATITIS-A YES 22-10-2016
+470 Xxoruzdsprj Wotxajyqt United-Kingdom 8 RUBELLA YES 28-1-2000
+7969 Rjabhsqr Pqoublwx United-Kingdom 113 MEASLES NO 
+3650 Lvpqnaugaz Zlrarlfji United-Kingdom 40 POLIO NO 
+5548 Tlkdgnzqock Quntmywdkcry United-Kingdom 108 MEASLES NO 
+5548 Tlkdgnzqock Quntmywdkcry United-Kingdom 108 COVID-19 NO 
+3650 Lvpqnaugaz Zlrarlfji United-Kingdom 40 COVID-19 YES 10-12-2020
+2170 Gwpjidhienl Uftiks United-Kingdom 77 HEPATITIS-B NO 
+9567 Iycorjtampc Mmeozhdrnh United-Kingdom 60 HEPATITIS-B YES 5-4-2014
+6652 Wvngyvnl Vjjbexyqiexs United-Kingdom 96 TETANUS NO 
+926 Kjovmh Mbs United-Kingdom 17 HEPATITIS-B YES 24-3-2013
+2466 Dkqdsadqb Jbifopjqlcnd United-Kingdom 118 COVID-19 NO 
+1333 Cgxjped Kjyszj United-Kingdom 115 HEPATITIS-B NO 
+1304 Jdhzhskm Wdyyndyiwr United-Kingdom 46 COVID-19 NO 
+5238 Hgcpqjdwv Ibwergnyjmx United-Kingdom 42 POLIO YES 15-1-2003
+5548 Tlkdgnzqock Quntmywdkcry United-Kingdom 108 COVID-19 YES 15-10-2008
+8097 Adncz Tailh United-Kingdom 81 POLIO NO 
+3650 Lvpqnaugaz Zlrarlfji United-Kingdom 40 HIB YES 8-11-2015
+8154 Yvkclixkupir Vgodgrwa United-Kingdom 81 HIB NO 

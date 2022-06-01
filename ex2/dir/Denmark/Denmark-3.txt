@@ -1,0 +1,57 @@
+
+5568 Wkyapmdl Vauw Denmark 114 POLIO NO 
+4197 Chlk Yrdppddhgmef Denmark 14 HIB YES 21-11-2000
+8157 Rztk Jzdvc Denmark 64 POLIO YES 26-8-2012
+9463 Kwcak Kljvv Denmark 120 CHICKENPOX NO 
+5418 Njwesfe Iszfvqqzosa Denmark 80 HEPATITIS-B YES 28-8-2016
+6484 Xfhlbggiaz Dluxqiqcdotw Denmark 25 COVID-19 NO 
+7056 Eknqshg Kfueser Denmark 36 CHICKENPOX YES 26-8-2017
+9484 Duq Miwcwlihog Denmark 107 CHICKENPOX NO 
+2494 Nrphldizxit Isvmkadebii Denmark 114 POLIO YES 22-8-2008
+1479 Vqfkkzaxxqgp Gqjsrrojlqm Denmark 15 TETANUS YES 28-1-2001
+5418 Njwesfe Iszfvqqzosa Denmark 80 RUBELLA YES 8-7-2016
+7056 Eknqshg Kfueser Denmark 36 FLU YES 2-9-2019
+9484 Duq Miwcwlihog Denmark 107 FLU NO 
+4059 Tmfq Idyq Denmark 3 FLU YES 11-7-2006
+9109 Glfwtu Hmahcc Denmark 23 POLIO NO 
+6621 Uezga Nwbmh Denmark 38 HEPATITIS-B NO 
+6621 Uezga Nwbmh Denmark 38 FLU NO 
+2736 Rekvnkxyzzki Kwzcpy Denmark 34 POLIO YES 13-3-2004
+1479 Vqfkkzaxxqgp Gqjsrrojlqm Denmark 15 HIB NO 
+9109 Glfwtu Hmahcc Denmark 23 POLIO YES 13-2-2014
+8157 Rztk Jzdvc Denmark 64 MEASLES YES 26-2-2009
+2736 Rekvnkxyzzki Kwzcpy Denmark 34 POLIO NO 
+5568 Wkyapmdl Vauw Denmark 114 MEASLES NO 
+4405 Qlxhcc Rirmqkttnovb Denmark 100 HEPATITIS-A NO 
+529 Yiwpptf Ubpnbdyo Denmark 82 RUBELLA YES 23-8-2011
+9601 Bfvbzzwwvtoz Ifanplb Denmark 53 COVID-19 YES 16-10-2004
+6153 Qgodf Yyxnjwiw Denmark 82 TETANUS NO 
+9680 Zcdyfvfim Uubfk Denmark 48 CHICKENPOX YES 18-2-2003
+5418 Njwesfe Iszfvqqzosa Denmark 80 RUBELLA NO 
+5568 Wkyapmdl Vauw Denmark 114 FLU YES 26-7-2005
+8157 Rztk Jzdvc Denmark 64 POLIO NO 
+4405 Qlxhcc Rirmqkttnovb Denmark 100 POLIO NO 
+2494 Nrphldizxit Isvmkadebii Denmark 114 RUBELLA NO 
+8157 Rztk Jzdvc Denmark 64 HIB NO 
+5617 Zpjc Ixfyzi Denmark 110 HEPATITIS-B NO 
+5688 Qgjvxbnvj Oaycibxydwu Denmark 57 MEASLES YES 22-8-2010
+9484 Duq Miwcwlihog Denmark 107 HEPATITIS-B YES 1-11-2020
+9484 Duq Miwcwlihog Denmark 107 CHICKENPOX NO 
+9601 Bfvbzzwwvtoz Ifanplb Denmark 53 FLU YES 28-8-2012
+3334 Gmotobsrykt Rappmtiftsw Denmark 6 HEPATITIS-B NO 
+8157 Rztk Jzdvc Denmark 64 HIB NO 
+5617 Zpjc Ixfyzi Denmark 110 HIB YES 19-12-2004
+9680 Zcdyfvfim Uubfk Denmark 48 COVID-19 NO 
+5617 Zpjc Ixfyzi Denmark 110 MEASLES NO 
+4405 Qlxhcc Rirmqkttnovb Denmark 100 FLU YES 29-4-2008
+4600 Htmwfopwg Nwtwczcpqb Denmark 43 HEPATITIS-A YES 11-1-2019
+3334 Gmotobsrykt Rappmtiftsw Denmark 6 TETANUS YES 29-10-2007
+2494 Nrphldizxit Isvmkadebii Denmark 114 COVID-19 NO 
+5457 Vgswu Uagtnc Denmark 68 HEPATITIS-B NO 
+8045 Uxrqzigpq Zwg Denmark 13 POLIO YES 7-2-2013
+7061 Bduyjesk Uzxzjztwtl Denmark 43 TETANUS YES 26-8-2002
+5418 Njwesfe Iszfvqqzosa Denmark 80 HEPATITIS-A YES 15-10-2000
+5568 Wkyapmdl Vauw Denmark 114 RUBELLA NO 
+4059 Tmfq Idyq Denmark 3 CHICKENPOX YES 28-3-2003
+5568 Wkyapmdl Vauw Denmark 114 HEPATITIS-B YES 12-9-2009
+9601 Bfvbzzwwvtoz Ifanplb Denmark 53 TETANUS NO 

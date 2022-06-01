@@ -1,0 +1,49 @@
+
+6667 Tuxiobq Yelpimqloa Antigua&Deps 14 MEASLES YES 30-9-2015
+3869 Fpsmoyuinfai Qdizg Antigua&Deps 119 TETANUS YES 5-6-2019
+6648 Wffpbuqppwo Vfdpgkrjcg Antigua&Deps 7 HEPATITIS-A YES 30-8-2002
+8540 Ykohwfjbzt Ebrhxyzinenw Antigua&Deps 120 FLU NO 
+3869 Fpsmoyuinfai Qdizg Antigua&Deps 119 CHICKENPOX NO 
+9362 Ohdjzee Ethjcc Antigua&Deps 117 FLU NO 
+5158 Vegyqvouxwe Drapxnoc Antigua&Deps 6 HIB YES 12-8-2003
+4753 Uqcwwudbqi Hzymhkkjmcf Antigua&Deps 42 POLIO YES 4-9-2004
+8333 Mvcogavnclqw Dojnakdqf Antigua&Deps 53 TETANUS YES 7-1-2002
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 HEPATITIS-B YES 11-12-2012
+6648 Wffpbuqppwo Vfdpgkrjcg Antigua&Deps 7 HIB NO 
+5158 Vegyqvouxwe Drapxnoc Antigua&Deps 6 MEASLES NO 
+3926 Snfsntne Ktnycnpmj Antigua&Deps 76 HEPATITIS-A YES 13-5-2012
+8540 Ykohwfjbzt Ebrhxyzinenw Antigua&Deps 120 HEPATITIS-A NO 
+3869 Fpsmoyuinfai Qdizg Antigua&Deps 119 FLU YES 24-3-2011
+8540 Ykohwfjbzt Ebrhxyzinenw Antigua&Deps 120 HEPATITIS-A NO 
+8540 Ykohwfjbzt Ebrhxyzinenw Antigua&Deps 120 RUBELLA NO 
+9362 Ohdjzee Ethjcc Antigua&Deps 117 HEPATITIS-A NO 
+8540 Ykohwfjbzt Ebrhxyzinenw Antigua&Deps 120 HEPATITIS-A YES 16-7-2012
+5158 Vegyqvouxwe Drapxnoc Antigua&Deps 6 MEASLES NO 
+7167 Ixv Gvxavqbvmnlh Antigua&Deps 63 HEPATITIS-A YES 15-12-2012
+4753 Uqcwwudbqi Hzymhkkjmcf Antigua&Deps 42 MEASLES NO 
+1014 Zorokrmwhy Cgghwlacbvmh Antigua&Deps 52 HEPATITIS-A YES 13-2-2008
+323 Xfp Qkkumjfv Antigua&Deps 22 FLU NO 
+9752 Xmuvgfhdrth Dlkxd Antigua&Deps 29 TETANUS YES 30-8-2018
+8333 Mvcogavnclqw Dojnakdqf Antigua&Deps 53 HEPATITIS-B YES 4-7-2018
+7883 Ajsvuhzp Tww Antigua&Deps 77 HIB YES 3-10-2015
+5158 Vegyqvouxwe Drapxnoc Antigua&Deps 6 TETANUS YES 5-11-2003
+1706 Tvxahysw Tlfwyhwg Antigua&Deps 19 CHICKENPOX NO 
+408 Urhukkgmod Cxlgip Antigua&Deps 108 POLIO YES 22-7-2011
+8333 Mvcogavnclqw Dojnakdqf Antigua&Deps 53 FLU NO 
+8412 Jknplibu Drwcocjiwkol Antigua&Deps 3 HEPATITIS-B YES 14-7-2005
+9752 Xmuvgfhdrth Dlkxd Antigua&Deps 29 COVID-19 YES 11-8-2016
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 CHICKENPOX NO 
+3926 Snfsntne Ktnycnpmj Antigua&Deps 76 MEASLES NO 
+4338 Aol Mcdwsjezxuv Antigua&Deps 51 MEASLES YES 4-2-2015
+8333 Mvcogavnclqw Dojnakdqf Antigua&Deps 53 POLIO NO 
+3869 Fpsmoyuinfai Qdizg Antigua&Deps 119 RUBELLA YES 16-4-2014
+6343 Zndgjke Cqasearwrfw Antigua&Deps 95 POLIO YES 16-3-2011
+408 Urhukkgmod Cxlgip Antigua&Deps 108 HIB YES 1-4-2012
+7345 Gat Xrkviqnwod Antigua&Deps 22 HEPATITIS-A YES 4-4-2009
+6648 Wffpbuqppwo Vfdpgkrjcg Antigua&Deps 7 CHICKENPOX NO 
+1477 Ppsspr Gsnph Antigua&Deps 22 POLIO NO 
+6343 Zndgjke Cqasearwrfw Antigua&Deps 95 FLU YES 4-6-2006
+439 Gjgmf Uryfvrcc Antigua&Deps 66 RUBELLA YES 6-4-2005
+7167 Ixv Gvxavqbvmnlh Antigua&Deps 63 COVID-19 YES 25-8-2002
+1014 Zorokrmwhy Cgghwlacbvmh Antigua&Deps 52 FLU YES 28-11-2016
+5042 Ubchemknsxqm Akngybtcnp Antigua&Deps 76 FLU YES 24-5-2002

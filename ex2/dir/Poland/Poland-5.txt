@@ -1,0 +1,59 @@
+
+508 Thzarsvss Yyrroy Poland 91 HEPATITIS-B NO 
+840 Qxxi Wbhnernjovh Poland 111 TETANUS NO 
+3272 Komkovqhwg Mwhfnsgf Poland 81 CHICKENPOX NO 
+2582 Gbq Fchx Poland 78 CHICKENPOX YES 19-4-2014
+44 Ior Lswk Poland 46 CHICKENPOX YES 2-11-2011
+1233 Awbuqrlas Vashy Poland 69 RUBELLA YES 30-7-2003
+2360 Xcalhzswzmul Elozig Poland 61 HEPATITIS-B YES 26-8-2014
+8474 Smsiplodbb Isbzkovz Poland 78 CHICKENPOX NO 
+6493 Etes Nlyflkteup Poland 46 TETANUS NO 
+1233 Awbuqrlas Vashy Poland 69 TETANUS YES 21-7-2003
+6734 Dbig Uksfhveefqe Poland 8 HIB YES 24-11-2008
+9249 Wuixod Qpazm Poland 53 HIB NO 
+8735 Ypk Gaerza Poland 63 HEPATITIS-A YES 2-1-2001
+840 Qxxi Wbhnernjovh Poland 111 POLIO NO 
+8474 Smsiplodbb Isbzkovz Poland 78 POLIO YES 5-11-2017
+9249 Wuixod Qpazm Poland 53 RUBELLA YES 26-3-2011
+6734 Dbig Uksfhveefqe Poland 8 HEPATITIS-A YES 28-10-2013
+1233 Awbuqrlas Vashy Poland 69 HIB YES 7-7-2014
+2360 Xcalhzswzmul Elozig Poland 61 HEPATITIS-A YES 18-9-2008
+6771 Qzoysqotqu Zivasmltr Poland 71 RUBELLA YES 13-4-2009
+6629 Ywxqilkrhqd Lxfwtuj Poland 31 MEASLES YES 5-12-2008
+1131 Lziflgp Agcqnvau Poland 94 CHICKENPOX NO 
+6629 Ywxqilkrhqd Lxfwtuj Poland 31 RUBELLA NO 
+6771 Qzoysqotqu Zivasmltr Poland 71 MEASLES YES 17-5-2002
+1912 Icqjqzo Ygh Poland 120 HEPATITIS-A NO 
+1131 Lziflgp Agcqnvau Poland 94 FLU YES 4-12-2015
+8474 Smsiplodbb Isbzkovz Poland 78 POLIO NO 
+8735 Ypk Gaerza Poland 63 COVID-19 NO 
+6734 Dbig Uksfhveefqe Poland 8 FLU YES 14-4-2004
+3991 Nlvemr Iemxr Poland 4 HIB YES 23-10-2001
+6629 Ywxqilkrhqd Lxfwtuj Poland 31 HEPATITIS-A YES 5-4-2001
+840 Qxxi Wbhnernjovh Poland 111 COVID-19 YES 7-6-2003
+6771 Qzoysqotqu Zivasmltr Poland 71 CHICKENPOX YES 4-3-2017
+1131 Lziflgp Agcqnvau Poland 94 FLU NO 
+8988 Qgrsmtn Squhqiln Poland 98 POLIO NO 
+8098 Bvqngq Vhejfl Poland 90 COVID-19 NO 
+5670 Swzhxygiq Kpmfwbjchnpc Poland 81 HEPATITIS-A YES 19-3-2011
+2582 Gbq Fchx Poland 78 COVID-19 YES 11-5-2004
+6493 Etes Nlyflkteup Poland 46 COVID-19 YES 6-7-2000
+3991 Nlvemr Iemxr Poland 4 POLIO YES 16-1-2010
+5670 Swzhxygiq Kpmfwbjchnpc Poland 81 COVID-19 YES 23-1-2012
+3019 Cysudzdf Cdzhe Poland 6 COVID-19 NO 
+8988 Qgrsmtn Squhqiln Poland 98 TETANUS NO 
+2410 Unip Rnqlhjzjg Poland 41 TETANUS NO 
+1131 Lziflgp Agcqnvau Poland 94 HEPATITIS-B NO 
+44 Ior Lswk Poland 46 MEASLES YES 6-4-2002
+1131 Lziflgp Agcqnvau Poland 94 MEASLES YES 11-9-2020
+573 Bztsqqjg Vgi Poland 118 MEASLES YES 27-1-2005
+8988 Qgrsmtn Squhqiln Poland 98 CHICKENPOX NO 
+840 Qxxi Wbhnernjovh Poland 111 MEASLES NO 
+8098 Bvqngq Vhejfl Poland 90 RUBELLA YES 11-6-2004
+6243 Oeili Ltq Poland 46 HEPATITIS-A YES 28-12-2015
+6493 Etes Nlyflkteup Poland 46 TETANUS YES 26-9-2013
+3272 Komkovqhwg Mwhfnsgf Poland 81 MEASLES YES 2-2-2009
+6771 Qzoysqotqu Zivasmltr Poland 71 HEPATITIS-B NO 
+6629 Ywxqilkrhqd Lxfwtuj Poland 31 HIB NO 
+6243 Oeili Ltq Poland 46 FLU NO 
+9249 Wuixod Qpazm Poland 53 RUBELLA YES 20-6-2002

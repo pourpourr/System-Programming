@@ -1,0 +1,44 @@
+
+7512 Dtpc Gdzro Israel 2 HEPATITIS-A NO 
+1956 Ceskc Mjcetlfp Israel 18 TETANUS YES 19-12-2014
+4014 Gffeehet Hzmh Israel 61 MEASLES YES 12-9-2013
+3343 Toufihjcvi Fyw Israel 119 HEPATITIS-B NO 
+8269 Ipenefsqcpo Tnpwhdwj Israel 7 HIB NO 
+5780 Thfldjotycf Qsbzxznxo Israel 115 HIB YES 21-5-2006
+9176 Rwmkekj Vdlw Israel 12 FLU NO 
+7179 Rcoaapysgkjh Rjlxf Israel 11 CHICKENPOX NO 
+7512 Dtpc Gdzro Israel 2 CHICKENPOX YES 17-8-2010
+3343 Toufihjcvi Fyw Israel 119 CHICKENPOX YES 5-2-2007
+5923 Qjv Appf Israel 79 POLIO YES 10-7-2018
+148 Dmuvjmtq Uxaflytkr Israel 4 HIB NO 
+1956 Ceskc Mjcetlfp Israel 18 MEASLES YES 23-8-2009
+5780 Thfldjotycf Qsbzxznxo Israel 115 HEPATITIS-A YES 21-9-2011
+380 Zusuimnf Lcoijxdgr Israel 44 CHICKENPOX YES 27-9-2019
+7512 Dtpc Gdzro Israel 2 MEASLES YES 21-12-2007
+8269 Ipenefsqcpo Tnpwhdwj Israel 7 HEPATITIS-B YES 13-6-2009
+9658 Wla Ydvsfkpb Israel 98 FLU NO 
+73 Algjfm Esmqhrviluz Israel 1 MEASLES NO 
+6219 Lcwuggo Bwlsnuoycoa Israel 33 HEPATITIS-A NO 
+5744 Wachipd Pthvfbwffpmr Israel 8 RUBELLA NO 
+5780 Thfldjotycf Qsbzxznxo Israel 115 COVID-19 YES 12-1-2004
+5923 Qjv Appf Israel 79 COVID-19 NO 
+6219 Lcwuggo Bwlsnuoycoa Israel 33 COVID-19 NO 
+9658 Wla Ydvsfkpb Israel 98 MEASLES YES 12-10-2008
+7512 Dtpc Gdzro Israel 2 MEASLES YES 11-3-2009
+1866 Knxqfz Ojgokp Israel 99 CHICKENPOX YES 7-6-2016
+3343 Toufihjcvi Fyw Israel 119 RUBELLA YES 10-1-2013
+4014 Gffeehet Hzmh Israel 61 HEPATITIS-B YES 29-2-2005
+6219 Lcwuggo Bwlsnuoycoa Israel 33 HEPATITIS-B NO 
+8269 Ipenefsqcpo Tnpwhdwj Israel 7 COVID-19 YES 3-10-2012
+380 Zusuimnf Lcoijxdgr Israel 44 HEPATITIS-A YES 6-1-2010
+1866 Knxqfz Ojgokp Israel 99 MEASLES YES 6-8-2011
+4014 Gffeehet Hzmh Israel 61 MEASLES NO 
+9282 Nyafy Fvpe Israel 105 MEASLES NO 
+2453 Qllltfca Xxdv Israel 68 FLU YES 16-10-2017
+6219 Lcwuggo Bwlsnuoycoa Israel 33 HIB NO 
+1956 Ceskc Mjcetlfp Israel 18 HEPATITIS-B NO 
+8243 Ghlkvetrdc Yqkjnxyrjeim Israel 92 POLIO YES 21-7-2007
+2453 Qllltfca Xxdv Israel 68 MEASLES NO 
+4014 Gffeehet Hzmh Israel 61 HIB YES 2-12-2005
+5780 Thfldjotycf Qsbzxznxo Israel 115 HIB YES 21-6-2016
+5923 Qjv Appf Israel 79 RUBELLA NO 

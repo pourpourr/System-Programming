@@ -1,0 +1,41 @@
+
+4935 Vpdaz Ztyi Greece 44 HEPATITIS-A YES 29-12-2020
+6863 Oapow Zmsujy Greece 75 MEASLES NO 
+8972 Mxgozs Tzawednj Greece 108 TETANUS NO 
+4044 Buigsr Htnuhertnjzi Greece 112 COVID-19 YES 9-6-2018
+9420 Ipmdtn Woysnmuu Greece 32 MEASLES YES 8-5-2015
+5813 Matjceeumrf Napatkw Greece 99 CHICKENPOX NO 
+7557 Uomuxdhcl Ilvlfqmx Greece 80 POLIO YES 20-9-2020
+4935 Vpdaz Ztyi Greece 44 MEASLES YES 21-8-2006
+2712 Zihfrzzxv Gqvatvwna Greece 23 FLU NO 
+3310 Bspgraiwuoe Heotn Greece 35 TETANUS NO 
+5953 Wdqvo Vshzjehs Greece 3 TETANUS YES 18-7-2010
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 POLIO YES 22-6-2020
+637 Qclpsvuia Hlc Greece 85 RUBELLA NO 
+1044 Rgqhrigjhf Rvsbjfsahmn Greece 96 MEASLES YES 29-7-2015
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 RUBELLA YES 13-1-2019
+4975 Ctmykiwsut Rjrutxbheyx Greece 81 HEPATITIS-B NO 
+1454 Ydr Yzfsbu Greece 92 POLIO NO 
+3938 Fwslzkvokm Osjjrru Greece 91 HEPATITIS-A NO 
+3310 Bspgraiwuoe Heotn Greece 35 TETANUS NO 
+3938 Fwslzkvokm Osjjrru Greece 91 HEPATITIS-A NO 
+3938 Fwslzkvokm Osjjrru Greece 91 HEPATITIS-B NO 
+9420 Ipmdtn Woysnmuu Greece 32 CHICKENPOX YES 26-5-2005
+637 Qclpsvuia Hlc Greece 85 POLIO YES 20-2-2003
+4966 Jrmcyvtb Wynq Greece 28 COVID-19 NO 
+213 Skrvcouvmnv Miwbdouh Greece 57 HEPATITIS-A NO 
+3310 Bspgraiwuoe Heotn Greece 35 HEPATITIS-B NO 
+9420 Ipmdtn Woysnmuu Greece 32 CHICKENPOX YES 9-9-2014
+213 Skrvcouvmnv Miwbdouh Greece 57 FLU YES 15-6-2002
+5813 Matjceeumrf Napatkw Greece 99 HEPATITIS-B YES 4-10-2010
+653 Bdpuuj Clnv Greece 9 RUBELLA NO 
+4966 Jrmcyvtb Wynq Greece 28 HEPATITIS-B NO 
+1454 Ydr Yzfsbu Greece 92 HIB YES 12-9-2015
+3938 Fwslzkvokm Osjjrru Greece 91 HIB NO 
+5953 Wdqvo Vshzjehs Greece 3 CHICKENPOX YES 21-9-2011
+7557 Uomuxdhcl Ilvlfqmx Greece 80 POLIO NO 
+637 Qclpsvuia Hlc Greece 85 HEPATITIS-B NO 
+6495 Hnlblfbazmqp Gfnlzl Greece 91 RUBELLA NO 
+1454 Ydr Yzfsbu Greece 92 CHICKENPOX YES 7-12-2010
+637 Qclpsvuia Hlc Greece 85 COVID-19 YES 10-10-2007
+2712 Zihfrzzxv Gqvatvwna Greece 23 COVID-19 YES 5-7-2012

@@ -1,0 +1,60 @@
+
+90 Gnk Itk Malawi 15 POLIO NO 
+4369 Xgv Fmnvrjxx Malawi 43 HIB YES 25-8-2011
+7833 Srph Tinxvgko Malawi 55 TETANUS NO 
+1766 Xmodqvadgmh Nlfui Malawi 116 TETANUS NO 
+15 Nyw Ytyelhnmmk Malawi 108 HIB NO 
+6039 Mrldsqcw Cbfztqmz Malawi 15 HIB YES 1-12-2009
+878 Ksrnnuympod Tqhxc Malawi 5 COVID-19 NO 
+7960 Lgrxlxkxju Xabgunr Malawi 24 TETANUS YES 23-10-2002
+4369 Xgv Fmnvrjxx Malawi 43 TETANUS NO 
+7833 Srph Tinxvgko Malawi 55 FLU NO 
+6151 Jpubzmq Dcejibvjswl Malawi 61 HEPATITIS-A NO 
+15 Nyw Ytyelhnmmk Malawi 108 POLIO YES 14-1-2002
+878 Ksrnnuympod Tqhxc Malawi 5 RUBELLA YES 23-2-2005
+1724 Uucbqhahd Dhul Malawi 9 HIB YES 15-8-2001
+9763 Vuwjspz Wpsfouovhdt Malawi 22 HEPATITIS-A YES 10-1-2003
+7697 Xiywzizpmla Cdzkbrkyhu Malawi 52 MEASLES YES 22-6-2015
+1724 Uucbqhahd Dhul Malawi 9 POLIO NO 
+2284 Uvdn Dfpyez Malawi 70 HIB NO 
+9763 Vuwjspz Wpsfouovhdt Malawi 22 MEASLES NO 
+3027 Gof Wixj Malawi 99 POLIO YES 7-6-2013
+1724 Uucbqhahd Dhul Malawi 9 TETANUS NO 
+7833 Srph Tinxvgko Malawi 55 HEPATITIS-B NO 
+2249 Cadjrmecymuq Hamxfo Malawi 24 HEPATITIS-B NO 
+9250 Yjuxkdcn Atqdnu Malawi 26 TETANUS YES 16-8-2014
+2734 Kgnxletptk Mxiopydcskm Malawi 58 HEPATITIS-A NO 
+7833 Srph Tinxvgko Malawi 55 POLIO YES 26-3-2014
+4369 Xgv Fmnvrjxx Malawi 43 TETANUS NO 
+4369 Xgv Fmnvrjxx Malawi 43 HEPATITIS-B NO 
+5262 Iirgwupxz Vhftfclav Malawi 110 COVID-19 NO 
+7833 Srph Tinxvgko Malawi 55 HIB NO 
+878 Ksrnnuympod Tqhxc Malawi 5 HEPATITIS-A YES 28-5-2017
+7472 Kdaqwe Jfnmqxnff Malawi 72 HEPATITIS-A NO 
+6151 Jpubzmq Dcejibvjswl Malawi 61 COVID-19 YES 22-7-2004
+6039 Mrldsqcw Cbfztqmz Malawi 15 TETANUS NO 
+2067 Vgxkcuselp Dhdjepyc Malawi 40 HEPATITIS-B YES 12-1-2010
+15 Nyw Ytyelhnmmk Malawi 108 TETANUS NO 
+257 Wmmyder Naazxnkbf Malawi 117 HIB NO 
+1766 Xmodqvadgmh Nlfui Malawi 116 CHICKENPOX YES 17-2-2009
+9763 Vuwjspz Wpsfouovhdt Malawi 22 MEASLES YES 11-6-2007
+2249 Cadjrmecymuq Hamxfo Malawi 24 HEPATITIS-A YES 20-3-2020
+6039 Mrldsqcw Cbfztqmz Malawi 15 FLU NO 
+7472 Kdaqwe Jfnmqxnff Malawi 72 HIB NO 
+7697 Xiywzizpmla Cdzkbrkyhu Malawi 52 FLU YES 2-7-2019
+9763 Vuwjspz Wpsfouovhdt Malawi 22 HEPATITIS-B NO 
+257 Wmmyder Naazxnkbf Malawi 117 RUBELLA YES 8-6-2019
+2067 Vgxkcuselp Dhdjepyc Malawi 40 HEPATITIS-B NO 
+2284 Uvdn Dfpyez Malawi 70 POLIO NO 
+2249 Cadjrmecymuq Hamxfo Malawi 24 RUBELLA NO 
+90 Gnk Itk Malawi 15 COVID-19 YES 10-2-2013
+7960 Lgrxlxkxju Xabgunr Malawi 24 TETANUS NO 
+1724 Uucbqhahd Dhul Malawi 9 MEASLES NO 
+3027 Gof Wixj Malawi 99 HEPATITIS-A NO 
+1766 Xmodqvadgmh Nlfui Malawi 116 MEASLES YES 25-4-2004
+6039 Mrldsqcw Cbfztqmz Malawi 15 TETANUS NO 
+5262 Iirgwupxz Vhftfclav Malawi 110 TETANUS YES 9-6-2013
+467 Oeelali Qkhnea Malawi 51 CHICKENPOX NO 
+185 Xcxuh Mmogptc Malawi 60 HEPATITIS-A YES 17-4-2020
+4929 Bhsia Fqghfevjop Malawi 24 HEPATITIS-A YES 10-6-2014
+7472 Kdaqwe Jfnmqxnff Malawi 72 HEPATITIS-B NO 

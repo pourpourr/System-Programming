@@ -1,0 +1,43 @@
+
+504 Bdiz Kvdbgmzkzgct Cape-Verde 101 HIB YES 16-9-2008
+2497 Lvjbpd Cso Cape-Verde 25 COVID-19 YES 15-3-2007
+7263 Nvypsmatnm Fpa Cape-Verde 40 CHICKENPOX NO 
+2497 Lvjbpd Cso Cape-Verde 25 HEPATITIS-B NO 
+2039 Mqqvfbjqyhn Otnamcs Cape-Verde 52 TETANUS NO 
+504 Bdiz Kvdbgmzkzgct Cape-Verde 101 CHICKENPOX NO 
+7263 Nvypsmatnm Fpa Cape-Verde 40 FLU NO 
+5138 Hpzrbeju Nmjruvfmw Cape-Verde 102 TETANUS YES 21-8-2018
+2775 Ety Yyfpaode Cape-Verde 31 MEASLES NO 
+2497 Lvjbpd Cso Cape-Verde 25 POLIO YES 26-10-2005
+6411 Edeiye Xwd Cape-Verde 59 HEPATITIS-A NO 
+3072 Rerh Vju Cape-Verde 47 POLIO YES 14-1-2001
+4520 Owgmkemvtm Ptwho Cape-Verde 4 CHICKENPOX YES 7-2-2005
+5138 Hpzrbeju Nmjruvfmw Cape-Verde 102 MEASLES YES 30-9-2013
+2497 Lvjbpd Cso Cape-Verde 25 COVID-19 NO 
+5737 Gtcwxwle Fsxtsdmqa Cape-Verde 38 FLU YES 25-8-2017
+9099 Bqqk Loap Cape-Verde 58 HEPATITIS-B NO 
+2497 Lvjbpd Cso Cape-Verde 25 RUBELLA YES 3-10-2000
+4722 Ccng Karwoyambne Cape-Verde 34 CHICKENPOX YES 9-5-2011
+8670 Zvvkk Oooo Cape-Verde 101 HEPATITIS-B YES 7-11-2011
+9815 Kih Qcivw Cape-Verde 6 HIB NO 
+4722 Ccng Karwoyambne Cape-Verde 34 HEPATITIS-A YES 19-9-2013
+9099 Bqqk Loap Cape-Verde 58 HEPATITIS-B YES 29-1-2014
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 RUBELLA NO 
+5349 Sldzydhmty Lbkmeazdai Cape-Verde 14 RUBELLA NO 
+1052 Rlfvxvs Iohmcee Cape-Verde 57 TETANUS NO 
+1052 Rlfvxvs Iohmcee Cape-Verde 57 MEASLES NO 
+4722 Ccng Karwoyambne Cape-Verde 34 HIB YES 12-8-2014
+5737 Gtcwxwle Fsxtsdmqa Cape-Verde 38 COVID-19 YES 8-9-2007
+3107 Stktqgvgrl Xtvhu Cape-Verde 108 HEPATITIS-A NO 
+1440 Wdnjsmwbtujo Apc Cape-Verde 21 CHICKENPOX NO 
+3107 Stktqgvgrl Xtvhu Cape-Verde 108 HIB YES 25-7-2007
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 HEPATITIS-B YES 23-9-2017
+4838 Fdbezyjgok Tvogwlfdz Cape-Verde 31 POLIO NO 
+1998 Qedhxxdh Mzbqwxw Cape-Verde 52 TETANUS YES 22-1-2016
+1440 Wdnjsmwbtujo Apc Cape-Verde 21 POLIO NO 
+2775 Ety Yyfpaode Cape-Verde 31 POLIO NO 
+5349 Sldzydhmty Lbkmeazdai Cape-Verde 14 HEPATITIS-A YES 27-10-2001
+2497 Lvjbpd Cso Cape-Verde 25 COVID-19 NO 
+3107 Stktqgvgrl Xtvhu Cape-Verde 108 HIB NO 
+5737 Gtcwxwle Fsxtsdmqa Cape-Verde 38 HEPATITIS-A YES 13-6-2018
+8670 Zvvkk Oooo Cape-Verde 101 RUBELLA NO 

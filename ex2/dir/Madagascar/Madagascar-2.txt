@@ -1,0 +1,53 @@
+
+8759 Vddvgkunsaqq Gkywywqnccb Madagascar 26 HEPATITIS-A YES 7-9-2014
+7374 Fstpiq Tjfikos Madagascar 39 FLU YES 27-1-2011
+640 Fjm Osdahml Madagascar 10 HIB NO 
+8153 Ddpecp Fbfdfejaovq Madagascar 59 TETANUS YES 18-6-2006
+1688 Cutrhmhuwnr Jrhu Madagascar 106 TETANUS NO 
+4905 Gxaliijqu Tvmwxaciey Madagascar 59 HEPATITIS-A NO 
+4905 Gxaliijqu Tvmwxaciey Madagascar 59 FLU NO 
+2689 Ieun Nvdaqzewtb Madagascar 88 RUBELLA YES 15-7-2020
+755 Txjqnpqvc Zjunpocxw Madagascar 11 CHICKENPOX NO 
+6393 Uvbbfznkputu Wam Madagascar 72 MEASLES YES 2-11-2011
+260 Xhtfw Iyvmvdpfkwly Madagascar 46 COVID-19 NO 
+3707 Vcbjgvkeilg Idsrgmijt Madagascar 85 HEPATITIS-B YES 22-6-2014
+5300 Ezag Azbgpgkcdkc Madagascar 113 POLIO NO 
+3707 Vcbjgvkeilg Idsrgmijt Madagascar 85 HIB YES 4-1-2009
+6393 Uvbbfznkputu Wam Madagascar 72 TETANUS YES 18-7-2003
+9611 Jpbigwaz Znetoxsrxee Madagascar 32 HEPATITIS-B YES 24-11-2006
+640 Fjm Osdahml Madagascar 10 RUBELLA YES 10-5-2007
+5081 Rodowewm Fzuntwv Madagascar 30 FLU NO 
+6393 Uvbbfznkputu Wam Madagascar 72 HEPATITIS-A YES 14-3-2003
+8461 Sio Ghtikcubkw Madagascar 95 CHICKENPOX NO 
+2276 Dft Wcvykxopm Madagascar 100 HEPATITIS-B YES 2-3-2007
+8461 Sio Ghtikcubkw Madagascar 95 POLIO NO 
+2689 Ieun Nvdaqzewtb Madagascar 88 RUBELLA NO 
+1691 Fcgohdkcgi Btsjdkivp Madagascar 62 COVID-19 NO 
+4905 Gxaliijqu Tvmwxaciey Madagascar 59 CHICKENPOX YES 24-7-2003
+2276 Dft Wcvykxopm Madagascar 100 COVID-19 NO 
+8153 Ddpecp Fbfdfejaovq Madagascar 59 FLU NO 
+640 Fjm Osdahml Madagascar 10 MEASLES YES 17-8-2003
+8153 Ddpecp Fbfdfejaovq Madagascar 59 HEPATITIS-A YES 3-8-2014
+5300 Ezag Azbgpgkcdkc Madagascar 113 FLU YES 11-6-2015
+5300 Ezag Azbgpgkcdkc Madagascar 113 COVID-19 NO 
+640 Fjm Osdahml Madagascar 10 HEPATITIS-B NO 
+1691 Fcgohdkcgi Btsjdkivp Madagascar 62 HIB NO 
+640 Fjm Osdahml Madagascar 10 FLU NO 
+755 Txjqnpqvc Zjunpocxw Madagascar 11 HIB NO 
+6393 Uvbbfznkputu Wam Madagascar 72 FLU YES 11-6-2006
+7374 Fstpiq Tjfikos Madagascar 39 HIB NO 
+3707 Vcbjgvkeilg Idsrgmijt Madagascar 85 RUBELLA YES 2-10-2006
+3573 Bxafecx Wrsen Madagascar 72 CHICKENPOX NO 
+640 Fjm Osdahml Madagascar 10 HEPATITIS-B YES 19-11-2001
+2689 Ieun Nvdaqzewtb Madagascar 88 HEPATITIS-B YES 29-1-2002
+6393 Uvbbfznkputu Wam Madagascar 72 COVID-19 YES 11-11-2004
+9611 Jpbigwaz Znetoxsrxee Madagascar 32 HEPATITIS-B YES 12-6-2008
+8759 Vddvgkunsaqq Gkywywqnccb Madagascar 26 CHICKENPOX NO 
+8759 Vddvgkunsaqq Gkywywqnccb Madagascar 26 COVID-19 NO 
+1688 Cutrhmhuwnr Jrhu Madagascar 106 COVID-19 YES 17-10-2016
+4525 Odpfram Zddezl Madagascar 43 POLIO YES 23-10-2006
+5014 Weaoulvrlih Wnsw Madagascar 79 HIB NO 
+4525 Odpfram Zddezl Madagascar 43 COVID-19 NO 
+3654 Yzllqbg Rwwvysykd Madagascar 54 HEPATITIS-A NO 
+2036 Tvz Leeld Madagascar 14 TETANUS YES 21-8-2006
+7090 Vcdizetpr Fzqeycswdlgz Madagascar 25 HEPATITIS-B YES 22-7-2019

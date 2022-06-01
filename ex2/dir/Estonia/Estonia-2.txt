@@ -1,0 +1,70 @@
+
+5027 Uvet Xphtizd Estonia 21 HEPATITIS-A YES 19-7-2015
+1736 Icanf Bcbjzkye Estonia 37 FLU NO 
+8165 Lswyjjzj Hgrl Estonia 83 RUBELLA NO 
+934 Lppnjnhk Udwqcgxb Estonia 54 MEASLES NO 
+9025 Dnhldybvyeu Sku Estonia 106 HEPATITIS-A NO 
+6235 Ncfsrga Bkxl Estonia 11 HEPATITIS-B NO 
+6993 Tuhnvkkcx Tntcgl Estonia 11 CHICKENPOX NO 
+2959 Bcbknjicp Taoiyrs Estonia 66 POLIO NO 
+5479 Huegqjzohw Bswq Estonia 42 RUBELLA YES 9-7-2012
+2397 Etwm Xptvmhi Estonia 32 HEPATITIS-B YES 23-1-2011
+2095 Rolrk Njcreasdd Estonia 19 MEASLES YES 11-5-2013
+321 Ncva Dcgsto Estonia 23 HIB YES 5-5-2000
+2270 Ittjrff Enfnq Estonia 12 MEASLES YES 6-3-2013
+9025 Dnhldybvyeu Sku Estonia 106 MEASLES YES 13-2-2006
+1591 Ytggw Yyzywymtycsb Estonia 3 HEPATITIS-B YES 7-3-2009
+2397 Etwm Xptvmhi Estonia 32 TETANUS NO 
+1736 Icanf Bcbjzkye Estonia 37 FLU NO 
+9025 Dnhldybvyeu Sku Estonia 106 POLIO YES 29-3-2000
+7416 Dekxwfhihqv Catzhzeusqj Estonia 35 TETANUS YES 26-10-2003
+2959 Bcbknjicp Taoiyrs Estonia 66 CHICKENPOX NO 
+8799 Hdbt Rbhmxfyf Estonia 45 CHICKENPOX NO 
+6292 Zviltmmmixz Xrohv Estonia 114 HIB NO 
+1686 Kvtpasu Kpqagkrwwhai Estonia 4 HEPATITIS-B NO 
+1271 Ttzpszhxzu Aveh Estonia 13 TETANUS NO 
+321 Ncva Dcgsto Estonia 23 HEPATITIS-B NO 
+5027 Uvet Xphtizd Estonia 21 HEPATITIS-A NO 
+6439 Knsmreu Mioigooq Estonia 84 RUBELLA NO 
+6235 Ncfsrga Bkxl Estonia 11 COVID-19 NO 
+348 Bynmim Jycsuazunozs Estonia 25 FLU YES 9-7-2019
+2425 Hrygsun Ttlvjvqkd Estonia 111 HIB NO 
+1591 Ytggw Yyzywymtycsb Estonia 3 COVID-19 NO 
+2397 Etwm Xptvmhi Estonia 32 FLU YES 14-12-2009
+97 Eonu Qhecfavgloln Estonia 112 HIB YES 30-2-2016
+6780 Dprwtmytw Efptq Estonia 99 HIB NO 
+6218 Nmfgcdadg Oqdo Estonia 7 HEPATITIS-A NO 
+5479 Huegqjzohw Bswq Estonia 42 HIB NO 
+5479 Huegqjzohw Bswq Estonia 42 HIB NO 
+1686 Kvtpasu Kpqagkrwwhai Estonia 4 RUBELLA NO 
+2270 Ittjrff Enfnq Estonia 12 HEPATITIS-B NO 
+1591 Ytggw Yyzywymtycsb Estonia 3 HIB NO 
+97 Eonu Qhecfavgloln Estonia 112 RUBELLA YES 6-5-2006
+5657 Fdqus Hgsdcb Estonia 28 MEASLES YES 29-5-2015
+8165 Lswyjjzj Hgrl Estonia 83 HIB NO 
+7048 Ort Ltrozhnk Estonia 107 RUBELLA YES 8-12-2016
+2959 Bcbknjicp Taoiyrs Estonia 66 RUBELLA YES 28-10-2017
+6235 Ncfsrga Bkxl Estonia 11 HEPATITIS-A YES 19-4-2001
+1686 Kvtpasu Kpqagkrwwhai Estonia 4 TETANUS NO 
+8799 Hdbt Rbhmxfyf Estonia 45 RUBELLA NO 
+2270 Ittjrff Enfnq Estonia 12 HIB NO 
+348 Bynmim Jycsuazunozs Estonia 25 HEPATITIS-A NO 
+9025 Dnhldybvyeu Sku Estonia 106 FLU YES 23-12-2014
+7048 Ort Ltrozhnk Estonia 107 FLU NO 
+2425 Hrygsun Ttlvjvqkd Estonia 111 CHICKENPOX NO 
+1 Hurbhapfrwyc Lcfkybwjwysj Estonia 46 CHICKENPOX YES 25-3-2006
+1 Hurbhapfrwyc Lcfkybwjwysj Estonia 46 COVID-19 NO 
+1686 Kvtpasu Kpqagkrwwhai Estonia 4 HEPATITIS-B YES 3-4-2007
+2270 Ittjrff Enfnq Estonia 12 COVID-19 NO 
+7416 Dekxwfhihqv Catzhzeusqj Estonia 35 TETANUS NO 
+2095 Rolrk Njcreasdd Estonia 19 HEPATITIS-B YES 26-7-2017
+2397 Etwm Xptvmhi Estonia 32 HEPATITIS-B YES 4-5-2004
+8799 Hdbt Rbhmxfyf Estonia 45 HEPATITIS-A NO 
+8799 Hdbt Rbhmxfyf Estonia 45 HIB NO 
+6439 Knsmreu Mioigooq Estonia 84 MEASLES NO 
+5657 Fdqus Hgsdcb Estonia 28 POLIO YES 2-1-2018
+5657 Fdqus Hgsdcb Estonia 28 HEPATITIS-A NO 
+7048 Ort Ltrozhnk Estonia 107 HEPATITIS-A YES 21-9-2019
+2270 Ittjrff Enfnq Estonia 12 RUBELLA NO 
+8165 Lswyjjzj Hgrl Estonia 83 MEASLES NO 
+5657 Fdqus Hgsdcb Estonia 28 COVID-19 NO 

@@ -1,0 +1,56 @@
+
+2652 Iwcgvyh Qwofwajd Uganda 52 POLIO YES 12-3-2007
+4589 Hygrjgsfl Ntt Uganda 71 HEPATITIS-B YES 29-7-2003
+4848 Axad Cqhdnmztdo Uganda 7 HEPATITIS-B NO 
+5711 Xvsprpw Avuulntrcoco Uganda 69 RUBELLA NO 
+2652 Iwcgvyh Qwofwajd Uganda 52 RUBELLA NO 
+5612 Hosjfljuscvh Gunfv Uganda 56 COVID-19 NO 
+513 Oslnnskg Fsatldcjhev Uganda 77 TETANUS YES 13-12-2012
+2203 Hcfi Nkomhtkklo Uganda 94 CHICKENPOX NO 
+676 Mpigdsvrv Foztfzwg Uganda 18 HEPATITIS-A YES 26-4-2010
+3787 Wwuthk Tqwyrdpmo Uganda 79 HEPATITIS-A YES 13-4-2000
+6258 Mkpslewzm Syiscdc Uganda 21 FLU NO 
+6520 Jrjowzszjbxb Ywajhovyo Uganda 97 RUBELLA NO 
+1898 Zghfzun Lkaghencrcvk Uganda 81 HEPATITIS-A YES 22-8-2006
+3787 Wwuthk Tqwyrdpmo Uganda 79 CHICKENPOX YES 14-7-2015
+6258 Mkpslewzm Syiscdc Uganda 21 HIB NO 
+2474 Oktqehuivwsy Wztofejlqqez Uganda 105 CHICKENPOX YES 23-7-2015
+676 Mpigdsvrv Foztfzwg Uganda 18 COVID-19 YES 10-1-2002
+3787 Wwuthk Tqwyrdpmo Uganda 79 HIB YES 11-1-2004
+5711 Xvsprpw Avuulntrcoco Uganda 69 HIB NO 
+7580 Ngadqdjbjjg Wnxtljrkdd Uganda 6 TETANUS NO 
+3417 Eikopkmexnzg Qtavktdveri Uganda 76 POLIO NO 
+3787 Wwuthk Tqwyrdpmo Uganda 79 CHICKENPOX NO 
+2203 Hcfi Nkomhtkklo Uganda 94 POLIO NO 
+513 Oslnnskg Fsatldcjhev Uganda 77 FLU NO 
+285 Dajqybjbbrg Xxbnqxtapny Uganda 7 RUBELLA YES 4-9-2017
+6520 Jrjowzszjbxb Ywajhovyo Uganda 97 HIB YES 25-8-2001
+4409 Pcblqqkxk Lkxoqmwm Uganda 118 HIB NO 
+2474 Oktqehuivwsy Wztofejlqqez Uganda 105 HEPATITIS-B NO 
+513 Oslnnskg Fsatldcjhev Uganda 77 HIB YES 26-1-2005
+6918 Jeupx Hwhyxrbdwbp Uganda 76 POLIO NO 
+2474 Oktqehuivwsy Wztofejlqqez Uganda 105 TETANUS NO 
+4409 Pcblqqkxk Lkxoqmwm Uganda 118 POLIO NO 
+5974 Pqq Atd Uganda 98 POLIO YES 24-7-2011
+5711 Xvsprpw Avuulntrcoco Uganda 69 MEASLES NO 
+6520 Jrjowzszjbxb Ywajhovyo Uganda 97 HIB NO 
+8109 Pkzd Mfemqqkoem Uganda 15 CHICKENPOX NO 
+5974 Pqq Atd Uganda 98 HEPATITIS-B YES 7-1-2004
+2203 Hcfi Nkomhtkklo Uganda 94 FLU NO 
+8882 Fnllwwjjbi Nibvuu Uganda 74 HEPATITIS-B NO 
+5612 Hosjfljuscvh Gunfv Uganda 56 HIB NO 
+4279 Gxspwsgesav Hmcktxyfksn Uganda 77 FLU NO 
+3192 Ljrecteevk Cudouailhcn Uganda 94 FLU NO 
+3417 Eikopkmexnzg Qtavktdveri Uganda 76 FLU NO 
+8557 Dbw Oxniopodt Uganda 48 POLIO NO 
+3787 Wwuthk Tqwyrdpmo Uganda 79 POLIO NO 
+2498 Ieurrtfv Wlffzaea Uganda 52 CHICKENPOX NO 
+2203 Hcfi Nkomhtkklo Uganda 94 FLU NO 
+6520 Jrjowzszjbxb Ywajhovyo Uganda 97 POLIO NO 
+676 Mpigdsvrv Foztfzwg Uganda 18 HEPATITIS-B NO 
+4589 Hygrjgsfl Ntt Uganda 71 HEPATITIS-B NO 
+6258 Mkpslewzm Syiscdc Uganda 21 HEPATITIS-A YES 9-6-2003
+4848 Axad Cqhdnmztdo Uganda 7 MEASLES YES 28-10-2009
+2203 Hcfi Nkomhtkklo Uganda 94 POLIO YES 2-1-2019
+8557 Dbw Oxniopodt Uganda 48 TETANUS NO 
+4409 Pcblqqkxk Lkxoqmwm Uganda 118 COVID-19 YES 20-3-2004

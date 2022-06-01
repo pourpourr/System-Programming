@@ -1,0 +1,36 @@
+
+2594 Raor Gyri United-Arab-Emirates 73 HEPATITIS-B YES 20-7-2017
+875 Tirvbm Bsgjn United-Arab-Emirates 67 POLIO YES 4-4-2007
+6187 Nebzcmg Rutq United-Arab-Emirates 31 HIB YES 29-12-2015
+6187 Nebzcmg Rutq United-Arab-Emirates 31 RUBELLA NO 
+1036 Oixgjort Iasnc United-Arab-Emirates 105 COVID-19 YES 6-4-2007
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 POLIO NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 CHICKENPOX YES 7-5-2012
+3877 Suhntsxcj Hjyginwa United-Arab-Emirates 76 MEASLES NO 
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 FLU YES 15-12-2002
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 COVID-19 YES 28-1-2010
+7020 Cew Tqkux United-Arab-Emirates 9 POLIO YES 24-1-2007
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 MEASLES YES 2-2-2009
+8268 Pwgszmafa Eblxjwylgzqh United-Arab-Emirates 119 FLU NO 
+8868 Cir Cap United-Arab-Emirates 74 TETANUS YES 27-4-2018
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 MEASLES NO 
+5307 Fos Jzfcv United-Arab-Emirates 57 COVID-19 YES 21-4-2000
+6187 Nebzcmg Rutq United-Arab-Emirates 31 RUBELLA YES 27-3-2019
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 TETANUS NO 
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 HIB YES 9-2-2008
+7020 Cew Tqkux United-Arab-Emirates 9 HEPATITIS-A YES 17-5-2014
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 HEPATITIS-A YES 8-5-2012
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 CHICKENPOX NO 
+5092 Uftbcswjh Cesalhmi United-Arab-Emirates 88 HEPATITIS-A NO 
+7020 Cew Tqkux United-Arab-Emirates 9 FLU YES 11-7-2019
+1093 Zecr Qdcp United-Arab-Emirates 55 CHICKENPOX NO 
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 RUBELLA YES 19-11-2011
+9707 Mmjoa Qolv United-Arab-Emirates 22 FLU NO 
+2594 Raor Gyri United-Arab-Emirates 73 HEPATITIS-A NO 
+3283 Mhfaontcv Dwkrqllpguh United-Arab-Emirates 56 MEASLES YES 26-2-2003
+2297 Arbsccytgu Nyqaxvdxy United-Arab-Emirates 10 HIB NO 
+6187 Nebzcmg Rutq United-Arab-Emirates 31 HIB YES 21-8-2015
+7859 Gqr Blkbyhbmmgk United-Arab-Emirates 109 HEPATITIS-B YES 5-5-2000
+1393 Bwkvniazri Tqtn United-Arab-Emirates 49 FLU YES 19-1-2014
+875 Tirvbm Bsgjn United-Arab-Emirates 67 COVID-19 NO 
+2949 Hetjktuw Czmxp United-Arab-Emirates 78 MEASLES YES 20-4-2005

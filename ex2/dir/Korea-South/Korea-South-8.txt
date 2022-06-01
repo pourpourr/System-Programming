@@ -1,0 +1,57 @@
+
+5463 Ainkwe Obdruwlh Korea-South 47 RUBELLA YES 27-1-2017
+663 Scbzr Nad Korea-South 117 MEASLES YES 26-8-2013
+5622 Wammapwgl Akubbvv Korea-South 69 COVID-19 YES 29-2-2013
+4241 Tpuriqfox Ywracxh Korea-South 58 TETANUS YES 16-12-2002
+320 Juq Hvqz Korea-South 41 FLU YES 17-11-2015
+2471 Ehknj Sqwmv Korea-South 81 RUBELLA NO 
+2177 Crq Ccomsuoj Korea-South 68 HIB NO 
+5794 Oqjrfdk Lozqbplji Korea-South 91 RUBELLA YES 20-1-2004
+320 Juq Hvqz Korea-South 41 FLU YES 18-11-2008
+5777 Byehiauqkjk Sciuxkhdspct Korea-South 48 CHICKENPOX YES 18-3-2016
+6316 Cwxtpbujkc Fgxupeqbcjv Korea-South 60 RUBELLA YES 7-11-2000
+6316 Cwxtpbujkc Fgxupeqbcjv Korea-South 60 HEPATITIS-A YES 9-11-2019
+5794 Oqjrfdk Lozqbplji Korea-South 91 POLIO YES 29-4-2005
+3970 Pmidgnfrhxx Ply Korea-South 24 MEASLES NO 
+7885 Tbx Wqbmgqfeakr Korea-South 8 RUBELLA NO 
+2016 Jjdwpvwkcog Ree Korea-South 59 TETANUS YES 7-10-2017
+2471 Ehknj Sqwmv Korea-South 81 HEPATITIS-A YES 26-12-2014
+9150 Tzlbjj Mrmwlmjkjx Korea-South 87 TETANUS YES 20-4-2001
+3970 Pmidgnfrhxx Ply Korea-South 24 HIB YES 16-8-2005
+857 Jjoc Chcirjklfl Korea-South 30 HEPATITIS-A NO 
+9616 Vqalqd Igz Korea-South 48 HEPATITIS-A NO 
+5463 Ainkwe Obdruwlh Korea-South 47 HEPATITIS-B YES 2-5-2001
+5351 Wecqjvcrh Udsoiggkvtap Korea-South 23 CHICKENPOX NO 
+5794 Oqjrfdk Lozqbplji Korea-South 91 HEPATITIS-B NO 
+65 Fxqjieznnq Voyfnojftn Korea-South 82 HEPATITIS-A NO 
+65 Fxqjieznnq Voyfnojftn Korea-South 82 HEPATITIS-A YES 15-7-2003
+2177 Crq Ccomsuoj Korea-South 68 HIB NO 
+5351 Wecqjvcrh Udsoiggkvtap Korea-South 23 MEASLES NO 
+4887 Ggieoxnhitld Znv Korea-South 64 CHICKENPOX YES 20-9-2017
+5642 Qlfxcjkxxfg Wraejd Korea-South 112 MEASLES NO 
+4151 Gpw Lkzvp Korea-South 111 HEPATITIS-A NO 
+5622 Wammapwgl Akubbvv Korea-South 69 MEASLES NO 
+663 Scbzr Nad Korea-South 117 HEPATITIS-A YES 1-1-2011
+1636 Kdkbuioupwf Uvknhdibdl Korea-South 103 HIB NO 
+5777 Byehiauqkjk Sciuxkhdspct Korea-South 48 MEASLES NO 
+7885 Tbx Wqbmgqfeakr Korea-South 8 TETANUS YES 6-4-2009
+9165 Cjad Mhazrijbjwm Korea-South 7 POLIO YES 27-5-2011
+663 Scbzr Nad Korea-South 117 MEASLES YES 4-12-2008
+9616 Vqalqd Igz Korea-South 48 POLIO NO 
+9150 Tzlbjj Mrmwlmjkjx Korea-South 87 MEASLES NO 
+3339 Ejket Cyz Korea-South 35 CHICKENPOX YES 20-7-2016
+4658 Zlpdkzg Yznqhweewkk Korea-South 1 RUBELLA YES 11-3-2020
+6316 Cwxtpbujkc Fgxupeqbcjv Korea-South 60 RUBELLA YES 19-12-2000
+6846 Uagumz Vvbq Korea-South 94 COVID-19 NO 
+2177 Crq Ccomsuoj Korea-South 68 MEASLES YES 21-7-2003
+4151 Gpw Lkzvp Korea-South 111 FLU NO 
+7885 Tbx Wqbmgqfeakr Korea-South 8 HEPATITIS-A YES 26-7-2008
+9616 Vqalqd Igz Korea-South 48 HEPATITIS-B YES 27-12-2019
+2471 Ehknj Sqwmv Korea-South 81 POLIO YES 7-12-2005
+5622 Wammapwgl Akubbvv Korea-South 69 HIB NO 
+5794 Oqjrfdk Lozqbplji Korea-South 91 TETANUS NO 
+65 Fxqjieznnq Voyfnojftn Korea-South 82 CHICKENPOX YES 26-1-2001
+5463 Ainkwe Obdruwlh Korea-South 47 MEASLES YES 16-1-2001
+9616 Vqalqd Igz Korea-South 48 CHICKENPOX NO 
+5642 Qlfxcjkxxfg Wraejd Korea-South 112 COVID-19 YES 7-8-2001
+5351 Wecqjvcrh Udsoiggkvtap Korea-South 23 TETANUS NO 

@@ -1,0 +1,63 @@
+
+1763 Dpk Lwlehb Sao-Tome&Principe 43 HEPATITIS-A YES 30-7-2005
+3005 Tzdjtg Dlvfwilk Sao-Tome&Principe 47 CHICKENPOX NO 
+1763 Dpk Lwlehb Sao-Tome&Principe 43 HEPATITIS-B NO 
+5091 Cyw Wwhnvcygkl Sao-Tome&Principe 19 MEASLES YES 28-6-2014
+9502 Lltz Pltczh Sao-Tome&Principe 62 COVID-19 NO 
+1634 Qoz Edscpkqprcpb Sao-Tome&Principe 74 HIB YES 25-8-2009
+3005 Tzdjtg Dlvfwilk Sao-Tome&Principe 47 HEPATITIS-A YES 11-7-2001
+7797 Qixhzj Odkwmjkhglx Sao-Tome&Principe 93 HEPATITIS-A NO 
+9990 Vauaa Azfypmj Sao-Tome&Principe 7 HEPATITIS-A NO 
+4423 Xspgjbusmu Yjgzjdmjexxf Sao-Tome&Principe 40 FLU NO 
+1634 Qoz Edscpkqprcpb Sao-Tome&Principe 74 FLU YES 17-7-2002
+5091 Cyw Wwhnvcygkl Sao-Tome&Principe 19 HEPATITIS-B NO 
+8811 Kojf Kfqp Sao-Tome&Principe 7 HEPATITIS-B NO 
+7904 Lwnt Mssnkk Sao-Tome&Principe 106 HIB NO 
+7041 Kzfvneucmeov Ovaqqey Sao-Tome&Principe 112 FLU NO 
+8062 Empdeaa Ixscftznak Sao-Tome&Principe 24 POLIO YES 26-6-2006
+9057 Xkhetbnoibx Onusutuvguns Sao-Tome&Principe 65 HIB YES 12-8-2017
+1763 Dpk Lwlehb Sao-Tome&Principe 43 FLU YES 6-1-2001
+2559 Jkeobmzkf Fokultoirhi Sao-Tome&Principe 69 MEASLES NO 
+1913 Hmtwrsxt Cphsiixpty Sao-Tome&Principe 115 RUBELLA YES 22-6-2001
+6879 Pgr Hulrt Sao-Tome&Principe 34 HIB NO 
+4324 Dbfxyeunbsob Dgefkhjigvr Sao-Tome&Principe 36 POLIO YES 29-2-2020
+7904 Lwnt Mssnkk Sao-Tome&Principe 106 MEASLES NO 
+2559 Jkeobmzkf Fokultoirhi Sao-Tome&Principe 69 CHICKENPOX NO 
+1453 Rwueiflaryji Rfmyaxbmt Sao-Tome&Principe 68 HIB YES 14-6-2018
+9990 Vauaa Azfypmj Sao-Tome&Principe 7 COVID-19 YES 12-3-2008
+4324 Dbfxyeunbsob Dgefkhjigvr Sao-Tome&Principe 36 HEPATITIS-A YES 17-11-2010
+8062 Empdeaa Ixscftznak Sao-Tome&Principe 24 POLIO NO 
+9990 Vauaa Azfypmj Sao-Tome&Principe 7 POLIO NO 
+9057 Xkhetbnoibx Onusutuvguns Sao-Tome&Principe 65 RUBELLA YES 24-8-2000
+7041 Kzfvneucmeov Ovaqqey Sao-Tome&Principe 112 RUBELLA YES 21-4-2013
+8811 Kojf Kfqp Sao-Tome&Principe 7 HIB YES 10-8-2013
+4690 Hsdglonlze Calzanzdipbq Sao-Tome&Principe 112 TETANUS YES 29-1-2002
+2085 Dcoqwogh Iakoyggc Sao-Tome&Principe 22 COVID-19 YES 4-8-2014
+9057 Xkhetbnoibx Onusutuvguns Sao-Tome&Principe 65 TETANUS NO 
+6510 Ztcrjvnofkn Rbtzk Sao-Tome&Principe 1 POLIO YES 15-4-2004
+9990 Vauaa Azfypmj Sao-Tome&Principe 7 TETANUS YES 8-10-2008
+9990 Vauaa Azfypmj Sao-Tome&Principe 7 HIB NO 
+1763 Dpk Lwlehb Sao-Tome&Principe 43 TETANUS YES 25-4-2013
+8811 Kojf Kfqp Sao-Tome&Principe 7 CHICKENPOX NO 
+1763 Dpk Lwlehb Sao-Tome&Principe 43 TETANUS YES 4-4-2001
+4324 Dbfxyeunbsob Dgefkhjigvr Sao-Tome&Principe 36 RUBELLA YES 1-9-2004
+5091 Cyw Wwhnvcygkl Sao-Tome&Principe 19 RUBELLA NO 
+1913 Hmtwrsxt Cphsiixpty Sao-Tome&Principe 115 POLIO YES 19-5-2020
+8062 Empdeaa Ixscftznak Sao-Tome&Principe 24 HEPATITIS-A YES 4-4-2017
+7719 Fzbhh Ougwnpm Sao-Tome&Principe 98 HEPATITIS-B YES 18-6-2010
+2085 Dcoqwogh Iakoyggc Sao-Tome&Principe 22 HEPATITIS-B YES 19-2-2017
+7904 Lwnt Mssnkk Sao-Tome&Principe 106 MEASLES YES 17-12-2015
+7904 Lwnt Mssnkk Sao-Tome&Principe 106 TETANUS YES 10-6-2017
+7904 Lwnt Mssnkk Sao-Tome&Principe 106 COVID-19 NO 
+3752 Mtnsli Elauktwu Sao-Tome&Principe 96 CHICKENPOX YES 9-11-2014
+7904 Lwnt Mssnkk Sao-Tome&Principe 106 HEPATITIS-B YES 14-8-2007
+8062 Empdeaa Ixscftznak Sao-Tome&Principe 24 HEPATITIS-A YES 19-3-2019
+9214 Xisiuxxeoi Ajjhhikzjzx Sao-Tome&Principe 80 COVID-19 YES 5-7-2001
+4999 Pqgasfha Xhhdd Sao-Tome&Principe 75 MEASLES YES 4-12-2007
+4423 Xspgjbusmu Yjgzjdmjexxf Sao-Tome&Principe 40 CHICKENPOX YES 22-5-2012
+2559 Jkeobmzkf Fokultoirhi Sao-Tome&Principe 69 HEPATITIS-A YES 9-4-2018
+5091 Cyw Wwhnvcygkl Sao-Tome&Principe 19 CHICKENPOX NO 
+5091 Cyw Wwhnvcygkl Sao-Tome&Principe 19 MEASLES YES 29-1-2009
+9990 Vauaa Azfypmj Sao-Tome&Principe 7 HEPATITIS-B YES 10-1-2019
+6748 Lqtydid Yohqoaq Sao-Tome&Principe 94 HEPATITIS-B YES 25-12-2012
+9990 Vauaa Azfypmj Sao-Tome&Principe 7 TETANUS NO 

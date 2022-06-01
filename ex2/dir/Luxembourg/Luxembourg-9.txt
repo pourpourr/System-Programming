@@ -1,0 +1,73 @@
+
+1645 Hirbrletm Hssdqafusgk Luxembourg 59 HEPATITIS-A NO 
+6609 Dqqxzwyy Rziewymog Luxembourg 78 CHICKENPOX NO 
+7298 Tqfhw Bjhjbxb Luxembourg 39 TETANUS YES 23-2-2009
+7621 Bogjyznvw Ecoshsfdqke Luxembourg 6 HEPATITIS-B NO 
+207 Azmxiiyyxwr Ojs Luxembourg 90 COVID-19 NO 
+8319 Zyzka Xvcuoxytyj Luxembourg 26 FLU YES 17-2-2016
+9645 Vbvihhtrolwf Zbzidpwdlbs Luxembourg 40 MEASLES NO 
+2140 Sqzafrax Wykfxg Luxembourg 102 MEASLES NO 
+6609 Dqqxzwyy Rziewymog Luxembourg 78 CHICKENPOX NO 
+2140 Sqzafrax Wykfxg Luxembourg 102 FLU NO 
+1645 Hirbrletm Hssdqafusgk Luxembourg 59 FLU YES 20-7-2002
+1007 Odzccdnkdr Ziqxppvk Luxembourg 83 MEASLES NO 
+1007 Odzccdnkdr Ziqxppvk Luxembourg 83 HEPATITIS-A YES 24-2-2004
+1007 Odzccdnkdr Ziqxppvk Luxembourg 83 COVID-19 NO 
+8112 Welabshldrx Qkldt Luxembourg 58 COVID-19 YES 18-11-2004
+8319 Zyzka Xvcuoxytyj Luxembourg 26 COVID-19 NO 
+5201 Iqlfg Cwo Luxembourg 31 HIB NO 
+4351 Rfji Ejrnfcipn Luxembourg 120 CHICKENPOX YES 9-8-2004
+6814 Pccthp Oohytwvc Luxembourg 3 MEASLES NO 
+6814 Pccthp Oohytwvc Luxembourg 3 POLIO NO 
+3332 Eollpcwe Ysuhuaqtp Luxembourg 39 TETANUS NO 
+5826 Khp Fktzwzgcjge Luxembourg 78 FLU NO 
+1162 Zko Ddvnqiaqw Luxembourg 38 COVID-19 YES 8-7-2016
+869 Mmnutgow Pdwji Luxembourg 84 HIB NO 
+5510 Sfsuo Brwrxhipfwes Luxembourg 37 TETANUS NO 
+1007 Odzccdnkdr Ziqxppvk Luxembourg 83 MEASLES YES 29-1-2006
+1569 Oeiuo Aukrljr Luxembourg 84 MEASLES YES 16-1-2012
+2280 Nfgb Mtlhz Luxembourg 40 TETANUS YES 11-8-2008
+4787 Umdk Ylkom Luxembourg 97 HEPATITIS-A NO 
+7298 Tqfhw Bjhjbxb Luxembourg 39 MEASLES YES 10-6-2017
+5802 Nckffkpkkew Qym Luxembourg 31 HEPATITIS-A YES 18-5-2007
+3211 Eeq Thxxttbnecfr Luxembourg 94 COVID-19 NO 
+852 Tavbpxa Ywm Luxembourg 57 TETANUS YES 10-2-2006
+5510 Sfsuo Brwrxhipfwes Luxembourg 37 TETANUS NO 
+3211 Eeq Thxxttbnecfr Luxembourg 94 COVID-19 YES 8-5-2020
+7298 Tqfhw Bjhjbxb Luxembourg 39 COVID-19 NO 
+2139 Vfxd Wsnngejkwlv Luxembourg 61 CHICKENPOX YES 2-9-2002
+7621 Bogjyznvw Ecoshsfdqke Luxembourg 6 FLU NO 
+2140 Sqzafrax Wykfxg Luxembourg 102 HEPATITIS-A YES 24-7-2016
+9645 Vbvihhtrolwf Zbzidpwdlbs Luxembourg 40 TETANUS NO 
+7298 Tqfhw Bjhjbxb Luxembourg 39 MEASLES YES 1-2-2007
+5826 Khp Fktzwzgcjge Luxembourg 78 CHICKENPOX NO 
+9605 Fhnuispdq Ojvvy Luxembourg 78 TETANUS YES 13-12-2007
+207 Azmxiiyyxwr Ojs Luxembourg 90 TETANUS NO 
+4787 Umdk Ylkom Luxembourg 97 HEPATITIS-B NO 
+8993 Nfrctef Pnip Luxembourg 7 FLU YES 22-8-2012
+3211 Eeq Thxxttbnecfr Luxembourg 94 FLU YES 25-2-2011
+869 Mmnutgow Pdwji Luxembourg 84 TETANUS NO 
+1007 Odzccdnkdr Ziqxppvk Luxembourg 83 MEASLES NO 
+6545 Dkaklwwl Nqjroxgi Luxembourg 93 COVID-19 NO 
+9875 Myomvjvvhjg Epqh Luxembourg 33 TETANUS YES 2-12-2020
+2139 Vfxd Wsnngejkwlv Luxembourg 61 HEPATITIS-A NO 
+5826 Khp Fktzwzgcjge Luxembourg 78 HIB YES 25-3-2018
+5746 Iyuuqlzprrci Zsvgrun Luxembourg 16 FLU NO 
+9645 Vbvihhtrolwf Zbzidpwdlbs Luxembourg 40 HEPATITIS-B NO 
+8112 Welabshldrx Qkldt Luxembourg 58 MEASLES YES 12-7-2001
+5802 Nckffkpkkew Qym Luxembourg 31 HEPATITIS-B NO 
+4745 Few Sgwcoys Luxembourg 102 FLU NO 
+5201 Iqlfg Cwo Luxembourg 31 RUBELLA NO 
+5201 Iqlfg Cwo Luxembourg 31 COVID-19 YES 8-1-2012
+5746 Iyuuqlzprrci Zsvgrun Luxembourg 16 HEPATITIS-A NO 
+3211 Eeq Thxxttbnecfr Luxembourg 94 RUBELLA YES 23-10-2015
+7298 Tqfhw Bjhjbxb Luxembourg 39 HEPATITIS-B NO 
+750 Sjtpliabvqp Phyvpkfft Luxembourg 47 COVID-19 NO 
+4787 Umdk Ylkom Luxembourg 97 MEASLES NO 
+8993 Nfrctef Pnip Luxembourg 7 POLIO YES 2-2-2006
+852 Tavbpxa Ywm Luxembourg 57 MEASLES NO 
+8319 Zyzka Xvcuoxytyj Luxembourg 26 HEPATITIS-B NO 
+6545 Dkaklwwl Nqjroxgi Luxembourg 93 FLU YES 27-6-2018
+7621 Bogjyznvw Ecoshsfdqke Luxembourg 6 POLIO NO 
+2139 Vfxd Wsnngejkwlv Luxembourg 61 CHICKENPOX NO 
+6814 Pccthp Oohytwvc Luxembourg 3 HEPATITIS-B NO 

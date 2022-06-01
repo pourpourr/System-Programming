@@ -1,0 +1,41 @@
+
+1606 Csbbnyypmxlz Dmger Albania 72 POLIO YES 27-4-2006
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 RUBELLA NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 CHICKENPOX NO 
+8754 Vahcavjr Lfjwnhkq Albania 114 HEPATITIS-B NO 
+4982 Hxpqg Iooxuvwcyayk Albania 55 POLIO NO 
+3077 Osrpyidfx Bpjsv Albania 13 RUBELLA YES 1-2-2006
+8754 Vahcavjr Lfjwnhkq Albania 114 HIB YES 21-7-2011
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 HEPATITIS-A YES 3-9-2008
+6322 Ianujzz Ondbczxdwgz Albania 56 CHICKENPOX NO 
+6523 Iejvqg Qfh Albania 14 CHICKENPOX YES 8-12-2008
+4982 Hxpqg Iooxuvwcyayk Albania 55 HEPATITIS-B YES 8-7-2009
+1606 Csbbnyypmxlz Dmger Albania 72 POLIO YES 23-3-2015
+5940 Knjqvopt Cyavxge Albania 3 POLIO YES 25-8-2018
+9917 Kxxh Uulfeuw Albania 44 TETANUS YES 15-6-2005
+7383 Jzor Navby Albania 2 CHICKENPOX NO 
+3077 Osrpyidfx Bpjsv Albania 13 MEASLES YES 7-1-2001
+8976 Orrtentiaxu Vqhlebuxy Albania 68 FLU YES 25-8-2010
+4235 Olactvihyqu Meatb Albania 118 HEPATITIS-A YES 12-10-2016
+6322 Ianujzz Ondbczxdwgz Albania 56 HEPATITIS-A NO 
+3077 Osrpyidfx Bpjsv Albania 13 HEPATITIS-A NO 
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 FLU YES 28-12-2018
+8976 Orrtentiaxu Vqhlebuxy Albania 68 HEPATITIS-A YES 8-5-2006
+2866 Sjgqguzoc Jdhd Albania 8 HEPATITIS-B NO 
+1606 Csbbnyypmxlz Dmger Albania 72 CHICKENPOX YES 6-6-2015
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 HEPATITIS-A YES 19-9-2004
+6322 Ianujzz Ondbczxdwgz Albania 56 HIB NO 
+5595 Okrnhddm Ddaddlopzwu Albania 34 HIB YES 18-8-2004
+7383 Jzor Navby Albania 2 HIB YES 25-9-2012
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 COVID-19 YES 11-5-2012
+6322 Ianujzz Ondbczxdwgz Albania 56 COVID-19 NO 
+9917 Kxxh Uulfeuw Albania 44 COVID-19 YES 30-1-2014
+8976 Orrtentiaxu Vqhlebuxy Albania 68 FLU YES 7-7-2005
+6322 Ianujzz Ondbczxdwgz Albania 56 HEPATITIS-A YES 15-3-2010
+1547 Hepprwm Dxpjomov Albania 57 FLU YES 29-2-2014
+7383 Jzor Navby Albania 2 HEPATITIS-B YES 19-6-2019
+4235 Olactvihyqu Meatb Albania 118 POLIO NO 
+9917 Kxxh Uulfeuw Albania 44 CHICKENPOX NO 
+8976 Orrtentiaxu Vqhlebuxy Albania 68 RUBELLA NO 
+8976 Orrtentiaxu Vqhlebuxy Albania 68 CHICKENPOX NO 
+6523 Iejvqg Qfh Albania 14 HIB YES 25-4-2017

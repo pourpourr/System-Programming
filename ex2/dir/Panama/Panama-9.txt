@@ -1,0 +1,38 @@
+
+458 Gknfpxttuug Asggiyqug Panama 90 HEPATITIS-B NO 
+1962 Itkgowhuj Emebylxs Panama 48 MEASLES YES 8-12-2018
+458 Gknfpxttuug Asggiyqug Panama 90 HEPATITIS-A NO 
+2918 Aahgzlyvlu Unzxajj Panama 116 HEPATITIS-B NO 
+9829 Ooek Fydjckqnmxv Panama 60 FLU NO 
+1933 Hojkphr Fomvx Panama 42 FLU YES 26-4-2012
+2918 Aahgzlyvlu Unzxajj Panama 116 FLU NO 
+7122 Srqkestfv Scazwzhdpwci Panama 99 RUBELLA YES 16-4-2000
+8563 Ytv Gxwlzwdkacob Panama 23 RUBELLA NO 
+6594 Uytdyyd Kbolesqjjwlu Panama 76 COVID-19 YES 8-9-2003
+7466 Vlgejacssx Ssxuk Panama 71 TETANUS NO 
+2663 Kvplfbfkqn Qrqhef Panama 79 MEASLES YES 28-8-2011
+7466 Vlgejacssx Ssxuk Panama 71 POLIO NO 
+7750 Iwywl Ogu Panama 33 MEASLES NO 
+9743 Yok Ecv Panama 109 RUBELLA NO 
+9743 Yok Ecv Panama 109 TETANUS NO 
+2918 Aahgzlyvlu Unzxajj Panama 116 CHICKENPOX YES 19-2-2018
+7964 Sofubqmf Umrelsiqpaw Panama 39 RUBELLA YES 9-9-2005
+9168 Gmaj Cgppejgqaj Panama 31 HIB YES 9-6-2012
+7750 Iwywl Ogu Panama 33 RUBELLA NO 
+7964 Sofubqmf Umrelsiqpaw Panama 39 COVID-19 YES 2-1-2015
+3363 Ucujfbefq Tuinde Panama 72 HIB YES 28-3-2007
+5588 Keeyeuhjb Dulddgvp Panama 77 HIB YES 21-3-2003
+458 Gknfpxttuug Asggiyqug Panama 90 HEPATITIS-B YES 2-10-2006
+9743 Yok Ecv Panama 109 HIB NO 
+6594 Uytdyyd Kbolesqjjwlu Panama 76 HEPATITIS-A YES 30-3-2008
+2918 Aahgzlyvlu Unzxajj Panama 116 POLIO NO 
+9743 Yok Ecv Panama 109 HEPATITIS-B NO 
+3363 Ucujfbefq Tuinde Panama 72 HEPATITIS-A YES 9-6-2004
+3363 Ucujfbefq Tuinde Panama 72 CHICKENPOX NO 
+7122 Srqkestfv Scazwzhdpwci Panama 99 RUBELLA NO 
+9168 Gmaj Cgppejgqaj Panama 31 COVID-19 NO 
+7964 Sofubqmf Umrelsiqpaw Panama 39 HIB YES 28-5-2006
+7964 Sofubqmf Umrelsiqpaw Panama 39 POLIO NO 
+7466 Vlgejacssx Ssxuk Panama 71 CHICKENPOX NO 
+2918 Aahgzlyvlu Unzxajj Panama 116 HEPATITIS-A YES 24-12-2006
+9168 Gmaj Cgppejgqaj Panama 31 COVID-19 YES 7-11-2008

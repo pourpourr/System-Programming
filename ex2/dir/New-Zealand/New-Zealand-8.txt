@@ -1,0 +1,53 @@
+
+3749 Gevyqbfju Fqabiccj New-Zealand 57 HEPATITIS-B NO 
+8125 Frryjxzucmi Uupoqs New-Zealand 116 HEPATITIS-A NO 
+4201 Xnuau Xnk New-Zealand 1 CHICKENPOX YES 29-9-2016
+3876 Ltxzukt Vhzgsz New-Zealand 26 RUBELLA NO 
+9291 Yjanwspipcxw Opeyqgcc New-Zealand 3 MEASLES YES 20-8-2004
+2376 Vabiheafvl Djlmebjrz New-Zealand 95 POLIO NO 
+4379 Pznkpqzfgt Hscuszjp New-Zealand 90 MEASLES NO 
+2376 Vabiheafvl Djlmebjrz New-Zealand 95 POLIO YES 1-6-2009
+1595 Ihqrrncz Sap New-Zealand 37 HIB YES 18-12-2003
+9291 Yjanwspipcxw Opeyqgcc New-Zealand 3 HEPATITIS-B YES 30-8-2020
+9291 Yjanwspipcxw Opeyqgcc New-Zealand 3 POLIO NO 
+1595 Ihqrrncz Sap New-Zealand 37 HIB YES 29-2-2001
+2664 Rdwjznrft Ajvdpxnoac New-Zealand 75 CHICKENPOX YES 2-8-2008
+3876 Ltxzukt Vhzgsz New-Zealand 26 TETANUS NO 
+69 Gfabyugtgf Hxvc New-Zealand 67 FLU NO 
+2261 Qnfpiq Pmdxhkxeuz New-Zealand 120 HEPATITIS-A YES 11-1-2011
+2664 Rdwjznrft Ajvdpxnoac New-Zealand 75 HEPATITIS-B YES 20-6-2019
+1595 Ihqrrncz Sap New-Zealand 37 POLIO NO 
+3876 Ltxzukt Vhzgsz New-Zealand 26 HEPATITIS-A YES 21-10-2012
+3749 Gevyqbfju Fqabiccj New-Zealand 57 CHICKENPOX NO 
+3749 Gevyqbfju Fqabiccj New-Zealand 57 POLIO NO 
+3641 Ubzohpte Ahp New-Zealand 22 HIB YES 11-7-2006
+766 Mlrsznnsjd Zmazt New-Zealand 97 CHICKENPOX YES 14-7-2020
+3641 Ubzohpte Ahp New-Zealand 22 MEASLES NO 
+692 Kiutlqaocuod Iqlr New-Zealand 27 FLU NO 
+7903 Oid Skyhqsxynfqk New-Zealand 106 POLIO YES 5-6-2003
+7903 Oid Skyhqsxynfqk New-Zealand 106 HEPATITIS-B YES 8-9-2004
+2664 Rdwjznrft Ajvdpxnoac New-Zealand 75 HIB NO 
+9435 Mzjqy Vpx New-Zealand 30 MEASLES YES 16-1-2011
+3876 Ltxzukt Vhzgsz New-Zealand 26 HEPATITIS-B YES 22-3-2014
+3641 Ubzohpte Ahp New-Zealand 22 HEPATITIS-B NO 
+4065 Dzojxsiyx Ldz New-Zealand 104 POLIO YES 17-2-2015
+1595 Ihqrrncz Sap New-Zealand 37 HIB NO 
+4201 Xnuau Xnk New-Zealand 1 MEASLES YES 16-7-2008
+69 Gfabyugtgf Hxvc New-Zealand 67 CHICKENPOX YES 27-1-2020
+9435 Mzjqy Vpx New-Zealand 30 HEPATITIS-B NO 
+3749 Gevyqbfju Fqabiccj New-Zealand 57 POLIO NO 
+4201 Xnuau Xnk New-Zealand 1 TETANUS NO 
+5652 Oanpaum Zmknbaek New-Zealand 114 CHICKENPOX NO 
+9291 Yjanwspipcxw Opeyqgcc New-Zealand 3 CHICKENPOX NO 
+2664 Rdwjznrft Ajvdpxnoac New-Zealand 75 TETANUS NO 
+3662 Xzoby Eqmv New-Zealand 57 HIB YES 9-2-2007
+2261 Qnfpiq Pmdxhkxeuz New-Zealand 120 HEPATITIS-B NO 
+3514 Ysoasv Vskalgi New-Zealand 25 COVID-19 NO 
+692 Kiutlqaocuod Iqlr New-Zealand 27 CHICKENPOX NO 
+692 Kiutlqaocuod Iqlr New-Zealand 27 TETANUS YES 29-6-2001
+766 Mlrsznnsjd Zmazt New-Zealand 97 RUBELLA YES 2-3-2009
+766 Mlrsznnsjd Zmazt New-Zealand 97 FLU YES 5-4-2005
+4379 Pznkpqzfgt Hscuszjp New-Zealand 90 MEASLES YES 27-5-2010
+3995 Onowbz Ckgt New-Zealand 21 HEPATITIS-A NO 
+3749 Gevyqbfju Fqabiccj New-Zealand 57 TETANUS YES 17-2-2009
+9435 Mzjqy Vpx New-Zealand 30 HIB NO 

@@ -1,0 +1,42 @@
+
+5647 Yslazc Vxtzjek Georgia 13 HEPATITIS-A NO 
+4609 Storpcpllkmj Jlfuuj Georgia 28 HEPATITIS-A YES 7-4-2006
+5729 Plwsdurkdrj Ktfagkvbgr Georgia 112 HEPATITIS-A YES 5-6-2002
+617 Xmlrrljkr Fuatxyrg Georgia 117 TETANUS NO 
+617 Xmlrrljkr Fuatxyrg Georgia 117 HEPATITIS-A YES 13-4-2007
+8949 Qdxc Jchfuhqvar Georgia 96 HEPATITIS-A NO 
+1947 Lqppjkznjj Sji Georgia 72 RUBELLA NO 
+1947 Lqppjkznjj Sji Georgia 72 HEPATITIS-B YES 29-4-2008
+1947 Lqppjkznjj Sji Georgia 72 POLIO NO 
+4609 Storpcpllkmj Jlfuuj Georgia 28 FLU NO 
+4609 Storpcpllkmj Jlfuuj Georgia 28 MEASLES YES 4-7-2009
+5647 Yslazc Vxtzjek Georgia 13 POLIO NO 
+2899 Xnbtdpbfyoh Vkvic Georgia 112 RUBELLA NO 
+7358 Noy Xbplnxicrg Georgia 115 RUBELLA NO 
+5066 Trxldsuv Dhxfl Georgia 27 COVID-19 NO 
+9049 Sxczekcobw Phvqnukszsfp Georgia 35 POLIO NO 
+6586 Pntbjoe Ambyl Georgia 83 HEPATITIS-A NO 
+4718 Xfsuz Mcjxuuyxosvo Georgia 99 HEPATITIS-B NO 
+4203 Vdor Ykuvq Georgia 47 HEPATITIS-B NO 
+4203 Vdor Ykuvq Georgia 47 COVID-19 YES 25-6-2013
+5647 Yslazc Vxtzjek Georgia 13 MEASLES NO 
+4203 Vdor Ykuvq Georgia 47 COVID-19 YES 25-9-2007
+440 Lzkkgsjwhbl Mxgxcu Georgia 16 RUBELLA YES 25-7-2014
+7358 Noy Xbplnxicrg Georgia 115 COVID-19 NO 
+6 Soghljdnw Yihxckze Georgia 62 COVID-19 NO 
+5066 Trxldsuv Dhxfl Georgia 27 HIB NO 
+6586 Pntbjoe Ambyl Georgia 83 MEASLES NO 
+4718 Xfsuz Mcjxuuyxosvo Georgia 99 RUBELLA NO 
+9503 Kokbjiywmz Qmxlmxph Georgia 107 RUBELLA YES 1-8-2010
+6033 Qcopshfw Whhahmvo Georgia 112 COVID-19 NO 
+2899 Xnbtdpbfyoh Vkvic Georgia 112 POLIO YES 22-2-2016
+6033 Qcopshfw Whhahmvo Georgia 112 FLU NO 
+7358 Noy Xbplnxicrg Georgia 115 HEPATITIS-A NO 
+7358 Noy Xbplnxicrg Georgia 115 HEPATITIS-B YES 21-4-2008
+1947 Lqppjkznjj Sji Georgia 72 TETANUS NO 
+4718 Xfsuz Mcjxuuyxosvo Georgia 99 TETANUS NO 
+9049 Sxczekcobw Phvqnukszsfp Georgia 35 RUBELLA YES 3-7-2017
+9190 Nvfsmjmcntkv Yqrnljtfot Georgia 76 COVID-19 NO 
+2737 Pzjzfnaybwmm Lbqfotqtzxy Georgia 11 FLU YES 21-1-2006
+5647 Yslazc Vxtzjek Georgia 13 HEPATITIS-B NO 
+9190 Nvfsmjmcntkv Yqrnljtfot Georgia 76 HIB NO 

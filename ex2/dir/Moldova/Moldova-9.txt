@@ -1,0 +1,61 @@
+
+6579 Yhikovnrtvgp Gvbwmqlg Moldova 91 FLU NO 
+3449 Focqxixkj Kcg Moldova 106 POLIO NO 
+4054 Qvsreeubfaq Qtqemcjtiq Moldova 16 RUBELLA NO 
+7144 Fqetdyddk Jocski Moldova 27 CHICKENPOX NO 
+2533 Bpkxuq Tmh Moldova 19 RUBELLA YES 15-4-2000
+7144 Fqetdyddk Jocski Moldova 27 HEPATITIS-A YES 27-1-2011
+2065 Lfceqph Rswzzpiplp Moldova 51 HEPATITIS-A YES 12-11-2000
+4054 Qvsreeubfaq Qtqemcjtiq Moldova 16 POLIO NO 
+4438 Jmkiujmhbz Uvpto Moldova 31 FLU YES 13-6-2007
+6352 Cfgxhbuxsof Lsu Moldova 100 CHICKENPOX YES 9-1-2013
+2217 Jngbszbju Qnmirymhpau Moldova 111 TETANUS YES 12-7-2014
+5778 Jbrfge Bqhjepf Moldova 33 TETANUS YES 28-4-2019
+8048 Bfpxnyjh Qngxfqakudkd Moldova 62 MEASLES YES 23-7-2004
+1090 Rbxhnss Wcnosvvah Moldova 3 HEPATITIS-A NO 
+1226 Ezqkpfac Jfhvzyeegghp Moldova 65 POLIO YES 24-6-2016
+3449 Focqxixkj Kcg Moldova 106 FLU NO 
+8251 Cjdppxkvzle Mnvga Moldova 42 FLU NO 
+8048 Bfpxnyjh Qngxfqakudkd Moldova 62 POLIO NO 
+3449 Focqxixkj Kcg Moldova 106 POLIO NO 
+1090 Rbxhnss Wcnosvvah Moldova 3 HEPATITIS-A NO 
+1397 Wldyctoamhg Eli Moldova 92 HEPATITIS-A NO 
+4112 Kizzfck Vqpeexaopj Moldova 40 RUBELLA NO 
+2065 Lfceqph Rswzzpiplp Moldova 51 MEASLES YES 22-4-2001
+5891 Cckrntaie Baokbdkxuzmd Moldova 32 TETANUS YES 17-1-2016
+2217 Jngbszbju Qnmirymhpau Moldova 111 RUBELLA NO 
+6352 Cfgxhbuxsof Lsu Moldova 100 HIB NO 
+2065 Lfceqph Rswzzpiplp Moldova 51 HEPATITIS-B YES 19-7-2015
+2065 Lfceqph Rswzzpiplp Moldova 51 HEPATITIS-A YES 19-2-2010
+5778 Jbrfge Bqhjepf Moldova 33 RUBELLA NO 
+638 Xuuoefftxw Orqriqbs Moldova 57 POLIO NO 
+5891 Cckrntaie Baokbdkxuzmd Moldova 32 HIB YES 15-4-2019
+7953 Ntyyxvlfmy Agtcjvevo Moldova 27 RUBELLA YES 6-8-2010
+4438 Jmkiujmhbz Uvpto Moldova 31 CHICKENPOX NO 
+7144 Fqetdyddk Jocski Moldova 27 MEASLES YES 28-7-2001
+3449 Focqxixkj Kcg Moldova 106 COVID-19 NO 
+6653 Sht Amlqy Moldova 25 FLU YES 18-4-2014
+2217 Jngbszbju Qnmirymhpau Moldova 111 FLU YES 6-6-2006
+6059 Bwhvgzdos Dywacbd Moldova 90 HIB YES 17-6-2019
+4543 Uigcvsw Kmiickpqa Moldova 86 FLU YES 10-12-2003
+9020 Pjyjn Bmjt Moldova 112 HEPATITIS-A NO 
+3452 Svcbgm Lnryk Moldova 56 HEPATITIS-A NO 
+6653 Sht Amlqy Moldova 25 TETANUS YES 6-8-2016
+2217 Jngbszbju Qnmirymhpau Moldova 111 TETANUS YES 12-7-2000
+6579 Yhikovnrtvgp Gvbwmqlg Moldova 91 FLU NO 
+7144 Fqetdyddk Jocski Moldova 27 COVID-19 YES 22-6-2016
+9773 Yoaamcgyac Watronuqed Moldova 17 TETANUS NO 
+9356 Axzzrp Flajavj Moldova 82 CHICKENPOX YES 2-7-2017
+3452 Svcbgm Lnryk Moldova 56 RUBELLA YES 19-3-2002
+9020 Pjyjn Bmjt Moldova 112 HEPATITIS-A YES 20-12-2001
+1397 Wldyctoamhg Eli Moldova 92 RUBELLA NO 
+6579 Yhikovnrtvgp Gvbwmqlg Moldova 91 TETANUS NO 
+9356 Axzzrp Flajavj Moldova 82 RUBELLA YES 22-2-2014
+638 Xuuoefftxw Orqriqbs Moldova 57 COVID-19 YES 28-3-2004
+7953 Ntyyxvlfmy Agtcjvevo Moldova 27 TETANUS YES 6-9-2009
+2217 Jngbszbju Qnmirymhpau Moldova 111 MEASLES YES 26-11-2012
+5778 Jbrfge Bqhjepf Moldova 33 MEASLES YES 19-6-2020
+287 Tmiddbpny Xiamlcwjccg Moldova 27 HEPATITIS-A NO 
+1397 Wldyctoamhg Eli Moldova 92 HEPATITIS-B NO 
+9020 Pjyjn Bmjt Moldova 112 FLU NO 
+4054 Qvsreeubfaq Qtqemcjtiq Moldova 16 COVID-19 YES 27-11-2006

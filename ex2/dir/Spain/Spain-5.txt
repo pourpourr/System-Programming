@@ -1,0 +1,59 @@
+
+4084 Gbpfjrqogmb Dfpcfsu Spain 43 HEPATITIS-A NO 
+2557 Olhhogwdgd Zub Spain 100 HIB NO 
+3922 Qgjnqiezm Ajakg Spain 74 CHICKENPOX NO 
+189 Hsz Kraikxbmrea Spain 57 RUBELLA YES 2-5-2007
+189 Hsz Kraikxbmrea Spain 57 CHICKENPOX YES 13-4-2005
+6023 Fbswszjqyjx Xzafa Spain 118 MEASLES NO 
+3761 Ublijdx Pbewulpw Spain 81 HEPATITIS-B NO 
+7759 Yvwj Ijdeiyf Spain 4 HEPATITIS-B YES 16-10-2012
+4762 Aerdtq Byyjciwumegf Spain 57 HIB NO 
+2291 Tjaoemnme Qfpldilkheu Spain 43 RUBELLA YES 2-6-2002
+9497 Oagytao Xnzta Spain 33 COVID-19 YES 19-4-2015
+3761 Ublijdx Pbewulpw Spain 81 COVID-19 YES 25-6-2011
+442 Quzhpbcnimae Dgclfloiri Spain 86 FLU YES 11-10-2006
+7565 Aogtbddtu Jsefzhzfncuh Spain 117 CHICKENPOX NO 
+1364 Vvswrh Rewgc Spain 115 HEPATITIS-A NO 
+189 Hsz Kraikxbmrea Spain 57 POLIO NO 
+7796 Buqblfewjz Fby Spain 73 FLU YES 22-10-2009
+9542 Umnvvqejqsb Brg Spain 100 HIB NO 
+6023 Fbswszjqyjx Xzafa Spain 118 HEPATITIS-A YES 10-11-2006
+9542 Umnvvqejqsb Brg Spain 100 RUBELLA YES 25-5-2015
+4084 Gbpfjrqogmb Dfpcfsu Spain 43 COVID-19 YES 23-5-2007
+3986 Bwguqhevwo Vkppdley Spain 95 POLIO NO 
+2449 Sgvx Vyxvpleqx Spain 37 FLU YES 11-5-2002
+2886 Lgrshpcce Ogtmoolttng Spain 65 FLU NO 
+7796 Buqblfewjz Fby Spain 73 POLIO NO 
+2449 Sgvx Vyxvpleqx Spain 37 FLU NO 
+2886 Lgrshpcce Ogtmoolttng Spain 65 COVID-19 NO 
+2449 Sgvx Vyxvpleqx Spain 37 TETANUS YES 5-12-2010
+600 Glt Imvzezgprav Spain 116 POLIO NO 
+9497 Oagytao Xnzta Spain 33 COVID-19 YES 26-6-2004
+7660 Gsimjx Yvukhmq Spain 116 FLU NO 
+7759 Yvwj Ijdeiyf Spain 4 COVID-19 YES 17-10-2014
+1297 Dyz Cbglkfvelp Spain 11 RUBELLA YES 30-10-2003
+4762 Aerdtq Byyjciwumegf Spain 57 FLU YES 29-10-2000
+7565 Aogtbddtu Jsefzhzfncuh Spain 117 FLU YES 24-9-2010
+4084 Gbpfjrqogmb Dfpcfsu Spain 43 FLU NO 
+3922 Qgjnqiezm Ajakg Spain 74 HEPATITIS-B YES 24-11-2000
+3922 Qgjnqiezm Ajakg Spain 74 POLIO NO 
+9542 Umnvvqejqsb Brg Spain 100 FLU YES 4-5-2001
+8689 Rgnlcmqwtwa Dfptxiy Spain 33 RUBELLA NO 
+7796 Buqblfewjz Fby Spain 73 MEASLES NO 
+442 Quzhpbcnimae Dgclfloiri Spain 86 RUBELLA YES 19-11-2013
+4084 Gbpfjrqogmb Dfpcfsu Spain 43 HIB NO 
+9497 Oagytao Xnzta Spain 33 HEPATITIS-B NO 
+4822 Nspqot Gaplfjary Spain 119 HEPATITIS-B YES 12-12-2006
+2449 Sgvx Vyxvpleqx Spain 37 HEPATITIS-A YES 14-10-2011
+7759 Yvwj Ijdeiyf Spain 4 COVID-19 YES 6-5-2006
+2557 Olhhogwdgd Zub Spain 100 MEASLES NO 
+2557 Olhhogwdgd Zub Spain 100 CHICKENPOX NO 
+2886 Lgrshpcce Ogtmoolttng Spain 65 COVID-19 YES 6-9-2013
+4822 Nspqot Gaplfjary Spain 119 RUBELLA YES 12-12-2017
+9497 Oagytao Xnzta Spain 33 HEPATITIS-B YES 28-9-2010
+1297 Dyz Cbglkfvelp Spain 11 TETANUS NO 
+8689 Rgnlcmqwtwa Dfptxiy Spain 33 RUBELLA YES 7-9-2016
+2291 Tjaoemnme Qfpldilkheu Spain 43 HEPATITIS-B YES 29-6-2008
+9542 Umnvvqejqsb Brg Spain 100 MEASLES NO 
+4084 Gbpfjrqogmb Dfpcfsu Spain 43 MEASLES NO 
+9497 Oagytao Xnzta Spain 33 MEASLES NO 

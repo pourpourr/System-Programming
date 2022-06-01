@@ -1,0 +1,56 @@
+
+5421 Igjgbhat Bttvig Vatican-City 86 CHICKENPOX NO 
+8773 Epuubrynsl Wmq Vatican-City 81 TETANUS NO 
+9351 Njyvjxfukdt Tneaxsirx Vatican-City 15 POLIO YES 6-3-2015
+3322 Ufir Cxugwtovi Vatican-City 45 FLU YES 5-12-2013
+3322 Ufir Cxugwtovi Vatican-City 45 MEASLES YES 19-6-2006
+5329 Mdtx Gqwlncgwml Vatican-City 95 RUBELLA NO 
+4348 Zyfh Evnx Vatican-City 23 FLU NO 
+5329 Mdtx Gqwlncgwml Vatican-City 95 FLU NO 
+5771 Zmp Mfqcshny Vatican-City 58 POLIO YES 18-5-2001
+2305 Fygoi Tcttro Vatican-City 111 COVID-19 NO 
+62 Myw Guvynlkvqz Vatican-City 74 TETANUS NO 
+5100 Vmhgmtjs Evuaihofhfyv Vatican-City 67 HEPATITIS-B NO 
+3322 Ufir Cxugwtovi Vatican-City 45 CHICKENPOX YES 28-5-2013
+354 Asyoczale Rvhajbtmp Vatican-City 57 FLU NO 
+5100 Vmhgmtjs Evuaihofhfyv Vatican-City 67 FLU YES 9-4-2003
+3110 Smvedcxnnxmp Etij Vatican-City 88 HEPATITIS-B YES 9-9-2014
+9351 Njyvjxfukdt Tneaxsirx Vatican-City 15 HEPATITIS-B NO 
+5771 Zmp Mfqcshny Vatican-City 58 RUBELLA NO 
+5329 Mdtx Gqwlncgwml Vatican-City 95 FLU YES 26-6-2005
+10 Ywgz Nviuixo Vatican-City 41 HEPATITIS-A YES 29-3-2019
+354 Asyoczale Rvhajbtmp Vatican-City 57 CHICKENPOX NO 
+5771 Zmp Mfqcshny Vatican-City 58 HEPATITIS-B NO 
+9036 Ifwbgs Sszhhdqpq Vatican-City 87 POLIO YES 2-12-2007
+5935 Uainmqyf Juxo Vatican-City 109 CHICKENPOX NO 
+5421 Igjgbhat Bttvig Vatican-City 86 HIB YES 19-8-2011
+392 Abiijqfhiisv Puhotrzcfqj Vatican-City 36 MEASLES NO 
+62 Myw Guvynlkvqz Vatican-City 74 FLU NO 
+392 Abiijqfhiisv Puhotrzcfqj Vatican-City 36 HIB YES 22-5-2020
+8773 Epuubrynsl Wmq Vatican-City 81 MEASLES NO 
+4348 Zyfh Evnx Vatican-City 23 POLIO NO 
+354 Asyoczale Rvhajbtmp Vatican-City 57 HEPATITIS-A YES 3-2-2016
+5771 Zmp Mfqcshny Vatican-City 58 HEPATITIS-B YES 9-11-2014
+5421 Igjgbhat Bttvig Vatican-City 86 TETANUS NO 
+9134 Npwutqj Priicrkks Vatican-City 54 HEPATITIS-B NO 
+9351 Njyvjxfukdt Tneaxsirx Vatican-City 15 FLU YES 20-4-2017
+392 Abiijqfhiisv Puhotrzcfqj Vatican-City 36 POLIO NO 
+9134 Npwutqj Priicrkks Vatican-City 54 HIB YES 23-8-2001
+2305 Fygoi Tcttro Vatican-City 111 COVID-19 YES 22-7-2006
+9134 Npwutqj Priicrkks Vatican-City 54 HEPATITIS-A NO 
+3110 Smvedcxnnxmp Etij Vatican-City 88 HEPATITIS-A NO 
+9351 Njyvjxfukdt Tneaxsirx Vatican-City 15 COVID-19 YES 5-1-2005
+5100 Vmhgmtjs Evuaihofhfyv Vatican-City 67 HIB NO 
+9036 Ifwbgs Sszhhdqpq Vatican-City 87 HIB YES 27-2-2007
+3110 Smvedcxnnxmp Etij Vatican-City 88 MEASLES NO 
+5983 Ypwflejuxg Cucfavzoero Vatican-City 29 FLU YES 4-2-2006
+354 Asyoczale Rvhajbtmp Vatican-City 57 RUBELLA YES 17-10-2002
+9134 Npwutqj Priicrkks Vatican-City 54 TETANUS YES 5-9-2000
+747 Gmbnnybm Ytbpembflbsv Vatican-City 28 CHICKENPOX YES 21-4-2013
+5771 Zmp Mfqcshny Vatican-City 58 MEASLES NO 
+5421 Igjgbhat Bttvig Vatican-City 86 FLU NO 
+5771 Zmp Mfqcshny Vatican-City 58 HIB NO 
+8773 Epuubrynsl Wmq Vatican-City 81 TETANUS YES 7-1-2003
+5935 Uainmqyf Juxo Vatican-City 109 TETANUS NO 
+10 Ywgz Nviuixo Vatican-City 41 POLIO YES 5-7-2020
+9351 Njyvjxfukdt Tneaxsirx Vatican-City 15 HIB NO 

@@ -1,0 +1,54 @@
+
+3381 Tir Uwlbze Romania 105 POLIO YES 13-3-2009
+8000 Soc Jzzfifzk Romania 77 POLIO NO 
+3193 Xzjvjfbi Merwpdasog Romania 73 MEASLES YES 11-10-2016
+202 Pomnv Xkmpvfcvtpig Romania 48 FLU YES 13-7-2016
+7406 Lgdro Eqatnhxl Romania 113 HEPATITIS-B YES 11-10-2002
+9543 Nnkapzei Mqt Romania 88 HIB YES 18-8-2005
+8466 Apy Csyfacujr Romania 110 RUBELLA NO 
+6244 Xrajghndzet Chz Romania 39 FLU YES 8-1-2006
+7406 Lgdro Eqatnhxl Romania 113 TETANUS YES 10-3-2006
+6163 Vmdvquxg Rjaevwbvprx Romania 75 MEASLES YES 14-8-2005
+8077 Sbe Adrivmnmr Romania 111 CHICKENPOX YES 27-12-2000
+3480 Ufidtjwtgcws Wmqlrj Romania 38 RUBELLA NO 
+9543 Nnkapzei Mqt Romania 88 COVID-19 YES 27-11-2006
+8430 Rwgtji Hbibihi Romania 56 TETANUS NO 
+6627 Qbm Mdgthbtacur Romania 80 HEPATITIS-A NO 
+6632 Qwvv Mty Romania 32 POLIO YES 6-8-2019
+4850 Rmk Kpfqbhrcwza Romania 116 CHICKENPOX YES 28-5-2008
+3193 Xzjvjfbi Merwpdasog Romania 73 POLIO YES 1-12-2009
+3713 Gzmtmfcyzce Yuixuemamb Romania 105 CHICKENPOX YES 8-8-2010
+202 Pomnv Xkmpvfcvtpig Romania 48 COVID-19 YES 19-6-2013
+7406 Lgdro Eqatnhxl Romania 113 CHICKENPOX YES 16-7-2016
+1334 Kvqhfjqcffjp Pbb Romania 115 POLIO YES 23-7-2007
+9543 Nnkapzei Mqt Romania 88 HIB YES 13-12-2013
+2503 Ubcjvdww Rmhtzlatk Romania 16 TETANUS YES 16-1-2011
+3235 Acafsgnu Cmtfxdxzdsy Romania 34 COVID-19 YES 7-8-2012
+1975 Keeiyqj Xmknsxg Romania 9 COVID-19 NO 
+7406 Lgdro Eqatnhxl Romania 113 FLU NO 
+3718 Oiunjhukuqg Vel Romania 80 COVID-19 NO 
+9543 Nnkapzei Mqt Romania 88 HEPATITIS-B NO 
+9081 Osgwfubq Yuckabkkfu Romania 17 RUBELLA YES 18-11-2002
+5772 Omaj Ghbkoaooq Romania 110 HEPATITIS-B NO 
+261 Axtxeilxlvye Mqgxbhg Romania 91 MEASLES YES 2-3-2013
+202 Pomnv Xkmpvfcvtpig Romania 48 POLIO YES 13-4-2000
+3178 Mydnorm Jbneqjayatp Romania 68 HEPATITIS-A YES 5-9-2007
+3178 Mydnorm Jbneqjayatp Romania 68 MEASLES NO 
+1334 Kvqhfjqcffjp Pbb Romania 115 HEPATITIS-B NO 
+8466 Apy Csyfacujr Romania 110 POLIO YES 28-11-2000
+202 Pomnv Xkmpvfcvtpig Romania 48 HEPATITIS-A YES 29-10-2017
+8430 Rwgtji Hbibihi Romania 56 HEPATITIS-A NO 
+6632 Qwvv Mty Romania 32 HIB YES 1-12-2003
+3713 Gzmtmfcyzce Yuixuemamb Romania 105 FLU NO 
+4850 Rmk Kpfqbhrcwza Romania 116 CHICKENPOX NO 
+1334 Kvqhfjqcffjp Pbb Romania 115 MEASLES YES 27-4-2006
+7406 Lgdro Eqatnhxl Romania 113 RUBELLA YES 10-5-2020
+8430 Rwgtji Hbibihi Romania 56 FLU YES 3-6-2005
+8430 Rwgtji Hbibihi Romania 56 FLU NO 
+8000 Soc Jzzfifzk Romania 77 MEASLES NO 
+6244 Xrajghndzet Chz Romania 39 RUBELLA NO 
+2503 Ubcjvdww Rmhtzlatk Romania 16 RUBELLA YES 20-2-2011
+3718 Oiunjhukuqg Vel Romania 80 POLIO YES 25-12-2002
+5772 Omaj Ghbkoaooq Romania 110 POLIO NO 
+5772 Omaj Ghbkoaooq Romania 110 HIB YES 11-5-2005
+5772 Omaj Ghbkoaooq Romania 110 FLU NO 

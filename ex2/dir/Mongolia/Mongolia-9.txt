@@ -1,0 +1,41 @@
+
+1220 Nwqvsotaqpx Wqbk Mongolia 38 HEPATITIS-A NO 
+8798 Sxmovwhmo Cwppen Mongolia 70 HIB YES 19-2-2008
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 TETANUS YES 11-1-2016
+2154 Mpe Vpkziqs Mongolia 109 TETANUS NO 
+299 Ugg Ubk Mongolia 82 HEPATITIS-B NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 HEPATITIS-A YES 21-11-2009
+9211 Lyfx Ibxcalwsr Mongolia 57 HIB YES 28-5-2007
+299 Ugg Ubk Mongolia 82 FLU YES 30-6-2002
+1485 Jdduem Zbuzccpodqcp Mongolia 59 HEPATITIS-A NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 CHICKENPOX YES 1-6-2006
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 MEASLES NO 
+2154 Mpe Vpkziqs Mongolia 109 MEASLES NO 
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 POLIO YES 15-10-2013
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 MEASLES YES 20-10-2008
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 HEPATITIS-B YES 22-8-2007
+1053 Zjreuzze Stjdwsdplxyc Mongolia 55 FLU NO 
+718 Ccgbql Dwqaww Mongolia 40 HIB YES 26-9-2013
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 HIB YES 2-4-2015
+6030 Itlkw Cegc Mongolia 102 FLU NO 
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 POLIO NO 
+8946 Vcrqungokyxo Qstyayqn Mongolia 66 RUBELLA NO 
+7558 Idcvnund Ikyspql Mongolia 80 RUBELLA YES 19-11-2000
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 POLIO NO 
+7541 Mfbczlepkwk Giylyxcp Mongolia 10 HEPATITIS-B NO 
+299 Ugg Ubk Mongolia 82 FLU YES 10-9-2020
+3731 Egeqiyfinfbi Gpmtct Mongolia 17 HEPATITIS-B YES 9-12-2006
+718 Ccgbql Dwqaww Mongolia 40 MEASLES NO 
+5660 Pofcytzqan Vvfvm Mongolia 87 HEPATITIS-A YES 23-3-2007
+9211 Lyfx Ibxcalwsr Mongolia 57 HIB NO 
+1830 Ojwrsg Fpjgjvlasf Mongolia 24 FLU NO 
+5660 Pofcytzqan Vvfvm Mongolia 87 RUBELLA NO 
+7321 Woesvm Rmacmkwrzsi Mongolia 49 COVID-19 YES 7-3-2013
+1485 Jdduem Zbuzccpodqcp Mongolia 59 CHICKENPOX NO 
+7558 Idcvnund Ikyspql Mongolia 80 CHICKENPOX NO 
+9211 Lyfx Ibxcalwsr Mongolia 57 MEASLES YES 19-9-2020
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 HEPATITIS-B NO 
+6030 Itlkw Cegc Mongolia 102 MEASLES NO 
+9211 Lyfx Ibxcalwsr Mongolia 57 HEPATITIS-B YES 12-1-2018
+9211 Lyfx Ibxcalwsr Mongolia 57 FLU NO 
+7701 Mcjsfdnn Dcbaxgsbe Mongolia 120 POLIO NO 

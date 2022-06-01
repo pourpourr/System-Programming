@@ -1,0 +1,41 @@
+
+2114 Rga Zwti Uruguay 74 CHICKENPOX NO 
+4093 Uofy Gceey Uruguay 6 HEPATITIS-A YES 7-10-2009
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 HEPATITIS-A NO 
+5613 Aja Nozapmlrtvjf Uruguay 17 CHICKENPOX YES 27-7-2018
+7646 Pqtpyjup Yhprj Uruguay 118 POLIO NO 
+2114 Rga Zwti Uruguay 74 COVID-19 NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 POLIO NO 
+4972 Enztjim Sksjkgf Uruguay 67 CHICKENPOX NO 
+3491 Ravxxikmsmdt Msldv Uruguay 65 CHICKENPOX NO 
+2753 Fwydoys Llizqct Uruguay 41 HIB NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 CHICKENPOX YES 26-2-2000
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 CHICKENPOX YES 20-8-2006
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 COVID-19 NO 
+2114 Rga Zwti Uruguay 74 COVID-19 YES 20-11-2012
+4093 Uofy Gceey Uruguay 6 RUBELLA YES 25-5-2009
+4093 Uofy Gceey Uruguay 6 RUBELLA NO 
+3544 Txjwmomjq Dogmnzgidee Uruguay 91 MEASLES YES 24-1-2010
+6721 Gpnmqlcjcdu Jxbsqrq Uruguay 20 HEPATITIS-A YES 24-6-2020
+2114 Rga Zwti Uruguay 74 RUBELLA YES 11-4-2007
+2753 Fwydoys Llizqct Uruguay 41 CHICKENPOX YES 9-11-2015
+2753 Fwydoys Llizqct Uruguay 41 HEPATITIS-A NO 
+4327 Myrbdnhwc Vitbgqzhdlm Uruguay 17 HEPATITIS-B YES 12-11-2007
+5613 Aja Nozapmlrtvjf Uruguay 17 MEASLES YES 9-5-2015
+5613 Aja Nozapmlrtvjf Uruguay 17 FLU NO 
+3491 Ravxxikmsmdt Msldv Uruguay 65 POLIO NO 
+4093 Uofy Gceey Uruguay 6 FLU NO 
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 COVID-19 NO 
+3491 Ravxxikmsmdt Msldv Uruguay 65 COVID-19 NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 CHICKENPOX NO 
+6512 Nomvnnlejsfi Mjuxhexvzcir Uruguay 92 POLIO YES 18-5-2009
+4972 Enztjim Sksjkgf Uruguay 67 CHICKENPOX NO 
+2114 Rga Zwti Uruguay 74 RUBELLA NO 
+6791 Ldmfmccag Cdayzomdgj Uruguay 103 POLIO NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 POLIO NO 
+7870 Fkvrgi Siwjpaohmluq Uruguay 19 HIB NO 
+7414 Ydyln Hmysmxbmabq Uruguay 112 CHICKENPOX NO 
+3491 Ravxxikmsmdt Msldv Uruguay 65 HEPATITIS-A NO 
+6589 Pzerslyogx Iyczynhlsr Uruguay 76 CHICKENPOX NO 
+4972 Enztjim Sksjkgf Uruguay 67 COVID-19 YES 18-2-2016
+3491 Ravxxikmsmdt Msldv Uruguay 65 MEASLES NO 

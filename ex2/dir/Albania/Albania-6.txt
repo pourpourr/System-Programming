@@ -1,0 +1,41 @@
+
+7383 Jzor Navby Albania 2 RUBELLA YES 24-8-2014
+3077 Osrpyidfx Bpjsv Albania 13 RUBELLA YES 1-7-2018
+5595 Okrnhddm Ddaddlopzwu Albania 34 TETANUS YES 27-1-2003
+5595 Okrnhddm Ddaddlopzwu Albania 34 HEPATITIS-A YES 15-6-2008
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 HIB YES 14-8-2003
+6322 Ianujzz Ondbczxdwgz Albania 56 FLU YES 13-9-2006
+7383 Jzor Navby Albania 2 COVID-19 YES 9-4-2010
+9917 Kxxh Uulfeuw Albania 44 FLU YES 3-12-2008
+4235 Olactvihyqu Meatb Albania 118 POLIO YES 16-10-2015
+2274 Qpkqnvs Xtx Albania 59 CHICKENPOX YES 18-12-2014
+6322 Ianujzz Ondbczxdwgz Albania 56 COVID-19 YES 29-5-2001
+4235 Olactvihyqu Meatb Albania 118 TETANUS YES 23-6-2006
+5595 Okrnhddm Ddaddlopzwu Albania 34 RUBELLA NO 
+1606 Csbbnyypmxlz Dmger Albania 72 POLIO NO 
+6322 Ianujzz Ondbczxdwgz Albania 56 FLU NO 
+2274 Qpkqnvs Xtx Albania 59 MEASLES YES 3-2-2019
+5940 Knjqvopt Cyavxge Albania 3 TETANUS YES 6-10-2013
+1606 Csbbnyypmxlz Dmger Albania 72 FLU YES 10-8-2013
+1606 Csbbnyypmxlz Dmger Albania 72 POLIO YES 10-7-2004
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 CHICKENPOX YES 2-12-2010
+2274 Qpkqnvs Xtx Albania 59 MEASLES NO 
+1606 Csbbnyypmxlz Dmger Albania 72 HEPATITIS-B YES 21-1-2013
+6322 Ianujzz Ondbczxdwgz Albania 56 RUBELLA YES 14-5-2011
+9917 Kxxh Uulfeuw Albania 44 TETANUS YES 22-9-2002
+4119 Uuxzlx Gbuiwhtmhmb Albania 32 COVID-19 YES 9-11-2019
+2274 Qpkqnvs Xtx Albania 59 HIB YES 25-9-2014
+6523 Iejvqg Qfh Albania 14 CHICKENPOX NO 
+3077 Osrpyidfx Bpjsv Albania 13 RUBELLA YES 25-9-2009
+802 Bceh Bxmtnhhy Albania 15 CHICKENPOX NO 
+6523 Iejvqg Qfh Albania 14 COVID-19 YES 12-3-2007
+6523 Iejvqg Qfh Albania 14 HIB NO 
+2274 Qpkqnvs Xtx Albania 59 TETANUS YES 18-9-2005
+6322 Ianujzz Ondbczxdwgz Albania 56 TETANUS YES 2-2-2004
+6322 Ianujzz Ondbczxdwgz Albania 56 CHICKENPOX YES 28-2-2012
+8754 Vahcavjr Lfjwnhkq Albania 114 HEPATITIS-B YES 6-5-2012
+4982 Hxpqg Iooxuvwcyayk Albania 55 CHICKENPOX NO 
+5940 Knjqvopt Cyavxge Albania 3 MEASLES NO 
+7383 Jzor Navby Albania 2 CHICKENPOX NO 
+8754 Vahcavjr Lfjwnhkq Albania 114 POLIO YES 5-12-2007
+7383 Jzor Navby Albania 2 COVID-19 YES 14-12-2019

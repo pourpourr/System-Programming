@@ -1,0 +1,38 @@
+
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 HEPATITIS-A NO 
+9935 Bwookdecl Owagmtop Kosovo 66 HEPATITIS-B YES 6-5-2018
+2653 Vtuivckt Kkb Kosovo 84 HEPATITIS-B NO 
+7067 Gehvwlbvl Nnfk Kosovo 25 POLIO YES 21-10-2000
+8974 Zdtkmen Rzmisqzgi Kosovo 13 FLU NO 
+9935 Bwookdecl Owagmtop Kosovo 66 COVID-19 NO 
+7067 Gehvwlbvl Nnfk Kosovo 25 HEPATITIS-A NO 
+987 Mbroajwdlk Gpnnfshtyei Kosovo 116 RUBELLA YES 19-5-2017
+5868 Slrzvmumulj Vjra Kosovo 99 POLIO YES 8-7-2013
+9901 Bcvba Rmauwh Kosovo 36 HIB NO 
+106 Ztlvw Xlyucalvqozj Kosovo 74 HEPATITIS-A NO 
+9935 Bwookdecl Owagmtop Kosovo 66 HEPATITIS-B NO 
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 MEASLES YES 25-1-2011
+7067 Gehvwlbvl Nnfk Kosovo 25 MEASLES NO 
+8974 Zdtkmen Rzmisqzgi Kosovo 13 HEPATITIS-B NO 
+446 Tix Icakreg Kosovo 68 MEASLES NO 
+3360 Ulj Wgmnlsbzez Kosovo 16 HEPATITIS-A YES 5-12-2007
+7738 Frctfqncoa Ismqcufusotp Kosovo 69 HIB YES 3-12-2000
+7738 Frctfqncoa Ismqcufusotp Kosovo 69 CHICKENPOX NO 
+106 Ztlvw Xlyucalvqozj Kosovo 74 TETANUS NO 
+2006 Jbb Khnhiuql Kosovo 7 RUBELLA YES 30-8-2004
+3448 Qjwpucyjrh Ezh Kosovo 80 CHICKENPOX YES 16-3-2020
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 HEPATITIS-A YES 27-9-2018
+7067 Gehvwlbvl Nnfk Kosovo 25 HIB NO 
+1885 Hlfyffbxa Ija Kosovo 13 HEPATITIS-B YES 6-11-2002
+8978 Cclyjkvqa Jwuyokl Kosovo 94 HEPATITIS-B NO 
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 POLIO NO 
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 MEASLES NO 
+4542 Wzqamkbf Vwbmtjxgx Kosovo 101 TETANUS YES 25-4-2016
+1885 Hlfyffbxa Ija Kosovo 13 MEASLES YES 17-7-2014
+7738 Frctfqncoa Ismqcufusotp Kosovo 69 HEPATITIS-A NO 
+8978 Cclyjkvqa Jwuyokl Kosovo 94 TETANUS NO 
+7738 Frctfqncoa Ismqcufusotp Kosovo 69 HIB NO 
+3448 Qjwpucyjrh Ezh Kosovo 80 HEPATITIS-A NO 
+3360 Ulj Wgmnlsbzez Kosovo 16 COVID-19 NO 
+9901 Bcvba Rmauwh Kosovo 36 RUBELLA NO 
+624 Bzfszhfg Ulpznrhqmfu Kosovo 11 COVID-19 YES 7-4-2012
